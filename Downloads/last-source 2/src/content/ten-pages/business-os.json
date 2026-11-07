@@ -1,0 +1,187 @@
+{
+  "slug": "business-os",
+  "title": "BusinessOS",
+  "eyebrow": "CONNECTED CUSTOMER OPERATIONS",
+  "headline": "Keep your business moving.",
+  "h1": "BusinessOS: CRM and workflow automation for growing teams",
+  "description": "Connect your CRM, customer conversations and everyday workflows so your team knows who owns what and what happens next. BusinessOS brings structure to customer-facing work through the tools, responsibilities and handovers your business needs.",
+  "audience": "For established MSMEs, growing SMBs, B2B businesses and multi-location teams coordinating customer enquiries, appointments or service requests. A larger enterprise or MNC business unit can also discuss a focused workflow and the integration, access and reporting requirements involved.",
+  "process": [
+    {
+      "title": "Map one real customer journey",
+      "description": "Understand how a request arrives, which information the team needs, where it is stored and where the current handover breaks down.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Agree the records and responsibilities",
+      "description": "Define the customer record, status stages, owners, response rules and outcomes that make the process understandable.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Connect the appropriate tools",
+      "description": "Configure the agreed CRM, channels and workflow connections. Access, customer permissions and third-party costs are considered before activation.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Test the ordinary and difficult cases",
+      "description": "Check missing information, duplicate requests, unavailable owners, failed actions and human handovers with representative examples.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Introduce, review and refine",
+      "description": "Help the team use the workflow, review outstanding work and adjust the information, rules or handovers that need attention.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is BusinessOS?",
+      "answer": "BusinessOS is Natton Digital’s approach to connecting CRM, business communications, customer support and operational workflows. We configure the agreed tools, responsibilities and handovers around how the team works. It is a scoped implementation and ongoing partnership, not a fixed software stack every business must adopt."
+    },
+    {
+      "question": "Why use HighLevel for CRM?",
+      "answer": "HighLevel can support contact records, conversations, pipelines, appointments and follow-up in the CRM scope we agree. The starting point is the business process and current systems. The selected setup should have a practical role, with responsibilities and data access reviewed before implementation."
+    },
+    {
+      "question": "Do we need all eleven tools shown on the page?",
+      "answer": "No. The tools are implementation options. Some overlap and are alternatives in a particular scope. We select the connections that fit the workflow, the systems already in use and the agreed budget. Implementation fees, subscriptions and usage charges are identified separately in the proposal."
+    },
+    {
+      "question": "Can we keep our existing CRM and business tools?",
+      "answer": "We can assess the existing systems and identify practical connections. Available system connections (APIs), data access, provider limits, account permissions and maintenance requirements affect the scope. We do not assume that every connection is native or already included in a platform subscription."
+    },
+    {
+      "question": "Does every workflow use an AI assistant?",
+      "answer": "No. A rule-based workflow or direct human response can be the better fit. AI may support a defined activity such as collecting information, answering agreed questions or assisting with calls, with suitable handover. Human ownership remains part of the operating design."
+    },
+    {
+      "question": "How does BusinessOS differ from GrowthOS and AgenticOS?",
+      "answer": "GrowthOS concentrates on marketing foundations, visibility and attracting relevant enquiries. BusinessOS organises customer context, communications and operational follow-up. AgenticOS addresses a more advanced, defined AI-agent workflow that needs tool access, oversight and evaluation. These are useful scopes to discuss, not compulsory upgrades."
+    }
+  ],
+  "metaTitle": "BusinessOS | CRM & Workflow Automation | Natton Digital",
+  "metaDescription": "Connect CRM, conversations, support and team workflows with BusinessOS. HighLevel-led implementations and scoped automation for established MSMEs and SMBs.",
+  "keywords": [
+    "CRM and workflow automation",
+    "CRM for MSMEs",
+    "business automation for SMBs",
+    "HighLevel CRM implementation",
+    "customer communication workflows",
+    "operational workflow automation",
+    "BusinessOS"
+  ],
+  "kind": "product",
+  "path": "/products/business-os/",
+  "needs": [
+    {
+      "title": "Customer context lives in different places",
+      "description": "Contact details, conversation history and the current next step need a useful shared record.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Nobody is sure who owns the reply",
+      "description": "Enquiries and service requests need a defined person, queue or handover process.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Routine updates depend on manual chasing",
+      "description": "Reminders, assignments and relevant system updates can follow agreed rules.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "The team cannot easily see outstanding work",
+      "description": "Useful reporting should show waiting requests, follow-up and areas that need attention.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "services": [
+    {
+      "title": "CRM & Customer Workspace",
+      "description": "Bring contact records, conversations, opportunities and the next customer action into a practical workspace. HighLevel can support the CRM scope we agree, including pipelines, forms, calendars and follow-up. Existing systems can remain where they still have a useful role.",
+      "icon": "",
+      "linkLabel": "CRM and AI automation"
+    },
+    {
+      "title": "Omnichannel Conversations",
+      "description": "Connect the agreed messaging channels with useful context and a clear owner for the response. WhatsApp Business Platform, web chat, SMS and other channels depend on provider capabilities, customer permissions and the implementation scope. Rich Communication Services (RCS) messaging availability is assessed for the relevant provider and market.",
+      "icon": "",
+      "linkLabel": "Conversational AI"
+    },
+    {
+      "title": "Calling & Appointments",
+      "description": "Connect business calls, routing, appointment requests and team handovers. Cloud telephony or an AI-assisted calling flow may support a defined task, with a suitable route to a person. Calendar access and booking rules need to reflect how the business actually schedules work.",
+      "icon": "",
+      "linkLabel": "Discuss calling workflows"
+    },
+    {
+      "title": "Support & Knowledge",
+      "description": "Give service requests a home, a priority and a responsible owner. An agreed knowledge base can support consistent answers, while unresolved questions reach the appropriate team. Customer feedback and customer satisfaction (CSAT) surveys can be included where the process and available data make them useful.",
+      "icon": "",
+      "linkLabel": "Customer support workflows"
+    },
+    {
+      "title": "Workflow Automation",
+      "description": "Connect routine actions such as assignments, reminders, approved record updates and payment-event notifications. n8n, Zapier and native platform workflows are possible implementation options. Each connection is scoped against access, provider limits and the action it needs to perform.",
+      "icon": "",
+      "linkLabel": "Workflow automation"
+    },
+    {
+      "title": "Reporting & Team Visibility",
+      "description": "Review open requests, response patterns, follow-up and available customer feedback. Reports should help the team decide what needs attention. Metric definitions and data coverage are agreed so a dashboard does not suggest visibility the connected systems cannot provide.",
+      "icon": "",
+      "linkLabel": "Discuss your reporting needs"
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Customer response patterns",
+      "description": "Response intervals and unanswered requests, using the records the connected channels provide."
+    },
+    {
+      "title": "Open requests by status or owner",
+      "description": "Which requests are open, where they sit and who is responsible for the next action."
+    },
+    {
+      "title": "Outstanding follow-up",
+      "description": "Reminders and next actions that are pending or have been completed by the team."
+    },
+    {
+      "title": "Customer feedback where available",
+      "description": "Customer satisfaction feedback where the workflow and data collection support it."
+    }
+  ],
+  "heroImage": "/media/ten-pages/business-os/products/business-os-preview.svg",
+  "definition": {
+    "title": "What BusinessOS brings together",
+    "body": "Growth creates more conversations, more requests and more handovers. The useful response is a process the team can follow: shared customer context, clear ownership and a visible next action. BusinessOS connects that work around the systems and people already involved, with HighLevel as the default starting point for CRM and further tools selected for the agreed scope."
+  },
+  "example": {
+    "title": "One request. A useful next step.",
+    "description": "Illustrative workflow. Human-led and AI-assisted paths are selected according to the task.",
+    "steps": [
+      "Receive the customer request",
+      "Connect the available context",
+      "Assign a person or agreed response flow",
+      "Record the next action and review"
+    ],
+    "note": "Illustrative workflow. Human-led and AI-assisted paths are selected according to the task."
+  },
+  "deliverables": [
+    "A customer-record structure and agreed CRM stages",
+    "Conversation routing and named request owners",
+    "Scoped reminders, calendar rules and handovers",
+    "Tested connections and exception-handling notes",
+    "Team guidance and agreed operational reports"
+  ],
+  "timing": "We first map the current customer process and responsibilities. CRM structure, routing and selected connections are configured in stages, then checked with representative cases before the team starts using them. Timing depends on data quality, account access, provider limits and the handovers in scope.",
+  "scopeNote": "We can scope support for Indian MSMEs and SMBs, and teams serving agreed international markets. Geography, languages, systems, content and support responsibilities are confirmed in the proposal. Advertising spend, third-party subscriptions and usage charges are listed separately where relevant."
+}

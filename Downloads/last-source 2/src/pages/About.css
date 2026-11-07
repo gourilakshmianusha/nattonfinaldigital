@@ -1,0 +1,32 @@
+.about-hero { min-height: min(760px, calc(100svh - 7rem)); }
+.about-hero .hero-backdrop { z-index: -2; }
+.about-hero .hero-backdrop.is-ready canvas { opacity: .88; }
+.about-hero-tags { display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 2.25rem; color: #c4dcd9; font-size: .8rem; }
+.about-hero-tags span { display: inline-flex; align-items: center; gap: .5rem; }
+.about-eyebrow { margin-bottom: .85rem; color: var(--color-primary); font-size: .75rem; font-weight: 700; letter-spacing: .16em; }
+.about-section-title { font-family: var(--font-display); font-size: clamp(1.8rem, 3vw, 2.6rem); font-weight: 700; line-height: 1.2; letter-spacing: -.025em; text-wrap: balance; }
+.about-section-heading { display: flex; flex-direction: column; align-items: flex-start; gap: 1rem; }
+.about-section-heading > p { max-width: 52rem; line-height: 1.8; }
+.about-story-visual { position: relative; padding: 0 1.25rem 2rem 0; max-width: 32rem; width: 100%; margin: auto; }
+.about-story-image-wrap { overflow: hidden; border-radius: 2rem; background: #d3e5e3; border: 1px solid #47c7bf30; }
+.about-story-caption { position: absolute; bottom: 0; right: 0; display: flex; align-items: center; gap: 1rem; padding: 1.15rem 1.4rem; border-radius: 1rem; backdrop-filter: blur(24px); box-shadow: 0 12px 35px #00000018; }
+.about-icon { display: inline-flex; align-items: center; justify-content: center; width: 3.25rem; height: 3.25rem; border-radius: 1rem; color: var(--color-primary); background: #47c7bf12; border: 1px solid #47c7bf25; }
+.about-icon-violet { background: #8b5cf612; color: #a78bfa; border-color: #8b5cf625; }
+.about-purpose-card { position: relative; overflow: hidden; background-image: radial-gradient(ellipse at top right, #47c7bf0d, transparent 70%); }
+.about-service-card { transition: transform .25s ease, border-color .25s ease; }
+.about-service-card:hover { transform: translateY(-5px); border-color: #47c7bf70; }
+.about-contact { background: radial-gradient(ellipse at top right, #2e9cae35, transparent 65%), radial-gradient(ellipse at bottom left, #7952bd33, transparent 65%), #110b33; border: 1px solid #47c7bf40; }
+.about-contact .about-icon { color: #8ce3da; }
+@media (max-width: 640px) {
+  .about-hero { min-height: calc(100svh - 8rem); }
+  .about-story-caption { padding: 1rem; max-width: calc(100% - 1rem); }
+  .about-hero-tags { gap: 1rem; font-size: .75rem; }
+}
+@media (prefers-reduced-motion: reduce) { .about-service-card:hover { transform: none; } }
+
+.about-service-card { display: flex; flex-direction: column; }
+.about-service-card h3 { display: flex; align-items: flex-start; min-height: 5.25rem; line-height: 1.4; }
+.about-service-card > p { margin-top: .75rem; }
+@media (max-width: 639px) { .about-service-card h3 { min-height: 0; } }
+
+@media (min-width: 1024px) { .about-section-heading .about-section-title { white-space: nowrap; } }

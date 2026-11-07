@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "seo-services",
+    "alt": "A business owner researching suppliers on a laptop",
+    "mode": "search"
+  },
+  {
+    "slug": "website-development",
+    "alt": "A designer and business owner reviewing a website together",
+    "mode": "web"
+  },
+  {
+    "slug": "google-business-profile",
+    "alt": "A customer using a phone outside a neighbourhood restaurant named Basil House",
+    "mode": "local"
+  },
+  {
+    "slug": "social-media-marketing",
+    "alt": "Two people sharing and discussing content on a smartphone",
+    "mode": "social"
+  },
+  {
+    "slug": "ppc-google-ads",
+    "alt": "A business owner planning an advertising campaign for physical products",
+    "mode": "ads"
+  },
+  {
+    "slug": "meta-ads",
+    "alt": "A brand owner filming product content with a smartphone",
+    "mode": "meta"
+  },
+  {
+    "slug": "content-marketing-blogging",
+    "alt": "A writer researching and drafting an article at a desk",
+    "mode": "content"
+  },
+  {
+    "slug": "aeo-ai-search",
+    "alt": "A researcher comparing online information with reference material",
+    "mode": "knowledge"
+  },
+  {
+    "slug": "graphic-design-branding",
+    "alt": "A designer and client reviewing printed colour and branding samples",
+    "mode": "creative"
+  },
+  {
+    "slug": "email-marketing",
+    "alt": "A business owner preparing customer email follow-up",
+    "mode": "email"
+  },
+  {
+    "slug": "ecommerce-development",
+    "alt": "An online-store owner packing a clothing order beside her laptop",
+    "mode": "shop"
+  },
+  {
+    "slug": "analytics-cro",
+    "alt": "Two professionals reviewing website behaviour and a customer journey",
+    "mode": "analytics"
+  },
+  {
+    "slug": "ai-growth-marketing",
+    "alt": "A business owner, creative specialist and analyst planning marketing together",
+    "mode": "ai"
+  }
+]

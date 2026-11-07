@@ -1,0 +1,531 @@
+{
+  "responsive": [
+    {
+      "route": "/",
+      "size": "desktop",
+      "audience": 0,
+      "context": false,
+      "glass": true,
+      "groups": 2,
+      "h1": 1,
+      "heroMaterial": null,
+      "process": 0,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/products/",
+      "size": "desktop",
+      "audience": 0,
+      "context": false,
+      "glass": true,
+      "groups": 1,
+      "h1": 1,
+      "heroMaterial": null,
+      "process": 0,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/industries/",
+      "size": "desktop",
+      "audience": 0,
+      "context": false,
+      "glass": true,
+      "groups": 1,
+      "h1": 1,
+      "heroMaterial": null,
+      "process": 0,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/products/growth-os/",
+      "size": "desktop",
+      "audience": 4,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/sandstone-copper-v1.webp\")",
+      "process": 5,
+      "scrollWidth": 1348,
+      "video": "/media/growthos-hero-original.mp4",
+      "width": 1348
+    },
+    {
+      "route": "/products/business-os/",
+      "size": "desktop",
+      "audience": 5,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/sandstone-copper-v1.webp\")",
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/products/agentic-os/",
+      "size": "desktop",
+      "audience": 4,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/sandstone-copper-v1.webp\")",
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/products/ai-marketing-platform/",
+      "size": "desktop",
+      "audience": 4,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/sandstone-copper-v1.webp\")",
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/industries/healthcare/",
+      "size": "desktop",
+      "audience": 4,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "photo": 1440,
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/industries/education-edtech/",
+      "size": "desktop",
+      "audience": 5,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "photo": 1440,
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/industries/real-estate/",
+      "size": "desktop",
+      "audience": 5,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "photo": 1440,
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/industries/manufacturing/",
+      "size": "desktop",
+      "audience": 4,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "photo": 1440,
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/industries/retail-ecommerce/",
+      "size": "desktop",
+      "audience": 5,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "photo": 1440,
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/industries/professional-services/",
+      "size": "desktop",
+      "audience": 5,
+      "context": true,
+      "glass": true,
+      "groups": 0,
+      "h1": 1,
+      "heroMaterial": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "photo": 1440,
+      "process": 5,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    {
+      "route": "/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/products/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/industries/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/products/growth-os/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/products/business-os/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/products/agentic-os/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/products/ai-marketing-platform/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/industries/healthcare/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/industries/education-edtech/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/industries/real-estate/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/industries/manufacturing/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/industries/retail-ecommerce/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/industries/professional-services/",
+      "size": "phone",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "route": "/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/products/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/industries/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/products/growth-os/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/products/business-os/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/products/agentic-os/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/products/ai-marketing-platform/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/industries/healthcare/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/industries/education-edtech/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/industries/real-estate/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/industries/manufacturing/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/industries/retail-ecommerce/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    },
+    {
+      "route": "/industries/professional-services/",
+      "size": "tablet",
+      "glass": true,
+      "h1": 1,
+      "overflowText": 0,
+      "scrollWidth": 745,
+      "width": 745
+    }
+  ],
+  "interactions": {
+    "industryInteractions": [
+      {
+        "route": "/industries/healthcare/",
+        "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+        "color": "rgb(255, 245, 228)",
+        "panel": "Meaningful enquiry reporting",
+        "selected": "Meaningful enquiry reporting",
+        "keyboardHome": "true"
+      },
+      {
+        "route": "/industries/education-edtech/",
+        "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+        "color": "rgb(255, 245, 228)",
+        "panel": "Enquiry-to-application visibility",
+        "selected": "Enquiry-to-application visibility",
+        "keyboardHome": "true"
+      },
+      {
+        "route": "/industries/real-estate/",
+        "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+        "color": "rgb(255, 245, 228)",
+        "panel": "Conversation assistance & handover",
+        "selected": "Conversation assistance & handover",
+        "keyboardHome": "true"
+      },
+      {
+        "route": "/industries/manufacturing/",
+        "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+        "color": "rgb(255, 245, 228)",
+        "panel": "Scoped business-system connections",
+        "selected": "Scoped business-system connections",
+        "keyboardHome": "true"
+      },
+      {
+        "route": "/industries/retail-ecommerce/",
+        "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+        "color": "rgb(255, 245, 228)",
+        "panel": "A joined-up view of the journey",
+        "selected": "A joined-up view of the journey",
+        "keyboardHome": "true"
+      },
+      {
+        "route": "/industries/professional-services/",
+        "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+        "color": "rgb(255, 245, 228)",
+        "panel": "Proposal & onboarding coordination",
+        "selected": "Proposal & onboarding coordination",
+        "keyboardHome": "true"
+      }
+    ],
+    "approvalDisabledBeforeReview": true,
+    "approvalText": "The example is approved.",
+    "creativeResult": {
+      "bg": "radial-gradient(at 15% 0%, rgba(162, 105, 64, 0.66), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(113, 71, 46, 0.96), rgba(72, 46, 37, 0.96))",
+      "refined": "PREWRITTEN EXAMPLE \u00b7 REFINED DRAFT",
+      "selected": "Ad concept"
+    },
+    "compareResult": {
+      "dividerHidden": true,
+      "layers": [
+        {
+          "height": 405,
+          "scroll": 405,
+          "width": 659
+        },
+        {
+          "height": 405,
+          "scroll": 405,
+          "width": 659
+        }
+      ],
+      "selected": [
+        {
+          "pressed": "false",
+          "text": "General layout"
+        },
+        {
+          "pressed": "true",
+          "text": "Clearer layout"
+        }
+      ],
+      "value": "100"
+    }
+  },
+  "process": {
+    "motionSampleA": {
+      "background": "0px",
+      "className": "process-section section-space animated-process sequence-running",
+      "dotState": "running",
+      "dotTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "stage": "Map one real customer journeyIn focus"
+    },
+    "lastStage": "true",
+    "resetStage": "true"
+  },
+  "scope": "13 routes at desktop, tablet and phone widths; representative interactive demos; six industry service selectors",
+  "directoryStaticChecks": [
+    {
+      "route": "/",
+      "cards": 10,
+      "passed": true
+    },
+    {
+      "route": "/products/",
+      "cards": 4,
+      "passed": true
+    },
+    {
+      "route": "/industries/",
+      "cards": 6,
+      "passed": true
+    }
+  ],
+  "exportAudienceAndThemeParity": true,
+  "sourceMotionAndVideoPreserved": true,
+  "verifiedVideoSHA256": "bb7dc7a0b969f21651308724e98f9eb8896bb81fa9a89713c93f09b31febd5d8"
+}

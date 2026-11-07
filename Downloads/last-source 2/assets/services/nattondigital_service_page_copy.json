@@ -1,0 +1,2644 @@
+[
+  {
+    "id": "seo-services",
+    "title": "SEO Services That Help the Right Customers Find You",
+    "heroDescription": "Improve how customers discover your services with technical SEO, useful content and a search strategy built around your business.",
+    "primaryCta": "Discuss Your SEO Plan",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "SEO built around your business and your customers",
+        "kind": "benefits",
+        "paragraphs": [
+          "People compare services before they enquire. We improve the pages, content and technical foundations that help them find and understand your business.",
+          "The plan starts with your website's current condition, the services you want to grow and the searches your customers make. We agree priorities, implement the approved work and review search activity alongside relevant enquiry actions."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Relevant search visibility",
+            "paragraphs": [
+              "Help people discover the services you actually offer."
+            ]
+          },
+          {
+            "heading": "Clearer buying decisions",
+            "paragraphs": [
+              "Answer useful questions before customers enquire."
+            ]
+          },
+          {
+            "heading": "Measurable enquiries",
+            "paragraphs": [
+              "Connect search activity with relevant customer actions."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What our SEO work includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "SEO and technical audit",
+            "paragraphs": [
+              "Review crawl access, indexing, robots directives, canonical tags, XML sitemap and duplicate pages."
+            ]
+          },
+          {
+            "heading": "Keyword and intent research",
+            "paragraphs": [
+              "Map priority services and questions to search intent and suitable pages."
+            ]
+          },
+          {
+            "heading": "On-page optimisation",
+            "paragraphs": [
+              "Improve titles, descriptions, H1/H2 headings, URLs, page copy and image alt text."
+            ]
+          },
+          {
+            "heading": "Local SEO",
+            "paragraphs": [
+              "Support location-relevant pages, business details and nearby search intent."
+            ]
+          },
+          {
+            "heading": "Content strategy",
+            "paragraphs": [
+              "Plan useful FAQs, articles, comparison pages and service explanations."
+            ]
+          },
+          {
+            "heading": "Authority and links",
+            "paragraphs": [
+              "Earn relevant citations and editorial mentions; avoid spammy link buying."
+            ]
+          },
+          {
+            "heading": "Structured data",
+            "paragraphs": [
+              "Add valid schema markup when it represents visible and eligible content."
+            ]
+          },
+          {
+            "heading": "Reporting",
+            "paragraphs": [
+              "Use Google Search Console and analytics to monitor clicks, indexing and conversions."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we deliver SEO",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Audit technical health and current search performance",
+          "Research demand and map keywords to pages",
+          "Fix technical issues and improve priority pages",
+          "Publish helpful content and review Search Console monthly"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "SEO baseline and competitor research",
+          "Technical audit with prioritised fixes",
+          "Keyword-to-page map",
+          "Optimised high-priority pages",
+          "Content calendar and FAQ recommendations",
+          "Monthly Search Console performance summary"
+        ],
+        "children": []
+      },
+      {
+        "heading": "SEO shaped around how your customers search",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Clinics - specialty and appointment-intent searches",
+          "Education - course, fees and admissions information",
+          "Local service providers - city and service discovery",
+          "E-commerce - category, product and purchase-intent searches",
+          "Professional services - expertise, sector and location-specific service pages",
+          "Manufacturing - technical product searches, supplier comparisons and quote enquiries"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Know what changed and what comes next",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Organic clicks and impressions",
+          "Non-branded search visibility",
+          "Indexed priority pages",
+          "Organic enquiry conversions"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Your SEO questions answered",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "How long does SEO take?",
+            "answer": "SEO usually needs sustained work over months. We agree priorities from your starting point and review progress regularly. Rankings and timing cannot be guaranteed."
+          },
+          {
+            "question": "What is included in an SEO audit?",
+            "answer": "An audit can review technical accessibility, site structure, page content, search queries and measurement, with priorities based on your goals."
+          },
+          {
+            "question": "Will you implement the changes?",
+            "answer": "That depends on access and the agreed scope. Recommendations can be provided for your team, or implemented when permissions and responsibilities are agreed."
+          },
+          {
+            "question": "What affects the cost of SEO?",
+            "answer": "The scope depends on website size, technical condition, target services, locations and the content or implementation work required. Agree the priority pages, responsibilities and review cadence before starting."
+          },
+          {
+            "question": "How is SEO different from Google Ads?",
+            "answer": "SEO improves non-paid search presence; Google Ads buys eligible ad placements."
+          },
+          {
+            "question": "Can you guarantee first position?",
+            "answer": "No. Search engines control rankings and no responsible provider can guarantee position one."
+          }
+        ]
+      },
+      {
+        "heading": "Let's plan your next step in search",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your SEO Plan"
+      }
+    ]
+  },
+  {
+    "id": "website-development",
+    "title": "Website Design and Development Services",
+    "heroDescription": "From business websites and online stores to custom web experiences, we help you choose a suitable platform and plan the features, content and customer journey around your goals.",
+    "primaryCta": "Discuss Your Website",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "What your business needs its website to do",
+        "kind": "benefits",
+        "paragraphs": [
+          "Your website should help customers understand what you offer and take a useful next step. That could be requesting a quotation, booking a consultation, comparing services or buying a product. The right build depends on those needs.",
+          "We start with your customers, services and content, then agree the structure, platform and integrations. A focused business website, a Shopify store and a custom web application need different scopes. The proposal makes ownership, editing access, launch checks and ongoing responsibilities clear."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Professional first impression",
+            "paragraphs": [
+              "Help new visitors understand the business within seconds."
+            ]
+          },
+          {
+            "heading": "More enquiries",
+            "paragraphs": [
+              "Place relevant contact options and clear forms where users need them."
+            ]
+          },
+          {
+            "heading": "Long-term control",
+            "paragraphs": [
+              "Use maintainable architecture and documented ownership."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Choose a website around your business needs",
+        "kind": "content",
+        "paragraphs": [
+          "Start with what customers and staff need to do. Choose the platform after the purpose, content and required functionality are clear."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Business and service websites",
+            "paragraphs": [
+              "Explain your services and make enquiries easier."
+            ]
+          },
+          {
+            "heading": "Campaign landing pages",
+            "paragraphs": [
+              "Give a specific campaign a focused destination."
+            ]
+          },
+          {
+            "heading": "Online stores",
+            "paragraphs": [
+              "Help customers find products and complete purchases."
+            ]
+          },
+          {
+            "heading": "Custom web experiences",
+            "paragraphs": [
+              "Plan interfaces and workflows around an agreed requirement."
+            ]
+          },
+          {
+            "heading": "Client portals and web apps",
+            "paragraphs": [
+              "Provide secure customer logins, member dashboards and automated self-service workflows."
+            ]
+          },
+          {
+            "heading": "Blogs and content resource hubs",
+            "paragraphs": [
+              "Publish articles, educational resources and multimedia to drive sustained organic traffic."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we can build it",
+        "kind": "content",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "WordPress",
+            "paragraphs": [
+              "Business websites, service pages, blogs and portfolios. WooCommerce can be considered for suitable store projects."
+            ]
+          },
+          {
+            "heading": "Shopify",
+            "paragraphs": [
+              "Product catalogues and online stores with supported checkout, payment and app integrations."
+            ]
+          },
+          {
+            "heading": "Custom development",
+            "paragraphs": [
+              "A tailored frontend and, when required, backend, database and integration work. Full stack describes this delivery scope.",
+              "For a detailed online-store engagement, see E-commerce Website Development at /services/ecommerce-development."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What your website build includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Business website architecture",
+            "paragraphs": [
+              "Page planning for Home, About, Services, individual service pages, Contact, FAQs and legal pages."
+            ]
+          },
+          {
+            "heading": "Responsive UI/UX design",
+            "paragraphs": [
+              "Layouts tailored to desktop, tablet and mobile screens with readable typography."
+            ]
+          },
+          {
+            "heading": "CMS and content management",
+            "paragraphs": [
+              "WordPress or an appropriate CMS so authorised staff can update pages."
+            ]
+          },
+          {
+            "heading": "SEO-ready foundations",
+            "paragraphs": [
+              "Indexable pages, page-specific metadata, semantic headings, sitemap and structured data where relevant."
+            ]
+          },
+          {
+            "heading": "Speed and accessibility",
+            "paragraphs": [
+              "Compress images, improve loading stability, keyboard navigation and colour contrast."
+            ]
+          },
+          {
+            "heading": "Lead capture and integrations",
+            "paragraphs": [
+              "Contact forms, WhatsApp, appointments, analytics and approved CRM connections."
+            ]
+          },
+          {
+            "heading": "Security and maintenance",
+            "paragraphs": [
+              "HTTPS, backup plan, role access and a documented update process."
+            ]
+          },
+          {
+            "heading": "Launch and handover",
+            "paragraphs": [
+              "Cross-device QA, redirects, search indexing checks and training material."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Audit existing content and define page goals",
+          "Create sitemap, wireframes and visual design",
+          "Build, integrate forms and optimise content",
+          "Test responsiveness, speed, SEO and accessibility, then launch"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Approved sitemap and page list",
+          "Responsive design mockups",
+          "Developed pages and reusable components",
+          "Contact forms and agreed integrations",
+          "Technical QA and deployment checklist",
+          "Handover with access and maintenance plan"
+        ],
+        "children": []
+      },
+      {
+        "heading": "AI and automation where they help",
+        "kind": "content",
+        "paragraphs": [
+          "AI is an optional capability, not a separate platform category. We agree the task, supported tools and handoff before adding an integration."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Enquiry assistance",
+            "paragraphs": [
+              "Answer agreed questions and route customers to the right team."
+            ]
+          },
+          {
+            "heading": "Booking and lead handoff",
+            "paragraphs": [
+              "Connect approved forms, calendars and CRM records."
+            ]
+          },
+          {
+            "heading": "Operational workflows",
+            "paragraphs": [
+              "Reduce repeatable handoffs with permissions, monitoring and human review."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Healthcare - department, doctor and appointment pages",
+          "Education - course details, admissions and student enquiries",
+          "Retail - catalogue, product and checkout journeys",
+          "Professional services - expertise, service pages and lead-capture forms",
+          "Hospitality - room or table details, availability and booking enquiries",
+          "Real estate - property listings, location guides and site-visit enquiry forms"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Page load performance",
+          "Form completion rate",
+          "Mobile usability",
+          "Qualified website enquiries"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "How do we choose between WordPress, Shopify and custom development?",
+            "answer": "We compare the purpose, content, editing needs, integrations and ongoing responsibilities. WordPress can suit content-led business sites, Shopify can suit online stores, and custom development can suit a tailored interface or workflow. The recommendation follows the agreed requirements."
+          },
+          {
+            "question": "Will the website work on mobile?",
+            "answer": "The agreed layouts and key journeys are tested on representative phones, tablets and desktop browsers. Forms and navigation should be usable by touch and keyboard."
+          },
+          {
+            "question": "Can our team edit the website after launch?",
+            "answer": "A CMS and training can be included in the scope. The proposal records account ownership, editing access, documentation and who maintains the website after handover."
+          },
+          {
+            "question": "Can AI or automation be added to the website?",
+            "answer": "Where the platform supports it, we can scope enquiry assistance, booking connections or lead handoff. We agree the supported tools, data access, running costs, fallback and team responsibilities before implementation."
+          },
+          {
+            "question": "Is SEO included in website development?",
+            "answer": "The agreed build can include technical foundations such as indexable pages, metadata, semantic headings and a sitemap. Ongoing keyword research, content improvement and search reporting are a separate scope. First-position rankings cannot be guaranteed."
+          },
+          {
+            "question": "What affects the cost and project schedule?",
+            "answer": "Cost depends on the page scope, design complexity, content, CMS, integrations and migration work. Hosting, third-party licenses and ongoing maintenance should be listed separately in the proposal. The schedule also depends on content readiness, approvals and integration access."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Website"
+      }
+    ]
+  },
+  {
+    "id": "google-business-profile",
+    "title": "Google Business Profile Optimisation and Management Services",
+    "heroDescription": "Help nearby customers understand your business on Google Search and Maps with accurate profile information, useful updates and organised profile management.",
+    "primaryCta": "Discuss Your Business Profile",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Keep local business information useful and accurate",
+        "kind": "benefits",
+        "paragraphs": [
+          "Local customers often check services, opening hours, photos and reviews before they contact a business. An eligible Google Business Profile needs accurate information and regular attention so those details stay useful.",
+          "We review eligibility, ownership and the current listing, then agree the improvements and maintenance work. Your business retains its account ownership. Google controls verification, policy decisions and local search presentation."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Reliable business information",
+            "paragraphs": [
+              "Give customers correct contact and visit details."
+            ]
+          },
+          {
+            "heading": "Stronger local discovery",
+            "paragraphs": [
+              "Support relevance and completeness for eligible local searches."
+            ]
+          },
+          {
+            "heading": "Customer confidence",
+            "paragraphs": [
+              "Build trust through accurate images and thoughtful review responses."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What profile management includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Eligibility and profile audit",
+            "paragraphs": [
+              "Check business eligibility, duplicates, access and public-facing information."
+            ]
+          },
+          {
+            "heading": "Setup and verification guidance",
+            "paragraphs": [
+              "Assist with the legitimate verification process required by Google."
+            ]
+          },
+          {
+            "heading": "Business category optimisation",
+            "paragraphs": [
+              "Select accurate primary and secondary categories rather than keyword stuffing."
+            ]
+          },
+          {
+            "heading": "Location and service information",
+            "paragraphs": [
+              "Maintain name, address or service area, contact details, website and working hours."
+            ]
+          },
+          {
+            "heading": "Photos, updates and services",
+            "paragraphs": [
+              "Prepare authentic business images, approved posts and helpful descriptions."
+            ]
+          },
+          {
+            "heading": "Review management",
+            "paragraphs": [
+              "Respond professionally to real reviews without buying or fabricating ratings."
+            ]
+          },
+          {
+            "heading": "Local directory consistency",
+            "paragraphs": [
+              "Identify inconsistent business details on major relevant listings."
+            ]
+          },
+          {
+            "heading": "Performance tracking",
+            "paragraphs": [
+              "Review available Search and Maps interactions and website enquiries."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Check eligibility, ownership, duplicates and accuracy",
+          "Complete valid verification and business information",
+          "Add genuine photos, services and updates",
+          "Review performance and maintain information monthly"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Profile eligibility and ownership checklist",
+          "Optimised business description and categories",
+          "Accurate hours, services and contact information",
+          "Photo and content recommendations",
+          "Review-response guidelines",
+          "Monthly profile maintenance checklist"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Hospitals and clinics - hours, directions and appointment links",
+          "Restaurants - menus, business hours and authentic photos",
+          "Professional offices - service information and contact actions",
+          "Home services - service areas, call actions and quote requests",
+          "Hotels - directions, facilities, seasonal hours and booking links",
+          "Retail stores - accurate opening hours, storefront photos and directions for local shoppers"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Profile interactions",
+          "Calls and direction requests where available",
+          "Website visits from the profile",
+          "Accuracy and completeness of business details"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Is GMB the same as Google Business Profile?",
+            "answer": "Yes. Google My Business is the older name; Google Business Profile is the current product name."
+          },
+          {
+            "question": "Can every online business create a profile?",
+            "answer": "No. Google has eligibility requirements, including in-person customer contact for many categories."
+          },
+          {
+            "question": "Can you promise top-three Google Maps ranking?",
+            "answer": "No. Visibility depends on several factors outside any agency's control."
+          },
+          {
+            "question": "What access do you need to manage our profile?",
+            "answer": "You can add an authorised manager through Google Business Profile rather than sharing your password. Ownership and access should remain with your business."
+          },
+          {
+            "question": "Can you remove negative reviews?",
+            "answer": "Reviews should not be removed simply because they are negative. Reviews that violate Google policies can be reported, while genuine feedback should receive a professional response."
+          },
+          {
+            "question": "What affects the cost of Google Business Profile management?",
+            "answer": "Profile setup or access to Google is separate from the agency's work. Our fee depends on the number of profiles, existing issues, content and maintenance scope. Verification and rankings cannot be guaranteed."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Business Profile"
+      }
+    ]
+  },
+  {
+    "id": "ppc-google-ads",
+    "title": "Google Ads Management Services Focused on Relevant Leads",
+    "heroDescription": "Reach people searching for what you offer with focused Google Ads campaigns, relevant landing pages and reporting that follows the enquiry beyond the click.",
+    "primaryCta": "Discuss Your Google Ads Plan",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Connect search demand with a clear offer",
+        "kind": "benefits",
+        "paragraphs": [
+          "A paid search campaign needs a relevant offer, the right search intent and a useful destination. Clicks alone cannot show whether advertising is bringing the customers your team can serve.",
+          "We agree the campaign objective, media budget and lead criteria before account setup or changes. The work connects keyword planning, ads, landing pages and conversion checks, followed by recurring reviews of search terms, spend and enquiry quality."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Reach high-intent searches",
+            "paragraphs": [
+              "Show relevant ads to people actively looking for the service."
+            ]
+          },
+          {
+            "heading": "Budget visibility",
+            "paragraphs": [
+              "Control agreed budgets and see which campaigns incur costs."
+            ]
+          },
+          {
+            "heading": "Actionable optimisation",
+            "paragraphs": [
+              "Improve messages and landing pages using measured outcomes."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What Google Ads management includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Campaign and account audit",
+            "paragraphs": [
+              "Review account structure, policy status, past spend and business goals."
+            ]
+          },
+          {
+            "heading": "Keyword planning",
+            "paragraphs": [
+              "Group search terms by intent; use suitable match types and negative keywords."
+            ]
+          },
+          {
+            "heading": "Google Search campaigns",
+            "paragraphs": [
+              "Create relevant search ads, assets and geographic schedules."
+            ]
+          },
+          {
+            "heading": "Landing-page alignment",
+            "paragraphs": [
+              "Match each ad group to a focused, responsive enquiry or product page."
+            ]
+          },
+          {
+            "heading": "Conversion tracking",
+            "paragraphs": [
+              "Configure approved call, form and purchase events with consent where required."
+            ]
+          },
+          {
+            "heading": "Budget and bidding",
+            "paragraphs": [
+              "Set realistic test budgets and suitable bidding strategies."
+            ]
+          },
+          {
+            "heading": "Ad creative testing",
+            "paragraphs": [
+              "Test compliant headlines, messages and calls to action."
+            ]
+          },
+          {
+            "heading": "Reporting and optimisation",
+            "paragraphs": [
+              "Evaluate search terms, conversion quality, cost per lead and wasted spend."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Define qualified lead goals, regions and budget",
+          "Build conversion-ready landing pages and tracking",
+          "Launch policy-compliant campaigns with relevant targeting",
+          "Optimise search terms, ads and leads against agreed KPIs"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Media plan and budget recommendation",
+          "Google Ads campaign structure and assets",
+          "Keyword and negative-keyword plan",
+          "Landing-page improvement list",
+          "Conversion tracking QA",
+          "Recurring spend and lead quality reports"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Local services - call and enquiry campaigns",
+          "Education - eligible course-interest search campaigns",
+          "E-commerce - product and shopping campaigns when eligible",
+          "Healthcare - policy-compliant searches for approved services and appointments",
+          "Professional services - high-intent searches mapped to consultation pages",
+          "B2B suppliers - product-specific search campaigns linked to quote-request pages"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Cost per qualified lead",
+          "Conversion rate",
+          "Relevant search terms",
+          "Return on ad spend where measurable"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Does PPC guarantee leads or sales?",
+            "answer": "No. Paid placement does not guarantee conversion; performance depends on demand and the customer journey."
+          },
+          {
+            "question": "Is Google Ads spend part of your service fee?",
+            "answer": "A proposal should state media spend and management fees separately."
+          },
+          {
+            "question": "Which Google Ads type should we start with?",
+            "answer": "It depends on the goal. Search ads are often a useful starting point for high-intent service enquiries."
+          },
+          {
+            "question": "Who owns the advertising account and campaign data?",
+            "answer": "The account should be set up or retained under your business ownership, with agency access granted through the appropriate account permissions."
+          },
+          {
+            "question": "How often will campaign performance be reviewed?",
+            "answer": "Review frequency and reporting should be agreed in advance, using clear measures such as qualified enquiries, spend and conversion tracking."
+          },
+          {
+            "question": "What affects the cost of Google Ads management?",
+            "answer": "Campaign spend and management fees are separate. The management scope depends on campaign types, account complexity, landing-page work, creative requirements and tracking. Agree an affordable test budget and review plan."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Google Ads Plan"
+      }
+    ]
+  },
+  {
+    "id": "social-media-marketing",
+    "title": "Social Media Marketing Services for Consistent Brand Visibility",
+    "heroDescription": "Build a recognisable social presence with useful content, consistent creative direction and a publishing process your team can manage.",
+    "primaryCta": "Discuss Your Social Media Plan",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Give customers a useful reason to follow",
+        "kind": "benefits",
+        "paragraphs": [
+          "Customers use social channels to see what a business offers and whether its work feels relevant to them. A consistent presence needs more than filling a calendar with repetitive promotional posts.",
+          "We choose channels and content themes around your audience, plan the agreed formats and organise review and publishing. The scope makes clear who supplies footage, approves posts and handles messages. Paid campaign management can be discussed separately when needed."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Consistency",
+            "paragraphs": [
+              "Publish useful content regularly."
+            ]
+          },
+          {
+            "heading": "Brand recognition",
+            "paragraphs": [
+              "Present a recognisable voice."
+            ]
+          },
+          {
+            "heading": "Better learning",
+            "paragraphs": [
+              "See which questions matter most to audiences."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What social media management includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Platform strategy",
+            "paragraphs": [
+              "Choose relevant social platforms."
+            ]
+          },
+          {
+            "heading": "Audience research",
+            "paragraphs": [
+              "Identify topics and customer questions."
+            ]
+          },
+          {
+            "heading": "Monthly content calendar",
+            "paragraphs": [
+              "Plan posts and reels in advance."
+            ]
+          },
+          {
+            "heading": "Creative production",
+            "paragraphs": [
+              "Design images and short-form concepts."
+            ]
+          },
+          {
+            "heading": "Publishing workflow",
+            "paragraphs": [
+              "Review and schedule approved content."
+            ]
+          },
+          {
+            "heading": "Community guidance",
+            "paragraphs": [
+              "Plan responses and escalation."
+            ]
+          },
+          {
+            "heading": "Brand voice",
+            "paragraphs": [
+              "Maintain consistent tone and identity."
+            ]
+          },
+          {
+            "heading": "Performance review",
+            "paragraphs": [
+              "Measure relevant reach and engagement."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Review brand, audience and channels",
+          "Build content themes and calendar",
+          "Design, approve and publish",
+          "Review engagement and adjust"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Channel audit",
+          "Monthly content calendar",
+          "Approved post concepts and captions",
+          "Creative templates",
+          "Reporting summary"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Retail - product education",
+          "Healthcare - accessible patient education",
+          "Education - course updates",
+          "Hospitality - seasonal menus, local events and guest updates",
+          "Nonprofits - campaign stories, community updates and donation journeys",
+          "Professional services - expert insights, team stories and answers to common client questions"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Engagement quality",
+          "Website visits from social",
+          "Brand mentions",
+          "Social-sourced enquiries"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Which platforms are included?",
+            "answer": "Choose them based on target audiences and the agreed scope."
+          },
+          {
+            "question": "Do you provide videos?",
+            "answer": "Video creation should be explicitly included in the statement of work."
+          },
+          {
+            "question": "Can followers be guaranteed?",
+            "answer": "No. Genuine growth depends on platform and audience response."
+          },
+          {
+            "question": "How do you decide what to post?",
+            "answer": "Content themes are planned around your audience, business priorities, platform suitability and the agreed publishing calendar."
+          },
+          {
+            "question": "Who approves posts before they are published?",
+            "answer": "Your team should have a clear review and approval process, including named approvers and deadlines, before publishing begins."
+          },
+          {
+            "question": "What affects the cost of social media management?",
+            "answer": "The plan depends on channels, publishing frequency, design and writing work, community responsibilities and whether filming or editing is included. Confirm content quantities and approval stages in the scope."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Social Media Plan"
+      }
+    ]
+  },
+  {
+    "id": "meta-ads",
+    "title": "Meta Ads Management for Facebook and Instagram Campaigns",
+    "heroDescription": "Connect your offer with the right audience through Facebook and Instagram campaigns, clear enquiry paths and practical creative testing.",
+    "primaryCta": "Discuss Your Meta Ads Plan",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "A clear journey from the creative to the enquiry",
+        "kind": "benefits",
+        "paragraphs": [
+          "A Meta campaign brings together the offer, audience, creative and destination. Useful results depend on how these parts work together and what happens when a person submits a form or visits the website.",
+          "We review access and account readiness, agree the campaign objective and prepare the approved creative and tracking. Campaign reviews consider lead quality and follow-up, alongside platform measures and media spend."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Audience reach",
+            "paragraphs": [
+              "Connect with likely customers."
+            ]
+          },
+          {
+            "heading": "Creative learning",
+            "paragraphs": [
+              "See which messages resonate."
+            ]
+          },
+          {
+            "heading": "Enquiry tracking",
+            "paragraphs": [
+              "Measure performance beyond impressions."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What Meta campaign management includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Ad account review",
+            "paragraphs": [
+              "Check access, permissions and policies."
+            ]
+          },
+          {
+            "heading": "Audience strategy",
+            "paragraphs": [
+              "Define eligible audiences and locations."
+            ]
+          },
+          {
+            "heading": "Campaign structure",
+            "paragraphs": [
+              "Choose objectives aligned to goals."
+            ]
+          },
+          {
+            "heading": "Creative testing",
+            "paragraphs": [
+              "Test design and messaging combinations."
+            ]
+          },
+          {
+            "heading": "Landing page and lead forms",
+            "paragraphs": [
+              "Build clear enquiry paths."
+            ]
+          },
+          {
+            "heading": "Tracking setup",
+            "paragraphs": [
+              "Set up consent-aware conversion measurement."
+            ]
+          },
+          {
+            "heading": "Retargeting strategy",
+            "paragraphs": [
+              "Use eligible audiences with valid permissions."
+            ]
+          },
+          {
+            "heading": "Optimisation",
+            "paragraphs": [
+              "Review lead quality and spend."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Set outcome and budget",
+          "Prepare creative and destination",
+          "Launch compliant ads",
+          "Test and optimise"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Campaign plan",
+          "Ad variants and creative briefs",
+          "Tracking QA",
+          "Budget and results report"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Education - course enquiries",
+          "Retail - catalogue campaigns",
+          "Events - registrations",
+          "Hospitality - local offers and event awareness",
+          "Professional services - educational content and consultation enquiries",
+          "Fitness studios - local class discovery, trial-session enquiries and membership campaigns"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Cost per lead",
+          "Cost per purchase",
+          "Qualified enquiry rate",
+          "Creative conversion performance"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Are ads guaranteed to perform?",
+            "answer": "No. Performance varies by offer, audience and creative."
+          },
+          {
+            "question": "Do you also make creatives?",
+            "answer": "Include exact creative quantities in the approved scope."
+          },
+          {
+            "question": "Is ad spend separate?",
+            "answer": "Specify media spend and fees separately."
+          },
+          {
+            "question": "What access is needed to run Meta campaigns?",
+            "answer": "Campaigns require appropriate access to your Meta business assets, such as the ad account, Facebook Page, Instagram account and any agreed tracking tools."
+          },
+          {
+            "question": "How do you choose which ad creative to use?",
+            "answer": "Creative variations should reflect the campaign objective and audience, then be evaluated against agreed performance measures and platform policies."
+          },
+          {
+            "question": "What affects the cost of Meta Ads management?",
+            "answer": "Media spend is separate from campaign management. Costs depend on campaign scope, creative production, tracking and landing-page needs. The proposal should identify included creative quantities and any additional production fees."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Meta Ads Plan"
+      }
+    ]
+  },
+  {
+    "id": "content-marketing-blogging",
+    "title": "Content Marketing and SEO Writing Services for Your Business",
+    "heroDescription": "Give customers useful answers and a clear reason to take the next step with researched service copy, articles and case studies.",
+    "primaryCta": "Discuss Your Content Plan",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Content that supports a real buying decision",
+        "kind": "benefits",
+        "paragraphs": [
+          "Business content should explain what you offer, answer the questions that delay a decision and make useful next steps easy to find. Search visibility matters, but the content still needs to help the person reading it.",
+          "We research topics and intent, prepare briefs and write or improve the agreed pages. Specialist claims go through the appropriate subject review, and every piece follows an approval and publishing process. Existing content can be refreshed when a new article would repeat the same purpose."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Clearer explanations",
+            "paragraphs": [
+              "Reduce confusion."
+            ]
+          },
+          {
+            "heading": "Useful search coverage",
+            "paragraphs": [
+              "Answer relevant questions."
+            ]
+          },
+          {
+            "heading": "Reusable knowledge",
+            "paragraphs": [
+              "Support sales and service teams."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What your content programme includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Topic research",
+            "paragraphs": [
+              "Map questions and content gaps."
+            ]
+          },
+          {
+            "heading": "Editorial calendar",
+            "paragraphs": [
+              "Plan publishing dates and responsibilities."
+            ]
+          },
+          {
+            "heading": "SEO content briefs",
+            "paragraphs": [
+              "Align topics to search intent."
+            ]
+          },
+          {
+            "heading": "Service-page writing",
+            "paragraphs": [
+              "Explain benefits in simple English."
+            ]
+          },
+          {
+            "heading": "Blog production",
+            "paragraphs": [
+              "Create useful researched articles."
+            ]
+          },
+          {
+            "heading": "Internal linking",
+            "paragraphs": [
+              "Connect related resources."
+            ]
+          },
+          {
+            "heading": "Editing and fact checks",
+            "paragraphs": [
+              "Verify claims and sources."
+            ]
+          },
+          {
+            "heading": "Performance review",
+            "paragraphs": [
+              "Improve existing articles using data."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Research audience and topics",
+          "Approve briefs and outline",
+          "Write and verify content",
+          "Publish, measure and update"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Content strategy",
+          "Monthly calendar",
+          "Approved briefs",
+          "Published copy",
+          "Review log"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Education - programme explainers",
+          "Healthcare - medically reviewed information",
+          "SaaS - feature explainers",
+          "Professional services - practical guides that explain expertise and process",
+          "Manufacturing - product explainers and technical resource libraries",
+          "E-commerce - buying guides, product comparisons and care advice for shoppers"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Engaged visits",
+          "Organic clicks",
+          "Assisted enquiries",
+          "Content completion rate"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Do you produce SEO blogs?",
+            "answer": "Yes, where included in the content scope."
+          },
+          {
+            "question": "Can AI write everything?",
+            "answer": "Drafts can use AI support, but humans must review facts and brand voice."
+          },
+          {
+            "question": "How many blogs per month?",
+            "answer": "Decide this in the approved scope."
+          },
+          {
+            "question": "Who checks articles for accuracy?",
+            "answer": "Your subject-matter expert should review specialist claims, and all content should receive an agreed editorial and brand review before publication."
+          },
+          {
+            "question": "Will you publish content directly to our website?",
+            "answer": "Publishing can be included when CMS access, formatting, review responsibilities and the publication schedule are agreed in the scope."
+          },
+          {
+            "question": "What affects the cost of content marketing?",
+            "answer": "Fees depend on the content type, research depth, subject expertise, revision scope and publishing responsibilities. Agree whether interviews, images, CMS formatting and content refreshes are included."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Content Plan"
+      }
+    ]
+  },
+  {
+    "id": "aeo-ai-search",
+    "title": "Answer Engine Optimisation and AI Search Visibility Services",
+    "heroDescription": "Make your business information clearer for customers and AI-assisted discovery through useful answers, credible sources and sound SEO foundations.",
+    "primaryCta": "Discuss Your AEO Review",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Clear answers supported by credible information",
+        "kind": "benefits",
+        "paragraphs": [
+          "People increasingly ask detailed questions before choosing a service. Your pages need clear answers, accurate business facts and enough context to explain why the service fits their needs.",
+          "We review priority questions, existing pages and discoverability, then improve the agreed content and technical foundations. Google Search AI features and other assistants are different systems. No agency controls whether a particular answer cites or recommends your business."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "More useful content",
+            "paragraphs": [
+              "Make complex topics easier to understand."
+            ]
+          },
+          {
+            "heading": "Consistent facts",
+            "paragraphs": [
+              "Reduce outdated service information."
+            ]
+          },
+          {
+            "heading": "Search-readiness",
+            "paragraphs": [
+              "Improve information architecture."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What an AEO engagement includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Answer-focused research",
+            "paragraphs": [
+              "Identify customer questions."
+            ]
+          },
+          {
+            "heading": "Structured content",
+            "paragraphs": [
+              "Use clean headings and clear explanations."
+            ]
+          },
+          {
+            "heading": "FAQ development",
+            "paragraphs": [
+              "Answer real buyer questions."
+            ]
+          },
+          {
+            "heading": "Entity consistency",
+            "paragraphs": [
+              "Maintain accurate brand facts."
+            ]
+          },
+          {
+            "heading": "Schema where relevant",
+            "paragraphs": [
+              "Use valid structured data."
+            ]
+          },
+          {
+            "heading": "Source transparency",
+            "paragraphs": [
+              "Support claims with appropriate evidence."
+            ]
+          },
+          {
+            "heading": "Technical access",
+            "paragraphs": [
+              "Avoid accidentally blocking eligible crawlers."
+            ]
+          },
+          {
+            "heading": "Visibility monitoring",
+            "paragraphs": [
+              "Review discoverability without unsupported guarantees."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Audit common questions",
+          "Improve answer content and trust signals",
+          "Validate technical structure",
+          "Monitor search and AI mentions cautiously"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Question and content map",
+          "Answer-first content drafts",
+          "Structured-data recommendations",
+          "Technical checks",
+          "Monitoring approach"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "SaaS - product and comparison questions",
+          "Education - course outcomes",
+          "Professional services - process explanations",
+          "Healthcare - reviewed answers to general service and appointment questions",
+          "Finance - clear, compliance-reviewed explanations of common product terms",
+          "E-commerce - structured answers about product specifications, compatibility and purchase questions"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Content engagement",
+          "Relevant organic impressions",
+          "Branded discoverability",
+          "Qualified enquiries"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Can AEO guarantee ChatGPT recommendations?",
+            "answer": "No. No agency controls AI answer selection."
+          },
+          {
+            "question": "Is AEO a replacement for SEO?",
+            "answer": "No. AEO builds on sound SEO and helpful content."
+          },
+          {
+            "question": "Do FAQs automatically create rich results?",
+            "answer": "No. Search appearance is determined by the search provider."
+          },
+          {
+            "question": "How do you measure AI-search visibility?",
+            "answer": "Measurement can combine relevant search performance, referral traffic and carefully defined visibility checks. AI answers vary, so no single mention or position is guaranteed."
+          },
+          {
+            "question": "Do we need new content for answer-focused search?",
+            "answer": "Not always. We first review existing pages, then identify where clearer answers, stronger sourcing or improved structure may be useful."
+          },
+          {
+            "question": "What affects the cost of AEO and AI search optimisation?",
+            "answer": "The scope depends on the pages and questions reviewed, technical access, specialist research and monitoring requirements. Agree the outputs and observation method rather than paying for an unsupported citation guarantee."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your AEO Review"
+      }
+    ]
+  },
+  {
+    "id": "graphic-design-branding",
+    "title": "Graphic Design Services for a Consistent Business Identity",
+    "heroDescription": "Give your business a recognisable visual identity across websites, campaigns and social channels with design assets your team can use confidently.",
+    "primaryCta": "Discuss Your Design Brief",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "One recognisable visual direction",
+        "kind": "benefits",
+        "paragraphs": [
+          "Visual consistency helps customers recognise a business as they move between its website, advertisements and social profiles. The right design work starts with the message, audience and places the assets will be used.",
+          "We agree the brief and creative direction, develop the included concepts and prepare the approved formats. The handover defines revisions, editable files and usage rights, so the team knows what it can publish or adapt."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Brand consistency",
+            "paragraphs": [
+              "Use one coherent identity."
+            ]
+          },
+          {
+            "heading": "Production speed",
+            "paragraphs": [
+              "Reuse templates."
+            ]
+          },
+          {
+            "heading": "Professional presentation",
+            "paragraphs": [
+              "Build confidence at touchpoints."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What your design project includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Brand discovery",
+            "paragraphs": [
+              "Understand audience and positioning."
+            ]
+          },
+          {
+            "heading": "Visual identity",
+            "paragraphs": [
+              "Logo and colour recommendations."
+            ]
+          },
+          {
+            "heading": "Typography",
+            "paragraphs": [
+              "Define accessible type styles."
+            ]
+          },
+          {
+            "heading": "Design system",
+            "paragraphs": [
+              "Reusable components and patterns."
+            ]
+          },
+          {
+            "heading": "Social templates",
+            "paragraphs": [
+              "Design consistent channel assets."
+            ]
+          },
+          {
+            "heading": "Campaign creatives",
+            "paragraphs": [
+              "Prepare ad-ready variations."
+            ]
+          },
+          {
+            "heading": "Web graphics",
+            "paragraphs": [
+              "Create banners and illustrations."
+            ]
+          },
+          {
+            "heading": "Export and handoff",
+            "paragraphs": [
+              "Supply organised formats."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Brand brief",
+          "Concept design",
+          "Review and revisions",
+          "Deliver brand assets"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Brand brief",
+          "Approved concepts",
+          "Core visual styles",
+          "Templates",
+          "Exported assets"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Startups - brand identity",
+          "Education - campaign assets",
+          "Retail - product promotions",
+          "Hospitality - menus, signage and seasonal promotion assets",
+          "Healthcare - clear patient-facing service graphics and information materials",
+          "Professional services - branded proposals, presentation templates and business stationery"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Consistency audits",
+          "Asset turnaround time",
+          "Creative approval rate",
+          "Ad creative outcomes"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Do I own the final files?",
+            "answer": "Usage rights and source file handover must be defined in the agreement."
+          },
+          {
+            "question": "Are logo concepts included?",
+            "answer": "Only when specifically part of scope."
+          },
+          {
+            "question": "Can existing branding be retained?",
+            "answer": "Yes. Design can be matched to existing guidelines."
+          },
+          {
+            "question": "How many design revisions are included?",
+            "answer": "The number of concepts, revision rounds and approval stages should be listed in the agreed design scope before work begins."
+          },
+          {
+            "question": "Which file formats will we receive?",
+            "answer": "Final formats depend on how the designs will be used. The handover can specify suitable web, print and editable files where included."
+          },
+          {
+            "question": "What affects the cost of graphic design?",
+            "answer": "Cost depends on the assets, concept development, revision rounds and file formats. Logo design, photography, stock licenses, illustration and print production should be explicitly included or excluded."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Design Brief"
+      }
+    ]
+  },
+  {
+    "id": "email-marketing",
+    "title": "Email Marketing and Automation Services for Customer Follow-Up",
+    "heroDescription": "Keep customer conversations relevant with organised email campaigns, useful follow-up journeys and clear reporting on the actions that matter.",
+    "primaryCta": "Discuss Your Email Journeys",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Relevant messages for each customer stage",
+        "kind": "benefits",
+        "paragraphs": [
+          "An email programme works best when subscribers expect the message and can understand its value. Different audiences may need a welcome message, a service follow-up or a useful update rather than the same broadcast.",
+          "We review the list and sender setup, map the agreed journeys and prepare templates and content. Campaigns are tested before launch, with responsibilities for permissions, opt-outs, platform access and ongoing delivery monitoring made clear."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Helpful follow-ups",
+            "paragraphs": [
+              "Answer questions over time."
+            ]
+          },
+          {
+            "heading": "Relevant messages",
+            "paragraphs": [
+              "Avoid indiscriminate campaigns."
+            ]
+          },
+          {
+            "heading": "Measurable engagement",
+            "paragraphs": [
+              "Track approved metrics."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What your email programme includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Audience and consent audit",
+            "paragraphs": [
+              "Review signup permissions."
+            ]
+          },
+          {
+            "heading": "Segmentation",
+            "paragraphs": [
+              "Group contacts by relevant needs."
+            ]
+          },
+          {
+            "heading": "Templates",
+            "paragraphs": [
+              "Create responsive email layouts."
+            ]
+          },
+          {
+            "heading": "Welcome journeys",
+            "paragraphs": [
+              "Introduce new subscribers."
+            ]
+          },
+          {
+            "heading": "Campaign writing",
+            "paragraphs": [
+              "Prepare concise messages."
+            ]
+          },
+          {
+            "heading": "Automation setup",
+            "paragraphs": [
+              "Trigger appropriate follow-ups."
+            ]
+          },
+          {
+            "heading": "Deliverability",
+            "paragraphs": [
+              "Check authentication and list hygiene."
+            ]
+          },
+          {
+            "heading": "Reporting",
+            "paragraphs": [
+              "Review clicks and conversions."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Check consent and objectives",
+          "Build segments and templates",
+          "Test journeys and sending rules",
+          "Send and monitor"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Consent review",
+          "Email templates",
+          "Journey map",
+          "Automation setup",
+          "Engagement report"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Education - opted-in admissions follow-up",
+          "Retail - approved customer updates",
+          "B2B - newsletter nurturing",
+          "SaaS - onboarding, product education and feature updates",
+          "Events - opted-in registration confirmations and follow-up",
+          "Professional services - opted-in consultation follow-ups, helpful resources and service reminders"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Click-through rate",
+          "Unsubscribe rate",
+          "Conversions",
+          "Deliverability health"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Can you email purchased lists?",
+            "answer": "Do not use purchased or non-consented lists."
+          },
+          {
+            "question": "Is unsubscribe included?",
+            "answer": "Marketing emails should provide required opt-out options."
+          },
+          {
+            "question": "Can emails link to CRM?",
+            "answer": "Yes, if supported and covered by scope."
+          },
+          {
+            "question": "How do you protect email deliverability?",
+            "answer": "Good practice includes consent-based lists, accurate sender details, authentication where supported, relevant content and monitoring of bounces and complaints."
+          },
+          {
+            "question": "Can you migrate our existing email subscribers?",
+            "answer": "Migration depends on the source platform, consent records and data quality. Only appropriately collected contacts should be transferred and mailed."
+          },
+          {
+            "question": "What affects the cost of email marketing?",
+            "answer": "The plan depends on the audience size, platform, number of campaigns and automated journeys, design work and migration needs. Platform charges and agency delivery fees should be stated separately."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Email Journeys"
+      }
+    ]
+  },
+  {
+    "id": "ecommerce-development",
+    "title": "E-commerce Website Development for Product Discovery and Sales",
+    "heroDescription": "Make it easier for customers to find products, understand the details and complete a purchase through an online store built around your catalogue and operations.",
+    "primaryCta": "Discuss Your Online Store",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Build the shopping journey around your catalogue",
+        "kind": "benefits",
+        "paragraphs": [
+          "An online store must work for shoppers and for the team fulfilling orders. Product information, variants, stock, delivery rules and checkout details all affect whether a purchase can be completed confidently.",
+          "We agree the platform, catalogue structure and required integrations before the build. The delivery includes the approved storefront and purchase journey, testing with representative orders and a handover for the people managing products and customers."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Easier shopping",
+            "paragraphs": [
+              "Reduce product discovery friction."
+            ]
+          },
+          {
+            "heading": "Fewer checkout barriers",
+            "paragraphs": [
+              "Build trust in purchase steps."
+            ]
+          },
+          {
+            "heading": "Operational control",
+            "paragraphs": [
+              "Manage products and orders."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What your store build includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Store architecture",
+            "paragraphs": [
+              "Categories, filters and search."
+            ]
+          },
+          {
+            "heading": "Product pages",
+            "paragraphs": [
+              "Images, variants, price and details."
+            ]
+          },
+          {
+            "heading": "Shopping cart",
+            "paragraphs": [
+              "Clear totals and editable quantities."
+            ]
+          },
+          {
+            "heading": "Checkout",
+            "paragraphs": [
+              "Simple responsive flow."
+            ]
+          },
+          {
+            "heading": "Payment integration",
+            "paragraphs": [
+              "Supported approved provider setup."
+            ]
+          },
+          {
+            "heading": "Order management",
+            "paragraphs": [
+              "Statuses and customer emails."
+            ]
+          },
+          {
+            "heading": "SEO foundations",
+            "paragraphs": [
+              "Product and category discoverability."
+            ]
+          },
+          {
+            "heading": "Analytics and handover",
+            "paragraphs": [
+              "Track conversion and train staff."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Plan catalogue and operational rules",
+          "Design store and product templates",
+          "Build checkout and integrations",
+          "Test purchases, refunds and launch"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Store sitemap",
+          "Product page templates",
+          "Cart and checkout",
+          "Payment setup",
+          "Test orders",
+          "Management handover"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Fashion - category and size variants",
+          "Jewellery - visual product discovery",
+          "Food - menu and delivery options",
+          "Home goods - product bundles, specifications and delivery details",
+          "Subscription brands - plan comparisons, recurring orders and renewal journeys",
+          "Beauty and personal care - product variants, ingredient details and repeat-purchase journeys"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Purchase conversion rate",
+          "Cart abandonment",
+          "Checkout completion",
+          "Revenue attribution"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Which platform should be used?",
+            "answer": "Choose based on catalogue, budget and integrations; Shopify and WooCommerce are common options."
+          },
+          {
+            "question": "Will payments be secure?",
+            "answer": "Use an established payment provider and follow its integration requirements."
+          },
+          {
+            "question": "Can staff add products?",
+            "answer": "Yes, with an agreed CMS/admin setup."
+          },
+          {
+            "question": "Can the store connect to our inventory or shipping tools?",
+            "answer": "Integration options depend on the platform and provider APIs. Required systems, data flows, fees and testing should be confirmed during discovery."
+          },
+          {
+            "question": "Will you add our products and configure taxes?",
+            "answer": "Product loading and tax configuration can be included if defined in scope. Tax rules should be confirmed with your qualified financial or tax adviser."
+          },
+          {
+            "question": "What affects the cost of ecommerce development?",
+            "answer": "Cost depends on the platform, design, catalogue size, product-loading work and integrations. Platform subscriptions, app licenses, transaction fees and ongoing store operations should be identified separately."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Online Store"
+      }
+    ]
+  },
+  {
+    "id": "analytics-cro",
+    "title": "Website Analytics and Conversion Rate Optimisation Services",
+    "heroDescription": "Understand what visitors do, check the reliability of your tracking and improve the steps that lead to a relevant enquiry or purchase.",
+    "primaryCta": "Discuss Your Tracking and Conversions",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Measure the journey before changing it",
+        "kind": "benefits",
+        "paragraphs": [
+          "Marketing decisions become harder when events are missing, duplicated or unclear. A useful measurement plan starts by defining which actions represent genuine progress for the business.",
+          "We review tracking, map the important journeys and agree the reporting and improvement work. Page and form changes follow the available evidence. Where traffic is limited, usability review and qualitative research may be more useful than an underpowered experiment."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "Clearer measurement",
+            "paragraphs": [
+              "Use trustworthy data."
+            ]
+          },
+          {
+            "heading": "Better page decisions",
+            "paragraphs": [
+              "Find areas needing improvement."
+            ]
+          },
+          {
+            "heading": "Efficient spend",
+            "paragraphs": [
+              "Link marketing efforts to outcomes."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What analytics and CRO work includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Analytics audit",
+            "paragraphs": [
+              "Review GA4 and related configurations."
+            ]
+          },
+          {
+            "heading": "Event tracking plan",
+            "paragraphs": [
+              "Define form, call and purchase events."
+            ]
+          },
+          {
+            "heading": "Consent and privacy",
+            "paragraphs": [
+              "Apply appropriate visitor permission controls."
+            ]
+          },
+          {
+            "heading": "Funnel reporting",
+            "paragraphs": [
+              "Visualise step-by-step journeys."
+            ]
+          },
+          {
+            "heading": "Landing-page reviews",
+            "paragraphs": [
+              "Check clarity and friction."
+            ]
+          },
+          {
+            "heading": "Form improvements",
+            "paragraphs": [
+              "Reduce unnecessary fields."
+            ]
+          },
+          {
+            "heading": "Experiment planning",
+            "paragraphs": [
+              "Design safe tests."
+            ]
+          },
+          {
+            "heading": "Performance dashboard",
+            "paragraphs": [
+              "Report actionable results."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Audit tracking and goals",
+          "Define events and dashboard",
+          "Identify priority friction points",
+          "Test changes and monitor outcomes"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Tracking specification",
+          "GA4 event QA",
+          "Funnel report",
+          "CRO opportunity list",
+          "Experiment roadmap"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "SaaS - demo requests",
+          "E-commerce - checkout completion",
+          "Education - enrolment forms",
+          "Service businesses - lead-form completion and call actions",
+          "Subscription products - signup, activation and renewal funnels",
+          "Hospitality - booking enquiries, availability searches and reservation-form completion"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Lead-to-visit conversion rate",
+          "Form completion",
+          "Checkout conversion",
+          "Data quality"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Does GA4 track everything automatically?",
+            "answer": "No. Important business events need configuration and verification."
+          },
+          {
+            "question": "Can conversions increase immediately?",
+            "answer": "Not necessarily; improvements require testing and traffic."
+          },
+          {
+            "question": "Will privacy compliance be handled?",
+            "answer": "Consent and legal requirements need an approved implementation and review."
+          },
+          {
+            "question": "How do you choose which conversion improvements to test?",
+            "answer": "Priorities are based on verified tracking, user journeys, available evidence, potential impact and the effort needed to make and evaluate a change."
+          },
+          {
+            "question": "How much website traffic is needed for a test?",
+            "answer": "It depends on conversion volume, expected effect and test design. If traffic is limited, qualitative research and usability checks may be more appropriate."
+          },
+          {
+            "question": "What affects the cost of analytics and CRO?",
+            "answer": "The scope depends on tracking complexity, platforms, funnels and the research or testing needed. Agree the conversion definitions and QA outputs before estimating the improvement work."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Tracking and Conversions"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth-marketing",
+    "title": "AI Growth Marketing Services Built Around Your Lead Journey",
+    "heroDescription": "Bring research, creative work, search, advertising and lead measurement into a focused marketing engagement, with specialists responsible for the decisions.",
+    "primaryCta": "Discuss Your Growth Plan",
+    "secondaryCta": "See What Is Included",
+    "sections": [
+      {
+        "heading": "Choose the channels your business needs",
+        "kind": "benefits",
+        "paragraphs": [
+          "A business rarely needs every marketing channel at once. The useful starting point is the customer, the buying journey and the obstacle preventing a relevant enquiry from becoming a useful conversation.",
+          "We choose and connect the agreed services around that need. AI can assist research, drafting or analysis, while specialists review outputs, decide priorities and manage execution. The engagement explains the work, channel costs, team responsibilities and how progress will be reviewed."
+        ],
+        "items": [],
+        "children": [
+          {
+            "heading": "More relevant enquiries",
+            "paragraphs": [
+              "Aim to attract people looking for the service rather than just broad traffic."
+            ]
+          },
+          {
+            "heading": "Clearer marketing decisions",
+            "paragraphs": [
+              "Understand which channels and landing pages are helping."
+            ]
+          },
+          {
+            "heading": "Less manual follow-up",
+            "paragraphs": [
+              "Pass consented leads into an organised sales process."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "What your growth engagement includes",
+        "kind": "features",
+        "paragraphs": [],
+        "items": [],
+        "children": [
+          {
+            "heading": "Growth strategy",
+            "paragraphs": [
+              "Research audiences, services, locations and demand before launching campaigns."
+            ]
+          },
+          {
+            "heading": "SEO & landing pages",
+            "paragraphs": [
+              "Create helpful, fast pages for the searches customers actually make."
+            ]
+          },
+          {
+            "heading": "Google & Meta campaigns",
+            "paragraphs": [
+              "Plan paid campaigns with transparent budgets and appropriate tracking."
+            ]
+          },
+          {
+            "heading": "Conversion improvements",
+            "paragraphs": [
+              "Improve calls-to-action, forms, mobile usability and follow-up flows."
+            ]
+          },
+          {
+            "heading": "Lead source tracking",
+            "paragraphs": [
+              "Connect website forms, ads and CRM records where consent allows."
+            ]
+          },
+          {
+            "heading": "Campaign reporting",
+            "paragraphs": [
+              "Review leads, costs and outcomes with easy-to-read monthly reports."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How we plan and deliver the work",
+        "kind": "process",
+        "paragraphs": [
+          "We agree the inputs, access, approvals and review responsibilities before implementation. Any work outside the approved scope is discussed before it is added."
+        ],
+        "items": [
+          "Discover goals, locations and target customers",
+          "Build landing pages, tracking and campaign plan",
+          "Launch, test and refine campaigns",
+          "Report lead quality and improvements"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What you receive",
+        "kind": "deliverables",
+        "paragraphs": [
+          "The agreed engagement gives your team clear outputs to review and use. The exact scope, quantities and handover responsibilities are recorded in the proposal."
+        ],
+        "items": [
+          "Marketing baseline and priorities",
+          "Audience and channel plan",
+          "Approved campaign and page scope",
+          "Tracking and lead definitions",
+          "Content and creative briefs",
+          "Recurring performance review"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Where this service fits",
+        "kind": "industries",
+        "paragraphs": [
+          "These examples show how the service can be adapted to different customer journeys. The engagement is scoped around your actual business requirements."
+        ],
+        "items": [
+          "Healthcare - appointment enquiries and approved patient communications",
+          "Education - admissions enquiries and course landing pages",
+          "Professional services - consultation requests and qualified leads",
+          "Home services - location landing pages and qualified quote requests",
+          "SaaS - demo campaigns and trial-to-sales enquiry journeys",
+          "Retail - coordinated product campaigns, customer segmentation and repeat-purchase follow-up"
+        ],
+        "children": []
+      },
+      {
+        "heading": "What we review with your team",
+        "kind": "metrics",
+        "paragraphs": [
+          "We review the agreed measures alongside completed work and the next priorities. Reporting distinguishes recorded activity from confirmed business outcomes."
+        ],
+        "items": [
+          "Qualified enquiries",
+          "Channel source and campaign spend",
+          "Lead response and follow-up stages",
+          "Agreed conversion actions"
+        ],
+        "children": []
+      },
+      {
+        "heading": "Questions before you start",
+        "kind": "faqs",
+        "paragraphs": [],
+        "items": [],
+        "children": [],
+        "faqs": [
+          {
+            "question": "Do I need a large advertising budget?",
+            "answer": "No fixed budget fits every company. The plan should begin with demand, competition and a testing budget the business can sustain."
+          },
+          {
+            "question": "Will SEO deliver results immediately?",
+            "answer": "SEO is usually gradual. Paid ads can generate visits sooner, but results still depend on demand, offer and landing-page quality."
+          },
+          {
+            "question": "How do you measure results?",
+            "answer": "Use agreed measures such as qualified enquiries, booked consultations, cost per lead and CRM conversion stages."
+          },
+          {
+            "question": "What access is needed to assess marketing performance?",
+            "answer": "Access may include analytics, advertising platforms, search tools and CRM reporting. Permissions should be limited to what is needed and approved by your team."
+          },
+          {
+            "question": "How do you define a qualified lead?",
+            "answer": "We agree qualification criteria with your team, such as service fit, location, intent and follow-up status, then report against those definitions."
+          },
+          {
+            "question": "What affects the cost of AI growth marketing?",
+            "answer": "The plan depends on the channels, content, implementation and reporting included. Advertising spend, software subscriptions and agency work should be separated. Start with a scope the business can sustain."
+          }
+        ]
+      },
+      {
+        "heading": "Discuss the next step for your business",
+        "kind": "cta",
+        "paragraphs": [
+          "Share your website, business priorities and the outcome you want to improve. We will discuss the scope and a practical next step."
+        ],
+        "items": [],
+        "children": [],
+        "button": "Discuss Your Growth Plan"
+      }
+    ]
+  }
+]

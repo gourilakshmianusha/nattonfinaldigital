@@ -1,0 +1,140 @@
+{
+  "researchDate": "2026-11-03",
+  "scope": "India-first marketing and administrative automation for healthcare and education organisations; no clinical or admissions decision-making system is represented.",
+  "pages": [
+    {
+      "slug": "healthcare",
+      "title": "Healthcare",
+      "eyebrow": "HEALTHCARE MARKETING & PATIENT ENQUIRIES",
+      "headline": "Healthcare marketing that makes the next step clear.",
+      "description": "Help people find accurate service information, understand how to contact your organisation and request an appointment. Connect local visibility, your website and administrative follow-up around a considered patient enquiry journey.",
+      "introTitle": "What is healthcare marketing?",
+      "intro": "Healthcare marketing helps a hospital, medical practice or diagnostic provider explain its services and become easier to find. It brings together a useful website, relevant search visibility, approved educational content and a clear route to the team. The goal is informed enquiries and a manageable follow-up process, with clinical information reviewed by the provider.",
+      "audience": ["Hospitals and multispeciality centres", "Independent medical and dental practices", "Diagnostic and imaging providers", "Allied-health and multi-location organisations"],
+      "needs": [
+        {"title": "Patients cannot find the right service", "description": "Service pages, location details or practitioner information may be incomplete, difficult to navigate or disconnected from search."},
+        {"title": "Enquiries arrive without a clear next step", "description": "Calls, forms and messages need a defined administrative owner and an appropriate appointment route."},
+        {"title": "Information changes across channels", "description": "Timings, available services and contact details should reflect what the organisation can currently provide."},
+        {"title": "Teams cannot see enquiry follow-up", "description": "A shared administrative process helps staff review pending requests and contact attempts without relying on personal inboxes."}
+      ],
+      "serviceBlocks": [
+        {"title": "Healthcare website design", "description": "Build clear service, practitioner and location pages with usable mobile layouts, accurate contact details and an appropriate appointment enquiry route.", "linkLabel": "Website development", "link": "/services/website-development"},
+        {"title": "Healthcare SEO & local visibility", "description": "Research service and location intent, improve relevant page content and review eligible Google Business Profiles. Give each location useful information instead of repeating city names.", "linkLabel": "SEO services", "link": "/services/seo"},
+        {"title": "Approved patient information", "description": "Turn provider-approved information into understandable service explainers, articles and social content. The organisation reviews medical accuracy and promotional statements before publication.", "linkLabel": "Content marketing", "link": "/services/content-marketing"},
+        {"title": "Relevant paid campaigns", "description": "Plan suitable search or social campaigns after reviewing the service, location, claims and platform requirements. Campaign eligibility and the appropriate enquiry destination are assessed before launch.", "linkLabel": "Paid advertising", "link": "/services/paid-advertising"},
+        {"title": "Administrative enquiry workflows", "description": "Connect agreed forms, appointment requests and team reminders. Use approved administrative responses and human handover; clinical assessment and treatment decisions stay with qualified care teams.", "linkLabel": "CRM & AI automation", "link": "/solutions/crm-ai-automation"},
+        {"title": "Meaningful enquiry reporting", "description": "Review relevant search visibility, contact actions and administrative response patterns. Configure measurement carefully so patient narratives and identifiable details are not sent into analytics events.", "linkLabel": "Discuss measurement", "link": "/contact"}
+      ],
+      "journeyTitle": "From discovery to an informed appointment enquiry.",
+      "journey": [
+        {"title": "Understand the service and care setting", "description": "Confirm the services, locations, audience, appointment process and people responsible for reviewing content. Establish the agreed marketing scope and handling of enquiries."},
+        {"title": "Make the foundations clear", "description": "Review the website, contact routes, eligible local profiles and existing measurement. Prioritise accurate service information and useful navigation before expanding promotion."},
+        {"title": "Connect visibility to the right information", "description": "Develop service and location content around researched questions. Add suitable campaigns only where the offering, platform rules, available capacity and budget support them."},
+        {"title": "Give administrative enquiries an owner", "description": "Agree how staff receive, review and follow up appointment requests. Test acknowledgements, reminders and handovers before putting automation into use."},
+        {"title": "Review and improve together", "description": "Use available enquiry and response information to identify friction. Refine content, routing and campaigns with the provider as services and priorities change."}
+      ],
+      "example": {
+        "title": "A clearer appointment enquiry",
+        "description": "Illustrative administrative flow. The care team confirms availability and any clinical next step.",
+        "workflow": ["Find a service page", "Request an appointment", "Administrative team reviews", "Team confirms the next step"],
+        "caption": "Example only. No live patient data, booking connection or medical decision is used in this preview."
+      },
+      "measurement": [
+        {"title": "Relevant search visibility", "description": "Queries and pages connected with the actual services and locations."},
+        {"title": "Contact and booking actions", "description": "Appropriately measured calls, enquiry submissions and appointment-link actions."},
+        {"title": "Administrative response patterns", "description": "Pending enquiries, ownership and response intervals where reliable records exist."},
+        {"title": "Enquiry quality", "description": "Whether enquiries match the services, location and appointment process the organisation offers."}
+      ],
+      "expectations": "We agree a phased plan after reviewing the website, locations, content approvals, enquiry process and system access. Foundation work, campaign readiness and ongoing optimisation have different dependencies; a proposal sets the deliverables and review points. Rankings, patient numbers and appointment outcomes are not guaranteed.",
+      "FAQs": [
+        {"question": "Who is this healthcare marketing service for?", "answer": "It can suit hospitals, independent practices, dental providers, diagnostic organisations and allied-health teams that need clearer visibility and enquiry handling. Single-location providers and larger groups need different scopes, so we review the services, geography, capacity and existing team before recommending the work."},
+        {"question": "Can you improve our existing website and Google Business Profile?", "answer": "Yes. We can review the current website and eligible profiles, identify gaps and prioritise changes. Google profile eligibility and how locations or practitioners should be represented need checking first. Existing systems and useful content can remain where they serve the organisation well."},
+        {"question": "Will you write medical content or use AI to answer patients?", "answer": "We can help structure and draft understandable service information, but the provider must review medical accuracy before publishing. An assistant, if included, is limited to an agreed administrative purpose and approved information. Diagnosis, treatment advice, emergencies and clinical decisions require the appropriate qualified team."},
+        {"question": "Can every healthcare service run paid ads?", "answer": "Campaign suitability depends on the service, claims, target market and platform requirements. Some healthcare-related advertising is restricted or requires specific approvals. We assess the proposed campaign before recommending it, and do not treat paid promotion as suitable for every service."},
+        {"question": "How do you handle patient information and tracking?", "answer": "We first define what an administrative enquiry needs, where it will be stored and who should receive it. Analytics should not receive names, contact details, patient narratives or other sensitive information. Your organisation's privacy and compliance requirements are reviewed with the relevant owners; this page does not certify a system as compliant."},
+        {"question": "When can we expect progress, and what does it cost?", "answer": "The starting point, content approvals, number of locations, campaign scope and integrations affect delivery. We agree milestones and costs in a proposal, including third-party or advertising charges where relevant. Initial setup can be reviewed separately from longer-term search visibility and optimisation; no fixed ranking or appointment promise is made."}
+      ],
+      "metaTitle": "Healthcare Marketing & Patient Enquiries | Natton Digital",
+      "metaDescription": "Healthcare marketing for hospitals, practices and diagnostics. Connect website design, SEO, local visibility and administrative enquiry follow-up with Natton.",
+      "keywords": {"primary": "healthcare marketing services", "secondary": ["digital marketing for hospitals", "healthcare website design", "healthcare SEO", "local SEO for healthcare providers", "patient enquiry management", "appointment enquiry automation"], "intentNote": "Editorial keyword themes, not measured search volumes or validated keyword-difficulty estimates. Use service and location terms only where the provider actually operates."},
+      "imageBrief": "Realistic editorial photograph of an Indian healthcare administrator welcoming an adult visitor at a contemporary reception, warm daylight, quiet confidence, no visible patient records, no medical procedure, no claim that the depicted people are Natton clients. Prefer licensed real photography; any generated visual is illustrative.",
+      "sources": [
+        {"url": "https://support.google.com/business/answer/3038177?hl=en-IN", "note": "Official representation and practitioner eligibility guidance; supports the conditional treatment of provider/location profiles."},
+        {"url": "https://support.google.com/business/answer/6218037?hl=en", "note": "Official support for service and appointment links; availability depends on the business category and region."},
+        {"url": "https://support.google.com/adspolicy/answer/176031", "note": "Official healthcare advertising restrictions; no claim that every medical service or campaign is eligible."},
+        {"url": "https://support.google.com/analytics/answer/6366371?hl=en", "note": "Official prohibition on passing identifiable information into Google Analytics; relevant to measurement design."},
+        {"url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content", "note": "People-first useful content and accuracy as a basis for editorial planning, not a ranking guarantee."}
+      ]
+    },
+    {
+      "slug": "education-edtech",
+      "title": "Education & EdTech",
+      "eyebrow": "EDUCATION MARKETING & ADMISSIONS JOURNEYS",
+      "headline": "Education marketing for more informed decisions.",
+      "description": "Help students, parents and working learners understand your offering. Bring programme information, relevant campaigns and counselling follow-up into a clear journey from first enquiry to the appropriate admissions team.",
+      "introTitle": "What is education marketing?",
+      "intro": "Education marketing helps an institution or learning business explain its programmes and reach suitable learners. Useful course pages, accurate information, relevant search visibility and organised counselling work together. The objective is an informed next step, shaped around your admissions calendar, learner needs and available capacity.",
+      "audience": ["Schools and higher-education institutions", "Coaching and training organisations", "Professional and vocational learning providers", "EdTech platforms and online learning businesses"],
+      "needs": [
+        {"title": "Interest is not reaching the right programme", "description": "Generic pages and campaigns can attract enquiries that do not match the course, location, learning format or intake."},
+        {"title": "Important information is difficult to find", "description": "Learners need clear course details, eligibility information, schedules, fees and a route to ask questions."},
+        {"title": "Counselling follow-up is scattered", "description": "Calls, forms and messages need ownership, context and a recorded next action as prospective learners consider their options."},
+        {"title": "Teams see enquiries but not the journey", "description": "Connecting source, counselling and application status helps teams identify where useful conversations stop moving."}
+      ],
+      "serviceBlocks": [
+        {"title": "Education website & course pages", "description": "Present programme details, entry requirements, delivery format, fees, schedules and useful FAQs. Build clear enquiry or application routes around the institution's process.", "linkLabel": "Website development", "link": "/services/website-development"},
+        {"title": "Education SEO & campus discovery", "description": "Research programme, career-learning and location intent. Improve course content and eligible campus profiles while keeping online-only and physical-location visibility needs distinct.", "linkLabel": "SEO services", "link": "/services/seo"},
+        {"title": "Intake and programme campaigns", "description": "Plan suitable advertising around the audience, intake window and course offering. Align ads with accurate landing-page information and the counselling team's ability to respond.", "linkLabel": "Paid advertising", "link": "/services/paid-advertising"},
+        {"title": "Content that answers real questions", "description": "Create course explainers, faculty introductions, learning-format previews and approved learner stories. Qualifications, recognition and outcome claims are checked with the institution before use.", "linkLabel": "Content marketing", "link": "/services/content-marketing"},
+        {"title": "Admissions CRM & counselling follow-up", "description": "Organise enquiry source, programme interest, assigned counsellor and next action. Add agreed acknowledgements and reminders, with staff responsible for admissions advice and decisions.", "linkLabel": "CRM & AI automation", "link": "/solutions/crm-ai-automation"},
+        {"title": "Enquiry-to-application visibility", "description": "Review programme interest, suitable enquiries, attended counselling and application milestones where the data is available. Separate campaign activity from verified enrolment outcomes.", "linkLabel": "Discuss measurement", "link": "/contact"}
+      ],
+      "journeyTitle": "A clearer path from interest to an informed next step.",
+      "journey": [
+        {"title": "Define the programme and learner", "description": "Confirm the courses, learning formats, locations, audience, entry information and intake calendar. Identify who approves content and owns counselling follow-up."},
+        {"title": "Make course information useful", "description": "Review the website, programme pages, enquiry routes and proof that can be substantiated. Resolve unclear eligibility, schedule, fee or recognition information before promotion."},
+        {"title": "Reach relevant learners", "description": "Combine suitable search content, social communication and campaigns around the agreed programme and audience. Choose channels because they fit the decision journey, not because every platform must be used."},
+        {"title": "Connect enquiries to counselling", "description": "Give each enquiry an owner, programme context and next action. Test any acknowledgement, reminder and handover flow before it supports the admissions team."},
+        {"title": "Review the quality of the journey", "description": "Compare sources, relevant enquiries and available counselling or application milestones. Use the team's feedback to improve information, targeting and follow-up over time."}
+      ],
+      "example": {
+        "title": "A programme enquiry with a useful handover",
+        "description": "Illustrative flow for an admissions team. Staff provide programme-specific guidance and confirm the next step.",
+        "workflow": ["Choose a programme", "Send an enquiry", "Counsellor receives context", "Team agrees the next step"],
+        "caption": "Example only. No live application, student record or automated admissions decision is used in this preview."
+      },
+      "measurement": [
+        {"title": "Programme-relevant visibility", "description": "Search and campaign activity connected with the courses and learners you intend to reach."},
+        {"title": "Suitable enquiries", "description": "Enquiries that match the agreed programme, location and learning format."},
+        {"title": "Counselling follow-through", "description": "Contact status, attended conversations and outstanding next actions where the team records them."},
+        {"title": "Application milestones", "description": "Applications or enrolments reported from the institution's own reliable records, separately from lead counts."}
+      ],
+      "expectations": "Plan around the admissions cycle or rolling-cohort schedule. We agree the foundation work, approval responsibilities, campaign launch conditions and review points before promotion. The scope depends on the number of programmes, locations, existing tools and follow-up process; advertising spend and third-party charges are identified separately where relevant.",
+      "FAQs": [
+        {"question": "Do you work with schools, colleges, coaching businesses and EdTech?", "answer": "The approach can be adapted to each, but they should not use an identical campaign. Parents, school leavers, working professionals and institutional buyers have different questions and decision journeys. We first review the offering, learner audience, delivery format, geography and admissions process."},
+        {"question": "Can you help us market a particular course or intake?", "answer": "Yes. A focused programme or intake can be a sensible starting point. We review its information, available capacity, audience and counselling process, then agree suitable content and channels. Programme availability, deadlines and claims must remain accurate as the campaign runs."},
+        {"question": "When should an institution start marketing an intake?", "answer": "Planning should begin early enough to prepare clear information, approvals, tracking and enquiry handling before promotion is needed. The right lead time varies with the programme and learner's decision cycle. We work backwards from the admissions calendar instead of promising one fixed campaign period for every institution."},
+        {"question": "Will AI counsel students or make admissions decisions?", "answer": "An assistant may answer approved administrative questions or collect programme interest when included in the scope. Staff remain responsible for individual guidance, eligibility checks and admissions decisions. Conversations involving children or sensitive information require an appropriately designed process and suitable human oversight."},
+        {"question": "How do you handle placement, selection and recognition claims?", "answer": "We use evidence supplied and verified by the institution, with the necessary approvals and context. We do not invent selection rates, guaranteed placements or success stories. Where recognition is relevant, the specific programme and current academic session should be checked rather than relying on a general claim."},
+        {"question": "Can you use our existing website, CRM or admissions software?", "answer": "Yes, we assess what already works and which connections are practical. The proposal sets out content, campaigns, follow-up responsibilities and any integration work. We also agree how performance will be reviewed, using available counselling and application records instead of assuming every enquiry becomes an enrolment."}
+      ],
+      "metaTitle": "Education & EdTech Marketing Services | Natton Digital",
+      "metaDescription": "Education marketing for institutions, coaching and EdTech. Connect course pages, SEO, campaigns and admissions follow-up around informed learner decisions.",
+      "keywords": {"primary": "education marketing services", "secondary": ["digital marketing for educational institutions", "EdTech marketing services", "education website design", "education SEO", "admissions enquiry management", "student enquiry CRM", "coaching institute marketing"], "intentNote": "Editorial keyword themes, not measured search volumes. Choose programme and location phrases only after confirming the actual offering and target market."},
+      "imageBrief": "Realistic editorial photograph of adult Indian learners and an educator discussing a programme in a bright contemporary learning space, visible learning materials without legible personal records, welcoming natural light. Do not depict generated people as Natton staff, students or clients. Prefer licensed real photography; any generated visual is illustrative.",
+      "sources": [
+        {"url": "https://www.ugc.gov.in/Home/faq", "note": "Official UGC guidance supports checking programme/session-specific recognition for ODL offerings; do not imply every education business is UGC-regulated."},
+        {"url": "https://consumeraffairs.nic.in/sites/default/files/file-uploads/latestnews/Guidelines%20for%20Prevention%20of%20Misleading%20Advertisement%20in%20Coaching%20Sector%2C%202024.pdf", "note": "Final CCPA coaching advertising guidelines; informs evidence-based claims, not a blanket legal compliance statement."},
+        {"url": "https://support.google.com/business/answer/3038177?hl=en-IN", "note": "Business Profile eligibility and representation should be assessed for physical campuses; online-only visibility has a different scope."},
+        {"url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content", "note": "Useful, original, people-first content and accurate authorship; no ranking promise."}
+      ]
+    }
+  ],
+  "researchNotes": {
+    "oldWebsiteAccess": "Opened nattondigital.com homepage and sitemap through web search. Homepage open returned no readable lines; sitemap was inaccessible. Search-indexed homepage text exposed healthcare/education mentions but no dedicated current industry pages were discoverable. Do not claim a full old-page audit.",
+    "relevantOldConceptsRetained": ["Patient appointment enquiries and administrative reminders", "Education programme enquiries and counselling follow-up", "Shared CRM context and defined team ownership", "Scoped automation and a human handover", "Relevant reporting and long-term improvement"],
+    "claimsExcluded": ["HIPAA compliant / healthcare safe AI triage", "ISO 27001 and SOC2 certification badges", "99.98% uptime", "86% patient onboarding improvement, saved staff costs and other unverified outcomes", "24/7 autonomous clinical or admissions service", "Guaranteed rankings, leads, appointments, enrolments or placements"],
+    "sourceRefs": ["turn80search2", "turn81search0", "turn81view0", "turn81view1", "turn80search3", "turn80search5", "turn80search6", "turn80search8", "turn81search1", "turn88search0", "turn88search12"],
+    "integrationNotes": ["All /services and /solutions links are conceptual integration routes; confirm against the final Natton website routing table before launch.", "Products may be linked as suitable options: GrowthOS for marketing foundations; BusinessOS for administrative coordination; AgenticOS only for separately scoped advanced orchestration; AI Marketing Platforms for approved creative/content tools.", "Avoid making every industry page a catalogue of every service. Show the relevant six blocks and a staged plan.", "Place detailed provider/privacy requirements in scoped discovery and FAQs; no fabricated legal certification is necessary for visual credibility."]
+  }
+}

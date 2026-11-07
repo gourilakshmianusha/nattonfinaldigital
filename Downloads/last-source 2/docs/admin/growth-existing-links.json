@@ -1,0 +1,23 @@
+{
+  "FreeTools": [
+    "book-demo",
+    "pricing",
+    "solutions/ai-marketing-platform",
+    "solutions/business-os",
+    "solutions/growth-os"
+  ],
+  "Tools": [
+    "contact",
+    "home"
+  ],
+  "AiReadinessAssessmentPage": [
+    "contact",
+    "home",
+    "products/ai-agents",
+    "products/ai-calling-agents",
+    "products/whatsapp-automation",
+    "solutions/agentic-os",
+    "solutions/business-os",
+    "solutions/growth-os"
+  ]
+}

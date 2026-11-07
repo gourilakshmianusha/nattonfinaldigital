@@ -1,0 +1,115 @@
+{
+  "passed": true,
+  "detailPageCount": 10,
+  "checks": [
+    "pre-rendered copy",
+    "one H1",
+    "unique metadata",
+    "canonical route",
+    "internal links",
+    "local assets",
+    "image alt/sizes",
+    "duplicate IDs",
+    "button types",
+    "schema validity and visible FAQ parity",
+    "shared global header/footer",
+    "GrowthOS byte identity",
+    "seven background fields per detail page",
+    "five-stage animated process",
+    "page effects control"
+  ],
+  "pages": [
+    {
+      "path": "/products/growth-os/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/growth-os/",
+      "HTMLBytes": 137578
+    },
+    {
+      "path": "/products/business-os/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/business-os/",
+      "HTMLBytes": 147431
+    },
+    {
+      "path": "/products/agentic-os/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/agentic-os/",
+      "HTMLBytes": 132241
+    },
+    {
+      "path": "/products/ai-marketing-platform/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 8,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/ai-marketing-platform/",
+      "HTMLBytes": 139995
+    },
+    {
+      "path": "/industries/healthcare/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/healthcare/",
+      "HTMLBytes": 134749
+    },
+    {
+      "path": "/industries/education-edtech/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/education-edtech/",
+      "HTMLBytes": 134657
+    },
+    {
+      "path": "/industries/real-estate/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/real-estate/",
+      "HTMLBytes": 133146
+    },
+    {
+      "path": "/industries/manufacturing/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/manufacturing/",
+      "HTMLBytes": 135863
+    },
+    {
+      "path": "/industries/retail-ecommerce/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/retail-ecommerce/",
+      "HTMLBytes": 136527
+    },
+    {
+      "path": "/industries/professional-services/",
+      "passed": true,
+      "errors": [],
+      "h1Count": 1,
+      "FAQCount": 6,
+      "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/professional-services/",
+      "HTMLBytes": 135715
+    }
+  ],
+  "growthOSVideoSHA256": "bb7dc7a0b969f21651308724e98f9eb8896bb81fa9a89713c93f09b31febd5d8",
+  "failures": []
+}

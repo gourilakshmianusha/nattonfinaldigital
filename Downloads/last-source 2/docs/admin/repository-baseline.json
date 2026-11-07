@@ -1,0 +1,20 @@
+{
+  "capturedAt": "2026-11-02T08:58:44.668Z",
+  "liveInspection": "unavailable; DNS failure after approved network retry",
+  "existingRecordsRead": false,
+  "databaseChangesApplied": false,
+  "existingMigrationFiles": [
+    {
+      "path": "supabase/config.toml",
+      "sha256": "eee7972274358b58fc90d74ad7d2a66a66cb0b769c952e99cba70f34782745ea"
+    },
+    {
+      "path": "supabase/migrations/20260820103040_3c970870-808c-4894-99fa-88bcdca6ecca.sql",
+      "sha256": "0e664e360e4cb8526386272326b74eba81242b428924310c00ba3de26324347c"
+    },
+    {
+      "path": "supabase/migrations/20260824120000_enable_shared_blog_crud.sql",
+      "sha256": "1aab2ff6d9a5cfa089707aa5f129a86c836b38d0d814855dce753f94b02c884b"
+    }
+  ]
+}

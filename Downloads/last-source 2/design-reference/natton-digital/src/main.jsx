@@ -1,0 +1,12 @@
+import React from 'react';
+import {hydrateRoot,createRoot} from 'react-dom/client';
+import App from './App.jsx';
+import './styles.css';
+import './standalone.css';
+import './review/layout-polish.css';
+import './solutions/hero-film.css';
+import './resources/navigation-restoration.css';
+import './performance/scroll-performance.css';
+const app=<App path={window.location.pathname}/>;
+const root=document.getElementById('root');
+if(root.querySelector('.page-shell,.home-site'))hydrateRoot(root,app);else createRoot(root).render(app);

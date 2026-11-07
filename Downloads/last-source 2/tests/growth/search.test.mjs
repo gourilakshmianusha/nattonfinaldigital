@@ -1,0 +1,8 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {toolRegistry} from '../../src/growth/registry.mjs';
+import {searchTools,toolHref,searchScore,toolSearchEntry} from '../../src/growth/search.mjs';
+const tools=toolRegistry.map(tool=>({...tool,visible:true}));
+test('tool names, aliases, spacing and punctuation resolve the particular tool',()=>{for(const [query,id] of [[' SEO + AEO audit ','seo_aeo_audit'],['seo audit tool','seo_aeo_audit'],['website grader','website_grader'],['PageSpeed','website_grader'],['ai assessment','ai_readiness'],['automation savings','automation_savings'],['lead-value','lead_value'],['crm maturity','crm_score']])assert.equal(searchTools(tools,query)[0]?.id,id,query);assert.equal(searchTools(tools,'not a real tool').length,0);assert.equal(searchTools(tools,'automation savings').length,1);});
+test('search respects visibility and current admin titles',()=>{const changed=tools.map(t=>t.id==='website_grader'?{...t,title:'Site Health Check'}:t);assert.equal(searchTools(changed,'site health check')[0].id,'website_grader');assert.equal(searchTools(changed,'pagespeed')[0].title,'Site Health Check');assert.ok(!searchTools(changed.map(t=>({...t,visible:false})),'pagespeed').length);});
+test('individual tool results outrank general pages and use the correct collection deep link',()=>{assert.ok(searchScore(toolSearchEntry(tools.find(t=>t.id==='seo_aeo_audit')),'seo audit')>searchScore({name:'SEO Services',category:'Services'},'seo audit'));assert.equal(toolHref('website_grader'),'/free-tools?tool=website_grader');assert.equal(toolHref('automation_savings'),'/roi-calculator?tool=automation_savings');assert.equal(toolHref('ai_readiness'),'/ai-readiness-assessment');});

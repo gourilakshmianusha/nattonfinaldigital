@@ -1,0 +1,238 @@
+{
+  "responsive": [
+    {
+      "route": "/products/growth-os/#capabilities",
+      "size": "Desktop",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 1348,
+        "width": 1348
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(255, 245, 228)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/business-os/#capabilities",
+      "size": "Desktop",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 1348,
+        "width": 1348
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/agentic-os/#capabilities",
+      "size": "Desktop",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 1348,
+        "width": 1348
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/ai-marketing-platform/#capabilities",
+      "size": "Desktop",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 1348,
+        "width": 1348
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/growth-os/#capabilities",
+      "size": "Tablet",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 745,
+        "width": 745
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/business-os/#capabilities",
+      "size": "Tablet",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 745,
+        "width": 745
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/agentic-os/#capabilities",
+      "size": "Tablet",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 745,
+        "width": 745
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/ai-marketing-platform/#capabilities",
+      "size": "Tablet",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 745,
+        "width": 745
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/growth-os/#capabilities",
+      "size": "Phone",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 375,
+        "width": 375
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/business-os/#capabilities",
+      "size": "Phone",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 375,
+        "width": 375
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/agentic-os/#capabilities",
+      "size": "Phone",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 375,
+        "width": 375
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    },
+    {
+      "route": "/products/ai-marketing-platform/#capabilities",
+      "size": "Phone",
+      "core": {
+        "cards": 6,
+        "overflow": 0,
+        "scroll": 375,
+        "width": 375
+      },
+      "addon": {
+        "cards": 4,
+        "optionalLabels": 4,
+        "overflow": 0,
+        "selected": "Solution add-ons4",
+        "selectedColor": "rgb(72, 46, 37)"
+      },
+      "keyboardHome": "true"
+    }
+  ],
+  "stableSwitch": {
+    "before": {
+      "scroll": 3517,
+      "top": 451.34375
+    },
+    "after": {
+      "scroll": 3517,
+      "top": 451.34375
+    }
+  },
+  "settledSelectedStyle": {
+    "color": "rgb(255, 245, 228)",
+    "darkCopper": true
+  },
+  "notes": [
+    "The first GrowthOS core count was rechecked after explicitly resetting the existing tab state.",
+    "Immediate text colours in rapid tests can be sampled during the 180ms transition; the settled selected colour was verified separately."
+  ]
+}

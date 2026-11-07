@@ -1,0 +1,71 @@
+/* A poster-led introduction becomes a clean, full-width player on request. */
+.home-site .page-shell.solution-refresh .sx-film-hero .sx-film-stage{display:grid;grid-template-columns:minmax(0,1fr);position:relative;isolation:isolate;z-index:2}
+.home-site .page-shell.solution-refresh .sx-film-hero .sx-film-copy-shell{grid-column:1;grid-row:1;align-self:center;position:relative;z-index:4;padding-block:44px 38px;pointer-events:none}
+.home-site .page-shell.solution-refresh .sx-film-hero .sx-hero-copy{padding:0;max-width:1080px;text-align:center}
+.home-site .page-shell.solution-refresh .sx-film-hero .sx-hero-copy h1{font-size:clamp(36px,4.9vw,66px);line-height:1.1;max-width:1050px;margin:0 auto}
+.home-site .page-shell.solution-refresh .sx-film-hero .hero-h1-label{font-size:11px;line-height:1.7;letter-spacing:.13em;margin-bottom:20px;justify-content:center;text-align:center}
+.home-site .page-shell.solution-refresh .sx-film-hero .sx-hero-bottom{display:block;margin-top:22px}
+.home-site .page-shell.solution-refresh .sx-film-hero .hero-description{font-size:16px;line-height:1.75;max-width:860px;margin:0 auto;text-align:center}
+.home-site .page-shell.solution-refresh .sx-film-hero :is(a,button){pointer-events:auto}
+.home-site .page-shell.solution-refresh .sx-film-hero .hero-actions{gap:24px;margin-top:24px;justify-content:center}
+.home-site .page-shell.solution-refresh .sx-film-hero .hero-actions .button{min-height:46px;font-size:13px}
+.home-site .page-shell.solution-refresh .sx-film-hero .hero-cues{justify-content:center;margin-top:18px;gap:12px 24px}
+.home-site .page-shell.solution-refresh .sx-film-hero .hero-cues li{font-size:10px}
+.home-site .page-shell.solution-refresh .sx-film-hero .solution-film{grid-column:1;grid-row:1;position:relative;z-index:2;min-width:0;width:100%;margin:0;align-self:stretch}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .solution-film{min-height:clamp(650px,calc(100svh - 148px),800px);background:#0c242b}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .solution-film-frame{position:absolute;inset:0}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .solution-film-frame:after{content:'';position:absolute;inset:0;background:linear-gradient(100deg,#071b24e6,#0a222bd9 50%,#071b24e6);pointer-events:none}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .solution-film video{width:100%;height:100%;object-fit:cover;aspect-ratio:auto}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro :is(.sx-hero-copy h1,.hero-h1-label){color:#f6faf8}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .hero-description{color:#e2eeeb}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .hero-cues li{color:#cde1d9}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .button-quiet{color:#e8f4ee;border-color:#aac9bd;box-shadow:inset 0 -1px #aac9bd66}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .button-primary{background:#c2dfd0;color:#153c38;border:1px solid #dbece2;box-shadow:0 5px 25px #03151b24}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-intro .button-primary:hover{background:#e0eee4;color:#163d38}
+.home-site .page-shell.solution-refresh .sx-film-start{display:flex;flex-direction:column;align-items:center;gap:12px;margin:25px auto 0;padding:0;background:none;color:#fff;border:0;cursor:pointer;pointer-events:auto}
+.home-site .page-shell.solution-refresh .sx-film-start-circle{display:grid;place-items:center;width:82px;height:82px;border-radius:50%;background:#f2f8f222;border:1px solid #e5f1ea99;backdrop-filter:blur(12px);box-shadow:0 0 0 8px #e6f3e909,0 8px 35px #00151e40;transition:background .2s,transform .2s}
+.home-site .page-shell.solution-refresh .sx-film-start-circle svg{width:27px;height:27px;margin-left:2px;fill:#f6faf5}
+.home-site .page-shell.solution-refresh .sx-film-start>span:last-child{font-size:12px;font-weight:700;letter-spacing:.02em}
+.home-site .page-shell.solution-refresh .sx-film-start small{font-size:11px;font-weight:400;opacity:.8;margin-left:9px}
+.home-site .page-shell.solution-refresh .sx-film-start:hover .sx-film-start-circle{background:#e0eee240;transform:scale(1.04)}
+.home-site .page-shell.solution-refresh .sx-film-start:focus-visible{outline:3px solid #d3eddf;outline-offset:12px;border-radius:3px}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-expanded .sx-film-copy-shell{grid-row:1;padding-block:38px 40px}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-expanded .solution-film{grid-row:2}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-expanded .solution-film-frame{position:relative;background:#081c24}
+.home-site .page-shell.solution-refresh .sx-film-hero.is-expanded .solution-film video{position:relative;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;scroll-margin-top:100px}
+.home-site .page-shell.solution-refresh .solution-film-toolbar{display:flex;align-items:center;justify-content:center;position:relative;min-height:76px;padding:13px 24px;gap:24px;background:#102a30;color:#f1f8f3;border-block:1px solid #91b8ad40}
+.home-site .page-shell.solution-refresh .solution-film-buttons{display:flex;align-items:center;gap:14px}
+.home-site .page-shell.solution-refresh .solution-film-buttons button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:46px;min-width:62px;padding:10px 16px;border-radius:5px;background:#1c3c40;border:1px solid #91b8ad66;color:#f0f8f3;font-size:15px;cursor:pointer;transition:background .2s,border-color .2s}
+.home-site .page-shell.solution-refresh .solution-film-buttons button:hover{background:#31554f;border-color:#c0d8c9}
+.home-site .page-shell.solution-refresh .solution-film-buttons button:disabled{opacity:.4;cursor:not-allowed}
+.home-site .page-shell.solution-refresh .solution-film-buttons button>span>span{font-size:11px;margin-left:2px}
+.home-site .page-shell.solution-refresh .solution-film-buttons .solution-film-toggle{background:#c2dfd0;color:#143b38;border-color:#d4e8dc;min-width:116px;font-size:13px;font-weight:700}
+.home-site .page-shell.solution-refresh .solution-film-buttons .solution-film-toggle:hover{background:#e0eee4}
+.home-site .page-shell.solution-refresh .solution-film-buttons .icon{width:17px;height:17px}
+.home-site .page-shell.solution-refresh .solution-film-toolbar output{font:12px/1.5 Arial,sans-serif;color:#e1eee5;min-width:77px;font-variant-numeric:tabular-nums}
+.home-site .page-shell.solution-refresh .solution-film-toolbar output>span{color:#a3c2b5}
+.home-site .page-shell.solution-refresh .solution-film-toolbar :focus-visible{outline:3px solid #c5e7d4;outline-offset:4px}
+.home-site .page-shell.solution-refresh .solution-film-error{padding:20px;background:#102a30;color:#f3eedc;font-size:14px;text-align:center}
+.home-site .page-shell.solution-refresh .solution-film-error a{display:inline-block;text-decoration:underline;margin-left:10px}
+.home-site .page-shell.solution-refresh .sx-film-start-error{font-size:14px;color:var(--muted);margin-top:18px}
+@media(max-width:700px){
+ .home-site .page-shell.solution-refresh .sx-film-hero .sx-film-copy-shell{padding-block:30px;align-self:start}
+ .home-site .page-shell.solution-refresh .sx-film-hero .sx-hero-copy h1{font-size:clamp(30px,8.1vw,46px);line-height:1.12}
+ .home-site .page-shell.solution-refresh .sx-film-hero .hero-h1-label{font-size:9px;line-height:1.75;letter-spacing:.1em;margin-bottom:18px}
+ .home-site .page-shell.solution-refresh .sx-film-hero .hero-description{font-size:14px;line-height:1.75}
+ .home-site .page-shell.solution-refresh .sx-film-hero .sx-hero-bottom{margin-top:23px}
+ .home-site .page-shell.solution-refresh .sx-film-hero.is-intro .solution-film{min-height:640px}
+ .home-site .page-shell.solution-refresh .sx-film-start{margin-top:24px}
+ .home-site .page-shell.solution-refresh .sx-film-start-circle{width:70px;height:70px}
+ .home-site .page-shell.solution-refresh .sx-film-hero .hero-actions{gap:13px 20px;margin-top:22px}
+ .home-site .page-shell.solution-refresh .sx-film-hero .hero-cues{gap:9px 15px;line-height:1.6}
+ .home-site .page-shell.solution-refresh .sx-film-hero .hero-cues li{font-size:9px}
+ .home-site .page-shell.solution-refresh .sx-film-hero.is-expanded .sx-film-copy-shell{padding-block:30px}
+ .home-site .page-shell.solution-refresh .sx-film-hero.is-expanded .solution-film video{scroll-margin-top:82px}
+ .home-site .page-shell.solution-refresh .solution-film-toolbar{gap:14px;min-height:72px;padding:12px 16px}
+ .home-site .page-shell.solution-refresh .solution-film-buttons{gap:9px}
+ .home-site .page-shell.solution-refresh .solution-film-buttons button{min-width:48px;padding:10px 12px}
+ .home-site .page-shell.solution-refresh .solution-film-buttons .solution-film-toggle{min-width:88px}
+ .home-site .page-shell.solution-refresh .solution-film-toolbar output{min-width:68px;font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){.home-site .page-shell.solution-refresh :is(.sx-film-start-circle,.solution-film-buttons button){transition:none}}

@@ -1,0 +1,59 @@
+/* Package content is part of the existing copper glass capability section. */
+.page-shell.product-theme { overflow-anchor: none; }
+.page-shell .package-section { overflow-anchor: none; }
+.page-shell .package-selector { margin-bottom: 36px; }
+.page-shell .package-tabs { display: flex; gap: 14px; flex-wrap: wrap; }
+.page-shell .package-tabs button {
+  display: flex; gap: 12px; align-items: center; min-height: 58px;
+  padding: 15px 19px; border: 1px solid var(--metal); border-radius: 16px;
+  color: var(--glass-ink); background: var(--glass-surface); font-size: .86rem; font-weight: 600;
+  box-shadow: inset 0 0 0 1px #fffdf0, inset 0 0 0 4px #fff8db19, 0 3px 5px var(--material-shadow);
+  transition: color .18s ease, background-color .18s ease, transform .2s ease;
+}
+.page-shell .package-tabs button .icon { width: 20px; height: 20px; }
+.page-shell .package-tabs button[aria-selected=true] {
+  color: var(--glass-white); background: var(--glass-dark); border-color: var(--metal-dark);
+  box-shadow: inset 0 0 0 1px var(--metal-light), inset 0 0 0 5px #fff3d81f, 0 5px 10px var(--material-shadow);
+}
+.page-shell .package-count { display: inline-grid; place-items: center; min-width: 25px; height: 25px; border: 1px solid currentColor; border-radius: 50%; font-size: .66rem; }
+.page-shell .package-scope-note { display: flex; gap: 9px; margin-top: 18px; color: var(--muted); font-size: .76rem; line-height: 1.6; max-width: 770px; }
+.page-shell .package-scope-note .icon { width: 16px; height: 16px; margin-top: 3px; }
+.page-shell .package-group-intro { margin-bottom: 27px; max-width: 850px; }
+.page-shell .package-group-intro h3 { font-size: 1.6rem; }
+.page-shell .package-group-intro p { margin-top: 13px; color: var(--muted); font-size: .88rem; line-height: 1.65; }
+.page-shell .package-card-top { display: flex; gap: 10px; align-items: center; justify-content: space-between; margin-bottom: 22px; }
+.page-shell .package-card-top .capability-icon { margin: 0; }
+.page-shell .package-badge { border: 1px solid currentColor; border-radius: 100px; padding: 5px 9px; font-size: .55rem; font-weight: 600; letter-spacing: .03em; line-height: 1.4; }
+.page-shell .package-section h4 { margin: 0; font: 600 1.35rem/1.18 Arial,Helvetica,sans-serif; letter-spacing: -.035em; color: inherit; text-wrap: balance; }
+.page-shell .package-tags { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 20px; }
+.page-shell .package-tags li { border: 1px solid currentColor; border-color: color-mix(in srgb, currentColor 25%, transparent); border-radius: 6px; padding: 5px 8px; font-size: .61rem; line-height: 1.45; background: #fff7e30a; }
+.page-shell .package-solutions-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 23px; }
+.page-shell .package-solution-card { display: flex; flex-direction: column; }
+.page-shell .package-solution-card .card-motion { margin-top: auto; padding-top: 20px; height: 105px; }
+.page-shell .package-solution-card .package-tags { margin-bottom: 20px; }
+.page-shell .package-footer { display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; margin-top: 32px; padding-top: 23px; border-top: 1px solid var(--line); }
+.page-shell .package-footer p { max-width: 750px; color: var(--muted); font-size: .73rem; line-height: 1.7; }
+.page-shell .package-footer .text-link { flex-shrink: 0; font-size: .75rem; }
+@media (hover:hover) and (pointer:fine) {
+ .page-shell .package-tabs button:hover { color: var(--glass-white); background: var(--glass-dark); transform: translateY(-2px); }
+}
+@media (max-width:1100px) {
+ .page-shell .package-section .capability-tile-0 .package-card-top,
+ .page-shell .package-section .capability-tile-0 h4,
+ .page-shell .package-section .capability-tile-0 .package-tags { grid-column: 1; }
+ .page-shell .package-section .capability-tile-0 .service-visual { grid-row: 1 / 6; }
+ .page-shell .package-footer { flex-direction: column; gap: 18px; }
+}
+@media (max-width:650px) {
+ .page-shell .package-tabs { display: grid; grid-template-columns: 1fr; gap: 12px; }
+ .page-shell .package-tabs button { min-height: 54px; font-size: .8rem; padding: 13px 15px; }
+ .page-shell .package-count { margin-left: auto; }
+ .page-shell .package-solutions-grid { grid-template-columns: 1fr; gap: 18px; }
+ .page-shell .package-group-intro h3 { font-size: 1.4rem; }
+ .page-shell .package-group-intro p { font-size: .84rem; }
+ .page-shell .package-scope-note { font-size: .72rem; }
+ .page-shell .package-selector { margin-bottom: 28px; }
+ .page-shell .package-card-top { margin-bottom: 20px; }
+ .page-shell .package-badge { font-size: .52rem; }
+}
+@media (prefers-reduced-motion:reduce) { .page-shell .package-tabs button { transition: none; } .page-shell .package-tabs button:hover { transform: none; } }

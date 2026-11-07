@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "ai-marketing-saas",
+    "title": "AI Marketing SaaS",
+    "path": "/products/ai-marketing-saas/",
+    "description": "AI content studio, automated SEO assistance, campaign scorer.",
+    "metaTitle": "AI Marketing Software & SaaS Development | Natton Digital",
+    "metaDescription": "Custom AI marketing software for content, SEO, campaigns, review replies and lead prioritisation. Natton plans, builds and supports your team\u2019s workflow.",
+    "kind": "product-platform"
+  },
+  {
+    "slug": "crm-ai-automation",
+    "title": "CRM & AI Automation SaaS",
+    "path": "/products/crm-ai-automation/",
+    "description": "GrowthOS CRM pipeline with instant WhatsApp automation.",
+    "metaTitle": "CRM & Marketing Automation Solutions | Natton Digital",
+    "metaDescription": "Connect customer records, sales pipelines, bookings, email and WhatsApp with CRM automation. Natton plans, builds and supports a setup around your business.",
+    "kind": "product-platform"
+  },
+  {
+    "slug": "conversational-ai",
+    "title": "Conversational AI Hub",
+    "path": "/products/conversational-ai/",
+    "description": "AI Calling agents, cloud telephony, and automated chats.",
+    "metaTitle": "Conversational AI & Chatbot Solutions | Natton Digital",
+    "metaDescription": "Connect WhatsApp, AI calling, cloud telephony and RCS around one customer journey. Natton designs channel workflows, CRM context and human handover.",
+    "kind": "product-platform"
+  },
+  {
+    "slug": "whatsapp-automation",
+    "title": "WhatsApp Automation",
+    "path": "/products/whatsapp-automation/",
+    "description": "WhatsApp Business API, broadcasts, and automated chatbots.",
+    "metaTitle": "WhatsApp Automation & Chatbot Services | Natton Digital",
+    "metaDescription": "Connect WhatsApp chatbots, campaigns, bookings, catalogues and support with your CRM. Natton designs, integrates and supports your customer journeys.",
+    "kind": "product-platform"
+  },
+  {
+    "slug": "ai-calling-agents",
+    "title": "AI Calling Agents",
+    "path": "/products/ai-calling-agents/",
+    "description": "Inbound & outbound Voice AI automation, simulated voice demos.",
+    "metaTitle": "AI Calling Agent Development & Integration | Natton Digital",
+    "metaDescription": "Custom AI calling agents for routine enquiries, qualification and appointment workflows. Natton designs voice journeys, system connections and human handover.",
+    "kind": "product-platform"
+  },
+  {
+    "slug": "cloud-telephony",
+    "title": "Cloud Telephony Platform",
+    "path": "/products/cloud-telephony/",
+    "description": "IVR, call routing, recording, analytics, and CRM integration.",
+    "metaTitle": "Cloud Telephony & IVR Solutions | Natton Digital",
+    "metaDescription": "Organise business calls with cloud telephony, IVR, call routing and CRM integration. Natton plans, configures and supports calling workflows around your team.",
+    "kind": "product-platform"
+  },
+  {
+    "slug": "rcs-messaging",
+    "title": "RCS Messaging Platform",
+    "path": "/products/rcs-messaging/",
+    "description": "Rich communication services, carousels, action buttons, and commerce.",
+    "metaTitle": "RCS Business Messaging Solutions | Natton Digital",
+    "metaDescription": "Create rich business messaging journeys with RCS cards, carousels and useful actions. Natton plans campaigns, integrations and fallback around supported audiences.",
+    "kind": "product-platform"
+  },
+  {
+    "slug": "ai-agents",
+    "title": "AI Agents & Automation",
+    "path": "/products/ai-agents/",
+    "description": "Autonomous n8n workflows, Sales agents, Support agents.",
+    "metaTitle": "AI Agents & Workflow Automation Services | Natton Digital",
+    "metaDescription": "Connect apps and reduce repetitive work with custom AI agents and workflow automation. Natton maps, builds, tests and supports processes around your business.",
+    "kind": "product-platform"
+  }
+]

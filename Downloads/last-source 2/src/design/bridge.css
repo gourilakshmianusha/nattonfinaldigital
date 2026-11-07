@@ -1,0 +1,66 @@
+/* Bridge Tailwind public shell ↔ v30 nh-* / paper theme.
+   Scoped so admin routes are unaffected. */
+
+body:not(.admin) .home-site,
+body:not(.admin) .page-shell.premium-theme {
+  --nh-paper: #f4f1ea;
+  --nh-ink: #1a1f2c;
+  --nh-muted: #5c6678;
+  --nh-brand: #2e9cae;
+  color: var(--nh-ink);
+  background:
+    radial-gradient(ellipse 90% 50% at 10% -10%, rgba(46, 156, 174, 0.08), transparent 55%),
+    radial-gradient(ellipse 70% 40% at 100% 0%, rgba(153, 213, 124, 0.07), transparent 50%),
+    linear-gradient(180deg, #f7f5ef 0%, #f1eee6 40%, #eef1f1 100%);
+}
+
+body:not(.admin) .home-site .nh-header,
+body:not(.admin) .page-shell .nh-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+
+/* Clear fixed nh-header (~92px). Banner removed in v30 header. */
+body:not(.admin) .home-site > .site-main,
+body:not(.admin) .page-shell > .site-main {
+  padding-top: 5.75rem;
+}
+
+@media (max-width: 760px) {
+  body:not(.admin) .home-site > .site-main,
+  body:not(.admin) .page-shell > .site-main {
+    padding-top: 4.875rem;
+  }
+}
+
+/* Immersive hero stays full-bleed under the fixed header */
+body:not(.admin) .home-site .home-body-wrap,
+body:not(.admin) .home-body-wrap {
+  margin-top: -5.75rem;
+}
+
+body:not(.admin) .home-body-wrap > .hero-im-root,
+body:not(.admin) .home-body-wrap > .hero-im-fallback-shell {
+  min-height: 100svh;
+}
+
+@media (max-width: 760px) {
+  body:not(.admin) .home-site .home-body-wrap,
+  body:not(.admin) .home-body-wrap {
+    margin-top: -4.875rem;
+  }
+}
+
+/* Soften leftover Tailwind purple dark panels on public pages */
+body:not(.admin) .home-site .bg-\[\#110B33\],
+body:not(.admin) .page-shell .bg-\[\#110B33\] {
+  background-color: #f4f1ea !important;
+  color: #1a1f2c !important;
+}
+
+body:not(.admin) .nh-search-dialog {
+  z-index: 200;
+}

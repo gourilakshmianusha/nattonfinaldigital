@@ -1,0 +1,4 @@
+Homepage hero image: Google DeepMind / Rose Pilkington, Visualising AI
+Source: https://unsplash.com/photos/a-group-of-computers-D_YZmKGSyic
+License: Unsplash License — https://unsplash.com/license
+Downloaded at 1400px width for local serving.

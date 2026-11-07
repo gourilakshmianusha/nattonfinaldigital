@@ -1,0 +1,10 @@
+{
+  "website": "Natton Digital",
+  "publishedVersion": 30,
+  "sourceCommit": "1124de2e9ac3ffcf7384bc710c3b961816c0c796",
+  "trackedSourceFiles": 522,
+  "trackedPublicAssets": 343,
+  "setup": "START-HERE.md",
+  "productionBuild": "npm run build",
+  "productionDirectory": "dist"
+}

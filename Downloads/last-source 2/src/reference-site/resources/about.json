@@ -1,0 +1,38 @@
+{
+  "offerings": [
+    {
+      "title": "Digital Marketing",
+      "text": "Reach the right customers through search, social media, advertising, and useful content. Bring your campaigns together to build awareness and generate relevant enquiries."
+    },
+    {
+      "title": "AI Marketing SaaS",
+      "text": "Plan campaigns, create content, and review performance with AI-powered marketing software. Help your team save time, stay organised, and improve everyday marketing decisions."
+    },
+    {
+      "title": "Agentic AI and Automation",
+      "text": "Use AI agents to handle enquiries, coordinate tasks, and connect business tools. Reduce repetitive work with clear workflows that keep your team in control."
+    },
+    {
+      "title": "Customer Management & Communication",
+      "text": "Manage customer details, enquiries, and follow-ups in one connected workspace. Use WhatsApp, chat, and calling tools to organise conversations, share updates, and support customers."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Understand your goals",
+      "text": "We listen to your challenges, review your current setup, and identify what matters most. Your priorities and budget guide our recommendations."
+    },
+    {
+      "title": "Agree on a clear plan",
+      "text": "We explain your options in plain language and agree on scope, responsibilities, and next steps. You know what to expect before we build."
+    },
+    {
+      "title": "Build and test together",
+      "text": "We connect the right tools and test everyday scenarios with your team. Your feedback helps shape a practical solution that fits your work."
+    },
+    {
+      "title": "Launch with lasting support",
+      "text": "We help your team learn the setup, document ownership, and agree on support. Together, we review results and improve as your needs change."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "edition": "Human scenes and contextual interfaces",
+  "pages": 13,
+  "viewports": [
+    375,
+    753,
+    1345
+  ],
+  "layoutChecks": 39,
+  "horizontalOverflow": false,
+  "clippedIllustrationContainers": false,
+  "originalTextEntriesVerified": 980,
+  "manualProcessSelection": "Enter selects a stage and pauses playback; selection persists",
+  "processAutoplay": "advanced from keyword research to monthly content review while visible",
+  "backgroundMotion": "social logo translate and connection dash offset changed while running",
+  "pauseControl": "hero logo animation computed play state paused, then resumed",
+  "hover": "light heading and body, theme fill, translateY -5 and scale 1.012",
+  "faq": "native disclosure opens and answer is visible",
+  "artwork": 13,
+  "responsiveImageFiles": 26,
+  "repairedAsset": "AEO full-size WebP rebuilt from its generated original; browser loaded and no broken images remained"
+}

@@ -1,0 +1,1941 @@
+[
+  {
+    "id": "website-development",
+    "name": "Website Design & Development",
+    "short": "Fast, mobile-friendly websites that clearly present your business and help visitors contact you.",
+    "target": "Startups, service businesses and growing brands needing a credible, easy-to-use website.",
+    "intro": [
+      "Your website is often the first place customers decide whether your business can help them. We propose clear page structures, accessible design, responsive layouts and useful calls to action so people can find services, compare options and enquire with confidence.",
+      "Development can cover a simple company website, service landing pages, booking pages, custom React experiences or WordPress content management. Every project should define the pages, integrations, ownership, content responsibilities and hosting plan before coding begins."
+    ],
+    "features": [
+      [
+        "Business website architecture",
+        "Page planning for Home, About, Services, individual service pages, Contact, FAQs and legal pages."
+      ],
+      [
+        "Responsive UI/UX design",
+        "Layouts tailored to desktop, tablet and mobile screens with readable typography."
+      ],
+      [
+        "CMS and content management",
+        "WordPress or an appropriate CMS so authorised staff can update pages."
+      ],
+      [
+        "SEO-ready foundations",
+        "Indexable pages, page-specific metadata, semantic headings, sitemap and structured data where relevant."
+      ],
+      [
+        "Speed and accessibility",
+        "Compress images, improve loading stability, keyboard navigation and colour contrast."
+      ],
+      [
+        "Lead capture and integrations",
+        "Contact forms, WhatsApp, appointments, analytics and approved CRM connections."
+      ],
+      [
+        "Security and maintenance",
+        "HTTPS, backup plan, role access and a documented update process."
+      ],
+      [
+        "Launch and handover",
+        "Cross-device QA, redirects, search indexing checks and training material."
+      ]
+    ],
+    "benefits": [
+      [
+        "Professional first impression",
+        "Help new visitors understand the business within seconds."
+      ],
+      [
+        "More enquiries",
+        "Place relevant contact options and clear forms where users need them."
+      ],
+      [
+        "Long-term control",
+        "Use maintainable architecture and documented ownership."
+      ]
+    ],
+    "steps": [
+      "Audit existing content and define page goals",
+      "Create sitemap, wireframes and visual design",
+      "Build, integrate forms and optimise content",
+      "Test responsiveness, speed, SEO and accessibility, then launch"
+    ],
+    "industries": [
+      "Healthcare: department, doctor and appointment pages",
+      "Education: course details, admissions and student enquiries",
+      "Retail: catalogue, product and checkout journeys",
+      "Professional services: expertise, service pages and lead-capture forms",
+      "Hospitality: room or table details, availability and booking enquiries"
+    ],
+    "faqs": [
+      [
+        "Will the website work on mobile?",
+        "Responsive behaviour should be tested on representative phones, tablets and desktop browsers."
+      ],
+      [
+        "Can I edit the content myself?",
+        "A CMS can be included when it is part of the agreed project scope."
+      ],
+      [
+        "Will the website rank first on Google?",
+        "No ranking is guaranteed. A technically sound foundation makes ongoing SEO work possible."
+      ]
+    ],
+    "deliverables": [
+      "Approved sitemap and page list",
+      "Responsive design mockups",
+      "Developed pages and reusable components",
+      "Contact forms and agreed integrations",
+      "Technical QA and deployment checklist",
+      "Handover with access and maintenance plan"
+    ],
+    "kpis": [
+      "Page load performance",
+      "Form completion rate",
+      "Mobile usability",
+      "Qualified website enquiries"
+    ],
+    "url": "/services/website-development/",
+    "hero": "A website that helps visitors trust your business and take action",
+    "seo": "Website Design & Development Services | Natton Digital",
+    "meta": "Build a responsive, SEO-ready business website with clear service pages, lead forms, accessible design and an organised launch plan."
+  },
+  {
+    "id": "seo-services",
+    "name": "Search Engine Optimization (SEO)",
+    "short": "Improve organic search visibility with useful content, technical improvements and ongoing measurement.",
+    "target": "Businesses wanting sustainable discovery from relevant non-paid Google searches.",
+    "intro": [
+      "Search Engine Optimization (SEO) helps search engines discover and understand website pages while making them more useful to real visitors. A responsible plan starts with website health, what customers search for, and whether each page answers the user’s question.",
+      "The work includes technical audits, keyword research, service-page optimisation, helpful articles, internal links and credible local signals. Rankings take time and change with competition and search updates, so measure qualified organic traffic, enquiries and important search queries—not just keyword positions."
+    ],
+    "features": [
+      [
+        "SEO and technical audit",
+        "Review crawl access, indexing, robots directives, canonical tags, XML sitemap and duplicate pages."
+      ],
+      [
+        "Keyword and intent research",
+        "Map priority services and questions to search intent and suitable pages."
+      ],
+      [
+        "On-page optimisation",
+        "Improve titles, descriptions, H1/H2 headings, URLs, page copy and image alt text."
+      ],
+      [
+        "Local SEO",
+        "Support location-relevant pages, business details and nearby search intent."
+      ],
+      [
+        "Content strategy",
+        "Plan useful FAQs, articles, comparison pages and service explanations."
+      ],
+      [
+        "Authority and links",
+        "Earn relevant citations and editorial mentions; avoid spammy link buying."
+      ],
+      [
+        "Structured data",
+        "Add valid schema markup when it represents visible and eligible content."
+      ],
+      [
+        "Reporting",
+        "Use Google Search Console and analytics to monitor clicks, indexing and conversions."
+      ]
+    ],
+    "benefits": [
+      [
+        "Better search discovery",
+        "Make the right service pages easier to discover."
+      ],
+      [
+        "Stronger content quality",
+        "Answer questions before visitors need to call."
+      ],
+      [
+        "Clearer search measurement",
+        "Know which pages contribute real enquiries."
+      ]
+    ],
+    "steps": [
+      "Audit technical health and current search performance",
+      "Research demand and map keywords to pages",
+      "Fix technical issues and improve priority pages",
+      "Publish helpful content and review Search Console monthly"
+    ],
+    "industries": [
+      "Clinics: specialty and appointment-intent searches",
+      "Education: course, fees and admissions information",
+      "Local service providers: city and service discovery",
+      "E-commerce: category, product and purchase-intent searches",
+      "Professional services: expertise, sector and location-specific service pages"
+    ],
+    "faqs": [
+      [
+        "How long does SEO take?",
+        "Meaningful changes often require sustained work over months; timing varies by market and competition."
+      ],
+      [
+        "Can SEO guarantee first position?",
+        "No. Search engines control rankings and no responsible provider can guarantee position one."
+      ],
+      [
+        "Is SEO different from Google Ads?",
+        "Yes. SEO improves non-paid search presence; Google Ads buys eligible ad placements."
+      ]
+    ],
+    "deliverables": [
+      "SEO baseline and competitor research",
+      "Technical audit with prioritised fixes",
+      "Keyword-to-page map",
+      "Optimised high-priority pages",
+      "Content calendar and FAQ recommendations",
+      "Monthly Search Console performance summary"
+    ],
+    "kpis": [
+      "Organic clicks and impressions",
+      "Non-branded search visibility",
+      "Indexed priority pages",
+      "Organic enquiry conversions"
+    ],
+    "url": "/services/seo-services/",
+    "hero": "Be easier to find when customers search for your services",
+    "seo": "SEO Services & Search Optimization | Natton Digital",
+    "meta": "Technical SEO, keyword research, on-page improvements, helpful content and transparent organic search reporting for businesses."
+  },
+  {
+    "id": "google-business-profile",
+    "name": "Google Business Profile (GMB/GBP)",
+    "short": "Help nearby customers find accurate business information on Google Search and Maps.",
+    "target": "Location-based businesses serving people at a physical location or eligible service area.",
+    "intro": [
+      "Google My Business (GMB) is now called Google Business Profile (GBP). An eligible, well-maintained Business Profile can help customers find your business on Google Search and Maps, see opening hours, check services and choose how to contact you.",
+      "Profile management should begin by checking eligibility and ownership, then verifying details, selecting the most accurate categories and keeping photos, service information and hours current. Review responses, updates and performance reporting should follow Google’s policies; no one can guarantee map-pack rankings or verification approval."
+    ],
+    "features": [
+      [
+        "Eligibility and profile audit",
+        "Check business eligibility, duplicates, access and public-facing information."
+      ],
+      [
+        "Setup and verification guidance",
+        "Assist with the legitimate verification process required by Google."
+      ],
+      [
+        "Business category optimisation",
+        "Select accurate primary and secondary categories rather than keyword stuffing."
+      ],
+      [
+        "Location and service information",
+        "Maintain name, address or service area, contact details, website and working hours."
+      ],
+      [
+        "Photos, updates and services",
+        "Prepare authentic business images, approved posts and helpful descriptions."
+      ],
+      [
+        "Review management",
+        "Respond professionally to real reviews without buying or fabricating ratings."
+      ],
+      [
+        "Local directory consistency",
+        "Identify inconsistent business details on major relevant listings."
+      ],
+      [
+        "Performance tracking",
+        "Review available Search and Maps interactions and website enquiries."
+      ]
+    ],
+    "benefits": [
+      [
+        "Reliable business information",
+        "Give customers correct contact and visit details."
+      ],
+      [
+        "Stronger local discovery",
+        "Support relevance and completeness for eligible local searches."
+      ],
+      [
+        "Customer confidence",
+        "Build trust through accurate images and thoughtful review responses."
+      ]
+    ],
+    "steps": [
+      "Check eligibility, ownership, duplicates and accuracy",
+      "Complete valid verification and business information",
+      "Add genuine photos, services and updates",
+      "Review performance and maintain information monthly"
+    ],
+    "industries": [
+      "Hospitals and clinics: hours, directions and appointment links",
+      "Restaurants: menus, business hours and authentic photos",
+      "Professional offices: service information and contact actions",
+      "Home services: service areas, call actions and quote requests",
+      "Hotels: directions, facilities, seasonal hours and booking links"
+    ],
+    "faqs": [
+      [
+        "Is GMB the same as Google Business Profile?",
+        "Yes. Google My Business is the older name; Google Business Profile is the current product name."
+      ],
+      [
+        "Can every online business create a profile?",
+        "No. Google has eligibility requirements, including in-person customer contact for many categories."
+      ],
+      [
+        "Can you promise top-three Google Maps ranking?",
+        "No. Visibility depends on several factors outside any agency’s control."
+      ]
+    ],
+    "deliverables": [
+      "Profile eligibility and ownership checklist",
+      "Optimised business description and categories",
+      "Accurate hours, services and contact information",
+      "Photo and content recommendations",
+      "Review-response guidelines",
+      "Monthly profile maintenance checklist"
+    ],
+    "kpis": [
+      "Profile interactions",
+      "Calls and direction requests where available",
+      "Website visits from the profile",
+      "Accuracy and completeness of business details"
+    ],
+    "url": "/services/google-business-profile/",
+    "hero": "Help local customers find and trust your business on Google",
+    "seo": "Google Business Profile Optimization (GMB) | Natton Digital",
+    "meta": "Set up and improve an eligible Google Business Profile with accurate details, authentic photos, local visibility guidance and review management."
+  },
+  {
+    "id": "ppc-google-ads",
+    "name": "PPC & Google Ads Management",
+    "short": "Run measurable paid search campaigns with suitable keywords, useful landing pages and lead tracking.",
+    "target": "Businesses that need a controlled way to test and scale paid search enquiries.",
+    "intro": [
+      "Pay-per-click (PPC) advertising lets eligible businesses pay for ad interactions when people search for relevant products or services. A strong Google Ads plan matches search intent to an offer, sends visitors to a helpful landing page and measures enquiries rather than simply counting clicks.",
+      "Campaigns should be launched with agreed monthly media budgets, conversion tracking, keyword exclusions, location targeting and a regular review process. Advertising spend is separate from agency management fees and results depend on competition, the offer, industry restrictions and landing-page experience."
+    ],
+    "features": [
+      [
+        "Campaign and account audit",
+        "Review account structure, policy status, past spend and business goals."
+      ],
+      [
+        "Keyword planning",
+        "Group search terms by intent; use suitable match types and negative keywords."
+      ],
+      [
+        "Google Search campaigns",
+        "Create relevant search ads, assets and geographic schedules."
+      ],
+      [
+        "Landing-page alignment",
+        "Match each ad group to a focused, responsive enquiry or product page."
+      ],
+      [
+        "Conversion tracking",
+        "Configure approved call, form and purchase events with consent where required."
+      ],
+      [
+        "Budget and bidding",
+        "Set realistic test budgets and suitable bidding strategies."
+      ],
+      [
+        "Ad creative testing",
+        "Test compliant headlines, messages and calls to action."
+      ],
+      [
+        "Reporting and optimisation",
+        "Evaluate search terms, conversion quality, cost per lead and wasted spend."
+      ]
+    ],
+    "benefits": [
+      [
+        "Reach high-intent searches",
+        "Show relevant ads to people actively looking for the service."
+      ],
+      [
+        "Budget visibility",
+        "Control agreed budgets and see which campaigns incur costs."
+      ],
+      [
+        "Actionable optimisation",
+        "Improve messages and landing pages using measured outcomes."
+      ]
+    ],
+    "steps": [
+      "Define qualified lead goals, regions and budget",
+      "Build conversion-ready landing pages and tracking",
+      "Launch policy-compliant campaigns with relevant targeting",
+      "Optimise search terms, ads and leads against agreed KPIs"
+    ],
+    "industries": [
+      "Local services: call and enquiry campaigns",
+      "Education: eligible course-interest search campaigns",
+      "E-commerce: product and shopping campaigns when eligible",
+      "Healthcare: policy-compliant searches for approved services and appointments",
+      "Professional services: high-intent searches mapped to consultation pages"
+    ],
+    "faqs": [
+      [
+        "Does PPC guarantee leads or sales?",
+        "No. Paid placement does not guarantee conversion; performance depends on demand and the customer journey."
+      ],
+      [
+        "Is Google Ads spend part of your service fee?",
+        "A proposal should state media spend and management fees separately."
+      ],
+      [
+        "Which Google Ads type should we start with?",
+        "It depends on the goal. Search ads are often a useful starting point for high-intent service enquiries."
+      ]
+    ],
+    "deliverables": [
+      "Media plan and budget recommendation",
+      "Google Ads campaign structure and assets",
+      "Keyword and negative-keyword plan",
+      "Landing-page improvement list",
+      "Conversion tracking QA",
+      "Recurring spend and lead quality reports"
+    ],
+    "kpis": [
+      "Cost per qualified lead",
+      "Conversion rate",
+      "Relevant search terms",
+      "Return on ad spend where measurable"
+    ],
+    "url": "/services/ppc-google-ads/",
+    "hero": "Reach the right searchers with accountable Google Ads campaigns",
+    "seo": "PPC & Google Ads Management | Natton Digital",
+    "meta": "Google Ads strategy, PPC keyword research, campaign setup, landing page optimisation, conversion tracking and transparent reporting."
+  },
+  {
+    "id": "social-media-marketing",
+    "name": "Social Media Marketing",
+    "short": "Plan consistent social content that informs audiences, builds trust and supports enquiries.",
+    "target": "Businesses needing a consistent, recognisable presence on relevant social platforms.",
+    "intro": [
+      "Social media marketing helps customers recognise your brand, understand your expertise and stay engaged over time. Effective content is built around real customer needs, not repetitive sales posts.",
+      "The service can include platform selection, monthly content themes, post and reel ideas, content calendar planning, community guidelines and performance reviews."
+    ],
+    "features": [
+      [
+        "Platform strategy",
+        "Choose relevant social platforms."
+      ],
+      [
+        "Audience research",
+        "Identify topics and customer questions."
+      ],
+      [
+        "Monthly content calendar",
+        "Plan posts and reels in advance."
+      ],
+      [
+        "Creative production",
+        "Design images and short-form concepts."
+      ],
+      [
+        "Publishing workflow",
+        "Review and schedule approved content."
+      ],
+      [
+        "Community guidance",
+        "Plan responses and escalation."
+      ],
+      [
+        "Brand voice",
+        "Maintain consistent tone and identity."
+      ],
+      [
+        "Performance review",
+        "Measure relevant reach and engagement."
+      ]
+    ],
+    "benefits": [
+      [
+        "Consistency",
+        "Publish useful content regularly."
+      ],
+      [
+        "Brand recognition",
+        "Present a recognisable voice."
+      ],
+      [
+        "Better learning",
+        "See which questions matter most to audiences."
+      ]
+    ],
+    "steps": [
+      "Review brand, audience and channels",
+      "Build content themes and calendar",
+      "Design, approve and publish",
+      "Review engagement and adjust"
+    ],
+    "industries": [
+      "Retail: product education",
+      "Healthcare: accessible patient education",
+      "Education: course updates",
+      "Hospitality: seasonal menus, local events and guest updates",
+      "Nonprofits: campaign stories, community updates and donation journeys"
+    ],
+    "faqs": [
+      [
+        "Which platforms are included?",
+        "Choose them based on target audiences and the agreed scope."
+      ],
+      [
+        "Do you provide videos?",
+        "Video creation should be explicitly included in the statement of work."
+      ],
+      [
+        "Can followers be guaranteed?",
+        "No. Genuine growth depends on platform and audience response."
+      ]
+    ],
+    "deliverables": [
+      "Channel audit",
+      "Monthly content calendar",
+      "Approved post concepts and captions",
+      "Creative templates",
+      "Reporting summary"
+    ],
+    "kpis": [
+      "Engagement quality",
+      "Website visits from social",
+      "Brand mentions",
+      "Social-sourced enquiries"
+    ],
+    "url": "/services/social-media-marketing/",
+    "hero": "Build trust with useful and consistent social content",
+    "seo": "Social Media Marketing Services | Natton Digital",
+    "meta": "Social strategy, content calendars, post design, community guidance and performance reporting for growing brands."
+  },
+  {
+    "id": "meta-ads",
+    "name": "Meta Ads (Facebook & Instagram)",
+    "short": "Create paid Facebook and Instagram campaigns with tested creatives and measured outcomes.",
+    "target": "Businesses seeking targeted awareness, enquiries or online sales on Meta platforms.",
+    "intro": [
+      "Facebook and Instagram advertising can connect the right message to suitable audiences across feeds, stories and other placements. Strong ads need a relevant offer, good creative and a fast destination.",
+      "Campaign work should include account readiness, audience and creative testing, pixel/conversions API strategy where appropriate and ongoing budget reviews."
+    ],
+    "features": [
+      [
+        "Ad account review",
+        "Check access, permissions and policies."
+      ],
+      [
+        "Audience strategy",
+        "Define eligible audiences and locations."
+      ],
+      [
+        "Campaign structure",
+        "Choose objectives aligned to goals."
+      ],
+      [
+        "Creative testing",
+        "Test design and messaging combinations."
+      ],
+      [
+        "Landing page and lead forms",
+        "Build clear enquiry paths."
+      ],
+      [
+        "Tracking setup",
+        "Set up consent-aware conversion measurement."
+      ],
+      [
+        "Retargeting strategy",
+        "Use eligible audiences with valid permissions."
+      ],
+      [
+        "Optimisation",
+        "Review lead quality and spend."
+      ]
+    ],
+    "benefits": [
+      [
+        "Audience reach",
+        "Connect with likely customers."
+      ],
+      [
+        "Creative learning",
+        "See which messages resonate."
+      ],
+      [
+        "Enquiry tracking",
+        "Measure performance beyond impressions."
+      ]
+    ],
+    "steps": [
+      "Set outcome and budget",
+      "Prepare creative and destination",
+      "Launch compliant ads",
+      "Test and optimise"
+    ],
+    "industries": [
+      "Education: course enquiries",
+      "Retail: catalogue campaigns",
+      "Events: registrations",
+      "Hospitality: local offers and event awareness",
+      "Professional services: educational content and consultation enquiries"
+    ],
+    "faqs": [
+      [
+        "Are ads guaranteed to perform?",
+        "No. Performance varies by offer, audience and creative."
+      ],
+      [
+        "Do you also make creatives?",
+        "Include exact creative quantities in the approved scope."
+      ],
+      [
+        "Is ad spend separate?",
+        "Specify media spend and fees separately."
+      ]
+    ],
+    "deliverables": [
+      "Campaign plan",
+      "Ad variants and creative briefs",
+      "Tracking QA",
+      "Budget and results report"
+    ],
+    "kpis": [
+      "Cost per lead",
+      "Cost per purchase",
+      "Qualified enquiry rate",
+      "Creative conversion performance"
+    ],
+    "url": "/services/meta-ads/",
+    "hero": "Turn social attention into measurable business enquiries",
+    "seo": "Meta Ads & Facebook Instagram Advertising | Natton Digital",
+    "meta": "Plan, create and optimise Meta Ads campaigns for awareness, leads and sales with effective creatives and conversion tracking."
+  },
+  {
+    "id": "content-marketing-blogging",
+    "name": "Content Marketing & Blogging",
+    "short": "Publish helpful website content that answers customer questions and supports search visibility.",
+    "target": "Businesses that need clearer website copy and a steady flow of useful articles.",
+    "intro": [
+      "Good content explains the problem, gives useful guidance and helps visitors choose the next step. This includes service page copy, FAQs, articles, case studies and email content.",
+      "Content plans should begin with audience questions, real expertise, factual review and a practical publishing workflow. AI-generated drafts require editorial checks and should never invent claims or testimonials."
+    ],
+    "features": [
+      [
+        "Topic research",
+        "Map questions and content gaps."
+      ],
+      [
+        "Editorial calendar",
+        "Plan publishing dates and responsibilities."
+      ],
+      [
+        "SEO content briefs",
+        "Align topics to search intent."
+      ],
+      [
+        "Service-page writing",
+        "Explain benefits in simple English."
+      ],
+      [
+        "Blog production",
+        "Create useful researched articles."
+      ],
+      [
+        "Internal linking",
+        "Connect related resources."
+      ],
+      [
+        "Editing and fact checks",
+        "Verify claims and sources."
+      ],
+      [
+        "Performance review",
+        "Improve existing articles using data."
+      ]
+    ],
+    "benefits": [
+      [
+        "Clearer explanations",
+        "Reduce confusion."
+      ],
+      [
+        "Useful search coverage",
+        "Answer relevant questions."
+      ],
+      [
+        "Reusable knowledge",
+        "Support sales and service teams."
+      ]
+    ],
+    "steps": [
+      "Research audience and topics",
+      "Approve briefs and outline",
+      "Write and verify content",
+      "Publish, measure and update"
+    ],
+    "industries": [
+      "Education: programme explainers",
+      "Healthcare: medically reviewed information",
+      "SaaS: feature explainers",
+      "Professional services: practical guides that explain expertise and process",
+      "Manufacturing: product explainers and technical resource libraries"
+    ],
+    "faqs": [
+      [
+        "Do you produce SEO blogs?",
+        "Yes, where included in the content scope."
+      ],
+      [
+        "Can AI write everything?",
+        "Drafts can use AI support, but humans must review facts and brand voice."
+      ],
+      [
+        "How many blogs per month?",
+        "Decide this in the approved scope."
+      ]
+    ],
+    "deliverables": [
+      "Content strategy",
+      "Monthly calendar",
+      "Approved briefs",
+      "Published copy",
+      "Review log"
+    ],
+    "kpis": [
+      "Engaged visits",
+      "Organic clicks",
+      "Assisted enquiries",
+      "Content completion rate"
+    ],
+    "url": "/services/content-marketing/",
+    "hero": "Useful content that answers questions and earns attention",
+    "seo": "Content Marketing & Blog Writing | Natton Digital",
+    "meta": "Content planning, website copy, SEO blogs, briefs, editing, internal links and ongoing content performance analysis."
+  },
+  {
+    "id": "aeo-ai-search",
+    "name": "AEO & AI Search Optimization",
+    "short": "Make important business information clear and usable across traditional and AI-assisted discovery.",
+    "target": "Businesses wanting reliable, well-structured content for modern search experiences.",
+    "intro": [
+      "Answer Engine Optimization (AEO) focuses on giving clear, well-supported answers to user questions. It overlaps with strong SEO fundamentals and should not be presented as a guaranteed way to be cited by any AI assistant.",
+      "The approach includes concise explanations, helpful comparison content, technical crawlability, entity consistency and factual content maintenance. AI answers and source-selection mechanisms can change without notice."
+    ],
+    "features": [
+      [
+        "Answer-focused research",
+        "Identify customer questions."
+      ],
+      [
+        "Structured content",
+        "Use clean headings and clear explanations."
+      ],
+      [
+        "FAQ development",
+        "Answer real buyer questions."
+      ],
+      [
+        "Entity consistency",
+        "Maintain accurate brand facts."
+      ],
+      [
+        "Schema where relevant",
+        "Use valid structured data."
+      ],
+      [
+        "Source transparency",
+        "Support claims with appropriate evidence."
+      ],
+      [
+        "Technical access",
+        "Avoid accidentally blocking eligible crawlers."
+      ],
+      [
+        "Visibility monitoring",
+        "Review discoverability without unsupported guarantees."
+      ]
+    ],
+    "benefits": [
+      [
+        "More useful content",
+        "Make complex topics easier to understand."
+      ],
+      [
+        "Consistent facts",
+        "Reduce outdated service information."
+      ],
+      [
+        "Search-readiness",
+        "Improve information architecture."
+      ]
+    ],
+    "steps": [
+      "Audit common questions",
+      "Improve answer content and trust signals",
+      "Validate technical structure",
+      "Monitor search and AI mentions cautiously"
+    ],
+    "industries": [
+      "SaaS: product and comparison questions",
+      "Education: course outcomes",
+      "Professional services: process explanations",
+      "Healthcare: reviewed answers to general service and appointment questions",
+      "Finance: clear, compliance-reviewed explanations of common product terms"
+    ],
+    "faqs": [
+      [
+        "Can AEO guarantee ChatGPT recommendations?",
+        "No. No agency controls AI answer selection."
+      ],
+      [
+        "Is AEO a replacement for SEO?",
+        "No. AEO builds on sound SEO and helpful content."
+      ],
+      [
+        "Do FAQs automatically create rich results?",
+        "No. Search appearance is determined by the search provider."
+      ]
+    ],
+    "deliverables": [
+      "Question and content map",
+      "Answer-first content drafts",
+      "Structured-data recommendations",
+      "Technical checks",
+      "Monitoring approach"
+    ],
+    "kpis": [
+      "Content engagement",
+      "Relevant organic impressions",
+      "Branded discoverability",
+      "Qualified enquiries"
+    ],
+    "url": "/services/aeo-ai-search/",
+    "hero": "Clear answers for today’s search and AI-assisted discovery",
+    "seo": "AEO & AI Search Optimization Services | Natton Digital",
+    "meta": "Improve answer-focused content, structured information and search foundations for AI-assisted discovery without ranking guarantees."
+  },
+  {
+    "id": "graphic-design-branding",
+    "name": "Graphic Design",
+    "short": "Create a recognisable visual identity and consistent marketing designs.",
+    "target": "New and established brands that need professional and coherent creative assets.",
+    "intro": [
+      "Brand design helps visitors recognise a company at a glance. Consistent colours, typography and imagery improve the experience across websites, ads and social profiles.",
+      "Projects can range from a logo refresh and style guide to campaigns, social templates and website banners, with agreed revision cycles and usage rights."
+    ],
+    "features": [
+      [
+        "Brand discovery",
+        "Understand audience and positioning."
+      ],
+      [
+        "Visual identity",
+        "Logo and colour recommendations."
+      ],
+      [
+        "Typography",
+        "Define accessible type styles."
+      ],
+      [
+        "Design system",
+        "Reusable components and patterns."
+      ],
+      [
+        "Social templates",
+        "Design consistent channel assets."
+      ],
+      [
+        "Campaign creatives",
+        "Prepare ad-ready variations."
+      ],
+      [
+        "Web graphics",
+        "Create banners and illustrations."
+      ],
+      [
+        "Export and handoff",
+        "Supply organised formats."
+      ]
+    ],
+    "benefits": [
+      [
+        "Brand consistency",
+        "Use one coherent identity."
+      ],
+      [
+        "Production speed",
+        "Reuse templates."
+      ],
+      [
+        "Professional presentation",
+        "Build confidence at touchpoints."
+      ]
+    ],
+    "steps": [
+      "Brand brief",
+      "Concept design",
+      "Review and revisions",
+      "Deliver brand assets"
+    ],
+    "industries": [
+      "Startups: brand identity",
+      "Education: campaign assets",
+      "Retail: product promotions",
+      "Hospitality: menus, signage and seasonal promotion assets",
+      "Healthcare: clear patient-facing service graphics and information materials"
+    ],
+    "faqs": [
+      [
+        "Do I own the final files?",
+        "Usage rights and source file handover must be defined in the agreement."
+      ],
+      [
+        "Are logo concepts included?",
+        "Only when specifically part of scope."
+      ],
+      [
+        "Can existing branding be retained?",
+        "Yes. Design can be matched to existing guidelines."
+      ]
+    ],
+    "deliverables": [
+      "Brand brief",
+      "Approved concepts",
+      "Core visual styles",
+      "Templates",
+      "Exported assets"
+    ],
+    "kpis": [
+      "Consistency audits",
+      "Asset turnaround time",
+      "Creative approval rate",
+      "Ad creative outcomes"
+    ],
+    "url": "/services/graphic-design-branding/",
+    "hero": "A visual identity customers recognise across every channel",
+    "seo": "Graphic Design Services | Natton Digital",
+    "meta": "Brand identity, social graphics, campaign creatives, website banners and reusable visual design systems."
+  },
+  {
+    "id": "email-marketing",
+    "name": "Email Marketing & Automation",
+    "short": "Build consent-based email journeys that inform leads and support customer relationships.",
+    "target": "Brands with permission-based email subscribers or existing customers.",
+    "intro": [
+      "Email marketing allows brands to educate subscribers, share updates and help customers take the next step. Successful programmes focus on permission, relevance and useful information rather than sending high volumes of unsolicited messages.",
+      "An engagement may include list segmentation, templates, campaign scheduling, welcome sequences and deliverability monitoring, with opt-out and privacy controls."
+    ],
+    "features": [
+      [
+        "Audience and consent audit",
+        "Review signup permissions."
+      ],
+      [
+        "Segmentation",
+        "Group contacts by relevant needs."
+      ],
+      [
+        "Templates",
+        "Create responsive email layouts."
+      ],
+      [
+        "Welcome journeys",
+        "Introduce new subscribers."
+      ],
+      [
+        "Campaign writing",
+        "Prepare concise messages."
+      ],
+      [
+        "Automation setup",
+        "Trigger appropriate follow-ups."
+      ],
+      [
+        "Deliverability",
+        "Check authentication and list hygiene."
+      ],
+      [
+        "Reporting",
+        "Review clicks and conversions."
+      ]
+    ],
+    "benefits": [
+      [
+        "Helpful follow-ups",
+        "Answer questions over time."
+      ],
+      [
+        "Relevant messages",
+        "Avoid indiscriminate campaigns."
+      ],
+      [
+        "Measurable engagement",
+        "Track approved metrics."
+      ]
+    ],
+    "steps": [
+      "Check consent and objectives",
+      "Build segments and templates",
+      "Test journeys and sending rules",
+      "Send and monitor"
+    ],
+    "industries": [
+      "Education: opted-in admissions follow-up",
+      "Retail: approved customer updates",
+      "B2B: newsletter nurturing",
+      "SaaS: onboarding, product education and feature updates",
+      "Events: opted-in registration confirmations and follow-up"
+    ],
+    "faqs": [
+      [
+        "Can you email purchased lists?",
+        "Do not use purchased or non-consented lists."
+      ],
+      [
+        "Is unsubscribe included?",
+        "Marketing emails should provide required opt-out options."
+      ],
+      [
+        "Can emails link to CRM?",
+        "Yes, if supported and covered by scope."
+      ]
+    ],
+    "deliverables": [
+      "Consent review",
+      "Email templates",
+      "Journey map",
+      "Automation setup",
+      "Engagement report"
+    ],
+    "kpis": [
+      "Click-through rate",
+      "Unsubscribe rate",
+      "Conversions",
+      "Deliverability health"
+    ],
+    "url": "/services/email-marketing/",
+    "hero": "Keep meaningful customer conversations going by email",
+    "seo": "Email Marketing & Automation Services | Natton Digital",
+    "meta": "Create consent-based email campaigns, welcome flows, segmented lists, responsive templates and measurable follow-ups."
+  },
+  {
+    "id": "ecommerce-development",
+    "name": "E-commerce Website Development",
+    "short": "Build a secure, mobile-friendly online store with product discovery and clear checkout flows.",
+    "target": "Retailers selling physical or digital products online.",
+    "intro": [
+      "An e-commerce site should make products easy to find, compare and purchase. The design must balance appealing product visuals with accurate information, stock status, payment confidence and mobile usability.",
+      "Development scope can cover storefront, product categories, search, cart, approved payment integration, delivery rules, order emails and reporting. Payment and customer data require responsible security and privacy practices."
+    ],
+    "features": [
+      [
+        "Store architecture",
+        "Categories, filters and search."
+      ],
+      [
+        "Product pages",
+        "Images, variants, price and details."
+      ],
+      [
+        "Shopping cart",
+        "Clear totals and editable quantities."
+      ],
+      [
+        "Checkout",
+        "Simple responsive flow."
+      ],
+      [
+        "Payment integration",
+        "Supported approved provider setup."
+      ],
+      [
+        "Order management",
+        "Statuses and customer emails."
+      ],
+      [
+        "SEO foundations",
+        "Product and category discoverability."
+      ],
+      [
+        "Analytics and handover",
+        "Track conversion and train staff."
+      ]
+    ],
+    "benefits": [
+      [
+        "Easier shopping",
+        "Reduce product discovery friction."
+      ],
+      [
+        "Fewer checkout barriers",
+        "Build trust in purchase steps."
+      ],
+      [
+        "Operational control",
+        "Manage products and orders."
+      ]
+    ],
+    "steps": [
+      "Plan catalogue and operational rules",
+      "Design store and product templates",
+      "Build checkout and integrations",
+      "Test purchases, refunds and launch"
+    ],
+    "industries": [
+      "Fashion: category and size variants",
+      "Jewellery: visual product discovery",
+      "Food: menu and delivery options",
+      "Home goods: product bundles, specifications and delivery details",
+      "Subscription brands: plan comparisons, recurring orders and renewal journeys"
+    ],
+    "faqs": [
+      [
+        "Which platform should be used?",
+        "Choose based on catalogue, budget and integrations; Shopify and WooCommerce are common options."
+      ],
+      [
+        "Will payments be secure?",
+        "Use an established payment provider and follow its integration requirements."
+      ],
+      [
+        "Can staff add products?",
+        "Yes, with an agreed CMS/admin setup."
+      ]
+    ],
+    "deliverables": [
+      "Store sitemap",
+      "Product page templates",
+      "Cart and checkout",
+      "Payment setup",
+      "Test orders",
+      "Management handover"
+    ],
+    "kpis": [
+      "Purchase conversion rate",
+      "Cart abandonment",
+      "Checkout completion",
+      "Revenue attribution"
+    ],
+    "url": "/services/ecommerce-development/",
+    "hero": "An online store designed to help customers find and buy",
+    "seo": "E-commerce Website Development | Natton Digital",
+    "meta": "Build responsive stores with product catalogues, secure checkout integrations, order workflows and SEO foundations."
+  },
+  {
+    "id": "analytics-cro",
+    "name": "Analytics & Conversion Rate Optimization",
+    "short": "Understand user journeys and improve the steps that lead to genuine enquiries or sales.",
+    "target": "Businesses that receive website traffic but cannot clearly measure actions and outcomes.",
+    "intro": [
+      "Digital marketing is easier to improve when you can understand what visitors do and where they stop. Analytics and conversion optimisation combine accurate measurement with practical changes to page design, copy and forms.",
+      "The starting point is a tracking and consent audit, followed by a clear event plan, dashboards and carefully prioritised tests. Small data sets should be interpreted cautiously and results are not guaranteed."
+    ],
+    "features": [
+      [
+        "Analytics audit",
+        "Review GA4 and related configurations."
+      ],
+      [
+        "Event tracking plan",
+        "Define form, call and purchase events."
+      ],
+      [
+        "Consent and privacy",
+        "Apply appropriate visitor permission controls."
+      ],
+      [
+        "Funnel reporting",
+        "Visualise step-by-step journeys."
+      ],
+      [
+        "Landing-page reviews",
+        "Check clarity and friction."
+      ],
+      [
+        "Form improvements",
+        "Reduce unnecessary fields."
+      ],
+      [
+        "Experiment planning",
+        "Design safe tests."
+      ],
+      [
+        "Performance dashboard",
+        "Report actionable results."
+      ]
+    ],
+    "benefits": [
+      [
+        "Clearer measurement",
+        "Use trustworthy data."
+      ],
+      [
+        "Better page decisions",
+        "Find areas needing improvement."
+      ],
+      [
+        "Efficient spend",
+        "Link marketing efforts to outcomes."
+      ]
+    ],
+    "steps": [
+      "Audit tracking and goals",
+      "Define events and dashboard",
+      "Identify priority friction points",
+      "Test changes and monitor outcomes"
+    ],
+    "industries": [
+      "SaaS: demo requests",
+      "E-commerce: checkout completion",
+      "Education: enrolment forms",
+      "Service businesses: lead-form completion and call actions",
+      "Subscription products: signup, activation and renewal funnels"
+    ],
+    "faqs": [
+      [
+        "Does GA4 track everything automatically?",
+        "No. Important business events need configuration and verification."
+      ],
+      [
+        "Can conversions increase immediately?",
+        "Not necessarily; improvements require testing and traffic."
+      ],
+      [
+        "Will privacy compliance be handled?",
+        "Consent and legal requirements need an approved implementation and review."
+      ]
+    ],
+    "deliverables": [
+      "Tracking specification",
+      "GA4 event QA",
+      "Funnel report",
+      "CRO opportunity list",
+      "Experiment roadmap"
+    ],
+    "kpis": [
+      "Lead-to-visit conversion rate",
+      "Form completion",
+      "Checkout conversion",
+      "Data quality"
+    ],
+    "url": "/services/analytics-cro/",
+    "hero": "Turn website data into clearer marketing decisions",
+    "seo": "Analytics & CRO Services | Natton Digital",
+    "meta": "GA4 setup, conversion tracking, funnel analysis, landing-page optimisation and practical reporting for better digital decisions."
+  },
+  {
+    "id": "ai-growth-marketing",
+    "name": "AI Growth Marketing",
+    "short": "Get more relevant enquiries through search, landing pages and well-managed digital advertising.",
+    "target": "Businesses that need consistent, measurable lead generation.",
+    "intro": [
+      "Digital growth works best when every campaign supports a clear customer journey. Natton Digital can bring together search visibility, landing pages, paid campaigns and conversion tracking so prospects move from discovery to enquiry with fewer obstacles.",
+      "Rather than focusing only on clicks, this service should explain how campaigns are planned around business goals, lead quality, response speed and reporting. Clients should understand where their leads come from and which activities are worth improving."
+    ],
+    "features": [
+      [
+        "Growth strategy",
+        "Research audiences, services, locations and demand before launching campaigns."
+      ],
+      [
+        "SEO & landing pages",
+        "Create helpful, fast pages for the searches customers actually make."
+      ],
+      [
+        "Google & Meta campaigns",
+        "Plan paid campaigns with transparent budgets and appropriate tracking."
+      ],
+      [
+        "Conversion improvements",
+        "Improve calls-to-action, forms, mobile usability and follow-up flows."
+      ],
+      [
+        "Lead source tracking",
+        "Connect website forms, ads and CRM records where consent allows."
+      ],
+      [
+        "Campaign reporting",
+        "Review leads, costs and outcomes with easy-to-read monthly reports."
+      ]
+    ],
+    "benefits": [
+      [
+        "More relevant enquiries",
+        "Aim to attract people looking for the service rather than just broad traffic."
+      ],
+      [
+        "Clearer marketing decisions",
+        "Understand which channels and landing pages are helping."
+      ],
+      [
+        "Less manual follow-up",
+        "Pass consented leads into an organised sales process."
+      ]
+    ],
+    "steps": [
+      "Discover goals, locations and target customers",
+      "Build landing pages, tracking and campaign plan",
+      "Launch, test and refine campaigns",
+      "Report lead quality and improvements"
+    ],
+    "industries": [
+      "Healthcare: appointment enquiries and approved patient communications",
+      "Education: admissions enquiries and course landing pages",
+      "Professional services: consultation requests and qualified leads",
+      "Home services: location landing pages and qualified quote requests",
+      "SaaS: demo campaigns and trial-to-sales enquiry journeys"
+    ],
+    "faqs": [
+      [
+        "Do I need a large advertising budget?",
+        "No fixed budget fits every company. The plan should begin with demand, competition and a testing budget the business can sustain."
+      ],
+      [
+        "Will SEO deliver results immediately?",
+        "SEO is usually gradual. Paid ads can generate visits sooner, but results still depend on demand, offer and landing-page quality."
+      ],
+      [
+        "How do you measure results?",
+        "Use agreed measures such as qualified enquiries, booked consultations, cost per lead and CRM conversion stages."
+      ]
+    ],
+    "slug": "ai-growth-marketing",
+    "image": "laptop growth chart"
+  },
+  {
+    "id": "ai-marketing-saas",
+    "name": "AI Marketing SaaS",
+    "short": "Plan, create, review and measure marketing content from a coordinated workspace.",
+    "target": "Teams producing repeated campaigns across channels.",
+    "intro": [
+      "AI-assisted marketing software can reduce the time spent drafting content, organising ideas and compiling campaign reports. A practical platform helps teams prepare work faster while keeping human approval for accuracy, tone and brand fit.",
+      "Natton Digital should present this as a set of usable tools, not a promise of fully automatic growth. Buyers need to see the day-to-day workflows, permissions, review stages and measurable outputs before subscribing."
+    ],
+    "features": [
+      [
+        "Content workspace",
+        "Collect campaign briefs, brand guidance and approved creative assets."
+      ],
+      [
+        "AI writing assistance",
+        "Draft variations of emails, captions and landing-page text for human review."
+      ],
+      [
+        "SEO content support",
+        "Organise topics, page outlines and on-page optimisation tasks."
+      ],
+      [
+        "Campaign planning",
+        "Manage publishing calendars, deadlines and approval stages."
+      ],
+      [
+        "Creative review",
+        "Compare message variations and reject inaccurate or off-brand copy."
+      ],
+      [
+        "Performance dashboard",
+        "Combine approved channel metrics into a reporting view."
+      ]
+    ],
+    "benefits": [
+      [
+        "Faster preparation",
+        "Cut repetitive first-draft and reporting work."
+      ],
+      [
+        "Consistent brand voice",
+        "Use defined messages and a clear approval process."
+      ],
+      [
+        "Team visibility",
+        "Keep plans, content and performance in one workflow."
+      ]
+    ],
+    "steps": [
+      "Set brand rules, audience and campaign goals",
+      "Generate and edit draft content",
+      "Approve and publish through supported channels",
+      "Review reports and improve next campaigns"
+    ],
+    "industries": [
+      "Agencies: content production across client accounts",
+      "Retail: product promotions and seasonal campaigns",
+      "Education: course descriptions and admissions content",
+      "Professional services: approved expertise-led campaign content",
+      "SaaS: feature education, release announcements and campaign variants"
+    ],
+    "faqs": [
+      [
+        "Can AI-generated content be published without review?",
+        "Human review is recommended for factual accuracy, brand fit, privacy and platform compliance."
+      ],
+      [
+        "Does the platform replace marketers?",
+        "No. It supports planning and repetitive work; people remain responsible for strategy and approvals."
+      ],
+      [
+        "Can existing tools be connected?",
+        "Connection options depend on the chosen plan, provider permissions and available APIs; list supported integrations precisely."
+      ]
+    ],
+    "slug": "ai-marketing-saas",
+    "image": "AI content studio workstation"
+  },
+  {
+    "id": "crm-and-automation",
+    "name": "CRM & Automation SaaS",
+    "short": "Organise leads, sales conversations, appointments and follow-ups in one process.",
+    "target": "Sales and service teams that currently work in spreadsheets and scattered inboxes.",
+    "intro": [
+      "A customer relationship management system gives teams one place to see new enquiries, active opportunities and follow-up tasks. Useful automation can assign leads, confirm meetings and remind staff what needs attention.",
+      "The page should show a sample pipeline, explain how contact data is imported with permission and describe which reminders are automated versus managed by the team. Customers need a realistic onboarding process."
+    ],
+    "features": [
+      [
+        "Contact management",
+        "Store permitted customer records and conversation notes in one view."
+      ],
+      [
+        "Sales pipeline",
+        "Track each enquiry from new lead to won, lost or follow-up."
+      ],
+      [
+        "Forms & booking",
+        "Collect enquiries and connect approved calendars or scheduling tools."
+      ],
+      [
+        "Follow-up reminders",
+        "Send consent-based reminders and assign overdue actions to owners."
+      ],
+      [
+        "Lead routing",
+        "Send incoming enquiries to the right team or location."
+      ],
+      [
+        "CRM reporting",
+        "Review response times, pipeline stages and conversion trends."
+      ]
+    ],
+    "benefits": [
+      [
+        "Fewer missed enquiries",
+        "Make ownership and next actions visible."
+      ],
+      [
+        "Better coordination",
+        "Give approved team members a shared customer view."
+      ],
+      [
+        "More reliable follow-up",
+        "Use triggers and reminders instead of memory alone."
+      ]
+    ],
+    "steps": [
+      "Review current lead sources and customer stages",
+      "Configure fields, pipeline and user permissions",
+      "Connect forms, calendars and messaging tools",
+      "Train users and refine follow-up rules"
+    ],
+    "industries": [
+      "Real estate: property enquiries and site-visit scheduling",
+      "Healthcare: non-clinical enquiry routing and appointments",
+      "Professional services: consultation and proposal tracking",
+      "Home services: quote follow-up, job scheduling and customer updates",
+      "SaaS: demo pipelines, trial follow-up and account handoffs"
+    ],
+    "faqs": [
+      [
+        "Can we import existing contacts?",
+        "Usually, provided the records are lawfully collected, formatted and compatible with the CRM."
+      ],
+      [
+        "Will our team need training?",
+        "Yes. A short role-based setup and training plan should be part of delivery."
+      ],
+      [
+        "Can staff override an automated workflow?",
+        "Recommended designs include permission controls, manual actions and audit history for important changes."
+      ]
+    ],
+    "slug": "crm-and-automation",
+    "image": "lead management sales funnel"
+  },
+  {
+    "id": "conversational-ai",
+    "name": "Conversational AI",
+    "short": "Answer common questions and guide enquiries through useful automated conversations.",
+    "target": "Customer-facing businesses with repeated questions across channels.",
+    "intro": [
+      "Conversational AI can help customers find opening hours, service information, booking steps or the right support team. It is most useful when it has an approved knowledge base, clear limits and a smooth handoff to a person.",
+      "The service page should avoid promising that a chatbot understands everything. Instead, demonstrate a few real examples, what it can safely handle and when human support takes over."
+    ],
+    "features": [
+      [
+        "Knowledge-backed answers",
+        "Respond using reviewed business content and service information."
+      ],
+      [
+        "Website chat",
+        "Offer guided enquiry capture on supported web pages."
+      ],
+      [
+        "Multi-channel handoff",
+        "Route conversations to approved channels and staff tools."
+      ],
+      [
+        "Lead qualification",
+        "Ask simple questions relevant to the requested service."
+      ],
+      [
+        "Human escalation",
+        "Transfer uncertain or sensitive requests to a trained team."
+      ],
+      [
+        "Conversation insights",
+        "Review common questions, unresolved issues and customer feedback."
+      ]
+    ],
+    "benefits": [
+      [
+        "Faster first response",
+        "Give helpful guidance outside business hours when configured."
+      ],
+      [
+        "Lower repetitive workload",
+        "Free staff from answering the same basic questions repeatedly."
+      ],
+      [
+        "Better enquiry routing",
+        "Direct people to appropriate services or team members."
+      ]
+    ],
+    "steps": [
+      "Collect FAQs and approved knowledge sources",
+      "Design conversation scenarios and escalation rules",
+      "Test responses, privacy controls and unsupported questions",
+      "Deploy to selected channels and monitor quality"
+    ],
+    "industries": [
+      "Education: course and admission FAQs",
+      "Retail: delivery, return and product questions",
+      "Healthcare: general services and appointment guidance, not diagnoses",
+      "Travel and hospitality: booking, check-in and itinerary FAQs",
+      "Financial services: general product FAQs with clear human escalation"
+    ],
+    "faqs": [
+      [
+        "Can the chatbot make clinical or legal decisions?",
+        "It should not. High-stakes questions must be directed to qualified professionals."
+      ],
+      [
+        "What if the bot does not know an answer?",
+        "It should say so clearly and offer a handoff or support contact."
+      ],
+      [
+        "Which languages are supported?",
+        "This depends on the chosen model, content, integrations and language testing; verify before advertising support."
+      ]
+    ],
+    "slug": "conversational-ai",
+    "image": "chatbot virtual assistant"
+  },
+  {
+    "id": "whatsapp-automation",
+    "name": "WhatsApp Automation",
+    "short": "Manage opted-in WhatsApp enquiries, reminders and support messages at scale.",
+    "target": "Businesses using WhatsApp as a primary customer communication channel.",
+    "intro": [
+      "WhatsApp automation can make business conversations more organised by routing enquiries, sending approved template messages and updating CRM records. It can support bookings, reminders and customer support when customers have opted in and channel policies are followed.",
+      "A good service page explains the difference between basic WhatsApp Business features and the official Business Platform API. It should also explain template approval, costs, opt-outs and human support."
+    ],
+    "features": [
+      [
+        "Official platform setup",
+        "Configure eligible WhatsApp Business Platform connections."
+      ],
+      [
+        "Opt-in lead capture",
+        "Record communication consent and the purpose of each message."
+      ],
+      [
+        "Template messaging",
+        "Build and submit approved transactional or follow-up templates."
+      ],
+      [
+        "Automated responses",
+        "Answer simple enquiries with controlled flows or AI assistance."
+      ],
+      [
+        "CRM syncing",
+        "Pass relevant conversation events to permitted contact records."
+      ],
+      [
+        "Agent inbox",
+        "Allow staff to continue conversations when automation is insufficient."
+      ]
+    ],
+    "benefits": [
+      [
+        "Timely replies",
+        "Respond to inbound questions without losing the conversation."
+      ],
+      [
+        "Organised reminders",
+        "Send approved booking or service updates when allowed."
+      ],
+      [
+        "One customer history",
+        "Give authorised staff useful context during handoff."
+      ]
+    ],
+    "steps": [
+      "Verify business eligibility and message use cases",
+      "Set up platform access, templates and opt-in records",
+      "Connect CRM, inbox and routing rules",
+      "Test, launch and measure replies and opt-outs"
+    ],
+    "industries": [
+      "Healthcare: appointment notifications with appropriate safeguards",
+      "Education: admission and application updates",
+      "Retail: order information and service support",
+      "Travel: booking confirmations, itinerary updates and service notifications",
+      "Home services: quote updates, appointment windows and technician arrival alerts"
+    ],
+    "faqs": [
+      [
+        "Can we send messages to any phone number?",
+        "No. Follow WhatsApp policies and applicable law, including valid opt-in requirements."
+      ],
+      [
+        "Are message charges included?",
+        "Pricing depends on Meta and service-provider rates and should be shown separately."
+      ],
+      [
+        "Can customers speak to a person?",
+        "Yes, a staff handoff should be part of the recommended flow."
+      ]
+    ],
+    "slug": "whatsapp-automation",
+    "image": "phone workflow messaging"
+  },
+  {
+    "id": "ai-calling-agents",
+    "name": "AI Calling Agents",
+    "short": "Use voice agents for clearly disclosed routine calls and callback routing.",
+    "target": "Teams handling repeatable high-volume calling tasks.",
+    "intro": [
+      "Voice agents can help answer routine questions, request callback preferences and route calls to the right team. Useful deployments start with narrow tasks, transparent disclosure and immediate human escalation when necessary.",
+      "The page should show a sample conversation, call paths, business hours and consent rules. Avoid suggesting that AI callers replace sensitive customer decisions or that prerecorded or automated outreach is unrestricted."
+    ],
+    "features": [
+      [
+        "Inbound call handling",
+        "Answer common questions and route calls during supported hours."
+      ],
+      [
+        "Appointment assistance",
+        "Collect scheduling preferences without making unsupported commitments."
+      ],
+      [
+        "Call flow design",
+        "Create approved greetings, branching questions and exit options."
+      ],
+      [
+        "Human transfers",
+        "Route emergencies, complaints or uncertain cases to staff."
+      ],
+      [
+        "Call summaries",
+        "Create permitted notes and outcomes for authorised follow-up."
+      ],
+      [
+        "Quality monitoring",
+        "Review mistakes, transfer rates and customer satisfaction signals."
+      ]
+    ],
+    "benefits": [
+      [
+        "Better call coverage",
+        "Reduce unanswered routine enquiries when staffing is limited."
+      ],
+      [
+        "Consistent information",
+        "Deliver reviewed greetings and standard answers."
+      ],
+      [
+        "Faster routing",
+        "Send complex conversations to the appropriate person."
+      ]
+    ],
+    "steps": [
+      "Select suitable call types and legal requirements",
+      "Write scripts, disclosures and escalation rules",
+      "Test accents, noise, failures and human transfer",
+      "Pilot with close quality review before wider use"
+    ],
+    "industries": [
+      "Real estate: open-house and callback requests",
+      "Service centres: routine status and routing questions",
+      "Education: course information call-backs",
+      "Healthcare: appointment reminders and human-routed scheduling callbacks",
+      "Home services: callback qualification and technician dispatch updates"
+    ],
+    "faqs": [
+      [
+        "Does the caller know it is AI?",
+        "The design should provide clear AI disclosure and follow applicable consent and calling rules."
+      ],
+      [
+        "Can it handle emergency calls?",
+        "No. Safety-critical calls need reliable escalation to trained staff."
+      ],
+      [
+        "Does every call get recorded?",
+        "Recording must follow the service configuration and applicable consent/privacy requirements; never assume automatic recording is lawful."
+      ]
+    ],
+    "slug": "ai-calling-agents",
+    "image": "headset voice calling assistant"
+  },
+  {
+    "id": "cloud-telephony",
+    "name": "Cloud Telephony",
+    "short": "Connect business numbers, call routing and reporting without complex on-site hardware.",
+    "target": "Sales and support teams spread across locations or shifts.",
+    "intro": [
+      "Cloud telephony helps a business answer and route calls through hosted phone services. Teams can manage business numbers, opening hours, extensions, queues and missed-call workflows from a central setup.",
+      "The service description should make voice infrastructure easy to understand and explain what depends on carriers, regions and number availability. Businesses should receive a clear call-flow diagram before deployment."
+    ],
+    "features": [
+      [
+        "Virtual business numbers",
+        "Use eligible hosted numbers subject to provider availability."
+      ],
+      [
+        "IVR menus",
+        "Guide callers to sales, support or service teams."
+      ],
+      [
+        "Queue & forwarding",
+        "Route incoming calls by business hours and availability."
+      ],
+      [
+        "Missed-call follow-up",
+        "Create permitted callback tasks in the CRM."
+      ],
+      [
+        "Call analytics",
+        "Measure volumes, routing and team response patterns."
+      ],
+      [
+        "Integrations",
+        "Connect call events to approved CRM and helpdesk tools."
+      ]
+    ],
+    "benefits": [
+      [
+        "Professional call handling",
+        "Give customers a clear first contact point."
+      ],
+      [
+        "Location flexibility",
+        "Route calls to distributed teams when supported."
+      ],
+      [
+        "Operational insight",
+        "See where enquiries are delayed or missed."
+      ]
+    ],
+    "steps": [
+      "Review call volumes and required numbers",
+      "Plan IVR, queues, hours and failover paths",
+      "Provision supported numbers and integrate tools",
+      "Test calls and review operational reports"
+    ],
+    "industries": [
+      "Multi-location clinics: department routing",
+      "Property businesses: enquiry distribution",
+      "Professional services: client support numbers",
+      "Education: admissions enquiries, campus routing and seasonal call queues",
+      "Retail: store locations, order support and peak-period call distribution"
+    ],
+    "faqs": [
+      [
+        "Do we need new physical phones?",
+        "Often not, but endpoints depend on the chosen provider and deployment."
+      ],
+      [
+        "Can we keep existing numbers?",
+        "Porting availability varies by telecom provider, country and number type."
+      ],
+      [
+        "What happens if the internet fails?",
+        "Design documented failover and backup routing, subject to provider capability."
+      ]
+    ],
+    "slug": "cloud-telephony",
+    "image": "cloud business calling"
+  },
+  {
+    "id": "rcs-messaging",
+    "name": "RCS Messaging",
+    "short": "Create richer business messages with images, suggested replies and clear customer actions.",
+    "target": "Brands wanting interactive mobile messages where the channel is supported.",
+    "intro": [
+      "Rich Communication Services (RCS) business messaging can add visual cards, buttons and conversational options to suitable mobile messaging experiences. The exact experience depends on carrier, device, region and provider support.",
+      "The page should compare RCS with SMS and WhatsApp using verified availability, show a realistic mobile example and avoid promising universal delivery or features."
+    ],
+    "features": [
+      [
+        "Branded message experience",
+        "Use eligible sender details and business identity where verified."
+      ],
+      [
+        "Rich cards",
+        "Show products, services or offers using supported visual layouts."
+      ],
+      [
+        "Suggested actions",
+        "Guide users to bookings, websites or helpful reply options."
+      ],
+      [
+        "Campaign journeys",
+        "Coordinate permitted service and marketing messages."
+      ],
+      [
+        "Fallback planning",
+        "Use approved alternatives when RCS is not available."
+      ],
+      [
+        "Delivery reporting",
+        "Track channel results available through the provider."
+      ]
+    ],
+    "benefits": [
+      [
+        "More context per message",
+        "Help customers understand an offer or update at a glance."
+      ],
+      [
+        "Simpler next steps",
+        "Use appropriate action buttons instead of long instructions."
+      ],
+      [
+        "Flexible campaign design",
+        "Choose suitable message formats for different needs."
+      ]
+    ],
+    "steps": [
+      "Check regional and provider RCS availability",
+      "Verify sender and message policy requirements",
+      "Design card layouts, actions and fallback behaviour",
+      "Pilot by device and carrier before broader release"
+    ],
+    "industries": [
+      "Retail: rich product promotions and order assistance",
+      "Education: course enquiry journeys",
+      "Travel: itinerary guidance and service alerts",
+      "Automotive: service reminders, appointment actions and vehicle updates",
+      "Hospitality: booking details, check-in instructions and guest assistance"
+    ],
+    "faqs": [
+      [
+        "Will RCS work on every mobile phone?",
+        "No. Support depends on device, carrier, region and customer settings."
+      ],
+      [
+        "Is RCS the same as WhatsApp?",
+        "No. They are separate messaging ecosystems with different identity, permissions and capabilities."
+      ],
+      [
+        "Can we include images and buttons?",
+        "Often yes on supported rich messaging experiences, with provider-specific limits."
+      ]
+    ],
+    "slug": "rcs-messaging",
+    "image": "interactive branded mobile messages"
+  },
+  {
+    "id": "ai-agents-and-workflows",
+    "name": "AI Agents & Workflows",
+    "short": "Connect apps and automate repeatable business tasks with human oversight.",
+    "target": "Operations teams moving data manually between several tools.",
+    "intro": [
+      "Workflow automation links events across forms, CRM systems, calendars, databases and notifications. AI can assist with interpretation or drafting, but the most reliable systems clearly separate automated decisions from tasks that need human approval.",
+      "Natton Digital should explain the business problem first, then show a specific before-and-after workflow. Mention n8n or other integration tools as implementation components rather than unexplained promises of “autonomous employees”."
+    ],
+    "features": [
+      [
+        "Process discovery",
+        "Map manual tasks, decisions, exceptions and ownership."
+      ],
+      [
+        "App integrations",
+        "Connect supported APIs, webhooks and approved datasets."
+      ],
+      [
+        "AI-assisted classification",
+        "Sort incoming requests with confidence checks and review paths."
+      ],
+      [
+        "Approval gates",
+        "Require staff approval for consequential actions."
+      ],
+      [
+        "Error monitoring",
+        "Log failures, retries and alerts so tasks do not silently disappear."
+      ],
+      [
+        "Access controls",
+        "Limit permissions and sensitive information throughout the flow."
+      ]
+    ],
+    "benefits": [
+      [
+        "Less duplicate work",
+        "Avoid entering the same permitted information repeatedly."
+      ],
+      [
+        "Faster handoffs",
+        "Move approved tasks between systems with fewer delays."
+      ],
+      [
+        "Auditable actions",
+        "Know what ran, failed or required review."
+      ]
+    ],
+    "steps": [
+      "Choose a narrow, high-volume task to improve",
+      "Map systems, data flows and human approvals",
+      "Build and test workflows with safe failure handling",
+      "Monitor accuracy, errors and business value"
+    ],
+    "industries": [
+      "HR: candidate interview scheduling and approved notifications",
+      "Finance: invoice intake and manual approval queues",
+      "Operations: lead routing, task creation and status updates",
+      "E-commerce: order-status requests, returns intake and exception routing",
+      "Professional services: document intake, case assignment and approval tracking"
+    ],
+    "faqs": [
+      [
+        "Will automation eliminate the need for staff?",
+        "No. Staff should remain accountable for exceptions and important decisions."
+      ],
+      [
+        "Can we connect any application?",
+        "Integration depends on API availability, permissions, licensing and security requirements."
+      ],
+      [
+        "How are failures handled?",
+        "Use logs, retries, alerts, backups and a clear manual recovery process."
+      ]
+    ],
+    "slug": "ai-agents-and-workflows",
+    "image": "workflow interconnected AI systems"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "tool": "image_gen (built-in)",
+  "assets": [
+    {
+      "slug": "search",
+      "brief": "an elegant magnifying glass made of polished pale brass and clear glass, hovering above a restrained cluster of translucent jade website-page tiles and a few curved connecting threads, representing search discovery"
+    },
+    {
+      "slug": "web",
+      "brief": "three precisely finished browser-window frames in clear thick optical glass, a small tablet frame and phone frame nested in a considered floating composition, tiny abstract layout shapes only, representing responsive website development"
+    },
+    {
+      "slug": "social",
+      "brief": "a sculptural constellation of translucent jade conversation shapes, image tiles and small circular audience nodes connected by slender polished brass threads, representing social media and audience connection"
+    },
+    {
+      "slug": "ads",
+      "brief": "a refined optical-glass bullseye and one slender precision arrow, with a curved polished brass path connecting two small translucent campaign panels, representing paid campaign journeys"
+    },
+    {
+      "slug": "content",
+      "brief": "a sculptural sheet of clear frosted glass with a few embossed horizontal editorial lines, a polished brass pen nib and layered ivory creative tiles, representing content and creative production"
+    },
+    {
+      "slug": "ai",
+      "brief": "a beautiful open sculptural loop of polished brass connecting five small clear-glass and jade task nodes around a central translucent sphere, representing AI-assisted marketing orchestration"
+    },
+    {
+      "slug": "local",
+      "brief": "a clear optical-glass map pin with a deep jade center standing above a layered translucent street map, restrained circular local-discovery ripples, two tiny glass location blocks"
+    },
+    {
+      "slug": "email",
+      "brief": "two precisely formed frosted jade and clear optical-glass envelopes connected by a slender sweeping champagne-brass thread, one envelope open with a simple ivory message sheet, no words"
+    },
+    {
+      "slug": "analytics",
+      "brief": "five clear glass and pale jade bars of differing heights, a delicate champagne-brass curved trend line connecting small glass data spheres, a small clear lens focusing on one bar, absolutely no numbers or axis labels"
+    },
+    {
+      "slug": "shop",
+      "brief": "three refined translucent product-display blocks in clear glass and sage, one elegant clear glass shopping bag and a slim floating ecommerce browser frame with abstract product tiles, no products or logos or words"
+    }
+  ],
+  "style": "Optical glass, pale jade, ivory and champagne brass; fluted background; no text or logos. Landscape 3:2. Generated for Natton Digital service-page heroes."
+}

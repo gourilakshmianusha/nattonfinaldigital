@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "slug": "ai-marketing-saas",
+      "capabilityIllustrations": 6,
+      "originalTextEntriesPreserved": 219,
+      "carouselControlsPreserved": 0,
+      "marqueeReferencesPreserved": 0
+    },
+    {
+      "slug": "crm-ai-automation",
+      "capabilityIllustrations": 12,
+      "originalTextEntriesPreserved": 290,
+      "carouselControlsPreserved": 0,
+      "marqueeReferencesPreserved": 0
+    },
+    {
+      "slug": "conversational-ai",
+      "capabilityIllustrations": 6,
+      "originalTextEntriesPreserved": 253,
+      "carouselControlsPreserved": 0,
+      "marqueeReferencesPreserved": 0
+    },
+    {
+      "slug": "whatsapp-automation",
+      "capabilityIllustrations": 8,
+      "originalTextEntriesPreserved": 255,
+      "carouselControlsPreserved": 0,
+      "marqueeReferencesPreserved": 0
+    },
+    {
+      "slug": "ai-calling-agents",
+      "capabilityIllustrations": 8,
+      "originalTextEntriesPreserved": 236,
+      "carouselControlsPreserved": 0,
+      "marqueeReferencesPreserved": 0
+    },
+    {
+      "slug": "cloud-telephony",
+      "capabilityIllustrations": 8,
+      "originalTextEntriesPreserved": 226,
+      "carouselControlsPreserved": 0,
+      "marqueeReferencesPreserved": 0
+    },
+    {
+      "slug": "rcs-messaging",
+      "capabilityIllustrations": 8,
+      "originalTextEntriesPreserved": 260,
+      "carouselControlsPreserved": 8,
+      "marqueeReferencesPreserved": 0
+    },
+    {
+      "slug": "ai-agents",
+      "capabilityIllustrations": 8,
+      "originalTextEntriesPreserved": 239,
+      "carouselControlsPreserved": 0,
+      "marqueeReferencesPreserved": 0
+    }
+  ],
+  "totalIllustrations": 64,
+  "allOriginalStylesheetsUnchanged": true,
+  "allOriginalControllersUnchanged": true,
+  "originalPageTextEntriesPreserved": 1978,
+  "browser": {
+    "viewports": [
+      375,
+      753,
+      1345
+    ],
+    "checks": 24,
+    "horizontalOverflow": false,
+    "clippedHeroOrCardContainers": false,
+    "internalInterfaceOverflow": false,
+    "voiceAnimation": "computed scaleY changed from 1 to 0.56015",
+    "pauseControl": "voice animation paused and resumed",
+    "rcsCarousel": "Next card moved track to scrollLeft 261; card selection updated the existing result",
+    "deliveryTabs": "Shape stage selected by Enter",
+    "newGraphicsPauseWhenOutsideViewport": true,
+    "finalTypography": "Inter, Segoe UI, Arial, sans-serif; all 24 layouts rechecked with no overflow"
+  },
+  "originalStylesheetHashes": {
+    "search-readiness.css": "437c236a58119e9d352471237f44aed45712f0e7971597e19c963a106290f6e9",
+    "experience.css": "c76c7d986647468dac3567a0b4b8f54c0acc3498d6945bb9a3a78a483443bd21",
+    "crm.css": "6198911c343ce91f0c1e787647b7367d2a146015bd32c21435a3d487c8a8b153",
+    "crm-design.css": "2adb28b469c51e7ac00d5b15f6949541284f35545d60d71ab2a20e405dd657bf",
+    "integration.css": "049bb2a6687f2b689e9c67bbc9008381b7a88fe12fdf7d330587c2120602307f",
+    "site.css": "3bda8e226b4afdd47bc7aa52ef92060ae4cab0874484afdd4acff0b7cff239bb",
+    "delivery-steps.css": "1ee67443405ff1a5e8d0e19ebbef13a89789439d3910ed6c6a0e610a625de119"
+  },
+  "anchorCorrection": "RCS implementation section given unique implementation anchor; message-delivery links retain delivery anchor."
+}

@@ -1,0 +1,258 @@
+{
+  "edition": "Approved fine-rim theme",
+  "desktop": [
+    {
+      "cards": 14,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": null,
+      "overflow": false,
+      "path": "/products/growth-os/",
+      "premium": true,
+      "video": "/media/growthos-hero-original.mp4",
+      "width": 1363
+    },
+    {
+      "cards": 14,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 220,
+      "overflow": false,
+      "path": "/products/business-os/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 14,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 220,
+      "overflow": false,
+      "path": "/products/agentic-os/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 14,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 220,
+      "overflow": false,
+      "path": "/products/ai-marketing-platform/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 7,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 1440,
+      "overflow": false,
+      "path": "/industries/healthcare/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 7,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 1440,
+      "overflow": false,
+      "path": "/industries/education-edtech/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 7,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 1440,
+      "overflow": false,
+      "path": "/industries/real-estate/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 7,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 1440,
+      "overflow": false,
+      "path": "/industries/manufacturing/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 7,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 1440,
+      "overflow": false,
+      "path": "/industries/retail-ecommerce/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    },
+    {
+      "cards": 7,
+      "frames": [
+        "1px",
+        "1px"
+      ],
+      "h1": 1,
+      "headerFooter": 0,
+      "heroImage": 1440,
+      "overflow": false,
+      "path": "/industries/professional-services/",
+      "premium": true,
+      "video": null,
+      "width": 1363
+    }
+  ],
+  "mobile": [
+    {
+      "name": "GrowthOS",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "BusinessOS",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "AgenticOS",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "AI Marketing",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "Healthcare",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "Education",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "Real estate",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "Manufacturing",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "Retail",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    },
+    {
+      "name": "Professional",
+      "cards": true,
+      "overflow": false,
+      "premium": true,
+      "processStages": 5,
+      "width": 375
+    }
+  ],
+  "tablet": {
+    "frame": 760,
+    "available": 745,
+    "overflow": false,
+    "processStages": 5
+  },
+  "interactionChecks": {
+    "healthcareServiceTab": true,
+    "processPause": true,
+    "automaticProcessAdvance": true,
+    "agentReviewAndApproval": true,
+    "creativeRefinement": true,
+    "pageEffectsPauseAndPlay": true,
+    "growthVideo": {
+      "duration": 63,
+      "controls": true,
+      "muted": true,
+      "src": "/media/growthos-hero-original.mp4"
+    }
+  },
+  "scope": "Four product and six industry pages. Content and original media retained."
+}

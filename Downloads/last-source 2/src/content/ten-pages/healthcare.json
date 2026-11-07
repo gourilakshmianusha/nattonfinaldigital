@@ -1,0 +1,202 @@
+{
+  "slug": "healthcare",
+  "title": "Healthcare",
+  "eyebrow": "HEALTHCARE MARKETING & PATIENT ENQUIRIES",
+  "headline": "Healthcare marketing that makes the next step clear.",
+  "description": "Help people find accurate service information, understand how to contact your organisation and request an appointment. Connect local visibility, your website and administrative follow-up around a considered patient enquiry journey.",
+  "audience": [
+    "Hospitals and multispeciality centres",
+    "Independent medical and dental practices",
+    "Diagnostic and imaging providers",
+    "Allied-health and multi-location organisations"
+  ],
+  "needs": [
+    {
+      "title": "Patients cannot find the right service",
+      "description": "Service pages, location details or practitioner information may be incomplete, difficult to navigate or disconnected from search.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Enquiries arrive without a clear next step",
+      "description": "Calls, forms and messages need a defined administrative owner and an appropriate appointment route.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Information changes across channels",
+      "description": "Timings, available services and contact details should reflect what the organisation can currently provide.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Teams cannot see enquiry follow-up",
+      "description": "A shared administrative process helps staff review pending requests and contact attempts without relying on personal inboxes.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "example": {
+    "title": "A clearer appointment enquiry",
+    "description": "Illustrative administrative flow. The care team confirms availability and any clinical next step.",
+    "steps": [
+      "Find a service page",
+      "Request an appointment",
+      "Administrative team reviews",
+      "Team confirms the next step"
+    ],
+    "note": "Example only. No live patient data, booking connection or medical decision is used in this preview."
+  },
+  "metaTitle": "Healthcare Marketing & Patient Enquiries | Natton Digital",
+  "metaDescription": "Healthcare marketing for hospitals, practices and diagnostics. Connect website design, SEO, local visibility and administrative enquiry follow-up with Natton.",
+  "keywords": {
+    "primary": "healthcare marketing services",
+    "secondary": [
+      "digital marketing for hospitals",
+      "healthcare website design",
+      "healthcare SEO",
+      "local SEO for healthcare providers",
+      "patient enquiry management",
+      "appointment enquiry automation"
+    ],
+    "intentNote": "Editorial keyword themes, not measured search volumes or validated keyword-difficulty estimates. Use service and location terms only where the provider actually operates."
+  },
+  "definition": {
+    "title": "What is healthcare marketing?",
+    "body": "Healthcare marketing helps a hospital, medical practice or diagnostic provider explain its services and become easier to find. It brings together a useful website, relevant search visibility, approved educational content and a clear route to the team. The goal is informed enquiries and a manageable follow-up process, with clinical information reviewed by the provider."
+  },
+  "services": [
+    {
+      "title": "Healthcare website design",
+      "description": "Build clear service, practitioner and location pages with usable mobile layouts, accurate contact details and an appropriate appointment enquiry route.",
+      "icon": "",
+      "linkLabel": "Website development"
+    },
+    {
+      "title": "Healthcare SEO & local visibility",
+      "description": "Research service and location intent, improve relevant page content and review eligible Google Business Profiles. Give each location useful information instead of repeating city names.",
+      "icon": "",
+      "linkLabel": "SEO services"
+    },
+    {
+      "title": "Approved patient information",
+      "description": "Turn provider-approved information into understandable service explainers, articles and social content. The organisation reviews medical accuracy and promotional statements before publication.",
+      "icon": "",
+      "linkLabel": "Content marketing"
+    },
+    {
+      "title": "Relevant paid campaigns",
+      "description": "Plan suitable search or social campaigns after reviewing the service, location, claims and platform requirements. Campaign eligibility and the appropriate enquiry destination are assessed before launch.",
+      "icon": "",
+      "linkLabel": "Paid advertising"
+    },
+    {
+      "title": "Administrative enquiry workflows",
+      "description": "Connect agreed forms, appointment requests and team reminders. Use approved administrative responses and human handover; clinical assessment and treatment decisions stay with qualified care teams.",
+      "icon": "",
+      "linkLabel": "CRM & AI automation"
+    },
+    {
+      "title": "Meaningful enquiry reporting",
+      "description": "Review relevant search visibility, contact actions and administrative response patterns. Configure measurement carefully so patient narratives and identifiable details are not sent into analytics events.",
+      "icon": "",
+      "linkLabel": "Discuss measurement"
+    }
+  ],
+  "process": [
+    {
+      "title": "Understand the service and care setting",
+      "description": "Confirm the services, locations, audience, appointment process and people responsible for reviewing content. Establish the agreed marketing scope and handling of enquiries.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Make the foundations clear",
+      "description": "Review the website, contact routes, eligible local profiles and existing measurement. Prioritise accurate service information and useful navigation before expanding promotion.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Connect visibility to the right information",
+      "description": "Develop service and location content around researched questions. Add suitable campaigns only where the offering, platform rules, available capacity and budget support them.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Give administrative enquiries an owner",
+      "description": "Agree how staff receive, review and follow up appointment requests. Test acknowledgements, reminders and handovers before putting automation into use.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Review and improve together",
+      "description": "Use available enquiry and response information to identify friction. Refine content, routing and campaigns with the provider as services and priorities change.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Relevant search visibility",
+      "description": "Queries and pages connected with the actual services and locations.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Contact and booking actions",
+      "description": "Appropriately measured calls, enquiry submissions and appointment-link actions.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Administrative response patterns",
+      "description": "Pending enquiries, ownership and response intervals where reliable records exist.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Enquiry quality",
+      "description": "Whether enquiries match the services, location and appointment process the organisation offers.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Who is this healthcare marketing service for?",
+      "answer": "It can suit hospitals, independent practices, dental providers, diagnostic organisations and allied-health teams that need clearer visibility and enquiry handling. Single-location providers and larger groups need different scopes, so we review the services, geography, capacity and existing team before recommending the work."
+    },
+    {
+      "question": "Can you improve our existing website and Google Business Profile?",
+      "answer": "Yes. We can review the current website and eligible profiles, identify gaps and prioritise changes. Google profile eligibility and how locations or practitioners should be represented need checking first. Existing systems and useful content can remain where they serve the organisation well."
+    },
+    {
+      "question": "Will you write medical content or use AI to answer patients?",
+      "answer": "We can help structure and draft understandable service information, but the provider must review medical accuracy before publishing. An assistant, if included, is limited to an agreed administrative purpose and approved information. Diagnosis, treatment advice, emergencies and clinical decisions require the appropriate qualified team."
+    },
+    {
+      "question": "Can every healthcare service run paid ads?",
+      "answer": "Campaign suitability depends on the service, claims, target market and platform requirements. Some healthcare-related advertising is restricted or requires specific approvals. We assess the proposed campaign before recommending it, and do not treat paid promotion as suitable for every service."
+    },
+    {
+      "question": "How do you handle patient information and tracking?",
+      "answer": "We first define what an administrative enquiry needs, where it will be stored and who should receive it. Analytics should not receive names, contact details, patient narratives or other sensitive information. Your organisation's privacy and compliance requirements are reviewed with the relevant owners; this page does not certify a system as compliant."
+    },
+    {
+      "question": "When can we expect progress, and what does it cost?",
+      "answer": "The starting point, content approvals, number of locations, campaign scope and integrations affect delivery. We agree milestones and costs in a proposal, including third-party or advertising charges where relevant. Initial setup can be reviewed separately from longer-term search visibility and optimisation; no fixed ranking or appointment promise is made."
+    }
+  ],
+  "timing": "We agree a phased plan after reviewing the website, locations, content approvals, enquiry process and system access. Foundation work, campaign readiness and ongoing optimisation have different dependencies; a proposal sets the deliverables and review points. Rankings, patient numbers and appointment outcomes are not guaranteed.",
+  "deliverables": [
+    "Clear service and location information",
+    "Approved patient-facing website and content priorities",
+    "Appropriate appointment-enquiry routes",
+    "An administrative routing and follow-up plan",
+    "Agreed privacy-aware measurement and review points"
+  ],
+  "scopeNote": "",
+  "photo": "/media/ten-pages/healthcare/industries/healthcare.webp",
+  "path": "/industries/healthcare/",
+  "kind": "industry"
+}

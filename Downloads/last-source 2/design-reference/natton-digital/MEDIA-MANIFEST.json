@@ -1,0 +1,44 @@
+{
+  "growthOSVideo": {
+    "file": "public/media/growthos-hero-original.mp4",
+    "original_name": "GrowthOS-Hero-Revised.mp4",
+    "duration_seconds": 63,
+    "bytes": 3994607,
+    "sha256": "bb7dc7a0b969f21651308724e98f9eb8896bb81fa9a89713c93f09b31febd5d8",
+    "unchanged_from_original": true
+  },
+  "product_heroes": "Static SVG concept images for BusinessOS, AgenticOS and AI Marketing Platforms. The final hero videos are pending.",
+  "industry_images": "Original photorealistic illustrative industry scenes, not photographs of Natton clients or staff.",
+  "industry_assets": [
+    {
+      "file": "public/media/industries/education-edtech.webp",
+      "illustrative": true,
+      "kind": "AI-generated photorealistic editorial scene"
+    },
+    {
+      "file": "public/media/industries/healthcare.webp",
+      "illustrative": true,
+      "kind": "AI-generated photorealistic editorial scene"
+    },
+    {
+      "file": "public/media/industries/manufacturing.webp",
+      "illustrative": true,
+      "kind": "AI-generated photorealistic editorial scene"
+    },
+    {
+      "file": "public/media/industries/professional-services.webp",
+      "illustrative": true,
+      "kind": "AI-generated photorealistic editorial scene"
+    },
+    {
+      "file": "public/media/industries/real-estate.webp",
+      "illustrative": true,
+      "kind": "AI-generated photorealistic editorial scene"
+    },
+    {
+      "file": "public/media/industries/retail-ecommerce.webp",
+      "illustrative": true,
+      "kind": "AI-generated photorealistic editorial scene"
+    }
+  ]
+}

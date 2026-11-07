@@ -1,0 +1,28 @@
+/* Align the existing process selectors and details without affecting other industry sections. */
+.industry-process-section{min-width:0}
+.industry-process-section>div.text-center{max-width:760px;margin-left:auto;margin-right:auto}
+.industry-process-section>div.text-center h2{line-height:1.25;text-wrap:balance}
+.industry-process-section>div.text-center p{max-width:720px;margin-left:auto;margin-right:auto;font-size:15px;line-height:1.8}
+.industry-process-section>.grid{align-items:stretch;gap:28px}
+.industry-process-section>.grid>div{min-width:0;align-self:stretch}
+.industry-process-section>.grid>div:first-child{justify-content:flex-start}
+.industry-process-section>.grid>div:first-child>button{width:100%!important;margin-left:0!important;margin-right:0!important;min-height:68px;height:auto;flex-shrink:0;gap:12px;white-space:normal;text-align:left}
+.industry-process-section>.grid>div:first-child>button>span:first-child{min-width:0;flex:1;font-size:14px;line-height:1.55;overflow-wrap:anywhere}
+.industry-process-section>.grid>div:first-child>button>span:last-child{flex-shrink:0;max-width:110px;font-size:11px;line-height:1.5;text-align:center;white-space:normal}
+.industry-process-section>.grid>div:first-child>button .truncate{white-space:normal;overflow:visible;text-overflow:clip;line-height:1.55;font-size:14px}
+.industry-process-section>.grid>div:last-child{display:flex;flex-direction:column;justify-content:space-between;min-height:320px}
+.industry-process-section>.grid>div:last-child h3{overflow-wrap:anywhere;line-height:1.45}
+.industry-process-section>.grid>div:last-child p{line-height:1.8}
+.industry-process-step-grid{grid-template-columns:repeat(5,minmax(0,1fr));align-items:stretch;gap:14px}
+.industry-process-step-grid>.absolute{display:none}
+.industry-process-step-grid>div:not(.absolute){min-width:0;min-height:150px;display:flex;flex-direction:column;justify-content:flex-start;gap:10px;padding:18px 12px}
+.industry-process-step-grid>div:not(.absolute)>p{font-size:14px;line-height:1.55;display:block;min-height:0;overflow:visible;-webkit-line-clamp:unset;overflow-wrap:anywhere}
+.industry-process-step-grid>div:not(.absolute)>span:last-child{margin-top:auto;font-size:11px;line-height:1.5}
+@media(min-width:1024px){.industry-process-section>.grid>div:first-child{display:flex;flex-direction:column;gap:10px}.industry-process-section>.grid>div:first-child>button{margin-top:0;min-height:88px}}
+@media(min-width:640px) and (max-width:1023px){.industry-process-step-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:639px){.industry-process-step-grid{grid-template-columns:1fr}.industry-process-section>.grid{gap:20px}.industry-process-section>.grid>div:last-child{min-height:240px}.industry-process-step-grid>div:not(.absolute){min-height:120px}}
+.industry-process-step-grid>div:not(.absolute),.industry-process-section>.grid>div:first-child>button{transform:none}
+/* Selected steps and explicitly white headings must remain readable in light mode. */
+.industry-process-section>div.text-center h2,.industry-process-section>.grid>div:first-child>button,.industry-process-section>.grid>div:first-child>button>span:first-child,.industry-process-section>.grid>div:first-child>button .truncate{color:var(--detail-ink,#171333)!important}
+.industry-process-section>div.text-center h2{opacity:1!important;visibility:visible!important;-webkit-text-fill-color:var(--detail-ink,#171333)!important}
+.industry-process-step-grid>div:not(.absolute),.industry-process-section>.grid>div:first-child>button{scale:1!important;translate:none!important}

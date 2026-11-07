@@ -1,0 +1,203 @@
+{
+  "pages": [
+    "growth-os",
+    "healthcare"
+  ],
+  "comparison": [
+    {
+      "device": "desktop",
+      "key": "Home",
+      "canvasHeight": 405,
+      "dividerHidden": true,
+      "panels": [
+        {
+          "clip": "none",
+          "ctaInside": true,
+          "height": 405,
+          "hidden": "false",
+          "name": "compare-layout before",
+          "scrollHeight": 405
+        },
+        {
+          "clip": "inset(0px 100% 0px 0px)",
+          "ctaInside": true,
+          "height": 405,
+          "hidden": "true",
+          "name": "compare-layout after",
+          "scrollHeight": 405
+        }
+      ],
+      "range": [
+        "0",
+        "100"
+      ],
+      "value": "0"
+    },
+    {
+      "device": "desktop",
+      "key": "End",
+      "canvasHeight": 405,
+      "dividerHidden": true,
+      "panels": [
+        {
+          "clip": "none",
+          "ctaInside": true,
+          "height": 405,
+          "hidden": "true",
+          "name": "compare-layout before",
+          "scrollHeight": 405
+        },
+        {
+          "clip": "inset(0px 0% 0px 0px)",
+          "ctaInside": true,
+          "height": 405,
+          "hidden": "false",
+          "name": "compare-layout after",
+          "scrollHeight": 405
+        }
+      ],
+      "range": [
+        "0",
+        "100"
+      ],
+      "value": "100"
+    },
+    {
+      "device": "Phone 390px",
+      "key": "Home",
+      "canvasHeight": 390,
+      "panels": [
+        {
+          "clip": "none",
+          "ctaInside": true,
+          "height": 390,
+          "name": "compare-layout before",
+          "scrollHeight": 390
+        },
+        {
+          "clip": "inset(0px 100% 0px 0px)",
+          "ctaInside": true,
+          "height": 390,
+          "name": "compare-layout after",
+          "scrollHeight": 390
+        }
+      ],
+      "value": "0"
+    },
+    {
+      "device": "Phone 390px",
+      "key": "End",
+      "canvasHeight": 390,
+      "panels": [
+        {
+          "clip": "none",
+          "ctaInside": true,
+          "height": 390,
+          "name": "compare-layout before",
+          "scrollHeight": 390
+        },
+        {
+          "clip": "inset(0px 0% 0px 0px)",
+          "ctaInside": true,
+          "height": 390,
+          "name": "compare-layout after",
+          "scrollHeight": 390
+        }
+      ],
+      "value": "100"
+    },
+    {
+      "device": "Tablet 760px",
+      "key": "Home",
+      "canvasHeight": 405,
+      "panels": [
+        {
+          "clip": "none",
+          "ctaInside": true,
+          "height": 405,
+          "name": "compare-layout before",
+          "scrollHeight": 405
+        },
+        {
+          "clip": "inset(0px 100% 0px 0px)",
+          "ctaInside": true,
+          "height": 405,
+          "name": "compare-layout after",
+          "scrollHeight": 405
+        }
+      ],
+      "value": "0"
+    },
+    {
+      "device": "Tablet 760px",
+      "key": "End",
+      "canvasHeight": 405,
+      "panels": [
+        {
+          "clip": "none",
+          "ctaInside": true,
+          "height": 405,
+          "name": "compare-layout before",
+          "scrollHeight": 405
+        },
+        {
+          "clip": "inset(0px 0% 0px 0px)",
+          "ctaInside": true,
+          "height": 405,
+          "name": "compare-layout after",
+          "scrollHeight": 405
+        }
+      ],
+      "value": "100"
+    }
+  ],
+  "responsive": [
+    {
+      "device": "Phone 390px",
+      "page": "GrowthOS",
+      "art": "url(\"http://terminal.local:4173/media/materials/sandstone-copper-v1.webp\")",
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "device": "Phone 390px",
+      "page": "Healthcare",
+      "art": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "device": "Tablet 760px",
+      "page": "GrowthOS",
+      "art": "url(\"http://terminal.local:4173/media/materials/sandstone-copper-v1.webp\")",
+      "overflow": false,
+      "width": 745
+    },
+    {
+      "device": "Tablet 760px",
+      "page": "Healthcare",
+      "art": "url(\"http://terminal.local:4173/media/materials/ivory-sage-v1.webp\")",
+      "overflow": false,
+      "width": 745
+    }
+  ],
+  "buttons": {
+    "general": "0",
+    "clearer": "100"
+  },
+  "motion": {
+    "first": {
+      "orbit": "matrix(0.868142, 0.33342, -0.39933, 1.03976, 0, 0)",
+      "running": "running",
+      "wave": "matrix(1.07589, 0.0714077, -0.0714077, 1.07589, 37.9718, -52.827)"
+    },
+    "second": {
+      "orbit": "matrix(0.843417, 0.370065, -0.453353, 1.03324, 0, 0)",
+      "running": "running",
+      "wave": "matrix(1.01907, -0.0525253, 0.0525253, 1.01907, -29.5055, 19.4702)"
+    },
+    "waveChanged": true,
+    "cardGraphicChanged": true
+  },
+  "limits": "Available Chromium browser and CSS-sized phone/tablet frames. Other engines and physical devices not tested."
+}

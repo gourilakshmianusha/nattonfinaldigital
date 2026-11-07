@@ -1,0 +1,11 @@
+{
+  "asset": "crm-team-1280.webp",
+  "kind": "AI-generated illustrative office scene",
+  "purpose": "Homepage CRM product preview; not a photograph of an actual Natton team or client",
+  "prompt": "A South Asian sales operations manager and colleague in a contemporary corporate office reviewing a sales pipeline on a silver laptop. Candid editorial photograph, natural daylight, teal and navy accents, realistic hardware and hands; no added overlay graphics. Accurate interface data is composed separately in native website code.",
+  "generated": "2026-11-04",
+  "variants": [
+    "crm-team-960.webp",
+    "crm-team-1280.webp"
+  ]
+}

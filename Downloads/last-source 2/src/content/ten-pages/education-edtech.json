@@ -1,0 +1,203 @@
+{
+  "slug": "education-edtech",
+  "title": "Education & EdTech",
+  "eyebrow": "EDUCATION MARKETING & ADMISSIONS JOURNEYS",
+  "headline": "Education marketing for more informed decisions.",
+  "description": "Help students, parents and working learners understand your offering. Bring programme information, relevant campaigns and counselling follow-up into a clear journey from first enquiry to the appropriate admissions team.",
+  "audience": [
+    "Schools and higher-education institutions",
+    "Coaching and training organisations",
+    "Professional and vocational learning providers",
+    "EdTech platforms and online learning businesses"
+  ],
+  "needs": [
+    {
+      "title": "Interest is not reaching the right programme",
+      "description": "Generic pages and campaigns can attract enquiries that do not match the course, location, learning format or intake.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Important information is difficult to find",
+      "description": "Learners need clear course details, eligibility information, schedules, fees and a route to ask questions.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Counselling follow-up is scattered",
+      "description": "Calls, forms and messages need ownership, context and a recorded next action as prospective learners consider their options.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Teams see enquiries but not the journey",
+      "description": "Connecting source, counselling and application status helps teams identify where useful conversations stop moving.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "example": {
+    "title": "A programme enquiry with a useful handover",
+    "description": "Illustrative flow for an admissions team. Staff provide programme-specific guidance and confirm the next step.",
+    "steps": [
+      "Choose a programme",
+      "Send an enquiry",
+      "Counsellor receives context",
+      "Team agrees the next step"
+    ],
+    "note": "Example only. No live application, student record or automated admissions decision is used in this preview."
+  },
+  "metaTitle": "Education & EdTech Marketing Services | Natton Digital",
+  "metaDescription": "Education marketing for institutions, coaching and EdTech. Connect course pages, SEO, campaigns and admissions follow-up around informed learner decisions.",
+  "keywords": {
+    "primary": "education marketing services",
+    "secondary": [
+      "digital marketing for educational institutions",
+      "EdTech marketing services",
+      "education website design",
+      "education SEO",
+      "admissions enquiry management",
+      "student enquiry CRM",
+      "coaching institute marketing"
+    ],
+    "intentNote": "Editorial keyword themes, not measured search volumes. Choose programme and location phrases only after confirming the actual offering and target market."
+  },
+  "definition": {
+    "title": "What is education marketing?",
+    "body": "Education marketing helps an institution or learning business explain its programmes and reach suitable learners. Useful course pages, accurate information, relevant search visibility and organised counselling work together. The objective is an informed next step, shaped around your admissions calendar, learner needs and available capacity."
+  },
+  "services": [
+    {
+      "title": "Education website & course pages",
+      "description": "Present programme details, entry requirements, delivery format, fees, schedules and useful FAQs. Build clear enquiry or application routes around the institution's process.",
+      "icon": "",
+      "linkLabel": "Website development"
+    },
+    {
+      "title": "Education SEO & campus discovery",
+      "description": "Research programme, career-learning and location intent. Improve course content and eligible campus profiles while keeping online-only and physical-location visibility needs distinct.",
+      "icon": "",
+      "linkLabel": "SEO services"
+    },
+    {
+      "title": "Intake and programme campaigns",
+      "description": "Plan suitable advertising around the audience, intake window and course offering. Align ads with accurate landing-page information and the counselling team's ability to respond.",
+      "icon": "",
+      "linkLabel": "Paid advertising"
+    },
+    {
+      "title": "Content that answers real questions",
+      "description": "Create course explainers, faculty introductions, learning-format previews and approved learner stories. Qualifications, recognition and outcome claims are checked with the institution before use.",
+      "icon": "",
+      "linkLabel": "Content marketing"
+    },
+    {
+      "title": "Admissions CRM & counselling follow-up",
+      "description": "Organise enquiry source, programme interest, assigned counsellor and next action. Add agreed acknowledgements and reminders, with staff responsible for admissions advice and decisions.",
+      "icon": "",
+      "linkLabel": "CRM & AI automation"
+    },
+    {
+      "title": "Enquiry-to-application visibility",
+      "description": "Review programme interest, suitable enquiries, attended counselling and application milestones where the data is available. Separate campaign activity from verified enrolment outcomes.",
+      "icon": "",
+      "linkLabel": "Discuss measurement"
+    }
+  ],
+  "process": [
+    {
+      "title": "Define the programme and learner",
+      "description": "Confirm the courses, learning formats, locations, audience, entry information and intake calendar. Identify who approves content and owns counselling follow-up.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Make course information useful",
+      "description": "Review the website, programme pages, enquiry routes and proof that can be substantiated. Resolve unclear eligibility, schedule, fee or recognition information before promotion.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Reach relevant learners",
+      "description": "Combine suitable search content, social communication and campaigns around the agreed programme and audience. Choose channels because they fit the decision journey, not because every platform must be used.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Connect enquiries to counselling",
+      "description": "Give each enquiry an owner, programme context and next action. Test any acknowledgement, reminder and handover flow before it supports the admissions team.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Review the quality of the journey",
+      "description": "Compare sources, relevant enquiries and available counselling or application milestones. Use the team's feedback to improve information, targeting and follow-up over time.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Programme-relevant visibility",
+      "description": "Search and campaign activity connected with the courses and learners you intend to reach.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Suitable enquiries",
+      "description": "Enquiries that match the agreed programme, location and learning format.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Counselling follow-through",
+      "description": "Contact status, attended conversations and outstanding next actions where the team records them.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Application milestones",
+      "description": "Applications or enrolments reported from the institution's own reliable records, separately from lead counts.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you work with schools, colleges, coaching businesses and EdTech?",
+      "answer": "The approach can be adapted to each, but they should not use an identical campaign. Parents, school leavers, working professionals and institutional buyers have different questions and decision journeys. We first review the offering, learner audience, delivery format, geography and admissions process."
+    },
+    {
+      "question": "Can you help us market a particular course or intake?",
+      "answer": "Yes. A focused programme or intake can be a sensible starting point. We review its information, available capacity, audience and counselling process, then agree suitable content and channels. Programme availability, deadlines and claims must remain accurate as the campaign runs."
+    },
+    {
+      "question": "When should an institution start marketing an intake?",
+      "answer": "Planning should begin early enough to prepare clear information, approvals, tracking and enquiry handling before promotion is needed. The right lead time varies with the programme and learner's decision cycle. We work backwards from the admissions calendar instead of promising one fixed campaign period for every institution."
+    },
+    {
+      "question": "Will AI counsel students or make admissions decisions?",
+      "answer": "An assistant may answer approved administrative questions or collect programme interest when included in the scope. Staff remain responsible for individual guidance, eligibility checks and admissions decisions. Conversations involving children or sensitive information require an appropriately designed process and suitable human oversight."
+    },
+    {
+      "question": "How do you handle placement, selection and recognition claims?",
+      "answer": "We use evidence supplied and verified by the institution, with the necessary approvals and context. We do not invent selection rates, guaranteed placements or success stories. Where recognition is relevant, the specific programme and current academic session should be checked rather than relying on a general claim."
+    },
+    {
+      "question": "Can you use our existing website, CRM or admissions software?",
+      "answer": "Yes, we assess what already works and which connections are practical. The proposal sets out content, campaigns, follow-up responsibilities and any integration work. We also agree how performance will be reviewed, using available counselling and application records instead of assuming every enquiry becomes an enrolment."
+    }
+  ],
+  "timing": "Plan around the admissions cycle or rolling-cohort schedule. We agree the foundation work, approval responsibilities, campaign launch conditions and review points before promotion. The scope depends on the number of programmes, locations, existing tools and follow-up process; advertising spend and third-party charges are identified separately where relevant.",
+  "deliverables": [
+    "A learner, programme and admissions-cycle plan",
+    "Accurate course pages and useful learner information",
+    "Selected campaign assets and enquiry routes",
+    "Counsellor ownership and agreed follow-up stages",
+    "A programme-level measurement and review plan"
+  ],
+  "scopeNote": "",
+  "photo": "/media/ten-pages/education-edtech/industries/education-edtech.webp",
+  "path": "/industries/education-edtech/",
+  "kind": "industry"
+}

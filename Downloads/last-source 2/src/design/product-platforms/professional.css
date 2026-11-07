@@ -1,0 +1,45 @@
+/* Photographic heroes and readable process records. Existing background art and hover transforms are retained. */
+.product-refresh{--pf-accent:#256477;--pf-deep:#153f4b;--pf-wash:#e9f0ef;--pf-ink:#203532;--pf-muted:#51655e}
+.product-refresh.product-ai-marketing-saas{--pf-accent:#74558f;--pf-deep:#3e2f50;--pf-wash:#f0eaf2}
+.product-refresh.product-ai-agents{--pf-accent:#966538;--pf-deep:#453b32;--pf-wash:#f1eee7}
+.product-refresh.product-whatsapp-automation{--pf-accent:#367556;--pf-deep:#243e32;--pf-wash:#eaf0e9}
+.product-refresh.product-ai-calling-agents{--pf-accent:#496579;--pf-deep:#283c4c;--pf-wash:#e9eef1}
+.product-refresh.product-cloud-telephony{--pf-accent:#347d8c;--pf-deep:#244a53;--pf-wash:#e8f0ef}
+.product-refresh.product-rcs-messaging{--pf-accent:#8c653f;--pf-deep:#4c3c2e;--pf-wash:#f2eee5}
+.natton-solutions.product-refresh .experience-page{--ex-strong:var(--pf-accent);--ex-accent:color-mix(in srgb,var(--pf-accent) 35%,#fff);--ex-night:var(--pf-deep);--ex-deep:var(--pf-deep);--ex-paper:var(--pf-wash);--ex-tint:color-mix(in srgb,var(--pf-wash) 88%,var(--pf-accent));--ex-ink:var(--pf-ink);--ex-muted:var(--pf-muted)}
+.natton-solutions.product-refresh :is(.ex-hero,.crm-hero){background:var(--pf-wash);color:var(--pf-ink)}
+.natton-solutions.product-refresh :is(.ex-hero-grid,.crm-hero-grid){display:grid;grid-template-columns:minmax(0,1fr);gap:42px;padding:56px 0 24px;min-height:0}
+.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy){max-width:1080px}
+.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy) h1{font-size:clamp(42px,5.2vw,72px);color:var(--pf-ink);font-weight:550;letter-spacing:-.045em;line-height:1.08;max-width:1080px}
+.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy) h1 em{color:var(--pf-accent)}
+.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy)>p{font-size:17px;line-height:1.8;color:var(--pf-muted);max-width:760px}
+.natton-solutions.product-refresh :is(.ex-hero,.crm-hero) :is(.ex-eyebrow,.ex-quiet-link,.ex-hero-reassurance>span,.ex-hero-bottom>span,.ex-hero-bottom>button){color:var(--pf-accent)}
+.natton-solutions.product-refresh .pf-hero-photo{width:100%;max-width:none!important;margin:0!important;border:1px solid color-mix(in srgb,var(--pf-accent) 25%,transparent);border-radius:22px;overflow:hidden;background:var(--pf-deep);box-shadow:0 16px 42px #20353617}
+.natton-solutions.product-refresh .pf-hero-photo img{width:100%;height:auto;aspect-ratio:1672/941;object-fit:cover}
+.natton-solutions.product-refresh .pf-hero-photo figcaption{display:flex;justify-content:space-between;gap:15px;padding:14px 20px;font-size:10px;letter-spacing:.04em;color:#f5f8f7;background:var(--pf-deep)}
+.natton-solutions.product-refresh .ex-module{background:linear-gradient(135deg,#ffffff26,color-mix(in srgb,var(--pf-deep) 80%,transparent));border-color:color-mix(in srgb,var(--pf-accent) 50%,#fff);min-height:300px}
+.natton-solutions.product-refresh .pb-module-media{display:block;margin-bottom:24px!important}
+.natton-solutions .pf-record{width:100%;min-width:0;text-align:left;background:#f9fbfb;color:#243b3a;border:1px solid #cbd9d6;border-radius:10px;overflow:hidden;box-shadow:0 5px 18px #14292c12;font-family:Arial,sans-serif;line-height:1.5}
+.natton-solutions .pf-record-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 14px;background:#eaf0ef;border-bottom:1px solid #d6e1dc}
+.natton-solutions .pf-record-head strong{font-size:11px;color:#263f3c;line-height:1.5}
+.natton-solutions .pf-record-head>span{font-size:8px;white-space:nowrap;padding:3px 5px;border:1px solid #cad8d2;border-radius:4px;background:#fff;color:#52675e}
+.natton-solutions .pf-record-row{display:grid;grid-template-columns:1fr 1fr auto;gap:10px;align-items:center;padding:15px 14px;border-bottom:1px solid #e1e9e5;font-size:10px;line-height:1.55}
+.natton-solutions .pf-record-row strong{font-size:10px;color:#294039;font-weight:600}.natton-solutions .pf-record-row span{color:#52675e;font-size:10px}.natton-solutions .pf-record-row small{font-size:8px;background:#e8eee3;border-radius:4px;padding:4px 5px;color:#45603d}
+.natton-solutions .pf-record-foot{font-size:8px;padding:11px 14px;color:#68796f;background:#f4f7f4}
+.natton-solutions .pf-marquee{padding:22px 0 28px;background:var(--pf-deep);color:#f4f7f3;overflow:hidden}.pf-marquee-label{display:flex;justify-content:space-between;align-items:center;font-size:9px;letter-spacing:.1em;margin-bottom:22px}.pf-marquee-label button{font-size:10px;color:#f5f7f1;background:transparent;border:1px solid #ffffff54;border-radius:20px;padding:8px 12px}
+.pf-marquee-window{overflow:hidden}.pf-marquee-track{display:flex;width:max-content;animation:pf-travel 45s linear infinite}.pf-marquee-track>div{display:flex;flex:none}.pf-marquee-track span{display:flex;align-items:center;gap:26px;padding-right:40px;font-size:clamp(22px,2.4vw,34px);letter-spacing:-.025em;white-space:nowrap}.pf-marquee-track small{font-size:11px;opacity:.6}.pf-marquee-track b{font-weight:400;opacity:.5}.is-paused .pf-marquee-track,.ex-motion-off .pf-marquee-track,.crm-motion-off .pf-marquee-track,.pb-document-hidden .pf-marquee-track{animation-play-state:paused}@keyframes pf-travel{to{transform:translateX(-50%)}}
+.pf-visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+.natton-solutions .pf-journey{padding:90px 0;background:var(--pf-wash);color:var(--pf-ink);overflow:visible;position:relative}.pf-eyebrow{display:block;font-size:10px;letter-spacing:.12em;line-height:1.7;color:var(--pf-accent);margin-bottom:20px;font-weight:650}.natton-solutions .pf-journey h2{font-size:clamp(32px,4.2vw,54px);letter-spacing:-.045em;line-height:1.1;color:var(--pf-ink)}.pf-journey-intro{font-size:16px;line-height:1.8;color:var(--pf-muted);max-width:650px;margin:24px 0 40px!important}
+.pf-stack{position:relative}.natton-solutions .pf-stack-card{position:sticky;top:calc(105px + var(--step)*14px);display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;padding:40px;margin-bottom:28px;border:1px solid color-mix(in srgb,var(--pf-accent) 40%,#fff);border-radius:24px;background:linear-gradient(125deg,#fffffff5,color-mix(in srgb,var(--pf-wash) 82%,#fff));box-shadow:inset 0 1px #fff,inset 0 0 0 5px #ffffff40,0 16px 35px #203b3510;backdrop-filter:blur(18px);min-height:330px}.natton-solutions .pf-stack-card h3{font-size:28px;line-height:1.2;letter-spacing:-.035em;color:var(--pf-ink)}.natton-solutions .pf-stack-card p{font-size:15px;color:var(--pf-muted);line-height:1.8;margin-top:20px}.pf-step-line{display:flex;gap:8px;margin-top:28px;width:120px}.pf-step-line i{height:3px;background:#c8d1c9;flex:1}.pf-step-line .done{background:var(--pf-accent)}.pf-disclaimer{font-size:11px;line-height:1.7;color:var(--pf-muted);margin-top:24px!important}.pf-directory-image{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;margin-bottom:22px}
+@media(max-width:760px){.natton-solutions.product-refresh :is(.ex-hero-grid,.crm-hero-grid){padding-top:30px;gap:30px}.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy) h1{font-size:clamp(36px,9vw,54px)}.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy)>p{font-size:15px}.natton-solutions.product-refresh .pf-hero-photo{border-radius:13px}.natton-solutions.product-refresh .pf-hero-photo figcaption{font-size:8px;padding:12px;display:block}.pf-hero-photo figcaption>span{display:block;margin-top:3px}.natton-solutions .pf-journey{padding:60px 0}.natton-solutions .pf-stack-card{position:relative;top:auto;grid-template-columns:1fr;gap:28px;padding:26px;min-height:0}.natton-solutions .pf-stack-card h3{font-size:25px}.pf-record-row{gap:6px}.pf-marquee-label{font-size:8px}.pf-marquee-track span{font-size:23px}}
+@media(prefers-reduced-motion:reduce){.pf-marquee-track{animation:none}.natton-solutions .pf-stack-card{position:relative;top:auto}}
+.natton-solutions.product-refresh .crm-hero :is(.crm-eyebrow,.crm-text-link,.crm-hero-reassurance span,.crm-hero-bottom>span,.crm-hero-bottom>button){color:var(--pf-accent)}
+.natton-solutions.product-refresh .crm-hero .crm-text-link{border-color:var(--pf-accent)}
+.natton-solutions.product-refresh .crm-hero .crm-button{background:var(--pf-accent);color:#fff;border-color:var(--pf-accent)}
+.natton-solutions.product-refresh .crm-hero-reassurance .icon{color:var(--pf-accent)}
+/* Full-width hero media; the copy retains its existing readable measure. */
+.natton-solutions.product-refresh :is(.ex-hero,.crm-hero)>.container{width:100%;max-width:none}
+.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy){width:min(1240px,calc(100% - 88px));max-width:1240px;margin-inline:auto}
+.natton-solutions.product-refresh :is(.ex-hero-bottom,.crm-hero-bottom){width:min(1240px,calc(100% - 88px));margin-inline:auto}
+.natton-solutions.product-refresh .pf-hero-photo{border-radius:0;border-inline:0;box-shadow:none}
+@media(max-width:760px){.natton-solutions.product-refresh :is(.ex-hero-copy,.crm-hero-copy,.ex-hero-bottom,.crm-hero-bottom){width:calc(100% - 40px)}}

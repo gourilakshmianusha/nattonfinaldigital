@@ -1,0 +1,158 @@
+{
+  "services": [
+    {
+      "name": "Website Design & Development",
+      "path": "/services/website-development/"
+    },
+    {
+      "name": "Search Engine Optimization (SEO)",
+      "path": "/services/seo-services/"
+    },
+    {
+      "name": "Google Business Profile (GMB/GBP)",
+      "path": "/services/google-business-profile/"
+    },
+    {
+      "name": "PPC & Google Ads Management",
+      "path": "/services/ppc-google-ads/"
+    },
+    {
+      "name": "Social Media Marketing",
+      "path": "/services/social-media-marketing/"
+    },
+    {
+      "name": "Meta Ads (Facebook & Instagram)",
+      "path": "/services/meta-ads/"
+    },
+    {
+      "name": "Content Marketing & Blogging",
+      "path": "/services/content-marketing/"
+    },
+    {
+      "name": "AEO & AI Search Optimization",
+      "path": "/services/aeo-ai-search/"
+    },
+    {
+      "name": "Graphic Design",
+      "path": "/services/graphic-design-branding/"
+    },
+    {
+      "name": "Email Marketing & Automation",
+      "path": "/services/email-marketing/"
+    },
+    {
+      "name": "E-commerce Website Development",
+      "path": "/services/ecommerce-development/"
+    },
+    {
+      "name": "Analytics & Conversion Rate Optimization",
+      "path": "/services/analytics-cro/"
+    },
+    {
+      "name": "AI Growth Marketing",
+      "path": "/services/ai-growth-marketing/"
+    }
+  ],
+  "products": [
+    {
+      "name": "AI Marketing SaaS",
+      "path": "/products/ai-marketing-saas/",
+      "description": "AI content studio, automated SEO assistance, campaign scorer."
+    },
+    {
+      "name": "CRM & AI Automation SaaS",
+      "path": "/products/crm-ai-automation/",
+      "description": "GrowthOS CRM pipeline with instant WhatsApp automation."
+    },
+    {
+      "name": "Conversational AI Hub",
+      "path": "/products/conversational-ai/",
+      "description": "AI Calling agents, cloud telephony, and automated chats."
+    },
+    {
+      "name": "WhatsApp Automation",
+      "path": "/products/whatsapp-automation/",
+      "description": "WhatsApp Business API, broadcasts, and automated chatbots."
+    },
+    {
+      "name": "AI Calling Agents",
+      "path": "/products/ai-calling-agents/",
+      "description": "Inbound & outbound Voice AI automation, simulated voice demos."
+    },
+    {
+      "name": "Cloud Telephony Platform",
+      "path": "/products/cloud-telephony/",
+      "description": "IVR, call routing, recording, analytics, and CRM integration."
+    },
+    {
+      "name": "RCS Messaging Platform",
+      "path": "/products/rcs-messaging/",
+      "description": "Rich communication services, carousels, action buttons, and commerce."
+    },
+    {
+      "name": "AI Agents & Automation",
+      "path": "/products/ai-agents/",
+      "description": "Autonomous n8n workflows, Sales agents, Support agents."
+    }
+  ],
+  "solutions": [
+    {
+      "name": "GrowthOS",
+      "path": "/solutions/growth-os/",
+      "description": "Connect your website, search visibility, content and campaigns around the customers you want to reach. GrowthOS gives startups, MSMEs and growing SMBs a practical marketing foundation, with a team that stays involved as the business develops."
+    },
+    {
+      "name": "BusinessOS",
+      "path": "/solutions/business-os/",
+      "description": "Connect your CRM, customer conversations and everyday workflows so your team knows who owns what and what happens next. BusinessOS brings structure to customer-facing work through the tools, responsibilities and handovers your business needs."
+    },
+    {
+      "name": "AgenticOS",
+      "path": "/solutions/agentic-os/",
+      "description": "Design a defined business workflow in which AI agents can gather context, use approved tools and prepare the next action\u2014with the permissions, review points and human handovers the work needs. AgenticOS connects advanced AI automation to a process your team can understand."
+    },
+    {
+      "name": "AI Marketing Platforms",
+      "path": "/solutions/ai-marketing-platform/",
+      "description": "Bring AI-assisted copy, visual production and campaign planning into a workflow shaped around your brand. Natton helps select, configure or develop the right platform experience so your team can move from a brief to reviewed marketing assets with clearer control."
+    }
+  ],
+  "industries": [
+    {
+      "name": "Healthcare",
+      "path": "/industries/healthcare/",
+      "image": "/media/industries/healthcare.webp",
+      "description": "Help people find accurate service information, understand how to contact your organisation and request an appointment. Connect local visibility, your website and administrative follow-up around a considered patient enquiry journey."
+    },
+    {
+      "name": "Education & EdTech",
+      "path": "/industries/education/",
+      "image": "/media/industries/education-edtech.webp",
+      "description": "Help students, parents and working learners understand your offering. Bring programme information, relevant campaigns and counselling follow-up into a clear journey from first enquiry to the appropriate admissions team."
+    },
+    {
+      "name": "Real Estate",
+      "path": "/industries/real-estate/",
+      "image": "/media/industries/real-estate.webp",
+      "description": "Connect property marketing, project information and enquiry follow-up around the way your sales team works. Natton Digital helps real estate businesses build a useful online presence, reach relevant buyers and keep conversations moving toward a genuine sales discussion."
+    },
+    {
+      "name": "Manufacturing",
+      "path": "/industries/manufacturing/",
+      "image": "/media/industries/manufacturing.webp",
+      "description": "Help buyers understand what you make, where your capabilities fit and how to start a useful conversation. Natton Digital connects industrial websites, B2B marketing and enquiry workflows for manufacturers, suppliers and growing production businesses."
+    },
+    {
+      "name": "Retail & Ecommerce",
+      "path": "/industries/retail-ecommerce/",
+      "image": "/media/industries/retail-ecommerce.webp",
+      "description": "Bring store discovery, ecommerce marketing and customer follow-up into a clearer journey. Natton Digital helps retail businesses connect useful content, shopping experiences and the team behind each order."
+    },
+    {
+      "name": "Professional Services",
+      "path": "/industries/professional-services/",
+      "image": "/media/industries/professional-services.webp",
+      "description": "Bring a clear service story, useful content and organised enquiry follow-up together. Natton Digital helps professional-services businesses explain their value and connect prospective clients with the right next conversation."
+    }
+  ]
+}

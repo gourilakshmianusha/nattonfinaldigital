@@ -1,0 +1,55 @@
+# Natton Digital
+
+AI growth, marketing, automation, CRM, and conversational AI solutions.
+
+## Main Pages
+- Home: https://nattondigital.com/
+- Services: https://nattondigital.com/services
+- About: https://nattondigital.com/about
+- Products: https://nattondigital.com/products
+- Solutions: https://nattondigital.com/solutions
+- Industries: https://nattondigital.com/industries/healthcare
+- Pricing: https://nattondigital.com/pricing
+- Contact: https://nattondigital.com/contact
+- Book a Demo: https://nattondigital.com/book-demo
+
+## Digital Marketing Services
+- Website Design & Development: https://nattondigital.com/services/website-development
+- Search Engine Optimization: https://nattondigital.com/services/seo-services
+- Google Business Profile: https://nattondigital.com/services/google-business-profile
+- PPC & Google Ads Management: https://nattondigital.com/services/ppc-google-ads
+- Social Media Marketing: https://nattondigital.com/services/social-media-marketing
+- Meta Ads: https://nattondigital.com/services/meta-ads
+- Content Marketing & Blogging: https://nattondigital.com/services/content-marketing
+- AEO & AI Search Optimization: https://nattondigital.com/services/aeo-ai-search
+- Graphic Design & Branding: https://nattondigital.com/services/graphic-design-branding
+- Email Marketing & Automation: https://nattondigital.com/services/email-marketing
+- E-commerce Website Development: https://nattondigital.com/services/ecommerce-development
+- Analytics & Conversion Rate Optimization: https://nattondigital.com/services/analytics-cro
+
+## AI & Automation Services
+- AI Growth Marketing: https://nattondigital.com/services/ai-growth-marketing
+- AI Marketing SaaS: https://nattondigital.com/services/ai-marketing-saas
+- CRM & Automation SaaS: https://nattondigital.com/services/crm-and-automation
+- Conversational AI: https://nattondigital.com/services/conversational-ai
+- WhatsApp Automation: https://nattondigital.com/services/whatsapp-automation
+- AI Calling Agents: https://nattondigital.com/services/ai-calling-agents
+- Cloud Telephony: https://nattondigital.com/services/cloud-telephony
+- RCS Messaging: https://nattondigital.com/services/rcs-messaging
+- AI Agents & Workflows: https://nattondigital.com/services/ai-agents-and-workflows
+
+## Solutions
+- AI Marketing: https://nattondigital.com/products/ai-marketing-saas
+- CRM Automation: https://nattondigital.com/products/crm-ai-automation
+- Conversational AI: https://nattondigital.com/products/conversational-ai
+- WhatsApp Automation: https://nattondigital.com/products/whatsapp-automation
+- AI Calling Agents: https://nattondigital.com/products/ai-calling-agents
+- AI Agents: https://nattondigital.com/products/ai-agents
+
+## Resources
+- Blog: https://nattondigital.com/blog
+- Guides: https://nattondigital.com/guides
+- Free Tools: https://nattondigital.com/free-tools
+- AI Readiness Assessment: https://nattondigital.com/ai-readiness-assessment
+- ROI Calculator: https://nattondigital.com/roi-calculator
+- Sitemap: https://nattondigital.com/sitemap.xml

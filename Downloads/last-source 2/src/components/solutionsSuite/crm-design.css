@@ -1,0 +1,446 @@
+/* CRM visual system: midnight ink, electric cyan and restrained coral.
+   Original vector ribbons and layered glass; no WebGL, tilt or 3D transforms. */
+.natton-solutions .crm-page{--c-aqua:#89f3f3;--c-blue:#1676ed;--c-ink:#132337;--c-muted:#4c6577;--crm-coral:#fc816c;background:#07121d}
+.natton-solutions .crm-page h2{font-size:clamp(35px,3.65vw,53px);letter-spacing:-.055em}
+.natton-solutions .crm-page h2 em{color:#52778b}
+.natton-solutions .crm-page .crm-section{padding:112px 0}
+.natton-solutions .crm-section>.container,.natton-solutions .crm-hero>.container,.natton-solutions .crm-final>.container{position:relative;z-index:2}
+.natton-solutions .crm-atmosphere{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0;isolation:isolate}
+.natton-solutions .crm-color-field{position:absolute;inset:-12%;background:radial-gradient(ellipse at 78% 62%,#079ade55,transparent 40%),radial-gradient(ellipse at 48% 110%,#fc816c75,transparent 34%),radial-gradient(ellipse at 25% 20%,#1846ff25,transparent 45%)}
+.natton-solutions .crm-light-ribbons{position:absolute;width:130%;height:130%;left:-15%;top:5%;opacity:.7;filter:drop-shadow(0 0 8px #1ba7ed55);animation:ns-crm-light-drift 24s ease-in-out infinite alternate;transform-origin:70% 65%}
+.natton-solutions .crm-light-contours{position:absolute;inset:0;width:100%;height:100%;color:#6ad5f3;opacity:.18}
+.natton-solutions .crm-fluted-light{position:absolute;inset:0;background:repeating-linear-gradient(90deg,transparent 0px,#aceafa04 2px,#040d170c 4px,transparent 6px);mask-image:radial-gradient(ellipse at 80% 65%,#000,transparent 70%);opacity:.7}
+.natton-solutions .crm-grain{position:absolute;inset:0;opacity:.1;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.83' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23fff' filter='url(%23n)' opacity='.5' d='M0 0h180v180H0z'/%3E%3C/svg%3E");mix-blend-mode:soft-light}
+.natton-solutions .crm-page .crm-ambient,.natton-solutions .crm-orbit-lines,.natton-solutions .crm-hero-halo,.natton-solutions .crm-contour,.natton-solutions .crm-dot-field{display:none}
+.natton-solutions .crm-page .glass-dark{background:linear-gradient(135deg,#aee6ff17,#092234ab 48%,#0d2940b8);border:1px solid #b6eaff47;box-shadow:0 35px 75px #000c244f,inset 0 1px 0 #e9fbff40,inset 1px 0 0 #c3f4ff18;backdrop-filter:blur(28px) saturate(1.3)}
+.natton-solutions .crm-page .glass-light{background:linear-gradient(125deg,#fffdf7ed,#edfaffab 55%,#e0efff86);border:1px solid #ffffffdc;box-shadow:0 28px 60px #153a651b,inset 0 1px #fff,inset 1px 0 #fff8;backdrop-filter:blur(25px) saturate(1.2)}
+.natton-solutions .crm-button{border-radius:50px;padding:0 25px;min-height:56px;gap:38px;letter-spacing:-.01em}
+.natton-solutions .crm-button-aqua{background:var(--crm-coral);color:#1c202c;box-shadow:inset 0 1px #ffe3d5,0 6px 35px #fc816c24}
+.natton-solutions .crm-button-aqua:hover{background:#ff9a88;box-shadow:0 10px 35px #fc816c38}
+.natton-solutions .crm-page a:focus-visible,.natton-solutions .crm-page button:focus-visible,.natton-solutions .crm-page summary:focus-visible,.natton-solutions .crm-page input:focus-visible{outline:3px solid #ec735a;outline-offset:5px}
+.natton-solutions .crm-eyebrow{font-size:9px;letter-spacing:.14em;color:#497185}
+.natton-solutions .crm-demo-label{font-size:8px;letter-spacing:.1em;color:#657f96}
+.natton-solutions .crm-demo-label>i{background:#2387b8}
+.natton-solutions .crm-demo-top{min-height:24px}
+.natton-solutions .crm-page .crm-demo-footnote{font-size:10px;line-height:1.8}
+/* A luminous horizon sits behind the connected workspace. */
+.natton-solutions .crm-hero{background:#070f1c;color:#eef8ff;overflow:hidden}
+.natton-solutions .atmosphere-hero .crm-color-field{background:radial-gradient(ellipse at 72% 60%,#00bcf247,transparent 33%),radial-gradient(ellipse at 55% 108%,#ff876b8c,transparent 38%),radial-gradient(ellipse at 104% 25%,#174fffb3,transparent 50%)}
+.natton-solutions .atmosphere-hero .crm-light-ribbons{width:145%;height:120%;left:-21%;top:13%;opacity:.87}
+.natton-solutions .atmosphere-hero .crm-light-contours{opacity:.1}
+.natton-solutions .atmosphere-hero .crm-fluted-light{opacity:1;mask-image:linear-gradient(90deg,transparent 18%,#0009 50%,#000)}
+.natton-solutions .crm-breadcrumb{color:#8ca4b8;position:relative;z-index:3}
+.natton-solutions .crm-hero-grid{grid-template-columns:1.02fr 1fr;gap:64px;padding:77px 0 93px;min-height:660px}
+.natton-solutions .crm-hero-copy h1{font-size:clamp(45px,4.6vw,68px);line-height:1.035;letter-spacing:-.062em;position:relative;color:#f1f7fb}
+.natton-solutions .crm-hero-copy h1>.crm-eyebrow{font-size:9px;color:#a8dae6;margin-bottom:30px;letter-spacing:.14em}
+.natton-solutions .crm-hero-copy h1>.crm-eyebrow>i{background:#fc816c;box-shadow:0 0 14px #fc816ca3}
+.natton-solutions .crm-hero-copy h1 em{color:#89edfa;display:inline-block;text-shadow:0 2px 35px #1ca6d223}
+.natton-solutions .crm-hero-copy>p{font-size:15px;color:#b5c7d6;line-height:1.9;max-width:530px;margin-top:31px}
+.natton-solutions .crm-hero-copy .crm-text-link{color:#c0dfec;border-color:#739cac55;font-size:11px}
+.natton-solutions .crm-hero-reassurance{margin-top:26px}
+.natton-solutions .crm-hero-reassurance>span{font-size:9px;color:#9fb7c7}
+.natton-solutions .crm-hero-reassurance .icon{color:#74d9df}
+.natton-solutions .crm-hero-visual{padding:32px 0 55px;position:relative}
+.natton-solutions .crm-hero-visual:before{content:'';position:absolute;inset:4px -21px 32px;border:1px solid #b3f0ff30;border-radius:30px;background:linear-gradient(130deg,#87d7ff0e,transparent 50%,#fc816c16);box-shadow:inset 0 0 45px #6edfff0c;pointer-events:none}
+.natton-solutions .crm-command{position:relative;border-radius:22px;box-shadow:0 35px 65px #000c244f,0 0 0 7px #c1f4ff05,inset 0 1px #e1fdff5e!important;overflow:hidden;background:linear-gradient(135deg,#97daef32,#123553c2 45%,#102a45c2)!important}
+.natton-solutions .crm-command:after{content:'';position:absolute;top:-40%;left:-80%;width:65%;height:180%;background:linear-gradient(90deg,transparent,#c7f6ff0a,transparent);rotate:25deg;animation:ns-crm-glass-sweep 14s ease-in-out infinite;pointer-events:none}
+.natton-solutions .crm-window-top{height:57px;background:#06162536;padding:0 21px;border-bottom-color:#b3dcf92a}
+.natton-solutions .crm-window-brand{font-size:7px;color:#a8c8dc}
+.natton-solutions .crm-window-brand>i{background:#75e0ec23;border-color:#a1efff54;color:#9eeef6}
+.natton-solutions .crm-example-tag{font-size:6px;color:#9fbece;border-color:#a7d2e43d}
+.natton-solutions .crm-command-main{padding:26px 23px}
+.natton-solutions .crm-workspace-title small{font-size:7px;color:#99bdcf}
+.natton-solutions .crm-workspace-title b{font-size:20px;color:#effaff;margin-top:10px}
+.natton-solutions .crm-workspace-title>span{background:#fc816c1c;border-color:#fc816c4d;color:#ffb39e}
+.natton-solutions .crm-command-body>aside{background:#03122040;border-color:#a6d2e21f}
+.natton-solutions .crm-command-body>aside>span{color:#7ca6c2}
+.natton-solutions .crm-command-profile{padding:16px 13px;border-radius:12px;background:linear-gradient(115deg,#c9f8ff13,#8bb5df0b);border-color:#b2e4f13b}
+.natton-solutions .crm-command-profile>div>b{font-size:12px;color:#edf7ff}
+.natton-solutions .crm-command-profile>div>small{font-size:8px;color:#a1bece}
+.natton-solutions .crm-command-profile>.crm-status-pill{font-size:7px;color:#a6fff3;background:#7be4df15;border-color:#7be4df3b}
+.natton-solutions .crm-mini-journey{padding:26px 0}
+.natton-solutions .crm-mini-journey>span{font-size:7px;color:#b1d0df}
+.natton-solutions .crm-mini-journey>span>i{outline-color:#183e54;box-shadow:0 0 0 4px #1a3e53;border-color:#8decf7;background:#1f5570}
+.natton-solutions .crm-mini-journey>span:nth-child(2)>i{border-color:#9bb9ff}
+.natton-solutions .crm-mini-journey>span:nth-child(3)>i{border-color:#fcaa98}
+.natton-solutions .crm-command-bottom>div{border-color:#b1e8f02c;background:linear-gradient(145deg,#78bfe616,#c2f9ff03);padding:17px 13px;border-radius:12px}
+.natton-solutions .crm-command-bottom small{font-size:6px;color:#9cbed0}
+.natton-solutions .crm-command-bottom b{font-size:9px;color:#cbe3ed}
+.natton-solutions .crm-tiny-icon{color:#a8e6ed}
+.natton-solutions .crm-window-bottom{padding:16px 20px;color:#9abacb;font-size:6px;border-color:#b1e8f02c;background:#03162648}
+.natton-solutions .crm-orbit-chip{color:#e5f7fb;background:linear-gradient(120deg,#b4f9ff35,#173d59db);border:1px solid #b9f5ff76;box-shadow:0 12px 40px #03152665,inset 0 1px #dffcff44;backdrop-filter:blur(28px);border-radius:50px;font-size:11px;padding:15px 18px}
+.natton-solutions .crm-orbit-chip-top{right:-19px;top:5px}
+.natton-solutions .crm-orbit-chip-bottom{left:-22px;bottom:28px;background:linear-gradient(120deg,#fc816cdb,#b65d50ed);color:#fff4ed;font-size:10px;border-color:#ffd4c688}
+.natton-solutions .crm-orbit-chip-bottom>.icon{color:#fff0e8}
+.natton-solutions .crm-orbit-chip-top>span{background:#fcad99}
+.natton-solutions .crm-hero-bottom{border-color:#c0e0f026}
+.natton-solutions .crm-hero-bottom>span{font-size:8px;color:#9db8c9}
+.natton-solutions .crm-hero-bottom>button{font-size:10px;color:#bad3df;padding:9px 0}
+/* Quiet transitions still carry their own visual texture. */
+.natton-solutions .crm-intro{background:#eaf5fb}
+.natton-solutions .atmosphere-intro .crm-color-field{background:radial-gradient(ellipse at 93% 90%,#63c7ea52,transparent 48%),radial-gradient(ellipse at 3% 100%,#faad9238,transparent 37%)}
+.natton-solutions .atmosphere-intro .crm-light-ribbons{top:-35%;left:-25%;width:155%;height:170%;opacity:.16}
+.natton-solutions .atmosphere-intro .crm-light-contours{color:#337f9b;opacity:.16}
+.natton-solutions .crm-intro-grid{gap:100px}
+.natton-solutions .crm-intro h2{font-size:44px;letter-spacing:-.052em}
+.natton-solutions .crm-lead{color:#34576b;font-size:16px}
+.natton-solutions .crm-problem-pills>span{border-radius:30px;background:#ffffff91;border-color:#aacbdc;color:#385f78;font-size:10px;box-shadow:inset 0 1px white,0 4px 16px #15517009;padding:10px 13px}
+.natton-solutions .crm-problem-pills .icon{color:#2584ae}
+.natton-solutions .crm-small-copy{color:#55768a;font-size:13px}
+/* A bento composition with larger anchor cards and varied material finishes. */
+.natton-solutions .crm-capabilities{background:#091829;color:#eff8ff}
+.natton-solutions .atmosphere-capabilities .crm-color-field{background:radial-gradient(ellipse at 80% 20%,#096cfb6b,transparent 44%),radial-gradient(ellipse at 12% 60%,#06bfd945,transparent 40%),radial-gradient(ellipse at 65% 100%,#fc816c42,transparent 34%)}
+.natton-solutions .atmosphere-capabilities .crm-light-ribbons{opacity:.35;top:10%;left:-16%;height:140%}
+.natton-solutions .atmosphere-capabilities .crm-light-contours{opacity:.08}
+.natton-solutions .crm-capabilities .crm-eyebrow{color:#89c7df}
+.natton-solutions .crm-capabilities h2 em{color:#8cd8ed}
+.natton-solutions .crm-capabilities .crm-heading>p{color:#b2c7d7;font-size:15px}
+.natton-solutions .crm-module-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+.natton-solutions .crm-module.glass-light{position:relative;isolation:isolate;background:linear-gradient(135deg,#8bdcfc20,#1437539e 52%,#081d35ba);border:1px solid #afe2f64d;box-shadow:0 16px 40px #000d271f,inset 0 1px #cceaff33;border-radius:22px;padding:25px;min-height:207px;color:#eef8ff;overflow:hidden;transition:translate .3s,box-shadow .3s,border-color .3s}
+.natton-solutions .crm-module:before{inset:auto -30% -100% -30%;height:170%;background:radial-gradient(ellipse,#42bcef29,transparent 68%);opacity:1;z-index:-1;transition:translate .45s}
+.natton-solutions .crm-module:after{content:'';position:absolute;inset:6px;border:1px solid #b2dcff0e;border-radius:17px;pointer-events:none}
+.natton-solutions .crm-module:hover{translate:0 -6px;border-color:#a9f2ffbd;background:linear-gradient(135deg,#8bdcfc30,#143753bd 52%,#081d35d9);box-shadow:0 18px 38px #000c2440,0 0 25px #46cafb0d}
+.natton-solutions .crm-module:hover:before{translate:0 -12%}
+.natton-solutions .crm-module>div{margin-bottom:25px}
+.natton-solutions .crm-module h3{font-size:18px;letter-spacing:-.025em;max-width:230px;line-height:1.3}
+.natton-solutions .crm-module p{font-size:12px;line-height:1.8;color:#b3cbdc;max-width:215px}
+.natton-solutions .crm-module small{font-size:8px;color:#a1bece;letter-spacing:.12em}
+.natton-solutions .crm-module-icon{background:linear-gradient(145deg,#9eefff20,#5293ba12);border:1px solid #b5f3ff3f;border-radius:12px;height:42px;width:42px;color:#9ce8fb;box-shadow:inset 0 1px #c9f6ff30,0 5px 20px #051b2e25}
+.natton-solutions .module-connect .crm-module-icon{background:#70d5e51c;color:#8be5ef}
+.natton-solutions .module-automate .crm-module-icon{background:#f58a771c;border-color:#ffb69c42;color:#ffb39b}
+.natton-solutions .crm-module-arrow{opacity:1;color:#b2d6e7;right:22px;bottom:21px;translate:0 0;border:1px solid #b4e0f52d;border-radius:50%;height:28px;width:28px;display:grid;place-items:center}
+.natton-solutions .crm-module-arrow .icon{width:14px;height:14px}
+.natton-solutions .crm-module.module-no-0,.natton-solutions .crm-module.module-no-1,.natton-solutions .crm-module.module-no-10,.natton-solutions .crm-module.module-no-11{grid-column:span 2;min-height:254px;padding:29px 32px}
+.natton-solutions .crm-module.module-no-0{background:linear-gradient(115deg,#12358a99,#158ecb81 65%,#76e6eb63);border-color:#8fddf675}
+.natton-solutions .crm-module.module-no-1{background:linear-gradient(115deg,#c5f3f2e8,#f5ffffcd);color:#102f47;border-color:#d9fcff}
+.natton-solutions .crm-module.module-no-1 p{color:#466f81}
+.natton-solutions .crm-module.module-no-1 small{color:#4c7c92}
+.natton-solutions .crm-module.module-no-1 .crm-module-icon{background:#ffffff7d;color:#23779b;border-color:#91bfce}
+.natton-solutions .crm-module.module-no-1 .crm-module-arrow{color:#2b6581;border-color:#77a8bd}
+.natton-solutions .crm-module.module-no-10{background:linear-gradient(125deg,#234163cc,#102e4799);min-height:240px}
+.natton-solutions .crm-module.module-no-11{background:linear-gradient(120deg,#fba48eea,#ffc9b6dd);border-color:#ffdfcc;color:#3b2b2b;min-height:240px}
+.natton-solutions .crm-module.module-no-11 p{color:#6d4946}
+.natton-solutions .crm-module.module-no-11 small{color:#875e59}
+.natton-solutions .crm-module.module-no-11 .crm-module-icon{background:#ffffff35;border-color:#fce3d4;color:#964c41}
+.natton-solutions .crm-module.module-no-11 .crm-module-arrow{color:#81453b;border-color:#b6725e66}
+.natton-solutions .crm-module.module-no-0 h3,.natton-solutions .crm-module.module-no-1 h3,.natton-solutions .crm-module.module-no-10 h3,.natton-solutions .crm-module.module-no-11 h3{font-size:28px;max-width:60%}
+.natton-solutions .crm-module.module-no-0 p,.natton-solutions .crm-module.module-no-1 p,.natton-solutions .crm-module.module-no-10 p,.natton-solutions .crm-module.module-no-11 p{max-width:55%;font-size:13px}
+.natton-solutions .crm-module-art{position:absolute;width:200px;height:140px;right:10px;bottom:25px;color:#a6edff;opacity:.6;stroke-linecap:round;filter:drop-shadow(0 0 10px #e3fbff25)}
+.natton-solutions .module-no-1 .crm-module-art{color:#377c95;opacity:.6}
+.natton-solutions .module-no-11 .crm-module-art{color:#ab5347;opacity:.6}
+.natton-solutions .crm-scope-note{color:#a4bfd0;font-size:11px;margin-top:30px}
+/* Customer context on ice glass, with a prismatic backdrop. */
+.natton-solutions .crm-record-section{background:#deeff8}
+.natton-solutions .atmosphere-records .crm-color-field{background:radial-gradient(ellipse at 90% 35%,#329dde60,transparent 45%),radial-gradient(ellipse at 60% 100%,#62e0e766,transparent 42%),radial-gradient(ellipse at 4% 5%,#ffc8b33d,transparent 40%)}
+.natton-solutions .atmosphere-records .crm-light-ribbons{left:-1%;width:120%;top:-20%;height:140%;opacity:.3}
+.natton-solutions .atmosphere-records .crm-light-contours{color:#0f75a7;opacity:.18}
+.natton-solutions .crm-feature-grid{gap:70px}
+.natton-solutions .crm-feature-copy>p{font-size:15px;color:#395d74}
+.natton-solutions .crm-benefits>li{color:#355b71;font-size:13px}
+.natton-solutions .crm-benefits .icon{color:#16829f}
+.natton-solutions .crm-inline-note{color:#54798d;font-size:11px}
+.natton-solutions .crm-contact-demo.glass-light{border-radius:25px;background:linear-gradient(135deg,#ffffffc7,#effbff6e);border-color:#ffffff;box-shadow:0 35px 70px #2c6f9833,0 0 0 7px #fff2,inset 0 1px white!important;position:relative}
+.natton-solutions .crm-record-layout{gap:15px}
+.natton-solutions .crm-record-list>button{background:#c0e0ee42;border-color:#a5c6d98f;border-radius:12px;padding:15px 11px}
+.natton-solutions .crm-record-list>button.active{background:linear-gradient(120deg,#14638c,#2979a0);border-color:#65b5d0;box-shadow:0 7px 20px #12507130}
+.natton-solutions .crm-record-list>button.active b{color:#effcff}
+.natton-solutions .crm-record-list>button.active small{color:#c1e7f4}
+.natton-solutions .crm-record-list>button.active>i{background:#a9f3e7}
+.natton-solutions .crm-record-list>button b{font-size:11px;color:#355d75}
+.natton-solutions .crm-record-list>button small{font-size:8px;color:#577e94}
+.natton-solutions .crm-record-list>button>.crm-avatar{background:#e4faff9e;border:1px solid #91b7c9;color:#287896}
+.natton-solutions .crm-record-detail{border-radius:15px;padding:20px 17px;background:#ffffffad;border-color:#bcd8e7;box-shadow:inset 0 1px white,0 12px 25px #2b66820d}
+.natton-solutions .crm-record-heading h3{font-size:15px;color:#214a64}
+.natton-solutions .crm-record-heading small{font-size:7px;color:#628298}
+.natton-solutions .crm-record-tags>span{font-size:8px;color:#55798c;border-color:#bdd8e5;background:#e8f7fb}
+.natton-solutions .crm-record-next{background:linear-gradient(120deg,#daeff6,#e9f9f9);border-color:#a7ccd9;border-radius:10px;padding:15px}
+.natton-solutions .crm-record-next small{font-size:7px;color:#38738d}
+.natton-solutions .crm-record-next p{font-size:11px;color:#275972}
+.natton-solutions .crm-timeline>li{font-size:10px;color:#3b637c}
+.natton-solutions .crm-timeline small{font-size:8px;color:#67889b}
+.natton-solutions .crm-timeline>li>i{background:#3b9ec1;outline-color:#eaf7fd}
+.natton-solutions .crm-contact-demo>.crm-demo-footnote{font-size:9px;color:#597c92}
+/* Dark glass lets the deal stages become the main visual. */
+.natton-solutions .crm-pipeline-section{background:#071725;color:#ecf7ff}
+.natton-solutions .atmosphere-pipeline .crm-color-field{background:radial-gradient(ellipse at 20% 0%,#1d6fc16b,transparent 52%),radial-gradient(ellipse at 87% 86%,#fc816c45,transparent 40%),radial-gradient(ellipse at 50% 90%,#2ee9f52e,transparent 48%)}
+.natton-solutions .atmosphere-pipeline .crm-light-ribbons{left:-40%;top:-25%;width:180%;height:175%;opacity:.35;rotate:-12deg}
+.natton-solutions .atmosphere-pipeline .crm-light-contours{opacity:.12}
+.natton-solutions .crm-pipeline-section .crm-eyebrow,.natton-solutions .crm-pipeline-section h2 em{color:#8bdeeb}
+.natton-solutions .crm-pipeline-section .crm-heading>p{color:#adc8db}
+.natton-solutions .crm-pipeline-demo{border-radius:26px;border-color:#a5e2f04f!important;background:linear-gradient(135deg,#98ddff1c,#081d30b8 40%,#08243dce)!important;box-shadow:0 35px 70px #000e2540,0 0 0 7px #86d2ee05,inset 0 1px #dcf8ff4f!important}
+.natton-solutions .crm-pipeline-demo .crm-demo-label{color:#a5c8dd}
+.natton-solutions .crm-demo-instruction{font-size:10px;color:#b0cad9}
+.natton-solutions .crm-sales-board{gap:20px;padding:27px}
+.natton-solutions .crm-sales-board-column{background:#061c2e70;border-color:#abdcec2f;border-radius:16px}
+.natton-solutions .crm-sales-board-column-title{padding:18px 17px;color:#d0e8f6;font-size:12px;background:#bddfff08}
+.natton-solutions .crm-sales-board-column-title>b{background:#b3e8f415;color:#bcd9e8;font-size:10px}
+.natton-solutions .crm-deal{border-radius:13px;padding:21px 18px;background:linear-gradient(145deg,#caefff23,#6bacc71c);border-color:#c3ebfc4f;box-shadow:0 10px 24px #0010223d,inset 0 1px #d6f7ff30}
+.natton-solutions .crm-deal[data-deal="website"]{border-top:2px solid #84ddf4}
+.natton-solutions .crm-deal[data-deal="consultation"]{border-top:2px solid #fca58e}
+.natton-solutions .crm-deal[data-deal="returning"]{border-top:2px solid #a6e6d5}
+.natton-solutions .crm-deal>div:first-child>span{font-size:7px;color:#9cbfd5}
+.natton-solutions .crm-deal h3{font-size:20px;color:#edf7fc}
+.natton-solutions .crm-deal>p{font-size:12px;color:#a9c4d6}
+.natton-solutions .crm-deal-footer>span{font-size:9px;color:#a7c8db}
+.natton-solutions .crm-deal-footer button{width:32px;height:32px;border-color:#bdeaff55;background:#97cce215;color:#ccf3fa;border-radius:8px}
+.natton-solutions .crm-sales-board-status{color:#b0cedb;font-size:11px}
+.natton-solutions .crm-sales-board-status>button{color:#d5edf2;font-size:10px}
+.natton-solutions .crm-pipeline-benefits>span{font-size:11px;color:#adc8da}
+/* Two frosted workbenches against a rich cobalt field. */
+.natton-solutions .crm-capture-section{background:#102958;color:#edf6ff}
+.natton-solutions .atmosphere-capture .crm-color-field{background:radial-gradient(ellipse at 0% 15%,#118bbc66,transparent 48%),radial-gradient(ellipse at 100% 55%,#137bf473,transparent 50%),radial-gradient(ellipse at 45% 100%,#fc816c45,transparent 32%)}
+.natton-solutions .atmosphere-capture .crm-light-ribbons{opacity:.47;top:10%;height:120%}
+.natton-solutions .atmosphere-capture .crm-light-contours{opacity:.16}
+.natton-solutions .crm-capture-section .crm-heading .crm-eyebrow{color:#94c9e5}
+.natton-solutions .crm-capture-section .crm-heading h2 em{color:#8cdeef}
+.natton-solutions .crm-capture-grid{gap:28px;align-items:start}
+.natton-solutions .crm-capture-card{border-radius:27px;padding:34px;color:#1d405b;box-shadow:0 35px 65px #020f3447!important;border-color:#e2faffd9!important;position:relative;background:linear-gradient(130deg,#f5fcffe8,#dceffac9)!important}
+.natton-solutions .crm-form-card{margin-top:75px;background:linear-gradient(135deg,#fff4eae8,#fce4dad9)!important;border-color:#ffe4d4!important}
+.natton-solutions .crm-card-copy h3{font-size:30px;letter-spacing:-.045em;max-width:490px;color:#204560}
+.natton-solutions .crm-card-copy>p{color:#486b81;font-size:14px;max-width:470px}
+.natton-solutions .crm-card-copy .crm-eyebrow{font-size:8px;color:#57788e}
+.natton-solutions .crm-section-icon{height:49px;width:49px;border-radius:15px;background:linear-gradient(135deg,#f6ffff,#b5dce9);border-color:#b7d8e9;color:#2b799e;box-shadow:0 5px 15px #34739616,inset 0 1px #fff}
+.natton-solutions .crm-form-card .crm-section-icon{background:linear-gradient(135deg,#fffcf4,#f6b5a0);border-color:#efb5a3;color:#a75c49}
+.natton-solutions .crm-tag-row>span{font-size:8px;color:#5b7a8e;border-color:#adc9d782;background:#fff5;border-radius:20px}
+.natton-solutions .crm-booking-demo{background:linear-gradient(135deg,#195c85,#113e64);border-color:#497d9d;border-radius:17px;box-shadow:0 17px 35px #154d7529,inset 0 1px #b2e4fa33;padding:25px}
+.natton-solutions .crm-booking-demo .crm-demo-label{color:#a9d3e6}
+.natton-solutions .crm-scheduler-top{color:#d5edf6;font-size:13px}
+.natton-solutions .crm-scheduler-top>.icon{color:#9bddf0}
+.natton-solutions .crm-day-picker>button{background:#d3efff0a;border-color:#89bad444;border-radius:12px;padding:18px 10px}
+.natton-solutions .crm-day-picker small{font-size:7px;color:#95bad1}
+.natton-solutions .crm-day-picker b{font-size:23px;color:#cee6f4}
+.natton-solutions .crm-day-picker button.active{background:linear-gradient(140deg,#8adce5,#b6f6ef);border-color:#c5ffff;box-shadow:0 6px 25px #00b0d222}
+.natton-solutions .crm-day-picker button.active b{color:#164d62}
+.natton-solutions .crm-day-picker button.active small{color:#36788c}
+.natton-solutions .crm-day-picker button.active i{background:#338294}
+.natton-solutions .crm-time-picker>button{background:#c4ebfc0b;border-color:#8fbed23d;color:#b9d9e8;font-size:10px;min-height:37px;border-radius:8px}
+.natton-solutions .crm-time-picker button.active{color:#123b51;border-color:#94dce4;background:#a1e4e6}
+.natton-solutions .crm-booking-result{font-size:10px;color:#c3e4ed}
+.natton-solutions .crm-booking-result>.icon{color:#9df0e5}
+.natton-solutions .crm-booking-demo>.crm-demo-footnote{font-size:9px;color:#8fb8cd}
+.natton-solutions .crm-form-builder{background:linear-gradient(135deg,#fff9f0b0,#ffebe0b3);border-color:#e6b6a1;border-radius:17px;padding:25px;box-shadow:inset 0 1px #fff}
+.natton-solutions .crm-form-builder .crm-demo-label{color:#9c6552}
+.natton-solutions .crm-form-options>small{font-size:7px;color:#946c5e}
+.natton-solutions .crm-form-options>label{font-size:10px;color:#775c52;gap:8px}
+.natton-solutions .crm-form-options input{accent-color:#c96b53;width:14px;height:14px}
+.natton-solutions .crm-form-preview{background:#fffdf8d6;border-color:#ddbcad;border-radius:12px;box-shadow:0 12px 30px #8f4f351c;padding:22px 17px}
+.natton-solutions .crm-preview-kicker{font-size:6px;color:#927b6a}
+.natton-solutions .crm-form-preview>b{color:#714938;font-size:17px}
+.natton-solutions .crm-fake-input{background:#f7eee8;border-color:#e7d7cd;color:#927364;min-height:32px;font-size:8px;border-radius:6px}
+.natton-solutions .crm-fake-submit{background:#f4977e;color:#613b2d;min-height:35px;font-size:8px;border-radius:6px}
+.natton-solutions .crm-form-builder>.crm-demo-footnote{font-size:9px;color:#927366}
+/* A midnight conversation panel floats above a cyan halo. */
+.natton-solutions .crm-messaging-section{background:#dff6f7}
+.natton-solutions .atmosphere-messaging .crm-color-field{background:radial-gradient(ellipse at 15% 55%,#17adce63,transparent 40%),radial-gradient(ellipse at 95% 90%,#79cbe54a,transparent 45%),radial-gradient(ellipse at 40% -20%,#fffaf5,transparent 60%)}
+.natton-solutions .atmosphere-messaging .crm-light-ribbons{opacity:.23;top:-30%;height:170%;left:-45%;width:180%}
+.natton-solutions .atmosphere-messaging .crm-light-contours{opacity:.21;color:#1686a6;scale:-1 1}
+.natton-solutions .crm-messaging-section .crm-feature-copy>p{color:#386573;font-size:15px}
+.natton-solutions .crm-messaging-section .crm-benefits>li{color:#315c6e}
+.natton-solutions .crm-messaging-section .crm-text-link{color:#236a85;border-color:#4f9bb5}
+.natton-solutions .crm-message-visual.glass-light{background:linear-gradient(140deg,#153b56eb,#08253be8 60%,#12374bec);border-color:#aedbe7c2;color:#daecf8;border-radius:26px;box-shadow:0 30px 65px #1255734a,0 0 0 7px #ffffff30,inset 0 1px #e2ffff47!important}
+.natton-solutions .crm-message-visual .crm-demo-label{color:#9bbcd0}
+.natton-solutions .crm-message-dots>i{background:#7eb2c43d}
+.natton-solutions .crm-message-tabs{border-radius:50px;background:#00152550;border-color:#8fc3d62b;padding:6px}
+.natton-solutions .crm-message-tabs>button{border-radius:30px;font-size:11px;min-height:40px;color:#91b7ca}
+.natton-solutions .crm-message-tabs>button.active{background:linear-gradient(135deg,#8cdeea,#aeefef);border-color:#b6ffff;color:#195267;box-shadow:0 5px 15px #001e3130}
+.natton-solutions .crm-message-preview{border-radius:15px;background:#c0f0ff07;border-color:#8bbcd02f}
+.natton-solutions .crm-message-person{border-color:#9bc6da29;padding:19px}
+.natton-solutions .crm-message-person b{color:#d6edf6;font-size:13px}
+.natton-solutions .crm-message-person small{color:#91bbd1;font-size:9px}
+.natton-solutions .crm-message-person>span:last-child{color:#87a7b9;font-size:6px}
+.natton-solutions .crm-message-person .crm-avatar{background:#7bd8e826;color:#9ce6ef;border:1px solid #9be9f33d}
+.natton-solutions .crm-message-stage{background-image:radial-gradient(#ade2f11e .8px,transparent .8px);background-size:19px 19px;min-height:230px;padding:25px 21px}
+.natton-solutions .crm-message-stage>span{font-size:7px;color:#96bacc}
+.natton-solutions .crm-message-bubble{background:linear-gradient(135deg,#d9f9f6,#a9e4e8);color:#1d4c5e;border-color:#b8ffff;border-radius:3px 14px 14px 14px;font-size:13px;max-width:340px;box-shadow:0 8px 22px #00152333;padding:18px}
+.natton-solutions .crm-message-reply{background:#edaf9b;color:#513b38;border-color:#ffcdba;font-size:12px;border-radius:14px 3px 14px 14px}
+.natton-solutions .crm-message-next{border-color:#aad8e529;padding:18px}
+.natton-solutions .crm-message-next>span{font-size:8px;color:#95bbcc;max-width:150px}
+.natton-solutions .crm-message-next>span>.icon{color:#a6d7e9}
+.natton-solutions .crm-message-next>button{font-size:9px;color:#c7e9f3}
+.natton-solutions .crm-message-visual>.crm-demo-footnote{font-size:10px;color:#99bfd0}
+/* An electric-blue stage for the running workflow. */
+.natton-solutions .crm-workflow-section{background:#103aa2;color:#edf9ff}
+.natton-solutions .atmosphere-workflow .crm-color-field{background:radial-gradient(ellipse at 20% 5%,#117aa87d,transparent 50%),radial-gradient(ellipse at 95% 90%,#051a4796,transparent 50%),radial-gradient(ellipse at 60% 100%,#f7af8f6b,transparent 34%)}
+.natton-solutions .atmosphere-workflow .crm-light-ribbons{opacity:.55;top:-5%;height:145%;left:-21%}
+.natton-solutions .atmosphere-workflow .crm-light-contours{color:#c2f4ff;opacity:.18}
+.natton-solutions .crm-workflow-section .crm-eyebrow{color:#a8dce9}
+.natton-solutions .crm-workflow-section h2 em{color:#98e1f3}
+.natton-solutions .crm-workflow-section .crm-heading>p{color:#bfd6ed;font-size:15px}
+.natton-solutions .crm-automation-demo{background:linear-gradient(135deg,#cbefff25,#072b66ab 60%,#b5e9ff15)!important;border-color:#d0f1ff65!important;border-radius:27px;box-shadow:0 35px 65px #001d673b,inset 0 1px #e9ffff73,0 0 0 7px #e1faff06!important}
+.natton-solutions .crm-automation-demo .crm-demo-label{color:#a7d0e9}
+.natton-solutions .crm-small-button{background:#d7f5ff13;color:#d2effc;border-color:#afdeef5c;border-radius:30px;padding:11px 17px;font-size:11px}
+.natton-solutions .crm-small-button:hover{background:#d7f5ff24}
+.natton-solutions .crm-automation-track{padding:50px 40px 45px;gap:28px}
+.natton-solutions .crm-automation-line{top:92px;height:2px;background:#9cd7f44a}
+.natton-solutions .crm-automation-line>i{background:linear-gradient(90deg,#7aeaf1,#ffb699);box-shadow:0 0 14px #9defff}
+.natton-solutions .crm-automation-node-icon{width:84px;height:84px;border-radius:24px;background:linear-gradient(140deg,#a6e7ff24,#2b62a545);border-color:#c5eaff6b;box-shadow:0 9px 20px #00163a24,inset 0 1px #d6f7ff4d;color:#c5efff;margin-bottom:25px}
+.natton-solutions .crm-automation-node-icon>.icon{width:33px;height:33px}
+.natton-solutions .crm-automation-node.is-active .crm-automation-node-icon{background:linear-gradient(140deg,#b6efff,#58cbdf);color:#07526f;border-color:#d4ffff;box-shadow:0 0 0 7px #a6f5ff0c,0 0 40px #62dbff30,inset 0 1px #fff}
+.natton-solutions .crm-automation-node-icon>b{background:#ffb8a2;color:#804333;border-color:#1a4d8d;width:23px;height:23px;right:-6px;bottom:-6px}
+.natton-solutions .crm-automation-node small{font-size:8px;color:#99c3e8}
+.natton-solutions .crm-automation-node h3{font-size:21px;color:#edf9ff;max-width:200px;margin:auto;line-height:1.25}
+.natton-solutions .crm-automation-node p{font-size:12px;color:#afcde8;max-width:200px}
+.natton-solutions .crm-automation-caption{background:#021c4533;border-color:#a3d4ef38;padding:23px 29px}
+.natton-solutions .crm-automation-caption>span{font-size:8px;color:#95c6e0}
+.natton-solutions .crm-automation-caption>p{font-size:12px;color:#bedfed}
+.natton-solutions .crm-workflow-notes>span{font-size:11px;color:#b0cee9}
+.natton-solutions .crm-workflow-notes .icon{color:#8de5ef}
+/* The assistant has an ink interior, framed by pale prism glass. */
+.natton-solutions .crm-ai-section{background:#e7f1fb}
+.natton-solutions .atmosphere-ai .crm-color-field{background:radial-gradient(ellipse at 95% 50%,#8db8fc69,transparent 46%),radial-gradient(ellipse at 53% 100%,#efa58e52,transparent 43%),radial-gradient(ellipse at 2% 10%,#bce7ed70,transparent 45%)}
+.natton-solutions .atmosphere-ai .crm-light-ribbons{opacity:.24;top:-20%;left:-5%;width:130%;height:165%}
+.natton-solutions .atmosphere-ai .crm-light-contours{color:#5e82bf;opacity:.15}
+.natton-solutions .crm-ai-section h2 em{color:#537b9e}
+.natton-solutions .crm-ai-section .crm-eyebrow{color:#497a9d}
+.natton-solutions .crm-ai-demo.glass-light{position:relative;background:linear-gradient(130deg,#102f4ee8,#0b1d37ed 60%,#294264dd);color:#d0e2f6;border-color:#e5f7ff;border-radius:26px;box-shadow:0 35px 65px #31568b40,0 0 0 7px #ffffff30,inset 0 1px #f5fdff4d!important}
+.natton-solutions .crm-ai-demo .crm-demo-label{color:#9bbad5}
+.natton-solutions .crm-ai-source{border-color:#a8c6e42b}
+.natton-solutions .crm-ai-source .crm-avatar{background:#1f6d9b48;color:#9cdaff;border:1px solid #9bd5f84d}
+.natton-solutions .crm-ai-source small{font-size:7px;color:#9cb7d2}
+.natton-solutions .crm-ai-source p{font-size:13px;color:#c2d5e5}
+.natton-solutions .crm-ai-action-row>button{background:#aed2ff0b;border-color:#b3c8ef36;color:#9cb8d6;border-radius:30px;font-size:10px;padding:13px 9px;min-height:43px}
+.natton-solutions .crm-ai-action-row>button.active{background:#b3dff1;color:#20415d;border-color:#dcf7ff;box-shadow:0 5px 20px #00152f2b}
+.natton-solutions .crm-ai-output{border-radius:16px;background:linear-gradient(135deg,#c7e8ff14,#98b8f60b);border-color:#abcce548;padding:23px;min-height:244px}
+.natton-solutions .crm-ai-output>div:first-child>span:first-child{color:#9cc4e0;font-size:7px}
+.natton-solutions .crm-ai-review-status{background:#fc9b7e14;border-color:#ffb6a149;color:#f7b8a2;font-size:7px;padding:5px 7px;border-radius:20px}
+.natton-solutions .crm-ai-review-status.reviewed{background:#9ddcd92b;border-color:#9ce4df6b;color:#c6f6ef}
+.natton-solutions .crm-ai-output h3{color:#e0f3ff;font-size:21px;margin-top:27px}
+.natton-solutions .crm-ai-output>p{color:#b5cae0;font-size:13px;min-height:75px}
+.natton-solutions .crm-ai-output>button{color:#a1d9ed;font-size:10px;padding:8px 0}
+.natton-solutions .crm-ai-demo>.crm-demo-footnote{color:#94abc2;font-size:10px}
+/* Reporting takes the same palette into a luminous signal field. */
+.natton-solutions .crm-analytics-section{background:#071b2d}
+.natton-solutions .atmosphere-analytics .crm-color-field{background:radial-gradient(ellipse at 88% 40%,#008bc75e,transparent 48%),radial-gradient(ellipse at 15% 90%,#1352c45c,transparent 44%),radial-gradient(ellipse at 60% 110%,#fb8f713b,transparent 35%)}
+.natton-solutions .atmosphere-analytics .crm-light-ribbons{opacity:.45;top:-30%;height:175%;left:-10%;width:140%}
+.natton-solutions .atmosphere-analytics .crm-light-contours{opacity:.2}
+.natton-solutions .crm-analytics-section .crm-eyebrow{color:#8dc6e0}
+.natton-solutions .crm-analytics-section h2 em{color:#8ce4ec}
+.natton-solutions .crm-analytics-section .crm-heading>p{color:#aac7da}
+.natton-solutions .crm-analytics-demo{border-radius:26px;background:linear-gradient(135deg,#9dd7ff1a,#09223bbd 55%,#123a4fb5)!important;border-color:#aee8f45c!important;box-shadow:0 35px 65px #000f244d,inset 0 1px #d2f7ff57!important}
+.natton-solutions .crm-analytics-menu{padding:32px 25px;background:#061a3045;border-color:#b2d9ee2b}
+.natton-solutions .crm-analytics-menu>.crm-eyebrow{font-size:8px;color:#99bad2}
+.natton-solutions .crm-analytics-menu>button{border-color:#a7d4e92b;background:#c4eaff05;border-radius:13px;padding:18px 14px}
+.natton-solutions .crm-analytics-menu b{font-size:13px;color:#c4ddec}
+.natton-solutions .crm-analytics-menu small{font-size:9px;color:#89abc3}
+.natton-solutions .crm-analytics-menu button.active{background:linear-gradient(115deg,#c4f4fa22,#87daf712);border-color:#9ce7f98c;box-shadow:inset 0 1px #bdf8ff24}
+.natton-solutions .crm-analytics-menu button.active b{color:#e6faff}
+.natton-solutions .crm-analytics-menu button.active>.icon:first-child{color:#9decf4}
+.natton-solutions .crm-chart-panel{padding:32px 35px;background:#7ed2f808}
+.natton-solutions .crm-chart-panel .crm-demo-label{color:#a3c6dd}
+.natton-solutions .crm-chart-panel>.crm-demo-top>span:last-child{font-size:7px;color:#91b6ce}
+.natton-solutions .crm-chart-panel h3{font-size:29px;color:#e5f6ff}
+.natton-solutions .crm-chart-panel>p{font-size:12px;color:#a5c4d6}
+.natton-solutions .crm-chart-row>span{font-size:12px;width:105px;color:#b1d1e3}
+.natton-solutions .crm-chart-row>div{height:21px;border-radius:50px;background:#00192d91;border-color:#9fd7e22e;padding:3px}
+.natton-solutions .crm-chart-row>div>i{border-radius:50px;background:linear-gradient(90deg,#128bc6,#90f6ef);box-shadow:0 0 15px #57d7e524;opacity:1}
+.natton-solutions .crm-chart-row:nth-child(2)>div>i{background:linear-gradient(90deg,#3666b8,#94bfff)}
+.natton-solutions .crm-chart-row:nth-child(3)>div>i{background:linear-gradient(90deg,#b36e58,#ffb39b)}
+.natton-solutions .crm-chart-row>b{font-size:13px;color:#d6f0fb}
+.natton-solutions .crm-chart-caption{border-color:#a6cddd2e}
+.natton-solutions .crm-chart-caption>span{font-size:10px;color:#a4c5d9}
+.natton-solutions .crm-chart-caption>small{font-size:9px;color:#8aadc5}
+/* Follow-through cards have three distinct finishes, not twelve repeated boxes. */
+.natton-solutions .crm-extras-section{background:#edf6f9}
+.natton-solutions .atmosphere-extras .crm-color-field{background:radial-gradient(ellipse at 0% 100%,#8bd4e857,transparent 50%),radial-gradient(ellipse at 100% 0%,#ffbba44d,transparent 43%)}
+.natton-solutions .atmosphere-extras .crm-light-ribbons{opacity:.13;top:-70%;height:200%}
+.natton-solutions .atmosphere-extras .crm-light-contours{opacity:.08;color:#2483a0}
+.natton-solutions .crm-extras-grid{gap:23px;align-items:start}
+.natton-solutions .crm-extras-grid>article{padding:32px;border-radius:25px;min-height:340px;position:relative;overflow:hidden;border-color:#fff!important;box-shadow:0 20px 40px #24597717!important;background:linear-gradient(135deg,#f7ad96,#fcd1bb)!important;color:#4f3431}
+.natton-solutions .crm-extras-grid>article:after{content:'';position:absolute;width:230px;height:230px;border:1px solid #ffffff50;border-radius:50%;right:-135px;top:-40px;box-shadow:0 0 0 28px #ffffff0f,0 0 0 56px #ffffff0b;pointer-events:none}
+.natton-solutions .crm-extras-grid>article:nth-child(2){margin-top:36px;background:linear-gradient(140deg,#f5fdffe8,#cceaf4ce)!important;color:#244762}
+.natton-solutions .crm-extras-grid>article:nth-child(3){margin-top:72px;background:linear-gradient(140deg,#16496e,#10283e)!important;color:#e7f7ff;border-color:#5b97b4!important}
+.natton-solutions .crm-extras-grid h3{font-size:28px;position:relative;z-index:1}
+.natton-solutions .crm-extras-grid p{font-size:14px;color:#7b5047;position:relative;z-index:1}
+.natton-solutions .crm-extras-grid>article:nth-child(2) p{color:#4d748b}
+.natton-solutions .crm-extras-grid>article:nth-child(3) p{color:#b1cbdc}
+.natton-solutions .crm-extra-icon{height:49px;width:49px;border-radius:15px;color:#a05843;background:#fff3dd45;border-color:#fff3df85;box-shadow:inset 0 1px #ffebdc}
+.natton-solutions .crm-extras-grid>article:nth-child(2) .crm-extra-icon{background:#fff9;color:#3e88a5;border-color:#acd5e6}
+.natton-solutions .crm-extras-grid>article:nth-child(3) .crm-extra-icon{background:#81d5ee17;color:#a2ddeb;border-color:#a2ddeb4f}
+.natton-solutions .crm-extra-foot{font-size:10px;color:#865d50;border-color:#ae735245}
+.natton-solutions .crm-extras-grid>article:nth-child(2) .crm-extra-foot{color:#5e7f91;border-color:#a9ccd9}
+.natton-solutions .crm-extras-grid>article:nth-child(3) .crm-extra-foot{color:#a8c4d6;border-color:#6d9cb54a}
+/* Delivery is treated as a calm, connected workshop. */
+.natton-solutions .crm-delivery-section{background:#0a2235;color:#eff8fc}
+.natton-solutions .atmosphere-delivery .crm-color-field{background:radial-gradient(ellipse at 10% 15%,#1b6d904d,transparent 48%),radial-gradient(ellipse at 100% 90%,#1f659b55,transparent 50%)}
+.natton-solutions .atmosphere-delivery .crm-light-ribbons{opacity:.24;top:-20%;height:160%}
+.natton-solutions .atmosphere-delivery .crm-light-contours{opacity:.1}
+.natton-solutions .crm-delivery-section .crm-eyebrow{color:#91c4d7}
+.natton-solutions .crm-delivery-section h2 em{color:#8dcfdf}
+.natton-solutions .crm-delivery-section .crm-heading>p{color:#b0c8da}
+.natton-solutions .crm-delivery-steps{gap:17px}
+.natton-solutions .crm-delivery-steps>li{padding:26px 23px;border:1px solid #9acfe43b;border-radius:21px;background:linear-gradient(135deg,#b8e6ff12,#b4daee05);box-shadow:inset 0 1px #b5efff17;backdrop-filter:blur(18px)}
+.natton-solutions .crm-delivery-steps>li>span{border-radius:50%;border-color:#a6dfeb4a;background:#b8eaff12;color:#9bddf0;font-size:10px}
+.natton-solutions .crm-delivery-steps h3{color:#deeff8;font-size:24px}
+.natton-solutions .crm-delivery-steps p{font-size:13px;color:#9fbed1}
+.natton-solutions .crm-delivery-steps>li:nth-child(4)>span{background:#fc816c24;border-color:#fca58d61;color:#ffc3af}
+.natton-solutions .crm-delivery-bottom{border-color:#9acfe42e;gap:70px}
+.natton-solutions .crm-delivery-bottom h3{color:#e4f5fc;font-size:25px}
+.natton-solutions .crm-delivery-bottom p{color:#a7c4d6;font-size:13px}
+.natton-solutions .crm-tool-chips>span{border-radius:30px;background:#d2f4ff0b;border-color:#acd2e23b;color:#b0cbdc;padding:12px 17px;font-size:11px}
+.natton-solutions .crm-bundle-note{background:linear-gradient(120deg,#a7e4ff0f,#00162a33);border-color:#9cd5e43d;border-radius:17px;padding:25px}
+.natton-solutions .crm-bundle-note>span{color:#b9dfec;font-size:11px}
+.natton-solutions .crm-bundle-note>p{color:#9ebfd1;font-size:12px}
+.natton-solutions .crm-bundle-note>a{color:#95dcec;font-size:10px}
+/* The final questions get a clear, bright reading surface. */
+.natton-solutions .crm-faq-section{background:#e9f4fa}
+.natton-solutions .atmosphere-faq .crm-color-field{background:radial-gradient(ellipse at 0% 0%,#7fd5eb60,transparent 45%),radial-gradient(ellipse at 90% 100%,#a6cbf459,transparent 48%)}
+.natton-solutions .atmosphere-faq .crm-light-ribbons{opacity:.16;top:-20%;height:170%;left:-40%;width:180%}
+.natton-solutions .atmosphere-faq .crm-light-contours{opacity:.1;color:#4282a6}
+.natton-solutions .crm-faq-layout{gap:90px;align-items:start}
+.natton-solutions .crm-faq-layout>div:first-child>p{color:#50748c}
+.natton-solutions .crm-faq-list{padding:8px 29px;background:linear-gradient(135deg,#ffffffc7,#e8f7ff9e);border:1px solid white;border-radius:24px;box-shadow:0 25px 55px #346a8c1c,inset 0 1px white;backdrop-filter:blur(20px)}
+.natton-solutions .crm-faq-list details{border-color:#adc9da87;padding:23px 0}
+.natton-solutions .crm-faq-list details:last-child{border-bottom:0}
+.natton-solutions .crm-faq-list summary{color:#2c536f;font-size:15px}
+.natton-solutions .crm-faq-list details[open] summary{color:#167b9e}
+.natton-solutions .crm-faq-list details>p{color:#4f748d;font-size:13px}
+.natton-solutions .crm-faq-list summary>span{border-color:#a1c7d9;color:#4286a7;background:#dbf1f9;height:29px;width:29px}
+.natton-solutions .crm-related{background:#dceef6;border-color:#c4dbe8}
+.natton-solutions .crm-related .crm-eyebrow{font-size:8px;color:#628296}
+.natton-solutions .crm-related a{color:#3b6c87;font-size:13px}
+.natton-solutions .crm-final{background:#06172a;padding:113px 0 123px}
+.natton-solutions .atmosphere-final .crm-color-field{background:radial-gradient(ellipse at 50% 110%,#fc816c96,transparent 50%),radial-gradient(ellipse at 0% 55%,#186ce688,transparent 50%),radial-gradient(ellipse at 95% 70%,#09bce973,transparent 50%)}
+.natton-solutions .atmosphere-final .crm-light-ribbons{top:-35%;height:190%;width:160%;left:-30%;opacity:.66}
+.natton-solutions .atmosphere-final .crm-light-contours{opacity:.12}
+.natton-solutions .crm-final .crm-eyebrow{color:#a6d0e0;font-size:9px}
+.natton-solutions .crm-final h2{font-size:clamp(38px,4.7vw,65px);color:#f5fbff;max-width:1000px;margin:auto;line-height:1.08}
+.natton-solutions .crm-final h2 em{color:#a1e8f3}
+.natton-solutions .crm-final p{font-size:15px;color:#b3d1df;margin:28px auto 32px;max-width:610px}
+/* Different section geometries keep the atmosphere from becoming a repeated wallpaper. */
+.natton-solutions .atmosphere-hero .crm-light-ribbons{mask-image:linear-gradient(90deg,#0001,#0004 35%,#000 61%)}
+.natton-solutions .atmosphere-records .crm-light-ribbons,.natton-solutions .atmosphere-messaging .crm-light-ribbons,.natton-solutions .atmosphere-ai .crm-light-ribbons,.natton-solutions .atmosphere-analytics .crm-light-ribbons,.natton-solutions .atmosphere-extras .crm-light-ribbons,.natton-solutions .atmosphere-delivery .crm-light-ribbons,.natton-solutions .atmosphere-faq .crm-light-ribbons{display:none}
+.natton-solutions .atmosphere-records .crm-light-contours{opacity:.22;rotate:-16deg;scale:1.2}
+.natton-solutions .atmosphere-records .crm-fluted-light{opacity:.3;mask-image:linear-gradient(90deg,transparent 25%,#000)}
+.natton-solutions .atmosphere-pipeline .crm-light-ribbons{opacity:.25;mask-image:linear-gradient(transparent 30%,#000)}
+.natton-solutions .atmosphere-capture .crm-light-ribbons{display:none}
+.natton-solutions .atmosphere-capture .crm-fluted-light{opacity:1;background:repeating-linear-gradient(90deg,transparent 0,#c4f2ff03 20px,#b3e8ff0b 40px,#021e5017 43px,transparent 47px);mask-image:linear-gradient(90deg,transparent 15%,#000 70%)}
+.natton-solutions .atmosphere-capture .crm-light-contours{opacity:.14;rotate:12deg}
+.natton-solutions .atmosphere-messaging .crm-light-contours{opacity:.24;width:150%;left:-45%;scale:1}
+.natton-solutions .atmosphere-messaging .crm-fluted-light{background:radial-gradient(#0f6d9120 .7px,transparent .7px);background-size:18px 18px;mask-image:linear-gradient(90deg,#000,transparent 65%);opacity:.7}
+.natton-solutions .atmosphere-workflow .crm-light-ribbons{mask-image:linear-gradient(transparent 40%,#000);opacity:.45}
+.natton-solutions .atmosphere-ai .crm-light-contours{rotate:-33deg;scale:1.2;opacity:.2}
+.natton-solutions .atmosphere-ai .crm-fluted-light{background:repeating-linear-gradient(125deg,transparent 0 55px,#508cce15 56px,transparent 57px 110px);mask-image:linear-gradient(90deg,transparent,#000);opacity:.5}
+.natton-solutions .atmosphere-analytics .crm-fluted-light,.natton-solutions .atmosphere-delivery .crm-fluted-light{background-image:linear-gradient(#9ecde510 1px,transparent 1px),linear-gradient(90deg,#9ecde510 1px,transparent 1px);background-size:54px 54px;opacity:.7;mask-image:radial-gradient(ellipse at 75% 60%,#000,transparent 70%)}
+.natton-solutions .atmosphere-analytics .crm-light-contours{width:130%;left:-20%;rotate:18deg;opacity:.15}
+.natton-solutions .atmosphere-extras .crm-light-contours,.natton-solutions .atmosphere-extras .crm-fluted-light{display:none}
+.natton-solutions .atmosphere-delivery .crm-light-contours{opacity:.16;scale:-1 1}
+.natton-solutions .atmosphere-faq .crm-light-contours{display:none}
+.natton-solutions .atmosphere-faq .crm-fluted-light{background:radial-gradient(#4b94b532 .7px,transparent .7px);background-size:24px 24px;opacity:.7;mask-image:linear-gradient(90deg,#000,transparent 50%)}
+@keyframes ns-crm-light-drift{from{translate:-1% 0;scale:1}to{translate:2% -3%;scale:1.035}}
+@keyframes ns-crm-glass-sweep{0%,60%{left:-80%}85%,100%{left:170%}}
+.natton-solutions .crm-page.crm-enhanced section:not(.crm-in-view) .crm-light-ribbons,.natton-solutions .crm-page.crm-enhanced section:not(.crm-in-view) .crm-command:after{animation-play-state:paused}
+/* Breakpoints preserve the richer composition without forcing a desktop canvas. */
+@media(min-width:1550px){.natton-solutions .crm-hero-grid{gap:90px}.natton-solutions .crm-hero-copy h1{font-size:70px}.natton-solutions .crm-command-main{padding:31px 27px}.natton-solutions .crm-hero-grid{min-height:715px}}
+@media(max-width:1180px){.natton-solutions .crm-hero-grid{gap:40px}.natton-solutions .crm-hero-copy h1{font-size:clamp(43px,4.8vw,60px)}.natton-solutions .crm-hero-copy>p{font-size:14px}.natton-solutions .crm-feature-grid{gap:45px}.natton-solutions .crm-module{padding:24px!important}.natton-solutions .crm-module h3{font-size:17px}.natton-solutions .crm-module-art{width:150px;right:0;bottom:30px}.natton-solutions .crm-module.module-no-0 h3,.natton-solutions .crm-module.module-no-1 h3,.natton-solutions .crm-module.module-no-10 h3,.natton-solutions .crm-module.module-no-11 h3{font-size:26px}.natton-solutions .crm-form-demo-grid{grid-template-columns:1fr}.natton-solutions .crm-form-options{display:flex;gap:13px;flex-wrap:wrap}.natton-solutions .crm-form-options>small{width:100%;margin:0}.natton-solutions .crm-form-options>label{margin:0}.natton-solutions .crm-record-layout{grid-template-columns:.85fr 1fr;gap:10px}.natton-solutions .crm-record-list>button>.crm-avatar{display:none}.natton-solutions .crm-record-list>button{padding:15px 9px}.natton-solutions .crm-extras-grid>article{padding:28px}.natton-solutions .crm-extras-grid h3{font-size:25px}.natton-solutions .crm-automation-node h3{font-size:19px}.natton-solutions .crm-delivery-steps>li{padding:25px 18px}.natton-solutions .crm-delivery-steps h3{font-size:22px}.natton-solutions .crm-bundle-note{flex-wrap:wrap}.natton-solutions .crm-faq-layout{gap:55px}}
+@media(max-width:960px){.natton-solutions .crm-page .crm-section{padding:85px 0}.natton-solutions .crm-hero-grid{gap:38px;padding:58px 0 75px}.natton-solutions .crm-hero-copy h1{font-size:43px}.natton-solutions .crm-hero-copy>p{font-size:13px}.natton-solutions .crm-hero-visual:before{inset:8px -11px 35px;border-radius:25px}.natton-solutions .crm-orbit-chip-top{right:-7px;font-size:9px}.natton-solutions .crm-orbit-chip-bottom{left:-7px;font-size:8px}.natton-solutions .crm-command-main{padding:22px 17px}.natton-solutions .crm-workspace-title b{font-size:16px}.natton-solutions .crm-workspace-title small{font-size:6px}.natton-solutions .crm-command-profile>div>b{font-size:10px}.natton-solutions .crm-command-profile>div>small{font-size:7px}.natton-solutions .crm-command-profile>.crm-status-pill{display:none}.natton-solutions .crm-command-body>aside{width:40px}.natton-solutions .crm-command-bottom b{font-size:8px}.natton-solutions .crm-command-bottom small{font-size:5px}.natton-solutions .crm-window-brand{font-size:6px}.natton-solutions .crm-window-top{padding:0 15px}.natton-solutions .crm-feature-grid{gap:35px}.natton-solutions .crm-intro-grid{gap:55px}.natton-solutions .crm-module-grid{gap:14px}.natton-solutions .crm-module h3{font-size:16px}.natton-solutions .crm-module p{font-size:11px}.natton-solutions .crm-module-icon{height:36px;width:36px}.natton-solutions .crm-module.module-no-0 h3,.natton-solutions .crm-module.module-no-1 h3,.natton-solutions .crm-module.module-no-10 h3,.natton-solutions .crm-module.module-no-11 h3{font-size:25px}.natton-solutions .crm-module.module-no-0 p,.natton-solutions .crm-module.module-no-1 p,.natton-solutions .crm-module.module-no-10 p,.natton-solutions .crm-module.module-no-11 p{font-size:12px;max-width:57%}.natton-solutions .crm-module-art{width:130px;opacity:.5}.natton-solutions .crm-capture-card{padding:28px}.natton-solutions .crm-card-copy h3{font-size:27px}.natton-solutions .crm-card-copy>p{font-size:13px}.natton-solutions .crm-form-card{margin-top:50px}.natton-solutions .crm-sales-board{gap:13px;padding:22px}.natton-solutions .crm-deal{padding:18px 13px}.natton-solutions .crm-deal h3{font-size:18px}.natton-solutions .crm-automation-track{padding:40px 25px;gap:20px}.natton-solutions .crm-automation-node-icon{height:70px;width:70px;border-radius:20px}.natton-solutions .crm-automation-line{top:76px}.natton-solutions .crm-automation-node h3{font-size:18px}.natton-solutions .crm-automation-node p{font-size:11px}.natton-solutions .crm-analytics-menu{padding:28px 20px}.natton-solutions .crm-chart-panel{padding:28px}.natton-solutions .crm-extras-grid{gap:16px}.natton-solutions .crm-extras-grid>article{padding:26px 23px}.natton-solutions .crm-extras-grid h3{font-size:23px}.natton-solutions .crm-extras-grid p{font-size:13px}.natton-solutions .crm-delivery-steps{gap:12px}.natton-solutions .crm-delivery-steps>li{padding:23px 16px}.natton-solutions .crm-delivery-steps h3{font-size:20px}.natton-solutions .crm-faq-list{padding:6px 23px}.natton-solutions .crm-faq-layout{gap:40px}.natton-solutions .crm-faq-list summary{font-size:14px}}
+@media(max-width:760px){.natton-solutions .crm-page .crm-section{padding:75px 0}.natton-solutions .crm-page h2{font-size:39px;line-height:1.12}.natton-solutions .crm-hero-grid{grid-template-columns:1fr;gap:12px;padding:45px 0 22px;min-height:0}.natton-solutions .crm-hero-copy h1{font-size:55px;line-height:1.04;max-width:640px}.natton-solutions .crm-hero-copy h1>.crm-eyebrow{font-size:9px;margin-bottom:25px}.natton-solutions .crm-hero-copy>p{font-size:15px;max-width:590px;margin-top:26px}.natton-solutions .crm-hero-visual{padding:55px 0 65px;max-width:560px;width:calc(100% - 14px);justify-self:center}.natton-solutions .crm-hero-visual:before{inset:26px -12px 43px}.natton-solutions .crm-orbit-chip-top{top:29px;right:7px;font-size:11px}.natton-solutions .crm-orbit-chip-bottom{bottom:43px;left:5px;font-size:10px}.natton-solutions .crm-command-main{padding:27px 22px}.natton-solutions .crm-workspace-title b{font-size:21px}.natton-solutions .crm-workspace-title small{font-size:7px}.natton-solutions .crm-command-profile>div>b{font-size:12px}.natton-solutions .crm-command-profile>div>small{font-size:8px}.natton-solutions .crm-command-body>aside{width:47px}.natton-solutions .crm-command-profile{padding:16px 13px}.natton-solutions .crm-command-bottom b{font-size:9px}.natton-solutions .crm-command-bottom small{font-size:6px}.natton-solutions .crm-window-brand{font-size:7px}.natton-solutions .crm-window-top{padding:0 20px}.natton-solutions .crm-mini-journey>span{font-size:7px}.natton-solutions .crm-hero-reassurance>span{font-size:9px}.natton-solutions .crm-hero-bottom>span{font-size:7px;max-width:300px}.natton-solutions .crm-hero-bottom>button{font-size:9px}.natton-solutions .crm-intro-grid,.natton-solutions .crm-feature-grid{grid-template-columns:1fr;gap:38px}.natton-solutions .crm-intro h2{font-size:38px}.natton-solutions .crm-lead{font-size:15px}.natton-solutions .crm-small-copy{font-size:13px}.natton-solutions .crm-problem-pills>span{font-size:10px}.natton-solutions .crm-module-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.natton-solutions .crm-module.glass-light{min-height:205px;padding:25px!important;border-radius:20px}.natton-solutions .crm-module.module-no-0,.natton-solutions .crm-module.module-no-1,.natton-solutions .crm-module.module-no-10,.natton-solutions .crm-module.module-no-11{grid-column:span 2;min-height:235px;padding:28px!important}.natton-solutions .crm-module.module-no-0 h3,.natton-solutions .crm-module.module-no-1 h3,.natton-solutions .crm-module.module-no-10 h3,.natton-solutions .crm-module.module-no-11 h3{font-size:29px;max-width:60%}.natton-solutions .crm-module.module-no-0 p,.natton-solutions .crm-module.module-no-1 p,.natton-solutions .crm-module.module-no-10 p,.natton-solutions .crm-module.module-no-11 p{font-size:13px;max-width:55%}.natton-solutions .crm-module h3{font-size:18px;max-width:100%}.natton-solutions .crm-module p{font-size:12px}.natton-solutions .crm-module-art{width:190px;right:16px;bottom:25px}.natton-solutions .crm-module-icon{height:42px;width:42px}.natton-solutions .crm-module small{font-size:8px}.natton-solutions .crm-module>div{margin-bottom:24px}.natton-solutions .crm-scope-note{font-size:10px}.natton-solutions .crm-capabilities .crm-heading>p{font-size:14px}.natton-solutions .crm-contact-demo{max-width:600px;justify-self:center;width:100%;padding:28px!important}.natton-solutions .crm-record-layout{grid-template-columns:.8fr 1.2fr;display:grid;gap:15px}.natton-solutions .crm-record-list{flex-direction:column}.natton-solutions .crm-record-list>button{display:flex;padding:16px 13px}.natton-solutions .crm-record-list>button b{font-size:11px}.natton-solutions .crm-record-list>button small{display:block;font-size:8px}.natton-solutions .crm-record-list>button>.crm-avatar{display:none}.natton-solutions .crm-record-detail{margin:0;padding:20px 17px}.natton-solutions .crm-record-heading h3{font-size:16px}.natton-solutions .crm-record-next p{font-size:12px}.natton-solutions .crm-timeline>li{font-size:11px}.natton-solutions .crm-timeline small{font-size:9px}.natton-solutions .crm-feature-copy>p,.natton-solutions .crm-messaging-section .crm-feature-copy>p{font-size:15px}.natton-solutions .crm-benefits>li{font-size:13px}.natton-solutions .crm-inline-note{font-size:11px}.natton-solutions .crm-pipeline-demo{border-radius:22px}.natton-solutions .crm-sales-board{padding:22px;gap:13px}.natton-solutions .crm-sales-board-column-title{font-size:11px;padding:16px 13px}.natton-solutions .crm-deal h3{font-size:17px}.natton-solutions .crm-deal>p{font-size:11px}.natton-solutions .crm-sales-board-status{font-size:10px}.natton-solutions .crm-pipeline-benefits>span{font-size:10px}.natton-solutions .crm-capture-grid{grid-template-columns:1fr;gap:28px}.natton-solutions .crm-capture-card{padding:32px}.natton-solutions .crm-form-card{margin-top:0}.natton-solutions .crm-card-copy h3{font-size:31px}.natton-solutions .crm-card-copy>p{font-size:14px;max-width:550px}.natton-solutions .crm-card-copy .crm-eyebrow{font-size:8px}.natton-solutions .crm-tag-row>span{font-size:8px}.natton-solutions .crm-form-demo-grid{grid-template-columns:.8fr 1.2fr;display:grid}.natton-solutions .crm-form-options{display:block}.natton-solutions .crm-form-options>small{font-size:7px;margin-bottom:19px}.natton-solutions .crm-form-options>label{margin-top:16px;font-size:11px}.natton-solutions .crm-form-preview{margin:0;padding:24px 20px;min-height:275px}.natton-solutions .crm-form-preview>b{font-size:19px}.natton-solutions .crm-fake-input{font-size:9px;min-height:34px}.natton-solutions .crm-fake-submit{font-size:9px}.natton-solutions .crm-booking-demo,.natton-solutions .crm-form-builder{padding:26px;margin-top:29px}.natton-solutions .crm-day-picker b{font-size:24px}.natton-solutions .crm-day-picker small{font-size:7px}.natton-solutions .crm-time-picker>button{font-size:11px;min-height:40px}.natton-solutions .crm-booking-result{font-size:11px}.natton-solutions .crm-message-visual{max-width:600px;width:100%;padding:28px!important;order:2}.natton-solutions .crm-messaging-section .crm-feature-copy{order:1}.natton-solutions .crm-message-tabs>button{font-size:12px;min-height:42px}.natton-solutions .crm-message-person b{font-size:14px}.natton-solutions .crm-message-person small{font-size:10px}.natton-solutions .crm-message-stage{padding:25px 20px;min-height:230px}.natton-solutions .crm-message-bubble{font-size:14px;max-width:360px}.natton-solutions .crm-message-reply{font-size:13px;max-width:280px}.natton-solutions .crm-message-next>span{font-size:9px;max-width:200px}.natton-solutions .crm-message-next>button{font-size:10px}.natton-solutions .crm-workflow-section .crm-heading>p{font-size:14px}.natton-solutions .crm-automation-track{grid-template-columns:1fr 1fr;gap:35px 28px;padding:36px 28px}.natton-solutions .crm-automation-line{display:none}.natton-solutions .crm-automation-node-icon{height:72px;width:72px;border-radius:21px}.natton-solutions .crm-automation-node h3{font-size:22px}.natton-solutions .crm-automation-node p{font-size:12px}.natton-solutions .crm-automation-caption{display:block}.natton-solutions .crm-automation-caption>p{font-size:12px;min-height:44px}.natton-solutions .crm-small-button{font-size:10px;padding:11px 14px}.natton-solutions .crm-workflow-notes{display:grid;grid-template-columns:1fr 1fr;gap:20px}.natton-solutions .crm-workflow-notes>span{font-size:11px}.natton-solutions .crm-ai-demo{max-width:600px;width:100%;justify-self:center;padding:28px!important}.natton-solutions .crm-ai-source p{font-size:14px}.natton-solutions .crm-ai-action-row>button{font-size:11px;min-height:45px}.natton-solutions .crm-ai-output{padding:25px 23px}.natton-solutions .crm-ai-output h3{font-size:23px}.natton-solutions .crm-ai-output>p{font-size:14px;min-height:80px}.natton-solutions .crm-ai-output>button{font-size:11px}.natton-solutions .crm-ai-review-status{font-size:8px}.natton-solutions .crm-ai-output>div:first-child>span:first-child{font-size:7px}.natton-solutions .crm-analytics-demo{grid-template-columns:1fr}.natton-solutions .crm-analytics-menu{padding:25px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;border-bottom:1px solid #a4d7ee2b;border-right:0}.natton-solutions .crm-analytics-menu>.crm-eyebrow{grid-column:1/-1;font-size:8px}.natton-solutions .crm-analytics-menu>button{padding:15px 12px;display:block;margin:0}.natton-solutions .crm-analytics-menu b{font-size:11px;line-height:1.5}.natton-solutions .crm-analytics-menu small{font-size:8px}.natton-solutions .crm-analytics-menu>button>.icon:first-child{margin-bottom:12px}.natton-solutions .crm-analytics-menu>button>.icon:last-child{display:none}.natton-solutions .crm-chart-panel{padding:29px}.natton-solutions .crm-chart-panel h3{font-size:29px}.natton-solutions .crm-chart-panel>p{font-size:13px}.natton-solutions .crm-chart-row>span{font-size:12px;width:105px}.natton-solutions .crm-chart-caption>span{font-size:11px}.natton-solutions .crm-extras-grid{grid-template-columns:1fr;gap:22px}.natton-solutions .crm-extras-grid>article,.natton-solutions .crm-extras-grid>article:nth-child(2),.natton-solutions .crm-extras-grid>article:nth-child(3){margin-top:0;padding:31px;min-height:0}.natton-solutions .crm-extras-grid h3{font-size:30px}.natton-solutions .crm-extras-grid p{font-size:15px;max-width:500px}.natton-solutions .crm-extra-foot{font-size:11px}.natton-solutions .crm-delivery-steps{grid-template-columns:1fr 1fr;gap:16px}.natton-solutions .crm-delivery-steps>li{padding:25px 23px}.natton-solutions .crm-delivery-steps h3{font-size:24px}.natton-solutions .crm-delivery-steps p{font-size:13px}.natton-solutions .crm-delivery-bottom{grid-template-columns:1fr;gap:25px}.natton-solutions .crm-delivery-bottom p{font-size:13px}.natton-solutions .crm-tool-chips{justify-content:flex-start}.natton-solutions .crm-bundle-note{display:flex;flex-direction:column;align-items:flex-start;gap:16px;padding:25px}.natton-solutions .crm-bundle-note>p{font-size:13px}.natton-solutions .crm-bundle-note>a{font-size:11px}.natton-solutions .crm-faq-layout{grid-template-columns:1fr;gap:35px}.natton-solutions .crm-faq-list{padding:6px 27px}.natton-solutions .crm-faq-list summary{font-size:15px}.natton-solutions .crm-faq-list details>p{font-size:14px}.natton-solutions .crm-faq-layout>div:first-child>p{font-size:15px;max-width:500px}.natton-solutions .crm-related a{font-size:13px}.natton-solutions .crm-final{padding:85px 0 95px}.natton-solutions .crm-final h2{font-size:43px}.natton-solutions .crm-final p{font-size:15px}.natton-solutions .crm-atmosphere .crm-light-ribbons{animation:none}.natton-solutions .crm-atmosphere .crm-grain{opacity:.07}.natton-solutions .crm-hero .crm-atmosphere .crm-light-ribbons{width:230%;left:-80%;opacity:.6}.natton-solutions .crm-atmosphere .crm-light-contours{width:170%;left:-40%}}
+@media(max-width:500px){.natton-solutions .crm-page .crm-section{padding:65px 0}.natton-solutions .crm-page h2,.natton-solutions .crm-intro h2{font-size:34px;line-height:1.13}.natton-solutions .crm-eyebrow{font-size:8px;line-height:1.8}.natton-solutions .crm-hero-copy h1{font-size:42px;line-height:1.045;letter-spacing:-.055em}.natton-solutions .crm-hero-copy h1>.crm-eyebrow{font-size:8px;line-height:1.7;margin-bottom:25px}.natton-solutions .crm-hero-grid{padding:38px 0 18px}.natton-solutions .crm-hero-copy>p{font-size:14px;line-height:1.85}.natton-solutions .crm-hero .crm-actions{align-items:flex-start;gap:20px}.natton-solutions .crm-button{min-height:51px;font-size:11px;padding:0 20px;gap:23px}.natton-solutions .crm-hero-copy .crm-text-link{font-size:10px;margin-top:8px;gap:10px}.natton-solutions .crm-hero-reassurance{gap:14px;flex-wrap:wrap;margin-top:24px}.natton-solutions .crm-hero-reassurance>span{font-size:8px}.natton-solutions .crm-hero-visual{padding:49px 0 58px;width:calc(100% - 10px);margin-top:12px}.natton-solutions .crm-hero-visual:before{inset:23px -8px 37px;border-radius:23px}.natton-solutions .crm-command{border-radius:17px}.natton-solutions .crm-window-top{height:46px;padding:0 13px}.natton-solutions .crm-window-brand{font-size:5px;gap:7px}.natton-solutions .crm-example-tag{font-size:5px}.natton-solutions .crm-command-body>aside{width:32px;padding-top:19px;gap:13px}.natton-solutions .crm-command-body>aside>span{height:23px;width:23px}.natton-solutions .crm-command-body>aside .icon{height:13px;width:13px}.natton-solutions .crm-command-main{padding:22px 14px}.natton-solutions .crm-workspace-title b{font-size:15px;line-height:1.4}.natton-solutions .crm-workspace-title small{font-size:5px}.natton-solutions .crm-workspace-title>span{height:25px;width:25px}.natton-solutions .crm-command-profile{margin-top:20px;padding:13px 9px;gap:9px}.natton-solutions .crm-command-profile .crm-avatar{height:28px;width:28px}.natton-solutions .crm-command-profile>div>b{font-size:10px}.natton-solutions .crm-command-profile>div>small{font-size:6px}.natton-solutions .crm-mini-journey>span{font-size:5px}.natton-solutions .crm-command-bottom>div{padding:14px 10px}.natton-solutions .crm-command-bottom small{font-size:5px;line-height:1.6}.natton-solutions .crm-command-bottom b{font-size:7px}.natton-solutions .crm-command-bottom{gap:8px}.natton-solutions .crm-tiny-icon{margin-bottom:12px}.natton-solutions .crm-window-bottom{font-size:5px;padding:13px 14px}.natton-solutions .crm-orbit-chip-top{font-size:9px;right:1px;top:26px;padding:12px 14px}.natton-solutions .crm-orbit-chip-bottom{font-size:8px;left:1px;bottom:36px;padding:12px 14px}.natton-solutions .crm-hero-bottom{gap:15px;padding:19px 0}.natton-solutions .crm-hero-bottom>span{font-size:6px;max-width:210px;line-height:1.8}.natton-solutions .crm-hero-bottom>button{font-size:8px;gap:6px}.natton-solutions .crm-hero-bottom>button>.icon{width:11px;height:11px}.natton-solutions .crm-module-grid{gap:12px}.natton-solutions .crm-module.glass-light{padding:22px 18px!important;min-height:210px;border-radius:18px}.natton-solutions .crm-module h3{font-size:17px}.natton-solutions .crm-module p{font-size:11px;line-height:1.8;padding-right:0}.natton-solutions .crm-module small{font-size:7px}.natton-solutions .crm-module-icon{height:37px;width:37px;border-radius:11px}.natton-solutions .crm-module-icon .icon{height:18px;width:18px}.natton-solutions .crm-module>div{gap:8px;margin-bottom:23px}.natton-solutions .crm-module-arrow{right:15px;bottom:16px;height:24px;width:24px}.natton-solutions .crm-module.module-no-0,.natton-solutions .crm-module.module-no-1,.natton-solutions .crm-module.module-no-10,.natton-solutions .crm-module.module-no-11{min-height:229px;padding:25px!important}.natton-solutions .crm-module.module-no-0 h3,.natton-solutions .crm-module.module-no-1 h3,.natton-solutions .crm-module.module-no-10 h3,.natton-solutions .crm-module.module-no-11 h3{font-size:26px;max-width:70%}.natton-solutions .crm-module.module-no-0 p,.natton-solutions .crm-module.module-no-1 p,.natton-solutions .crm-module.module-no-10 p,.natton-solutions .crm-module.module-no-11 p{font-size:12px;max-width:62%}.natton-solutions .crm-module-art{width:135px;right:3px;bottom:35px;opacity:.48}.natton-solutions .crm-module:after{inset:5px;border-radius:13px}.natton-solutions .crm-scope-note{font-size:10px;line-height:1.8;align-items:flex-start}.natton-solutions .crm-scope-note>.icon{flex:none}.natton-solutions .crm-contact-demo{padding:23px 18px!important;border-radius:21px!important}.natton-solutions .crm-record-layout{display:block}.natton-solutions .crm-record-list{flex-direction:row;gap:6px}.natton-solutions .crm-record-list>button{padding:12px 8px;flex:1;display:block;min-height:48px;border-radius:9px}.natton-solutions .crm-record-list>button b{font-size:9px;line-height:1.5}.natton-solutions .crm-record-list>button small{display:none}.natton-solutions .crm-record-list>button>i{display:none}.natton-solutions .crm-record-detail{margin-top:12px;padding:20px 16px}.natton-solutions .crm-record-heading h3{font-size:15px}.natton-solutions .crm-record-heading small{font-size:6px}.natton-solutions .crm-record-tags>span{font-size:7px}.natton-solutions .crm-record-next p{font-size:12px}.natton-solutions .crm-record-next small{font-size:7px}.natton-solutions .crm-timeline>li{font-size:11px}.natton-solutions .crm-timeline small{font-size:9px;line-height:1.8}.natton-solutions .crm-feature-copy>p,.natton-solutions .crm-messaging-section .crm-feature-copy>p{font-size:14px}.natton-solutions .crm-benefits>li{font-size:12px}.natton-solutions .crm-inline-note{font-size:10px}.natton-solutions .crm-demo-label{font-size:7px}.natton-solutions .crm-page .crm-demo-footnote{font-size:9px}.natton-solutions .crm-sales-board{display:flex;gap:13px;padding:18px;overflow-x:auto;scroll-snap-type:x proximity}.natton-solutions .crm-sales-board-column{width:235px;flex:none;scroll-snap-align:start}.natton-solutions .crm-sales-board-column-title{font-size:12px;padding:16px}.natton-solutions .crm-sales-board-dropzone{padding:13px;min-height:250px}.natton-solutions .crm-deal{padding:19px 15px}.natton-solutions .crm-deal h3{font-size:19px}.natton-solutions .crm-deal>p{font-size:12px}.natton-solutions .crm-deal>div:first-child>span{font-size:7px}.natton-solutions .crm-deal-footer>span{font-size:9px}.natton-solutions .crm-deal-footer button{height:32px;width:32px}.natton-solutions .crm-sales-board-status{font-size:10px;padding:18px;flex-wrap:wrap;gap:9px}.natton-solutions .crm-sales-board-status>span{flex:1;min-width:190px}.natton-solutions .crm-sales-board-status>button{font-size:10px;margin-left:22px}.natton-solutions .crm-pipeline-demo>.crm-demo-top{padding:20px 18px}.natton-solutions .crm-demo-instruction{font-size:8px;max-width:145px;line-height:1.7}.natton-solutions .crm-pipeline-benefits>span{font-size:10px;line-height:1.7}.natton-solutions .crm-capture-card{padding:27px 22px;border-radius:23px}.natton-solutions .crm-card-copy h3{font-size:28px}.natton-solutions .crm-card-copy>p{font-size:14px}.natton-solutions .crm-tag-row>span{font-size:7px}.natton-solutions .crm-booking-demo,.natton-solutions .crm-form-builder{padding:21px 16px;border-radius:14px;margin-top:26px}.natton-solutions .crm-day-picker>button{padding:16px 9px;border-radius:10px}.natton-solutions .crm-day-picker small{font-size:6px}.natton-solutions .crm-day-picker b{font-size:22px}.natton-solutions .crm-time-picker>button{font-size:9px;min-height:38px}.natton-solutions .crm-scheduler-top{font-size:11px}.natton-solutions .crm-booking-result{font-size:10px;line-height:1.8}.natton-solutions .crm-booking-demo>.crm-demo-footnote{font-size:9px}.natton-solutions .crm-form-demo-grid{display:block}.natton-solutions .crm-form-options{display:flex;gap:11px;flex-wrap:wrap}.natton-solutions .crm-form-options>small{width:100%;font-size:6px;margin-bottom:0}.natton-solutions .crm-form-options>label{font-size:9px;margin:0;gap:6px}.natton-solutions .crm-form-options input{height:14px;width:14px}.natton-solutions .crm-form-preview{margin-top:19px;padding:23px 18px}.natton-solutions .crm-form-preview>b{font-size:19px}.natton-solutions .crm-preview-kicker{font-size:7px}.natton-solutions .crm-fake-input{font-size:9px;min-height:34px}.natton-solutions .crm-fake-submit{font-size:9px;min-height:35px}.natton-solutions .crm-form-builder>.crm-demo-footnote{font-size:9px}.natton-solutions .crm-message-visual{padding:23px 18px!important;border-radius:21px!important}.natton-solutions .crm-message-tabs{gap:4px;padding:5px}.natton-solutions .crm-message-tabs>button{font-size:10px;min-height:39px;gap:5px}.natton-solutions .crm-message-tabs>button>.icon{width:14px;height:14px}.natton-solutions .crm-message-person{padding:17px 14px;gap:9px}.natton-solutions .crm-message-person b{font-size:12px}.natton-solutions .crm-message-person small{font-size:8px}.natton-solutions .crm-message-person>span:last-child{font-size:5px}.natton-solutions .crm-message-stage{padding:23px 15px;min-height:230px}.natton-solutions .crm-message-stage>span{font-size:6px}.natton-solutions .crm-message-bubble{font-size:13px;line-height:1.8;padding:17px 15px;max-width:260px}.natton-solutions .crm-message-reply{font-size:12px;max-width:220px}.natton-solutions .crm-message-next{display:block;padding:17px 14px}.natton-solutions .crm-message-next>span{font-size:8px;max-width:none}.natton-solutions .crm-message-next>button{font-size:10px;margin-top:13px}.natton-solutions .crm-message-visual>.crm-demo-footnote{font-size:9px}.natton-solutions .crm-automation-demo{border-radius:21px}.natton-solutions .crm-automation-demo>.crm-demo-top{padding:20px 18px}.natton-solutions .crm-small-button{font-size:9px;padding:10px 12px;min-height:37px;gap:6px}.natton-solutions .crm-automation-track{padding:33px 19px;gap:35px 20px}.natton-solutions .crm-automation-node-icon{width:64px;height:64px;border-radius:19px;margin-bottom:22px}.natton-solutions .crm-automation-node-icon>.icon{width:27px;height:27px}.natton-solutions .crm-automation-node small{font-size:7px}.natton-solutions .crm-automation-node h3{font-size:19px;line-height:1.3}.natton-solutions .crm-automation-node p{font-size:11px;line-height:1.85}.natton-solutions .crm-automation-caption{padding:21px 18px}.natton-solutions .crm-automation-caption>span{font-size:7px}.natton-solutions .crm-automation-caption>p{font-size:11px;min-height:55px;line-height:1.9}.natton-solutions .crm-workflow-notes{gap:20px 15px}.natton-solutions .crm-workflow-notes>span{font-size:10px;line-height:1.8;gap:8px}.natton-solutions .crm-workflow-notes .icon{width:15px;height:15px;flex:none}.natton-solutions .crm-ai-demo{padding:24px 18px!important;border-radius:21px!important}.natton-solutions .crm-ai-source p{font-size:13px}.natton-solutions .crm-ai-source small{font-size:6px;line-height:1.8}.natton-solutions .crm-ai-source{gap:11px}.natton-solutions .crm-ai-source .crm-avatar{width:32px;height:32px}.natton-solutions .crm-ai-action-row{gap:5px}.natton-solutions .crm-ai-action-row>button{font-size:9px;padding:11px 7px;gap:5px;min-height:41px}.natton-solutions .crm-ai-action-row>button>.icon{height:12px;width:12px}.natton-solutions .crm-ai-output{padding:22px 17px;border-radius:12px}.natton-solutions .crm-ai-output>div:first-child{gap:7px}.natton-solutions .crm-ai-output>div:first-child>span:first-child{font-size:6px;gap:5px}.natton-solutions .crm-ai-review-status{font-size:6px;padding:5px 6px}.natton-solutions .crm-ai-output h3{font-size:21px;line-height:1.3}.natton-solutions .crm-ai-output>p{font-size:13px;line-height:1.9}.natton-solutions .crm-ai-output>button{font-size:10px;text-align:left;line-height:1.7;gap:6px}.natton-solutions .crm-ai-output>button>.icon{flex:none;width:13px;height:13px}.natton-solutions .crm-ai-demo>.crm-demo-footnote{font-size:9px}.natton-solutions .crm-analytics-demo{border-radius:21px}.natton-solutions .crm-analytics-menu{padding:21px 17px;gap:7px}.natton-solutions .crm-analytics-menu>button{padding:13px 9px;border-radius:10px}.natton-solutions .crm-analytics-menu b{font-size:10px}.natton-solutions .crm-analytics-menu small{font-size:7px;line-height:1.8}.natton-solutions .crm-analytics-menu>.crm-eyebrow{font-size:7px}.natton-solutions .crm-chart-panel{padding:26px 20px}.natton-solutions .crm-chart-panel h3{font-size:25px}.natton-solutions .crm-chart-panel>p{font-size:12px;line-height:1.8}.natton-solutions .crm-chart-panel>.crm-demo-top>span:last-child{font-size:6px}.natton-solutions .crm-chart-row{gap:12px}.natton-solutions .crm-chart-row>span{font-size:10px;width:85px}.natton-solutions .crm-chart-row>div{height:19px;padding:3px}.natton-solutions .crm-chart-row>b{font-size:12px;width:20px}.natton-solutions .crm-chart-caption>span{font-size:10px;line-height:1.9}.natton-solutions .crm-chart-caption>small{font-size:8px;line-height:1.9}.natton-solutions .crm-extras-grid>article,.natton-solutions .crm-extras-grid>article:nth-child(2),.natton-solutions .crm-extras-grid>article:nth-child(3){padding:29px 25px;border-radius:22px}.natton-solutions .crm-extras-grid h3{font-size:28px}.natton-solutions .crm-extras-grid p{font-size:14px}.natton-solutions .crm-extra-foot{font-size:10px}.natton-solutions .crm-delivery-steps{grid-template-columns:1fr;gap:15px}.natton-solutions .crm-delivery-steps>li{padding:26px;display:grid;grid-template-columns:36px 1fr;gap:0 20px;align-items:start}.natton-solutions .crm-delivery-steps>li>span{margin:0;grid-row:span 2}.natton-solutions .crm-delivery-steps h3{font-size:25px;max-width:none;margin-bottom:14px}.natton-solutions .crm-delivery-steps p{font-size:13px;grid-column:2;line-height:1.85}.natton-solutions .crm-delivery-bottom h3{font-size:25px}.natton-solutions .crm-delivery-bottom p{font-size:13px}.natton-solutions .crm-tool-chips>span{font-size:10px;padding:11px 15px}.natton-solutions .crm-bundle-note{padding:24px 20px}.natton-solutions .crm-bundle-note>span{font-size:11px;white-space:normal}.natton-solutions .crm-bundle-note>p{font-size:12px}.natton-solutions .crm-bundle-note>a{font-size:10px}.natton-solutions .crm-faq-list{padding:3px 21px;border-radius:21px}.natton-solutions .crm-faq-list summary{font-size:14px;line-height:1.7;gap:16px}.natton-solutions .crm-faq-list details>p{font-size:13px;line-height:1.9;padding-right:0}.natton-solutions .crm-faq-layout>div:first-child>p{font-size:14px}.natton-solutions .crm-related a{font-size:12px}.natton-solutions .crm-final{padding:75px 0 86px}.natton-solutions .crm-final h2{font-size:37px;line-height:1.12}.natton-solutions .crm-final p{font-size:14px;line-height:1.9}.natton-solutions .crm-final .crm-eyebrow{font-size:8px;line-height:1.8}.natton-solutions .crm-final .crm-button{font-size:11px}.natton-solutions .crm-page-nav>.container>div>a{font-size:10px}}
+@media(max-width:360px){.natton-solutions .crm-hero-copy h1{font-size:38px}.natton-solutions .crm-module.glass-light{padding:21px 15px!important}.natton-solutions .crm-module h3{font-size:16px}.natton-solutions .crm-module p{font-size:10px}.natton-solutions .crm-module.module-no-0,.natton-solutions .crm-module.module-no-1,.natton-solutions .crm-module.module-no-10,.natton-solutions .crm-module.module-no-11{padding:23px!important}.natton-solutions .crm-module.module-no-0 h3,.natton-solutions .crm-module.module-no-1 h3,.natton-solutions .crm-module.module-no-10 h3,.natton-solutions .crm-module.module-no-11 h3{font-size:25px}.natton-solutions .crm-module-art{width:115px;right:0;bottom:34px}.natton-solutions .crm-module.module-no-0 p,.natton-solutions .crm-module.module-no-1 p,.natton-solutions .crm-module.module-no-10 p,.natton-solutions .crm-module.module-no-11 p{max-width:65%;font-size:11px}.natton-solutions .crm-card-copy h3{font-size:26px}.natton-solutions .crm-form-options>label{font-size:8px}.natton-solutions .crm-ai-action-row>button{font-size:8px;padding:10px 5px}.natton-solutions .crm-ai-output>div:first-child{flex-wrap:wrap;gap:10px}.natton-solutions .crm-ai-output h3{font-size:20px}.natton-solutions .crm-analytics-menu small{display:none}.natton-solutions .crm-chart-row>span{width:72px;font-size:9px}.natton-solutions .crm-chart-row{gap:10px}.natton-solutions .crm-automation-node h3{font-size:17px}.natton-solutions .crm-automation-node p{font-size:10px}.natton-solutions .crm-delivery-steps>li{padding:24px 21px;gap:0 16px}.natton-solutions .crm-delivery-steps h3{font-size:23px}.natton-solutions .crm-message-next>span{font-size:7px}}
+@media(prefers-reduced-motion:reduce){.natton-solutions .crm-page .crm-light-ribbons,.natton-solutions .crm-page .crm-command:after{animation:none!important}}
+@media print{.natton-solutions .crm-atmosphere{display:none!important}.natton-solutions .crm-page .crm-section,.natton-solutions .crm-final{background:white!important;color:black!important}.natton-solutions .crm-page .crm-module,.natton-solutions .crm-page .glass-light,.natton-solutions .crm-page .glass-dark{background:white!important;color:black!important;box-shadow:none!important}.natton-solutions .crm-module{break-inside:avoid}.natton-solutions .crm-module-art{display:none}.natton-solutions .crm-page .crm-module h3,.natton-solutions .crm-page .crm-module p{color:black!important}}
+
+/* Keep illustrations and link affordances outside the card copy. */
+.natton-solutions .crm-module-grid>.crm-module:not(.module-no-0):not(.module-no-1):not(.module-no-10):not(.module-no-11){padding-bottom:58px!important}
+@media(min-width:761px) and (max-width:960px){.natton-solutions .crm-hero-grid{grid-template-columns:1fr;gap:22px;padding-top:52px}.natton-solutions .crm-hero-copy{max-width:700px}.natton-solutions .crm-hero-copy h1{font-size:61px}.natton-solutions .crm-hero-copy>p{font-size:15px;max-width:610px}.natton-solutions .crm-hero-visual{max-width:620px;width:100%;justify-self:center;margin-top:10px}.natton-solutions .crm-workspace-title b{font-size:21px}.natton-solutions .crm-command-main{padding:29px 24px}.natton-solutions .crm-command-profile>div>b{font-size:12px}.natton-solutions .crm-command-profile>div>small{font-size:8px}.natton-solutions .crm-command-bottom b{font-size:9px}.natton-solutions .crm-hero .crm-actions{gap:28px}.natton-solutions .crm-hero-copy .crm-text-link{margin-top:0}}
+@media(max-width:500px){.natton-solutions .crm-module-grid>.crm-module .crm-module-art{width:110px;height:110px;right:12px;bottom:46px}.natton-solutions .crm-module-grid>.crm-module:is(.module-no-0,.module-no-1,.module-no-10,.module-no-11) h3,.natton-solutions .crm-module-grid>.crm-module:is(.module-no-0,.module-no-1,.module-no-10,.module-no-11) p{max-width:55%}}
+@media(max-width:360px){.natton-solutions .crm-module-grid>.crm-module .crm-module-art{width:96px;right:9px}}

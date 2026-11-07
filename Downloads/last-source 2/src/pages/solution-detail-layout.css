@@ -1,0 +1,50 @@
+/* Consistent section rhythm on the four solution detail pages only. */
+.solution-detail-page>div>.max-w-7xl>div:not(.archive-hero),.solution-detail-page>div>.max-w-7xl>section{margin-top:0;margin-bottom:0;padding-top:52px;padding-bottom:52px;scroll-margin-top:150px}
+.solution-detail-page .archive-hero{margin-bottom:0}
+.solution-detail-page>div>.max-w-7xl>div>div.text-center{max-width:760px;margin-left:auto;margin-right:auto}
+.solution-detail-page>div>.max-w-7xl>div>div.text-center h2{line-height:1.25;text-wrap:balance}
+.solution-detail-page>div>.max-w-7xl>div>div.text-center p{max-width:720px;margin-left:auto;margin-right:auto;line-height:1.8}
+.solution-detail-page>div>.max-w-7xl>div>div.text-center+.grid{margin-top:28px}
+.solution-detail-page>div>.max-w-7xl>div>.grid{min-width:0}
+.solution-detail-page .grid>div{min-width:0}
+@media(max-width:650px){.solution-detail-page>div>.max-w-7xl>div:not(.archive-hero),.solution-detail-page>div>.max-w-7xl>section{padding-top:34px;padding-bottom:34px}}
+@media(min-width:1024px){.solution-detail-page :is(#ecosystem,#platform_overview)>.grid:has(>:nth-child(6):last-child){grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+/* Process layout is scoped to the five “How we work” sections. */
+.solution-process-section>div.text-center{max-width:760px;margin-left:auto;margin-right:auto}
+.solution-process-section>div.text-center h2{color:var(--detail-ink,#171333)!important;-webkit-text-fill-color:var(--detail-ink,#171333)!important;opacity:1;line-height:1.25}
+.solution-process-section>div.text-center p{max-width:720px;margin-left:auto;margin-right:auto;font-size:15px;line-height:1.8}
+.solution-process-step-grid,.solution-process-node-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;align-items:stretch}
+.solution-process-step-grid>div,.solution-process-node-grid>div{min-width:0;height:100%;transform:none!important;overflow-wrap:anywhere}
+.solution-process-step-grid :is(h3,h4),.solution-process-node-grid :is(h3,h4){color:var(--detail-ink,#171333)!important;-webkit-text-fill-color:var(--detail-ink,#171333)!important;font-size:14px;line-height:1.55;white-space:normal}
+.solution-process-step-grid p{font-size:12px;line-height:1.8}
+.solution-process-step-grid .line-clamp-2{display:block;-webkit-line-clamp:unset;overflow:visible;font-size:12px;line-height:1.7}
+.solution-process-split{align-items:stretch;gap:28px}
+.solution-process-split>div{min-width:0;align-self:stretch}
+.solution-process-split>div:first-child{display:flex;flex-direction:column;justify-content:flex-start;gap:14px}
+.solution-process-split>div:first-child>div{margin-top:0;margin-bottom:0}
+.solution-process-node-grid{flex:1;min-height:200px}
+.solution-process-split>div:last-child{min-width:0;height:100%}
+.solution-process-split>div:first-child>button{width:100%;min-height:76px;margin-top:0;transform:none;white-space:normal;flex-shrink:0}
+.solution-process-split>div:first-child>button>div:not(:first-child){min-width:0;flex:1}
+.solution-process-split>div:first-child>button span{overflow-wrap:anywhere;white-space:normal;line-height:1.5}
+.solution-process-split>div:first-child>button>div:last-of-type>span{color:var(--detail-ink,#171333);font-size:14px}
+.solution-process-section#workflow .solution-process-step-grid>div{padding-top:42px;padding-bottom:105px}
+.solution-process-section#workflow .solution-process-step-grid>div>div:last-child:not(.absolute){position:absolute;bottom:16px;left:16px;right:16px;max-height:84px;overflow:auto}
+@media(min-width:640px) and (max-width:1023px){.solution-process-step-grid,.solution-process-node-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:639px){.solution-process-step-grid,.solution-process-node-grid{grid-template-columns:1fr}.solution-process-step-grid>div,.solution-process-node-grid>div{height:auto;min-height:130px}.solution-process-split{gap:20px}}
+/* Tailwind's scale utility uses the separate scale property, not just transform. */
+.solution-process-step-grid>div,.solution-process-node-grid>div{scale:1!important;translate:none!important}
+.solution-process-section>div.text-center h2{visibility:visible!important;opacity:1!important;transform:none!important}
+.solution-process-node-grid>div{justify-content:flex-start;gap:16px}
+
+/* BusinessOS: keep the analytics overview in two columns; metric cards form a separate row. */
+.business-os-page .business-analytics>.grid{align-items:start;gap:32px}
+.business-os-page .business-analytics>.grid>div{min-width:0}
+
+.business-os-page .business-analytics :is(h3,button,button span,.text-white){color:var(--detail-ink,#171333)!important;-webkit-text-fill-color:var(--detail-ink,#171333)!important}
+.business-os-page .business-analytics>.grid>div:last-child .flex{flex-wrap:wrap;gap:8px}
+.business-os-page .business-analytics>.grid>div:last-child .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.business-os-page .business-audience-grid h3{color:var(--detail-ink,#171333)!important;-webkit-text-fill-color:var(--detail-ink,#171333)!important;line-height:1.4}
+.business-os-page .business-audience-grid p{color:var(--detail-ink,#171333);opacity:.8;font-size:15px;line-height:1.8}
+@media(max-width:639px){.business-os-page .business-analytics>.grid>div:last-child .grid{grid-template-columns:1fr}}

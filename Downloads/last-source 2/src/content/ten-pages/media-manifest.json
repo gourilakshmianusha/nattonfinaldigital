@@ -1,0 +1,57 @@
+[
+  {
+    "file": "public/media/ten-pages/real-estate/industries/real-estate.webp",
+    "sha256": "abb30930516a3ef4434048ba3ddc89458235bae5a5c4a67b3d4946922a837da1",
+    "bytes": 185316
+  },
+  {
+    "file": "public/media/ten-pages/healthcare/industries/healthcare.webp",
+    "sha256": "5d9f6c0d5789db740ef5aaa94dfd05cf01555bd3ad0b4db5c2a64320d0fd94b8",
+    "bytes": 112706
+  },
+  {
+    "file": "public/media/ten-pages/retail-ecommerce/industries/retail-ecommerce.webp",
+    "sha256": "f885238c03b8cbab591b4fb3409b5b0c673dad7447383d28825eae73aa4e83dc",
+    "bytes": 142522
+  },
+  {
+    "file": "public/media/ten-pages/manufacturing/industries/manufacturing.webp",
+    "sha256": "8767528e3816fad5d93bdf52dc59c401634bbfc73f7ea75af03bfbf781189873",
+    "bytes": 153684
+  },
+  {
+    "file": "public/media/ten-pages/growth-os/growthos-poster.webp",
+    "sha256": "3911f3cf1686462d335e9778f57cf06271838dc4d87c938b58275f72ac9bafde",
+    "bytes": 83494
+  },
+  {
+    "file": "public/media/ten-pages/growth-os/growthos-hero-original.mp4",
+    "sha256": "bb7dc7a0b969f21651308724e98f9eb8896bb81fa9a89713c93f09b31febd5d8",
+    "bytes": 3994607
+  },
+  {
+    "file": "public/media/ten-pages/education-edtech/industries/education-edtech.webp",
+    "sha256": "531d42b5545d21a9cc4d2106c5abf18437a8cd471ebaea7d6ea5cf93f90e860b",
+    "bytes": 143296
+  },
+  {
+    "file": "public/media/ten-pages/ai-marketing-platform/products/ai-marketing-platform-preview.svg",
+    "sha256": "0c50e9d869e45d1a905832b232fbc0976198028864aa235400a4d955d52d4f4e",
+    "bytes": 2316
+  },
+  {
+    "file": "public/media/ten-pages/professional-services/industries/professional-services.webp",
+    "sha256": "6fd3bda0520b90ba798b89c4c9f6b5fe8d75a291cab958ef4faaffac9457cf12",
+    "bytes": 125454
+  },
+  {
+    "file": "public/media/ten-pages/business-os/products/business-os-preview.svg",
+    "sha256": "363fc9bf8886112eae26e8a49a904f3dba590f7925345a9bcaa95155d5f2b483",
+    "bytes": 2259
+  },
+  {
+    "file": "public/media/ten-pages/agentic-os/products/agentic-os-preview.svg",
+    "sha256": "d05352678eb553d2f62778f0a967fa2d58b48be3a17cdf8b6c0ac5ab2167b140",
+    "bytes": 2351
+  }
+]

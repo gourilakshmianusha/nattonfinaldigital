@@ -1,0 +1,200 @@
+{
+  "slug": "real-estate",
+  "title": "Real Estate",
+  "eyebrow": "INDUSTRY / REAL ESTATE",
+  "headline": "Give every property enquiry a clearer next step.",
+  "description": "Connect property marketing, project information and enquiry follow-up around the way your sales team works. Natton Digital helps real estate businesses build a useful online presence, reach relevant buyers and keep conversations moving toward a genuine sales discussion.",
+  "metaTitle": "Real Estate Digital Marketing & CRM | Natton Digital",
+  "metaDescription": "Connect property websites, SEO, campaigns and CRM follow-up with Natton Digital. Marketing and enquiry workflows for developers, brokers and real estate teams.",
+  "keywords": [
+    "real estate digital marketing",
+    "real estate marketing services",
+    "property marketing agency",
+    "real estate lead generation",
+    "real estate CRM automation",
+    "property website development",
+    "SEO for real estate",
+    "marketing for property developers"
+  ],
+  "audience": [
+    "Property developers and project sales teams",
+    "Independent brokers and real estate agencies",
+    "Residential and commercial property businesses",
+    "Property-management and leasing teams"
+  ],
+  "needs": [
+    {
+      "title": "The project is difficult to evaluate online",
+      "description": "Visitors need clear location details, current information, useful visuals and an easy way to ask a question before they can decide whether to speak to your team.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Enquiries arrive without useful context",
+      "description": "Campaign forms and conversations should collect the information your team actually needs, such as the project of interest, location preference and suitable next step.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Follow-up is spread across people and inboxes",
+      "description": "A shared customer record and defined ownership help the team see who has replied, what was discussed and what is still waiting.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Lead counts hide the quality of the work",
+      "description": "Review relevant enquiries, contactability, accepted sales discussions and site-visit requests alongside campaign costs. A submitted form alone does not describe sales readiness.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "example": {
+    "title": "Illustrative enquiry journey",
+    "description": "A visitor asks about a residential project. The example shows how context and ownership can stay connected; it does not represent a live client campaign or an automatic sale.",
+    "steps": [
+      "Project enquiry received",
+      "Interest and preferences recorded",
+      "Sales owner assigned",
+      "Call or site-visit follow-up organised"
+    ],
+    "note": "Illustrative example. No live customer data or business-system connection is used."
+  },
+  "deliverables": [
+    "An agreed audience, message and campaign plan",
+    "Project or service pages and enquiry routes",
+    "Relevant SEO and creative content",
+    "A scoped CRM and follow-up workflow",
+    "A reporting and review cadence"
+  ],
+  "timing": "We agree a phased rollout after reviewing project material, access, approvals and technical requirements. Pages, tracking and enquiry routing should be ready before campaigns depend on them. Search visibility and sales outcomes need ongoing review; there is no universal deadline for rankings or property sales.",
+  "faqs": [
+    {
+      "question": "Do you work with developers, brokers and smaller property businesses?",
+      "answer": "Yes. The starting scope depends on the business model and available resources. An independent agency may need a clear website and local enquiry process, while a developer may need multiple project pages, campaigns and sales-team routing. We agree the priority before choosing tools."
+    },
+    {
+      "question": "Can you guarantee property leads, site visits or sales?",
+      "answer": "No. Marketing can improve the way people discover and evaluate an offer, but relevance and outcomes also depend on price, location, project facts, availability, competition and the sales process. We agree measurable activities and review enquiry quality and recorded sales-team outcomes without guaranteeing bookings."
+    },
+    {
+      "question": "Do we need a Google Business Profile for every property?",
+      "answer": "Not necessarily. Google distinguishes an eligible business or sales office from individual rental or sale properties. We review the actual business locations and eligibility before proposing local-profile work, and use project pages where appropriate."
+    },
+    {
+      "question": "What should we provide before you start?",
+      "answer": "Useful inputs include approved project or service details, current availability, location information, owned photographs or footage, brand assets, access to existing accounts and the sales team's follow-up process. Your authorised team must approve project claims and required disclosures before publication."
+    },
+    {
+      "question": "Can you connect our existing CRM and WhatsApp follow-up?",
+      "answer": "We can assess the CRM, agreed messaging channels and available integrations. The scope may include enquiry capture, ownership, reminders and conversation context. Provider capabilities, data access, template requirements and usage costs are checked before promising a particular connection."
+    },
+    {
+      "question": "How do costs and ongoing support work?",
+      "answer": "We separate the agreed implementation and management work from media spend, subscriptions and usage charges. After launch, reviews can cover enquiry quality, content accuracy, campaign performance and team handovers. The proposal defines responsibilities, access, review points and the support included."
+    }
+  ],
+  "definition": {
+    "title": "What is real estate digital marketing?",
+    "body": "It is the work of helping the right people discover a property business, understand its offer and make an informed enquiry. A project website, search visibility, useful property content and paid campaigns can create that first connection. CRM and communication workflows then help the team retain context and organise the follow-up. The right mix depends on the property type, location, availability, sales process and budget."
+  },
+  "services": [
+    {
+      "title": "Property websites & project pages",
+      "description": "Build mobile-friendly pages with clear project information, location context, galleries, available downloads and enquiry routes. Client-approved facts and current availability guide the content.",
+      "icon": "",
+      "linkLabel": "Website development"
+    },
+    {
+      "title": "Search visibility & local discovery",
+      "description": "Develop useful location, property-type and service content around relevant search intent. Review local business visibility for eligible offices and business locations; individual sale or rental units are not automatically eligible for Google Business Profiles.",
+      "icon": "",
+      "linkLabel": "SEO services"
+    },
+    {
+      "title": "Campaigns with a clear enquiry route",
+      "description": "Plan Google and social campaigns around a defined project, audience and landing page. Test the message and review enquiry relevance with the sales team rather than promising a fixed number of bookings.",
+      "icon": "",
+      "linkLabel": "Paid advertising"
+    },
+    {
+      "title": "Property content & creative production",
+      "description": "Turn approved photographs, walkthrough footage, project details and common buyer questions into useful social and website content. Visuals should accurately represent what is being offered.",
+      "icon": "",
+      "linkLabel": "Content marketing"
+    },
+    {
+      "title": "CRM ownership & buyer follow-up",
+      "description": "Connect agreed forms and communication channels to a CRM pipeline. Record relevant preferences, assign owners and organise follow-up, document requests and site-visit enquiries.",
+      "icon": "",
+      "linkLabel": "CRM & AI automation"
+    },
+    {
+      "title": "Conversation assistance & handover",
+      "description": "Use agreed information for initial questions, collect missing details or route an appointment request. Rules or an AI assistant can support a defined task, with a sales owner taking over when needed.",
+      "icon": "",
+      "linkLabel": "Conversational AI"
+    }
+  ],
+  "process": [
+    {
+      "title": "Understand the offer",
+      "description": "Review the property business, project stage, location, buyer or tenant audience, existing marketing and the sales team's capacity. Agree the facts and material available for publication.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Build the enquiry foundation",
+      "description": "Prepare the key pages, approved visual material, enquiry forms, contact routes and measurement plan. Establish how the team defines a useful enquiry and who receives it.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Reach relevant people",
+      "description": "Launch the agreed search, content and campaign work. Match the message and landing page to the property or service being discussed.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Connect and follow up",
+      "description": "Route enquiries to the right owner, retain conversation context and support appropriate next steps such as a call, information request or site-visit discussion.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Review with the sales team",
+      "description": "Compare campaign and website information with enquiry quality and recorded outcomes. Refine targeting, content and handovers as availability and business priorities change.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Relevant enquiries",
+      "description": "Track the enquiries that fit the project, service area and agreed customer profile.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Contact and response patterns",
+      "description": "Review contactability, response intervals and open conversations where reliable data is available.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Sales-team next steps",
+      "description": "Monitor accepted discussions, information requests and site-visit requests recorded by the team.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Channel and campaign costs",
+      "description": "Compare spend with enquiry quality and known outcomes, acknowledging gaps in attribution.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "scopeNote": "",
+  "photo": "/media/ten-pages/real-estate/industries/real-estate.webp",
+  "path": "/industries/real-estate/",
+  "kind": "industry"
+}

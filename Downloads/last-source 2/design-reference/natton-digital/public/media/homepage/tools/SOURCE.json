@@ -1,0 +1,11 @@
+{
+  "package": "simple-icons-16.36.0.tgz",
+  "source": "https://github.com/simple-icons/simple-icons",
+  "usage": "Canonical glyphs, local assets; brand colours applied.",
+  "HighLevel": {
+    "sourcePage": "https://marketing.gohighlevel.com/brandkit",
+    "assetUrl": "https://assets.cdn.filesafe.space/zELBHkVp0JPbbLvKIlF5/media/690a5f4a57ea175183408da2.png",
+    "file": "highlevel.png",
+    "notes": "Official logo, unchanged; identifies the workflow tool."
+  }
+}

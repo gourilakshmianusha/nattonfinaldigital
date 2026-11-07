@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Plan a marketing campaign",
+    "text": "Help me plan a marketing campaign for [business]. My audience is [audience], my goal is [goal], and my budget is [budget]. Suggest practical actions, a timeline, and ways to measure results. Clearly label any assumptions."
+  },
+  {
+    "title": "Improve a website page",
+    "text": "Review this page text: [paste text]. The audience is [audience]. Suggest a clearer title, useful headings, and a short description. Do not invent facts, customer reviews, or performance claims."
+  },
+  {
+    "title": "Write a customer follow-up",
+    "text": "Write a friendly follow-up message for a customer who asked about [service]. Include [helpful detail] and one simple next step. Keep it clear and avoid pressure or promises."
+  },
+  {
+    "title": "Find tasks to automate",
+    "text": "My team spends time on [tasks]. Help me identify which tasks may be suitable for automation, what data and permissions are needed, where human review is important, and how to test a small pilot."
+  }
+]

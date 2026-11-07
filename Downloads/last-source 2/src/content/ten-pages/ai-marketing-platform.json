@@ -1,0 +1,187 @@
+{
+  "slug": "ai-marketing-platform",
+  "title": "AI Marketing Platforms",
+  "eyebrow": "A MORE CONNECTED CREATIVE WORKFLOW",
+  "headline": "Turn a clear brief into content your team can use.",
+  "h1": "AI Marketing Platforms: content tools and creative workflows",
+  "description": "Bring AI-assisted copy, visual production and campaign planning into a workflow shaped around your brand. Natton helps select, configure or develop the right platform experience so your team can move from a brief to reviewed marketing assets with clearer control.",
+  "audience": "For small business marketing teams, growing agencies, in-house creative teams and multi-brand organisations seeking a more consistent way to prepare marketing content. An SMB may need a focused tool setup; a larger team may need shared templates, review stages and a customised workspace.",
+  "process": [
+    {
+      "title": "Review the content workflow",
+      "description": "Understand the team, channels, formats, current tools and where work slows down. Identify the first repeatable content task worth improving.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Define brand inputs and review rules",
+      "description": "Gather suitable references, business facts and brand guidance. Agree what the tools may use and who checks the output before release.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Configure the useful workspace",
+      "description": "Select or develop the agreed platform experience, briefs, templates and tool connections. Avoid adding software that duplicates an existing useful capability.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Trial representative briefs",
+      "description": "Work through realistic content requests, compare the outputs with the brief and check how editing, approval and handover operate.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Introduce and refine",
+      "description": "Help the team use the setup, review the quality and effort involved and improve the templates or workflow as the content needs change.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are Natton’s AI Marketing Platforms?",
+      "answer": "This product scope helps a team use AI-assisted content and creative tools through a clearer marketing workflow. Depending on the brief, it can involve configuring existing software, connecting selected applications or developing a customised workspace. The exact tools, formats and deliverables are agreed together."
+    },
+    {
+      "question": "Is this a ready-made SaaS subscription?",
+      "answer": "Not necessarily. Natton’s products are customised consultancy and implementation bundles. An AI Marketing Platforms proposal may use existing software or a custom interface, with implementation, subscriptions, model usage and support identified separately. The scope should make clear what is delivered and who operates it."
+    },
+    {
+      "question": "Can it create copy, graphics and videos?",
+      "answer": "Those can be part of the scope when suitable tools and production steps are selected. We agree the required formats, brand inputs, editing needs and review process first. There is no assumption that every format, model or generation allowance is included in every implementation."
+    },
+    {
+      "question": "Will the content automatically match our brand?",
+      "answer": "Brand references, structured briefs and templates can help guide the output, but they do not remove the need for editing and approval. The team checks business facts, tone, claims and asset suitability. Trial briefs help identify which outputs are useful and where the workflow needs refinement."
+    },
+    {
+      "question": "Does AI-generated content guarantee better SEO or campaign results?",
+      "answer": "No. Useful content depends on audience understanding, accurate information, originality and a clear purpose. Search visibility and campaign outcomes also depend on the wider website, targeting, offer and customer journey. We evaluate the workflow’s contribution without treating content volume as a guarantee of growth."
+    },
+    {
+      "question": "How does this relate to the other Natton products?",
+      "answer": "GrowthOS connects marketing foundations and acquisition activity. BusinessOS connects customer context and operational follow-up. AgenticOS supports advanced, scoped AI-agent workflows. AI Marketing Platforms focuses on content tools and creative production. It is a specialised option rather than a compulsory fourth stage after the other products."
+    }
+  ],
+  "metaTitle": "AI Marketing Platforms | Content & Creative Tools | Natton",
+  "metaDescription": "Connect AI-assisted copy, visuals and campaign planning with a workflow built around your brand. Tailored tool setup and platform development from Natton.",
+  "keywords": [
+    "AI marketing platforms",
+    "AI content creation tools for business",
+    "AI creative workflow",
+    "AI marketing automation tools",
+    "custom marketing platform",
+    "AI content workflow for teams",
+    "AI marketing consultancy"
+  ],
+  "kind": "product",
+  "path": "/products/ai-marketing-platform/",
+  "needs": [
+    {
+      "title": "Every content request starts from scratch",
+      "description": "The team needs reusable briefs, approved reference material and a consistent place to begin.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Drafts vary in tone and usefulness",
+      "description": "AI outputs need brand context, clear constraints and human review before they become marketing content.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Assets move between disconnected tools",
+      "description": "Copy, graphics, video and campaign information need an organised handover rather than more scattered files.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Production activity is hard to review",
+      "description": "The team should be able to see what is being prepared, what needs revision and what is approved for use.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "services": [
+    {
+      "title": "A better starting brief",
+      "description": "Bring the audience, offer, channel, format and intended action into a clear brief. Approved business information and brand references give the team a more useful starting point than an open-ended prompt.",
+      "icon": "",
+      "linkLabel": "Content strategy"
+    },
+    {
+      "title": "AI-assisted copy and content drafts",
+      "description": "Prepare draft website copy, social captions, articles, email content or campaign variations within the agreed scope. Editors review accuracy, originality, tone and relevance before publication. AI-generated text is treated as draft material rather than automatically accepted as fact.",
+      "icon": "",
+      "linkLabel": "Content marketing"
+    },
+    {
+      "title": "Creative assets with a shared direction",
+      "description": "Support graphics, image concepts, video preparation and channel-ready variations through the selected creative tools. Style references, templates and review rules help the assets belong to the same brand. The agreed scope identifies which formats and production tasks are included.",
+      "icon": "",
+      "linkLabel": "Creative and social content"
+    },
+    {
+      "title": "Campaign planning and content organisation",
+      "description": "Connect a campaign idea with its messages, asset requirements and content calendar. A shared view can help teams organise tasks and prepare variations. Publishing and advertising-platform connections are included only where they are explicitly assessed and agreed.",
+      "icon": "",
+      "linkLabel": "AI growth marketing"
+    },
+    {
+      "title": "Brand context and approval stages",
+      "description": "Define the approved references, tone, prohibited claims and review responsibilities. Reviewable draft states and feedback help the team decide what can be revised, reused or released. Rights to source material and the selected tools’ terms need to be considered in the working process.",
+      "icon": "",
+      "linkLabel": "Discuss your team’s workflow"
+    },
+    {
+      "title": "A platform setup that fits the team",
+      "description": "Start with the software and working process you need. The scope may configure existing tools, connect selected applications or develop a custom interface around an agreed workflow. Integrations, access, subscriptions and support responsibilities are made clear before development.",
+      "icon": "",
+      "linkLabel": "AI marketing solutions"
+    }
+  ],
+  "metrics": [
+    {
+      "title": "How well drafts meet the brief",
+      "description": "Relevance, accuracy and tone assessed by the people responsible for the material."
+    },
+    {
+      "title": "Review and revision patterns",
+      "description": "The changes and approval steps needed before a draft is ready for use."
+    },
+    {
+      "title": "Consistency across approved assets",
+      "description": "Whether approved messages and creative treatments follow the agreed brand direction."
+    },
+    {
+      "title": "Team adoption and production effort",
+      "description": "How the team uses the workflow and where it helps or complicates content production."
+    }
+  ],
+  "heroImage": "/media/ten-pages/ai-marketing-platform/products/ai-marketing-platform-preview.svg",
+  "definition": {
+    "title": "What AI Marketing Platforms bring together",
+    "body": "An AI tool can produce a draft. A useful marketing workflow also needs context: the audience, the offer, the brand voice, the format and the person responsible for approving it. Our AI Marketing Platforms scope connects those ingredients so the tools support the team’s creative process and practical publishing needs."
+  },
+  "example": {
+    "title": "From brief to a reviewable campaign asset",
+    "description": "Illustrative content workflow. The page does not generate or publish live marketing assets.",
+    "steps": [
+      "Choose the audience and channel",
+      "Add approved brand context",
+      "Prepare copy and visual drafts",
+      "Review, refine and approve"
+    ],
+    "note": "Illustrative content workflow. The page does not generate or publish live marketing assets."
+  },
+  "deliverables": [
+    "Audience, brand and campaign brief templates",
+    "Approved reference material and creative guidance",
+    "A draft, feedback and approval workflow",
+    "Configured tools or a scoped custom workspace",
+    "Team guidance and a practical production-review plan"
+  ],
+  "timing": "We begin with the team’s content formats, brand context and approval process. Templates and a small sample workflow are reviewed before broader configuration or custom interface development. Delivery follows the number of formats, tools, connections and review responsibilities agreed.",
+  "scopeNote": "We can scope support for Indian MSMEs and SMBs, and teams serving agreed international markets. Geography, languages, systems, content and support responsibilities are confirmed in the proposal. Advertising spend, third-party subscriptions and usage charges are listed separately where relevant."
+}

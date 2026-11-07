@@ -1,0 +1,203 @@
+{
+  "slug": "professional-services",
+  "title": "Professional Services",
+  "eyebrow": "EXPERTISE PEOPLE CAN UNDERSTAND",
+  "headline": "Make your expertise easier to choose.",
+  "description": "Bring a clear service story, useful content and organised enquiry follow-up together. Natton Digital helps professional-services businesses explain their value and connect prospective clients with the right next conversation.",
+  "definition": {
+    "title": "What is professional-services marketing?",
+    "body": "It is the work of making your expertise, services and working approach clear to the people who need them. For consultants, agencies and other service firms, a useful website and thoughtful content can support an enquiry before a direct conversation begins. The strategy should fit the firm’s audience, decision process and any professional rules that apply."
+  },
+  "audience": [
+    "Consultancies, advisory businesses and specialist service firms",
+    "Agencies and growing B2B service companies",
+    "Owner-led professional-services MSMEs and SMBs",
+    "Teams coordinating enquiries, proposals and client onboarding"
+  ],
+  "needs": [
+    {
+      "title": "The expertise is strong, but the offer is difficult to understand.",
+      "description": "Prospective clients need to know who you help, which problems you address and what an appropriate first engagement looks like.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "The website says a lot without answering the buyer’s questions.",
+      "description": "Clear service pages, relevant examples and an explanation of your process can help a visitor decide whether to enquire.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "New enquiries depend on one person remembering everything.",
+      "description": "Introduce a practical record of the request, its owner and the next step so an interested prospect receives a coherent response.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Marketing and delivery are disconnected.",
+      "description": "Use the questions, objections and learning from the team to improve the content and the handover into proposals or onboarding.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "scopeNote": "Marketing and operational coordination support the firm’s team. They do not replace professional judgement, a legal review, regulated advice, accounting work or approval of client commitments.",
+  "timing": "A review can help when a firm introduces a service, changes its positioning, enters a relevant market or finds that enquiries are poorly matched or inconsistently handled. We agree stages after reviewing the existing website, source material, approvals and business process. The plan follows the buying cycle; there is no universal lead target or fixed result date.",
+  "metaTitle": "Professional Services Marketing | Natton Digital",
+  "metaDescription": "Make expertise easier to understand with professional-services websites, SEO, content and organised enquiry follow-up. Build a practical plan with Natton Digital.",
+  "keywords": {
+    "primary": "professional services marketing",
+    "secondary": [
+      "digital marketing for professional services",
+      "consulting firm website development",
+      "B2B services SEO",
+      "marketing for consultants",
+      "professional services lead management",
+      "CRM for consulting businesses",
+      "client onboarding automation"
+    ],
+    "intent": "Owners and business-development teams evaluating a marketing and enquiry-coordination partner. Themes are qualitative, not search-volume claims."
+  },
+  "services": [
+    {
+      "title": "A website built around your expertise",
+      "description": "Organise service pages, audience information, team credentials and contact routes around the questions buyers ask. Explain the scope and working approach in plain language, using only substantiated claims and permitted evidence.",
+      "icon": "briefcase",
+      "linkLabel": ""
+    },
+    {
+      "title": "SEO for relevant service enquiries",
+      "description": "Research the topics, service terms and locations that fit your actual practice. Develop useful service and insight pages, internal links and technical improvements. Assess local-profile eligibility where the business meets customers in person.",
+      "icon": "search",
+      "linkLabel": ""
+    },
+    {
+      "title": "Thoughtful content & professional visibility",
+      "description": "Turn approved expertise into articles, explainers, case material and social content that answers buyer questions. Select channels such as LinkedIn where the audience is relevant and the proposed communication is permitted for the profession.",
+      "icon": "document",
+      "linkLabel": ""
+    },
+    {
+      "title": "Focused campaigns where appropriate",
+      "description": "Assess paid search or professional-audience campaigns against the offer, buying process, budget and applicable rules. Connect each campaign to a relevant page and enquiry route. Regulated professions require their own review before promotional activity is approved.",
+      "icon": "target",
+      "linkLabel": ""
+    },
+    {
+      "title": "Enquiries, appointments & CRM follow-up",
+      "description": "Define how an enquiry is captured, assigned and prepared for a consultation or discovery call. Configure agreed CRM records, reminders and handovers so the team has the context for a useful conversation.",
+      "icon": "customers",
+      "linkLabel": ""
+    },
+    {
+      "title": "Proposal & onboarding coordination",
+      "description": "Connect approved templates, task assignments and status updates around your existing process. AI can assist with a draft or a summary where suitable; the firm reviews scope, fees and commitments. Invoice-event notifications can be assessed without presenting the workflow as an accounting system.",
+      "icon": "workflow",
+      "linkLabel": ""
+    }
+  ],
+  "process": [
+    {
+      "title": "Understand the firm and its buyers",
+      "description": "Review the services, ideal client situations, decision makers, enquiry sources and delivery capacity. Identify the approvals and professional restrictions that influence public content and outreach.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Clarify the offer and its evidence",
+      "description": "Agree how to describe the service, scope and working approach. Prepare relevant credentials, approved examples and answers to recurring questions. Confidential or restricted client information stays out of public material.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Build the right discovery routes",
+      "description": "Improve the website and selected search or content channels around that offer. Consider campaigns only where the channel, budget and professional rules support the proposed activity.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Connect the enquiry to a useful conversation",
+      "description": "Agree the information to request, the person responsible and the response path. Test records, appointment requests and handovers before introducing automated follow-up.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Review the quality of the journey",
+      "description": "Review relevant enquiries, qualified conversations and available proposal-stage information with the team. Improve content, qualification and ownership as patterns emerge; do not optimise only for a larger number of unqualified form fills.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Relevant visibility",
+      "description": "Search visibility and engagement with the services and topics the firm actually wants to be considered for.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Enquiry relevance",
+      "description": "Enquiries assessed against the agreed client situation, service need, geography and scope.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Conversation & proposal progress",
+      "description": "Available appointment, qualified conversation and proposal-stage signals, with sales-cycle context.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Response & handover quality",
+      "description": "Who owns each request, which follow-up is due and where prospective clients need clearer information.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which professional-services businesses is this relevant to?",
+      "answer": "It can be relevant to consultancies, agencies, advisory businesses and specialist service firms whose clients need to understand expertise before making an enquiry. We assess the audience and buying process first. Accountancy, legal and other regulated practices need a profession-specific content and promotion review rather than a generic campaign package."
+    },
+    {
+      "question": "Can you help us explain a complex service clearly?",
+      "answer": "Yes. We work with your subject experts to organise the service around the client’s situation, the questions they ask and the scope you can deliver. You approve the technical and professional substance. The aim is a useful explanation and a clear next conversation, with appropriate detail available for buyers who need it."
+    },
+    {
+      "question": "Will you use our clients, testimonials and case studies in marketing?",
+      "answer": "Only when the evidence is genuine, the business has permission and the intended use is appropriate for its profession. Some practices have restrictions on these formats. We can also use anonymised process explanations or clearly labelled illustrative examples where suitable, without inventing results, endorsements or client relationships."
+    },
+    {
+      "question": "Do we need paid advertising or can we start with the website and content?",
+      "answer": "The starting scope depends on your audience, existing visibility, offer and business priorities. A clearer website and useful content may be the first priority. Paid campaigns are considered separately for relevance, budget and applicable professional restrictions. No channel is mandatory simply because it is available."
+    },
+    {
+      "question": "Can AI automatically prepare proposals and quote our fees?",
+      "answer": "AI may support an approved draft or summary within a defined workflow. A responsible person should review the proposed work, fees, exclusions and commitments before anything is shared with a prospective client. We scope the sources, permissions and approval steps; we do not present autonomous quoting as a default capability."
+    },
+    {
+      "question": "How do you measure success for a long sales cycle?",
+      "answer": "We agree useful intermediate signals such as relevant enquiries, qualified conversations, response ownership and available proposal progress. Those are reviewed with the firm’s sales context and eventual outcomes where the data is available. Marketing attribution is explained with its limits, and no enquiry count is treated as a guaranteed client engagement."
+    }
+  ],
+  "example": {
+    "title": "From useful expertise to a relevant conversation",
+    "description": "The firm retains responsibility for advice, professional judgement, approvals and client commitments. This is an illustrative coordination flow, not a claim of a live deployment.",
+    "steps": [
+      "A buyer reads a relevant service page",
+      "They send an enquiry with useful context",
+      "The appropriate team member reviews and responds",
+      "An agreed proposal or onboarding step is recorded"
+    ],
+    "note": "The firm retains responsibility for advice, professional judgement, approvals and client commitments. This is an illustrative coordination flow, not a claim of a live deployment."
+  },
+  "deliverables": [
+    "A clear service, audience and positioning plan",
+    "Approved expert-led pages and content priorities",
+    "Appropriate promotion and enquiry routes",
+    "An enquiry review, appointment or onboarding workflow",
+    "A review plan around relevance and recorded next steps"
+  ],
+  "photo": "/media/ten-pages/professional-services/industries/professional-services.webp",
+  "path": "/industries/professional-services/",
+  "kind": "industry"
+}

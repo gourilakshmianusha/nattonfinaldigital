@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-03",
+  "desktop": [
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/products/growth-os/",
+      "stages": 5,
+      "title": "GrowthOS | Digital Marketing for MSMEs & SMBs | Natton"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/products/business-os/",
+      "stages": 5,
+      "title": "BusinessOS | CRM & Workflow Automation | Natton Digital"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/products/agentic-os/",
+      "stages": 5,
+      "title": "AgenticOS | Custom AI Agents & Workflows | Natton Digital"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/products/ai-marketing-platform/",
+      "stages": 5,
+      "title": "AI Marketing Platforms | Content & Creative Tools | Natton"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/industries/healthcare/",
+      "stages": 5,
+      "title": "Healthcare Marketing & Patient Enquiries | Natton Digital"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/industries/education-edtech/",
+      "stages": 5,
+      "title": "Education & EdTech Marketing Services | Natton Digital"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/industries/real-estate/",
+      "stages": 5,
+      "title": "Real Estate Digital Marketing & CRM | Natton Digital"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/industries/manufacturing/",
+      "stages": 5,
+      "title": "Manufacturing & B2B Marketing Services | Natton Digital"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/industries/retail-ecommerce/",
+      "stages": 5,
+      "title": "Retail & Ecommerce Marketing | Natton Digital"
+    },
+    {
+      "backgrounds": 7,
+      "chrome": 0,
+      "h1": 1,
+      "images": true,
+      "overflow": false,
+      "route": "/industries/professional-services/",
+      "stages": 5,
+      "title": "Professional Services Marketing | Natton Digital"
+    }
+  ],
+  "mobile": [
+    {
+      "label": "BusinessOS",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "AgenticOS",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "AI Marketing",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "Healthcare",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "Education",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "page": "Education & EdTech",
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "Real estate",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "page": "Real Estate",
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "Manufacturing",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "page": "Manufacturing",
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "Retail",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "page": "Retail & Ecommerce",
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "Professional",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "page": "Professional Services",
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    },
+    {
+      "label": "GrowthOS",
+      "backgrounds": 7,
+      "chrome": 0,
+      "images": true,
+      "page": "GrowthOS",
+      "scrollWidth": 375,
+      "stages": 5,
+      "width": 375
+    }
+  ],
+  "checks": {
+    "automaticStageAdvance": true,
+    "pauseHoldsStage": true,
+    "lastStageLoopsToFirst": true,
+    "manualSelectionHoldsReading": true,
+    "pageEffectsPause": true,
+    "pausePersistsAcrossPages": true,
+    "toolsRespectPagePause": true,
+    "tabletLabelsFit": true,
+    "productionHydration": true
+  },
+  "limits": [
+    "Available Chromium browser and emulated page widths; no physical device or reduced-motion OS-setting session."
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "retail-ecommerce",
+  "title": "Retail & Ecommerce",
+  "eyebrow": "FROM DISCOVERY TO THE NEXT ORDER",
+  "headline": "Make every step easier to shop.",
+  "description": "Bring store discovery, ecommerce marketing and customer follow-up into a clearer journey. Natton Digital helps retail businesses connect useful content, shopping experiences and the team behind each order.",
+  "definition": {
+    "title": "What is retail and ecommerce marketing?",
+    "body": "It is the work that helps the right people discover your products, understand what they are buying and take the next step. For a local store, that step may be a call, a message or a visit. For an online brand, it may be a product enquiry or a completed checkout. We build the plan around that distinction instead of treating every shop like the same online business."
+  },
+  "audience": [
+    "Independent retailers and growing store networks",
+    "Direct-to-consumer and ecommerce brands",
+    "Specialist product businesses and distributors with an online catalogue",
+    "Established MSMEs and SMBs connecting physical and online sales"
+  ],
+  "needs": [
+    {
+      "title": "People see the products, but cannot find the next step.",
+      "description": "Product information, store details and purchase or enquiry options should help a shopper decide without chasing your team.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Campaigns and the shop experience feel disconnected.",
+      "description": "An attractive advertisement needs a relevant category page, product page or local enquiry journey to lead into.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Customer questions are scattered across channels.",
+      "description": "A message about sizing, availability or an order should reach an owner who can use the appropriate customer context.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "There is plenty of activity, but limited business visibility.",
+      "description": "Separate product discovery, meaningful enquiries, completed orders and repeat-purchase signals so the team can discuss the right next action.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "scopeNote": "Inventory, warehousing, shipping operations, marketplace management and accounting are separate systems or scopes. We assess practical connections; the marketing programme does not replace them by default.",
+  "timing": "A focused review is useful before a store launch, a new collection, a campaign push or a planned website improvement. Existing businesses can begin with the journey that currently breaks down. We agree stages after checking the catalogue, access, content, platform and team capacity; there is no fixed launch or revenue promise for every retailer.",
+  "metaTitle": "Retail & Ecommerce Marketing | Natton Digital",
+  "metaDescription": "Connect retail discovery, ecommerce websites, SEO, campaigns and customer follow-up. A practical marketing plan for stores and growing brands with Natton Digital.",
+  "keywords": {
+    "primary": "retail and ecommerce marketing",
+    "secondary": [
+      "ecommerce SEO services",
+      "digital marketing for retail businesses",
+      "Shopify website development",
+      "WooCommerce marketing",
+      "local SEO for retail stores",
+      "ecommerce customer support automation",
+      "retail CRM automation"
+    ],
+    "intent": "Business owners comparing a practical marketing and customer-journey partner; informational explanation plus service enquiry. Keyword themes are qualitative, not volume-verified."
+  },
+  "services": [
+    {
+      "title": "Product-led websites & stores",
+      "description": "Develop or improve a Shopify, WooCommerce or scoped custom storefront around your catalogue, customer questions and buying process. Give categories, product details, store information and contact or checkout routes a clear structure.",
+      "icon": "shop",
+      "linkLabel": ""
+    },
+    {
+      "title": "Retail & ecommerce SEO",
+      "description": "Plan useful category and product content, internal links and technical improvements around how customers search. Assess appropriate product information and structured data. For eligible physical locations, improve accurate Google Business Profile information and local landing pages.",
+      "icon": "search",
+      "linkLabel": ""
+    },
+    {
+      "title": "Campaigns with a relevant destination",
+      "description": "Create search, shopping, social or remarketing campaigns where appropriate to the business and platform. Connect the offer, creative and landing experience; agree the advertising budget, product priorities and measurement before launch.",
+      "icon": "target",
+      "linkLabel": ""
+    },
+    {
+      "title": "Content that helps people choose",
+      "description": "Use product photography, short demonstrations, comparisons and practical buying guides to answer real questions. Keep product claims, prices, stock information and offers approved by your team rather than inventing urgency or unsupported benefits.",
+      "icon": "image",
+      "linkLabel": ""
+    },
+    {
+      "title": "Customer conversations & follow-up",
+      "description": "Route agreed WhatsApp, web chat, email and order-related requests to the right people. Where the commerce platform and permissions allow it, configure checkout follow-up or approved offers. Provide a clear path to a person for questions the automation cannot resolve.",
+      "icon": "chat",
+      "linkLabel": ""
+    },
+    {
+      "title": "A joined-up view of the journey",
+      "description": "Connect agreed website events, campaign data and available store or order information into useful reporting. Separate marketing work from your stock, fulfilment and accounting systems, and scope any required connections before implementation.",
+      "icon": "chart",
+      "linkLabel": ""
+    }
+  ],
+  "process": [
+    {
+      "title": "Understand how you sell",
+      "description": "Review your catalogue, margins, customer groups, locations, sales channels and existing website. Decide whether the immediate goal is store enquiries, online purchases, repeat business or a combination.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Make the buying journey clear",
+      "description": "Prioritise product and category content, navigation, store details, checkout or enquiry steps, and the information customers need before buying. Agree the photography and product data your team will supply.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Connect discovery to the right destination",
+      "description": "Build the relevant SEO, Google Business Profile, content and advertising work around those journeys. Choose channels for the audience and budget rather than launching every channel at once.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Connect the people after the click",
+      "description": "Define who handles product questions, order updates and support. Test the agreed permissions, messages and handovers before introducing customer-facing automation.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Review, then improve",
+      "description": "Review measurable enquiries, purchases and follow-up alongside spend, product availability and fulfilment feedback. Use what the business can actually supply and support to decide the next improvement.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Useful discovery",
+      "description": "Relevant search visibility, product-page visits and engagement with important buying information.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Meaningful actions",
+      "description": "Completed purchases where tracked, product enquiries and eligible store-contact actions, reported separately.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Acquisition efficiency",
+      "description": "Campaign spend and cost per agreed action, considered alongside product margins and available attribution.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Customer follow-through",
+      "description": "Available checkout follow-up, repeat-purchase and support-response signals, with the limits of the underlying data made clear.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you help a physical shop that does not sell online?",
+      "answer": "Yes. The goal can be accurate store information, local discovery, product enquiries and a clear route to visit or contact the store. We assess Google Business Profile eligibility and your actual service area or locations. A full ecommerce checkout is only useful when the business is ready to take and fulfil online orders."
+    },
+    {
+      "question": "Do you work with Shopify, WooCommerce and custom websites?",
+      "answer": "The platform is selected or reviewed against your catalogue, checkout needs and existing systems. We can scope development, content and marketing around an agreed platform. Platform subscriptions, extensions, payment charges and custom integrations are identified separately in the proposal; every feature is not assumed to be included."
+    },
+    {
+      "question": "Will automated messages recover every abandoned cart?",
+      "answer": "No. Checkout follow-up depends on the platform, channel, customer details, permissions and the customer’s circumstances. Some incomplete purchases should not receive another message. We first check what is supported and appropriate, then configure the agreed experience. Recovery is an opportunity to measure, not a guaranteed order."
+    },
+    {
+      "question": "Can customers get product and order help on WhatsApp?",
+      "answer": "We can assess a WhatsApp conversation flow for approved questions, request routing and appropriate updates. Your team provides the source information and escalation route. Customer opt-in and current provider policies are considered before outbound messaging. Access to order or stock data needs a separately agreed, supported connection."
+    },
+    {
+      "question": "How will you know whether marketing is helping sales?",
+      "answer": "We agree the actions to measure before launching: for example purchases, product enquiries or contact actions. We review these alongside spend and available order information. Website analytics, ad platforms and offline records do not always tell the same story, so we explain attribution limits rather than treating every tracked action as a confirmed sale."
+    },
+    {
+      "question": "Do we have to use every marketing service?",
+      "answer": "No. A local store may first need an accurate presence and better enquiry handling; an established ecommerce brand may need product-page improvements and a focused acquisition campaign. We recommend a practical starting scope, specify the deliverables and review points, and stay involved as the business learns what needs attention."
+    }
+  ],
+  "example": {
+    "title": "From product discovery to a useful follow-through",
+    "description": "An online order and a store enquiry use different routes. This example is a proposed journey, not a live integration or a client result.",
+    "steps": [
+      "A shopper finds a relevant product",
+      "They buy or ask a product question",
+      "The order or request reaches the right system and owner",
+      "The team completes the agreed follow-up"
+    ],
+    "note": "An online order and a store enquiry use different routes. This example is a proposed journey, not a live integration or a client result."
+  },
+  "deliverables": [
+    "A store or ecommerce customer-journey plan",
+    "Product and storefront content priorities",
+    "Selected campaigns and platform-specific enquiry routes",
+    "Scoped order or checkout follow-up where supported",
+    "A review plan separating purchases from enquiries"
+  ],
+  "photo": "/media/ten-pages/retail-ecommerce/industries/retail-ecommerce.webp",
+  "path": "/industries/retail-ecommerce/",
+  "kind": "industry"
+}

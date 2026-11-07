@@ -1,0 +1,23 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {render,allPages,SITE_URL}from'../.ssr-build/entry-server.js';
+const root=process.cwd(),dist=path.join(root,'dist');
+const template=await fs.readFile(path.join(dist,'index.html'),'utf8');
+const manifest=JSON.parse(await fs.readFile(path.join(dist,'.vite/manifest.json'),'utf8'));
+function platformStyles(route){const styles=new Set(),seen=new Set();function collect(key){if(seen.has(key))return;seen.add(key);const item=manifest[key];if(!item)return;for(const css of item.css||[])styles.add(css);for(const key of item.imports||[])collect(key);}collect('src/homepage/HomePage.jsx');if(route.kind!=='resource'&&route.kind!=='product-platform'&&route.path!=='/products/platforms/'&&route.path!=='/')collect('src/CollectionPages.jsx');if(route.kind==='resource')collect('src/resources/ResourcePages.jsx');if(route.kind==='product-platform'||route.path==='/products/platforms/')collect('src/product-platforms/ProductPlatforms.jsx');if(route.kind==='product-platform'&&route.slug)collect(`src/product-platforms/pages/${route.slug}.jsx`);return [...styles].filter(css=>!template.includes(css)).map(css=>`<link rel="stylesheet" href="/${css}" />`).join('\n');}
+const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const categories=[{path:'/services/',metaTitle:'Services | Natton Digital',metaDescription:'Website development, SEO, social media, content, paid advertising and AI growth marketing services from Natton Digital.'},{path:'/products/',metaTitle:'Growth, Operations & AI Products | Natton Digital',metaDescription:'Explore GrowthOS, BusinessOS, AgenticOS and AI Marketing Platforms. Choose a practical scope around your marketing, operations or creative workflow.'},{path:'/industries/',metaTitle:'Industry Digital Marketing & Workflows | Natton Digital',metaDescription:'Explore industry-specific websites, digital marketing and enquiry workflows for healthcare, education, property, manufacturing, retail and professional firms.'}];
+const routes=[{path:'/',metaTitle:'Natton Digital | Digital Marketing, AI & Automation Consultancy',metaDescription:'Digital marketing, creative campaigns and AI automation built around your business. Natton Digital connects strategy, delivery and ongoing support for MSMEs and SMBs.',heroImage:'/hero-journey/cinema/000.webp'},...categories,...allPages,{path:'/404/',metaTitle:'Page not found | Natton Digital',metaDescription:'Find a useful starting point in Natton Digital’s product and industry pages.',noindex:true}];
+for(const route of routes){
+ const canonical=SITE_URL+route.path;
+ const image=SITE_URL+(route.photo||route.heroImage||'/media/growthos-poster.webp');
+ const meta=`<title>${escape(route.metaTitle)}</title>\n<meta name="description" content="${escape(route.metaDescription)}" />\n<link rel="canonical" href="${escape(canonical)}" />\n<meta name="robots" content="${route.noindex?'noindex,follow':'index,follow'}" />\n<meta property="og:type" content="website" />\n<meta property="og:site_name" content="Natton Digital" />\n<meta property="og:locale" content="en_IN" />\n<meta property="og:title" content="${escape(route.metaTitle)}" />\n<meta property="og:description" content="${escape(route.metaDescription)}" />\n<meta property="og:url" content="${escape(canonical)}" />\n<meta property="og:image" content="${escape(image)}" />\n<meta name="twitter:card" content="summary_large_image" />`;
+ let html=template.replace(/<!--page-meta-->[\s\S]*?<!--\/page-meta-->/,meta).replace('<!--app-html-->',render(route.path)).replace('</head>',platformStyles(route)+'\n</head>');
+ const destination=route.path==='/404/'?path.join(dist,'404.html'):path.join(dist,route.path,'index.html');
+ await fs.mkdir(path.dirname(destination),{recursive:true});await fs.writeFile(destination,html);
+}
+const urls=[...categories,...allPages].map(p=>`  <url><loc>${escape(SITE_URL+p.path)}</loc></url>`).join('\n');
+await fs.writeFile(path.join(dist,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
+await fs.writeFile(path.join(dist,'robots.txt'),`User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
+await fs.writeFile(path.join(root,'SEO-MAP.json'),JSON.stringify(allPages.map(p=>({path:p.path,title:p.metaTitle,description:p.metaDescription,keywordThemes:p.keywords,canonical:SITE_URL+p.path})),null,2)+'\n');
+console.log(`Pre-rendered ${routes.length} documents including all product, industry and service detail pages. Canonical origin: ${SITE_URL}`);

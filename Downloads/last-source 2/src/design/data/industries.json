@@ -1,0 +1,1237 @@
+[
+  {
+    "slug": "healthcare",
+    "title": "Healthcare",
+    "eyebrow": "HEALTHCARE MARKETING & PATIENT ENQUIRIES",
+    "headline": "Healthcare marketing that makes the next step clear.",
+    "description": "Help people find accurate service information, understand how to contact your organisation and request an appointment. Connect local visibility, your website and administrative follow-up around a considered patient enquiry journey.",
+    "audience": [
+      "Independent medical and dental practices, allied-health providers and growing healthcare SMEs",
+      "Hospitals, multispeciality centres and large healthcare organisations",
+      "Diagnostic and imaging networks serving patients, employers and referring providers",
+      "Multi-location hospital groups and enterprise healthcare teams coordinating service information and appointment enquiries"
+    ],
+    "needs": [
+      {
+        "title": "Patients cannot find the right service",
+        "description": "Service pages, location details or practitioner information may be incomplete, difficult to navigate or disconnected from search.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Enquiries arrive without a clear next step",
+        "description": "Calls, forms and messages need a defined administrative owner and an appropriate appointment route.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Information changes across channels",
+        "description": "Timings, available services and contact details should reflect what the organisation can currently provide.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Teams cannot see enquiry follow-up",
+        "description": "A shared administrative process helps staff review pending requests and contact attempts without relying on personal inboxes.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "example": {
+      "title": "A clearer appointment enquiry",
+      "description": "Illustrative administrative flow. The care team confirms availability and any clinical next step.",
+      "steps": [
+        "Find a service page",
+        "Request an appointment",
+        "Administrative team reviews",
+        "Team confirms the next step"
+      ],
+      "note": "Example only. No live patient data, booking connection or medical decision is used in this preview."
+    },
+    "metaTitle": "Healthcare Marketing & Patient Enquiries | Natton Digital",
+    "metaDescription": "Healthcare marketing for hospitals, practices and diagnostics. Connect website design, SEO, local visibility and administrative enquiry follow-up with Natton.",
+    "keywords": {
+      "primary": "healthcare marketing services",
+      "secondary": [
+        "digital marketing for hospitals",
+        "healthcare website design",
+        "healthcare SEO",
+        "local SEO for healthcare providers",
+        "patient enquiry management",
+        "appointment enquiry automation",
+        "marketing for hospital groups",
+        "healthcare administrative workflow automation"
+      ],
+      "intentNote": "Editorial keyword themes, not measured search volumes or validated keyword-difficulty estimates. Use service and location terms only where the provider actually operates."
+    },
+    "definition": {
+      "title": "What is healthcare marketing?",
+      "body": "Healthcare marketing helps a hospital, medical practice or diagnostic provider explain its services and become easier to find. It brings together a useful website, relevant search visibility, approved educational content and a clear route to the team. The goal is informed enquiries and a manageable follow-up process, with clinical information reviewed by the provider."
+    },
+    "services": [
+      {
+        "title": "Healthcare website design",
+        "description": "Build clear service, practitioner and location pages with usable mobile layouts, accurate contact details and an appropriate appointment enquiry route.",
+        "icon": "",
+        "linkLabel": "Website development"
+      },
+      {
+        "title": "Healthcare SEO & local visibility",
+        "description": "Research service and location intent, improve relevant page content and review eligible Google Business Profiles. Give each location useful information instead of repeating city names.",
+        "icon": "",
+        "linkLabel": "SEO services"
+      },
+      {
+        "title": "Approved patient information",
+        "description": "Turn provider-approved information into understandable service explainers, articles and social content. The organisation reviews medical accuracy and promotional statements before publication.",
+        "icon": "",
+        "linkLabel": "Content marketing"
+      },
+      {
+        "title": "Relevant paid campaigns",
+        "description": "Plan suitable search or social campaigns after reviewing the service, location, claims and platform requirements. Campaign eligibility and the appropriate enquiry destination are assessed before launch.",
+        "icon": "",
+        "linkLabel": "Paid advertising"
+      },
+      {
+        "title": "Administrative enquiry workflows",
+        "description": "Connect agreed forms, appointment requests and team reminders. Use approved administrative responses and human handover; clinical assessment and treatment decisions stay with qualified care teams.",
+        "icon": "",
+        "linkLabel": "CRM & AI automation"
+      },
+      {
+        "title": "Meaningful enquiry reporting",
+        "description": "Review relevant search visibility, contact actions and administrative response patterns. Configure measurement carefully so patient narratives and identifiable details are not sent into analytics events.",
+        "icon": "",
+        "linkLabel": "Discuss measurement"
+      }
+    ],
+    "process": [
+      {
+        "title": "Understand the service and care setting",
+        "description": "Confirm the services, locations, audience, appointment process and people responsible for reviewing content. Establish the agreed marketing scope and handling of enquiries.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Make the foundations clear",
+        "description": "Review the website, contact routes, eligible local profiles and existing measurement. Prioritise accurate service information and useful navigation before expanding promotion.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Connect visibility to the right information",
+        "description": "Develop service and location content around researched questions. Add suitable campaigns only where the offering, platform rules, available capacity and budget support them.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Give administrative enquiries an owner",
+        "description": "Agree how staff receive, review and follow up appointment requests. Test acknowledgements, reminders and handovers before putting automation into use.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review and improve together",
+        "description": "Use available enquiry and response information to identify friction. Refine content, routing and campaigns with the provider as services and priorities change.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Relevant search visibility",
+        "description": "Queries and pages connected with the actual services and locations.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Contact and booking actions",
+        "description": "Appropriately measured calls, enquiry submissions and appointment-link actions.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Administrative response patterns",
+        "description": "Pending enquiries, ownership and response intervals where reliable records exist.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Enquiry quality",
+        "description": "Whether enquiries match the services, location and appointment process the organisation offers.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is this healthcare marketing service for?",
+        "answer": "It can suit hospitals, independent practices, dental providers, diagnostic organisations and allied-health teams that need clearer visibility and enquiry handling. Single-location providers and larger groups need different scopes, so we review the services, geography, capacity and existing team before recommending the work."
+      },
+      {
+        "question": "Can you improve our existing website and Google Business Profile?",
+        "answer": "Yes. We can review the current website and eligible profiles, identify gaps and prioritise changes. Google profile eligibility and how locations or practitioners should be represented need checking first. Existing systems and useful content can remain where they serve the organisation well."
+      },
+      {
+        "question": "Will you write medical content or use AI to answer patients?",
+        "answer": "We can help structure and draft understandable service information, but the provider must review medical accuracy before publishing. An assistant, if included, is limited to an agreed administrative purpose and approved information. Diagnosis, treatment advice, emergencies and clinical decisions require the appropriate qualified team."
+      },
+      {
+        "question": "Can every healthcare service run paid ads?",
+        "answer": "Campaign suitability depends on the service, claims, target market and platform requirements. Some healthcare-related advertising is restricted or requires specific approvals. We assess the proposed campaign before recommending it, and do not treat paid promotion as suitable for every service."
+      },
+      {
+        "question": "How do you handle patient information and tracking?",
+        "answer": "We first define what an administrative enquiry needs, where it will be stored and who should receive it. Analytics should not receive names, contact details, patient narratives or other sensitive information. Your organisation's privacy and compliance requirements are reviewed with the relevant owners; this page does not certify a system as compliant."
+      },
+      {
+        "question": "When can we expect progress, and what does it cost?",
+        "answer": "The starting point, content approvals, number of locations, campaign scope and integrations affect delivery. We agree milestones and costs in a proposal, including third-party or advertising charges where relevant. Initial setup can be reviewed separately from longer-term search visibility and optimisation; no fixed ranking or appointment promise is made."
+      }
+    ],
+    "timing": "We agree a phased plan after reviewing the website, locations, content approvals, enquiry process and system access. Foundation work, campaign readiness and ongoing optimisation have different dependencies; a proposal sets the deliverables and review points. Rankings, patient numbers and appointment outcomes are not guaranteed.",
+    "deliverables": [
+      "Clear service and location information",
+      "Approved patient-facing website and content priorities",
+      "Appropriate appointment-enquiry routes",
+      "An administrative routing and follow-up plan",
+      "Agreed privacy-aware measurement and review points"
+    ],
+    "scopeNote": "",
+    "photo": "/media/industries/healthcare.webp",
+    "path": "/industries/healthcare/",
+    "kind": "industry",
+    "audienceContext": "A patient-facing journey needs clear service information and an appropriate contact route. A provider-facing or corporate healthcare enquiry may need a different owner and follow-up process. We scope website, marketing, CRM and administrative automation around those journeys; clinical decisions remain with qualified staff."
+  },
+  {
+    "slug": "education-edtech",
+    "title": "Education & EdTech",
+    "eyebrow": "EDUCATION MARKETING & ADMISSIONS JOURNEYS",
+    "headline": "Education marketing for more informed decisions.",
+    "description": "Help students, parents and working learners understand your offering. Bring programme information, relevant campaigns and counselling follow-up into a clear journey from first enquiry to the appropriate admissions team.",
+    "audience": [
+      "Independent schools, coaching institutes and training SMEs",
+      "Universities, higher-education institutions and multi-campus education groups",
+      "B2C EdTech platforms and online learning businesses serving individual learners",
+      "B2B corporate training providers working with employers, large enterprises and multinational learning teams",
+      "Professional and vocational education providers coordinating course enquiries and counselling"
+    ],
+    "needs": [
+      {
+        "title": "Interest is not reaching the right programme",
+        "description": "Generic pages and campaigns can attract enquiries that do not match the course, location, learning format or intake.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Important information is difficult to find",
+        "description": "Learners need clear course details, eligibility information, schedules, fees and a route to ask questions.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Counselling follow-up is scattered",
+        "description": "Calls, forms and messages need ownership, context and a recorded next action as prospective learners consider their options.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Teams see enquiries but not the journey",
+        "description": "Connecting source, counselling and application status helps teams identify where useful conversations stop moving.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "example": {
+      "title": "A programme enquiry with a useful handover",
+      "description": "Illustrative flow for an admissions team. Staff provide programme-specific guidance and confirm the next step.",
+      "steps": [
+        "Choose a programme",
+        "Send an enquiry",
+        "Counsellor receives context",
+        "Team agrees the next step"
+      ],
+      "note": "Example only. No live application, student record or automated admissions decision is used in this preview."
+    },
+    "metaTitle": "Education & EdTech Marketing Services | Natton Digital",
+    "metaDescription": "Education marketing for institutions, coaching and EdTech. Connect course pages, SEO, campaigns and admissions follow-up around informed learner decisions.",
+    "keywords": {
+      "primary": "education marketing services",
+      "secondary": [
+        "digital marketing for educational institutions",
+        "EdTech marketing services",
+        "education website design",
+        "education SEO",
+        "admissions enquiry management",
+        "student enquiry CRM",
+        "coaching institute marketing",
+        "B2B corporate training marketing",
+        "marketing for education groups"
+      ],
+      "intentNote": "Editorial keyword themes, not measured search volumes. Choose programme and location phrases only after confirming the actual offering and target market."
+    },
+    "definition": {
+      "title": "What is education marketing?",
+      "body": "Education marketing helps an institution or learning business explain its programmes and reach suitable learners. Useful course pages, accurate information, relevant search visibility and organised counselling work together. The objective is an informed next step, shaped around your admissions calendar, learner needs and available capacity."
+    },
+    "services": [
+      {
+        "title": "Education website & course pages",
+        "description": "Present programme details, entry requirements, delivery format, fees, schedules and useful FAQs. Build clear enquiry or application routes around the institution's process.",
+        "icon": "",
+        "linkLabel": "Website development"
+      },
+      {
+        "title": "Education SEO & campus discovery",
+        "description": "Research programme, career-learning and location intent. Improve course content and eligible campus profiles while keeping online-only and physical-location visibility needs distinct.",
+        "icon": "",
+        "linkLabel": "SEO services"
+      },
+      {
+        "title": "Intake and programme campaigns",
+        "description": "Plan suitable advertising around the audience, intake window and course offering. Align ads with accurate landing-page information and the counselling team's ability to respond.",
+        "icon": "",
+        "linkLabel": "Paid advertising"
+      },
+      {
+        "title": "Content that answers real questions",
+        "description": "Create course explainers, faculty introductions, learning-format previews and approved learner stories. Qualifications, recognition and outcome claims are checked with the institution before use.",
+        "icon": "",
+        "linkLabel": "Content marketing"
+      },
+      {
+        "title": "Admissions CRM & counselling follow-up",
+        "description": "Organise enquiry source, programme interest, assigned counsellor and next action. Add agreed acknowledgements and reminders, with staff responsible for admissions advice and decisions.",
+        "icon": "",
+        "linkLabel": "CRM & AI automation"
+      },
+      {
+        "title": "Enquiry-to-application visibility",
+        "description": "Review programme interest, suitable enquiries, attended counselling and application milestones where the data is available. Separate campaign activity from verified enrolment outcomes.",
+        "icon": "",
+        "linkLabel": "Discuss measurement"
+      }
+    ],
+    "process": [
+      {
+        "title": "Define the programme and learner",
+        "description": "Confirm the courses, learning formats, locations, audience, entry information and intake calendar. Identify who approves content and owns counselling follow-up.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Make course information useful",
+        "description": "Review the website, programme pages, enquiry routes and proof that can be substantiated. Resolve unclear eligibility, schedule, fee or recognition information before promotion.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Reach relevant learners",
+        "description": "Combine suitable search content, social communication and campaigns around the agreed programme and audience. Choose channels because they fit the decision journey, not because every platform must be used.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Connect enquiries to counselling",
+        "description": "Give each enquiry an owner, programme context and next action. Test any acknowledgement, reminder and handover flow before it supports the admissions team.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review the quality of the journey",
+        "description": "Compare sources, relevant enquiries and available counselling or application milestones. Use the team's feedback to improve information, targeting and follow-up over time.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Programme-relevant visibility",
+        "description": "Search and campaign activity connected with the courses and learners you intend to reach.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Suitable enquiries",
+        "description": "Enquiries that match the agreed programme, location and learning format.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Counselling follow-through",
+        "description": "Contact status, attended conversations and outstanding next actions where the team records them.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Application milestones",
+        "description": "Applications or enrolments reported from the institution's own reliable records, separately from lead counts.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you work with schools, colleges, coaching businesses and EdTech?",
+        "answer": "The approach can be adapted to each, but they should not use an identical campaign. Parents, school leavers, working professionals and institutional buyers have different questions and decision journeys. We first review the offering, learner audience, delivery format, geography and admissions process."
+      },
+      {
+        "question": "Can you help us market a particular course or intake?",
+        "answer": "Yes. A focused programme or intake can be a sensible starting point. We review its information, available capacity, audience and counselling process, then agree suitable content and channels. Programme availability, deadlines and claims must remain accurate as the campaign runs."
+      },
+      {
+        "question": "When should an institution start marketing an intake?",
+        "answer": "Planning should begin early enough to prepare clear information, approvals, tracking and enquiry handling before promotion is needed. The right lead time varies with the programme and learner's decision cycle. We work backwards from the admissions calendar instead of promising one fixed campaign period for every institution."
+      },
+      {
+        "question": "Will AI counsel students or make admissions decisions?",
+        "answer": "An assistant may answer approved administrative questions or collect programme interest when included in the scope. Staff remain responsible for individual guidance, eligibility checks and admissions decisions. Conversations involving children or sensitive information require an appropriately designed process and suitable human oversight."
+      },
+      {
+        "question": "How do you handle placement, selection and recognition claims?",
+        "answer": "We use evidence supplied and verified by the institution, with the necessary approvals and context. We do not invent selection rates, guaranteed placements or success stories. Where recognition is relevant, the specific programme and current academic session should be checked rather than relying on a general claim."
+      },
+      {
+        "question": "Can you use our existing website, CRM or admissions software?",
+        "answer": "Yes, we assess what already works and which connections are practical. The proposal sets out content, campaigns, follow-up responsibilities and any integration work. We also agree how performance will be reviewed, using available counselling and application records instead of assuming every enquiry becomes an enrolment."
+      }
+    ],
+    "timing": "Plan around the admissions cycle or rolling-cohort schedule. We agree the foundation work, approval responsibilities, campaign launch conditions and review points before promotion. The scope depends on the number of programmes, locations, existing tools and follow-up process; advertising spend and third-party charges are identified separately where relevant.",
+    "deliverables": [
+      "A learner, programme and admissions-cycle plan",
+      "Accurate course pages and useful learner information",
+      "Selected campaign assets and enquiry routes",
+      "Counsellor ownership and agreed follow-up stages",
+      "A programme-level measurement and review plan"
+    ],
+    "scopeNote": "",
+    "photo": "/media/industries/education-edtech.webp",
+    "path": "/industries/education-edtech/",
+    "kind": "industry",
+    "audienceContext": "An admissions enquiry from a student and a training request from an employer need different information, qualification and follow-up. We connect the relevant programme pages, campaigns and counselling or sales workflow. The plan follows the learning offer, admissions calendar and team capacity."
+  },
+  {
+    "slug": "real-estate",
+    "title": "Real Estate",
+    "eyebrow": "INDUSTRY / REAL ESTATE",
+    "headline": "Give every property enquiry a clearer next step.",
+    "description": "Connect property marketing, project information and enquiry follow-up around the way your sales team works. Natton Digital helps real estate businesses build a useful online presence, reach relevant buyers and keep conversations moving toward a genuine sales discussion.",
+    "metaTitle": "Real Estate Digital Marketing & CRM | Natton Digital",
+    "metaDescription": "Connect property websites, SEO, campaigns and CRM follow-up with Natton Digital. Marketing and enquiry workflows for developers, brokers and real estate teams.",
+    "keywords": [
+      "real estate digital marketing",
+      "real estate marketing services",
+      "property marketing agency",
+      "real estate lead generation",
+      "real estate CRM automation",
+      "property website development",
+      "SEO for real estate",
+      "marketing for property developers",
+      "B2B commercial property marketing",
+      "CRM workflows for property developers"
+    ],
+    "audience": [
+      "Independent brokers, real estate agencies and property-services SMEs",
+      "Property developers, large real estate groups and project sales teams",
+      "B2C residential property businesses supporting homebuyer enquiries",
+      "B2B commercial property, leasing and corporate real estate teams",
+      "Multi-location property-management businesses coordinating enquiries and follow-up"
+    ],
+    "needs": [
+      {
+        "title": "The project is difficult to evaluate online",
+        "description": "Visitors need clear location details, current information, useful visuals and an easy way to ask a question before they can decide whether to speak to your team.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Enquiries arrive without useful context",
+        "description": "Campaign forms and conversations should collect the information your team actually needs, such as the project of interest, location preference and suitable next step.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Follow-up is spread across people and inboxes",
+        "description": "A shared customer record and defined ownership help the team see who has replied, what was discussed and what is still waiting.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Lead counts hide the quality of the work",
+        "description": "Review relevant enquiries, contactability, accepted sales discussions and site-visit requests alongside campaign costs. A submitted form alone does not describe sales readiness.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "example": {
+      "title": "Illustrative enquiry journey",
+      "description": "A visitor asks about a residential project. The example shows how context and ownership can stay connected; it does not represent a live client campaign or an automatic sale.",
+      "steps": [
+        "Project enquiry received",
+        "Interest and preferences recorded",
+        "Sales owner assigned",
+        "Call or site-visit follow-up organised"
+      ],
+      "note": "Illustrative example. No live customer data or business-system connection is used."
+    },
+    "deliverables": [
+      "An agreed audience, message and campaign plan",
+      "Project or service pages and enquiry routes",
+      "Relevant SEO and creative content",
+      "A scoped CRM and follow-up workflow",
+      "A reporting and review cadence"
+    ],
+    "timing": "We agree a phased rollout after reviewing project material, access, approvals and technical requirements. Pages, tracking and enquiry routing should be ready before campaigns depend on them. Search visibility and sales outcomes need ongoing review; there is no universal deadline for rankings or property sales.",
+    "faqs": [
+      {
+        "question": "Do you work with developers, brokers and smaller property businesses?",
+        "answer": "Yes. The starting scope depends on the business model and available resources. An independent agency may need a clear website and local enquiry process, while a developer may need multiple project pages, campaigns and sales-team routing. We agree the priority before choosing tools."
+      },
+      {
+        "question": "Can you guarantee property leads, site visits or sales?",
+        "answer": "No. Marketing can improve the way people discover and evaluate an offer, but relevance and outcomes also depend on price, location, project facts, availability, competition and the sales process. We agree measurable activities and review enquiry quality and recorded sales-team outcomes without guaranteeing bookings."
+      },
+      {
+        "question": "Do we need a Google Business Profile for every property?",
+        "answer": "Not necessarily. Google distinguishes an eligible business or sales office from individual rental or sale properties. We review the actual business locations and eligibility before proposing local-profile work, and use project pages where appropriate."
+      },
+      {
+        "question": "What should we provide before you start?",
+        "answer": "Useful inputs include approved project or service details, current availability, location information, owned photographs or footage, brand assets, access to existing accounts and the sales team's follow-up process. Your authorised team must approve project claims and required disclosures before publication."
+      },
+      {
+        "question": "Can you connect our existing CRM and WhatsApp follow-up?",
+        "answer": "We can assess the CRM, agreed messaging channels and available integrations. The scope may include enquiry capture, ownership, reminders and conversation context. Provider capabilities, data access, template requirements and usage costs are checked before promising a particular connection."
+      },
+      {
+        "question": "How do costs and ongoing support work?",
+        "answer": "We separate the agreed implementation and management work from media spend, subscriptions and usage charges. After launch, reviews can cover enquiry quality, content accuracy, campaign performance and team handovers. The proposal defines responsibilities, access, review points and the support included."
+      }
+    ],
+    "definition": {
+      "title": "What is real estate digital marketing?",
+      "body": "It is the work of helping the right people discover a property business, understand its offer and make an informed enquiry. A project website, search visibility, useful property content and paid campaigns can create that first connection. CRM and communication workflows then help the team retain context and organise the follow-up. The right mix depends on the property type, location, availability, sales process and budget."
+    },
+    "services": [
+      {
+        "title": "Property websites & project pages",
+        "description": "Build mobile-friendly pages with clear project information, location context, galleries, available downloads and enquiry routes. Client-approved facts and current availability guide the content.",
+        "icon": "",
+        "linkLabel": "Website development"
+      },
+      {
+        "title": "Search visibility & local discovery",
+        "description": "Develop useful location, property-type and service content around relevant search intent. Review local business visibility for eligible offices and business locations; individual sale or rental units are not automatically eligible for Google Business Profiles.",
+        "icon": "",
+        "linkLabel": "SEO services"
+      },
+      {
+        "title": "Campaigns with a clear enquiry route",
+        "description": "Plan Google and social campaigns around a defined project, audience and landing page. Test the message and review enquiry relevance with the sales team rather than promising a fixed number of bookings.",
+        "icon": "",
+        "linkLabel": "Paid advertising"
+      },
+      {
+        "title": "Property content & creative production",
+        "description": "Turn approved photographs, walkthrough footage, project details and common buyer questions into useful social and website content. Visuals should accurately represent what is being offered.",
+        "icon": "",
+        "linkLabel": "Content marketing"
+      },
+      {
+        "title": "CRM ownership & buyer follow-up",
+        "description": "Connect agreed forms and communication channels to a CRM pipeline. Record relevant preferences, assign owners and organise follow-up, document requests and site-visit enquiries.",
+        "icon": "",
+        "linkLabel": "CRM & AI automation"
+      },
+      {
+        "title": "Conversation assistance & handover",
+        "description": "Use agreed information for initial questions, collect missing details or route an appointment request. Rules or an AI assistant can support a defined task, with a sales owner taking over when needed.",
+        "icon": "",
+        "linkLabel": "Conversational AI"
+      }
+    ],
+    "process": [
+      {
+        "title": "Understand the offer",
+        "description": "Review the property business, project stage, location, buyer or tenant audience, existing marketing and the sales team's capacity. Agree the facts and material available for publication.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Build the enquiry foundation",
+        "description": "Prepare the key pages, approved visual material, enquiry forms, contact routes and measurement plan. Establish how the team defines a useful enquiry and who receives it.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Reach relevant people",
+        "description": "Launch the agreed search, content and campaign work. Match the message and landing page to the property or service being discussed.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Connect and follow up",
+        "description": "Route enquiries to the right owner, retain conversation context and support appropriate next steps such as a call, information request or site-visit discussion.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review with the sales team",
+        "description": "Compare campaign and website information with enquiry quality and recorded outcomes. Refine targeting, content and handovers as availability and business priorities change.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Relevant enquiries",
+        "description": "Track the enquiries that fit the project, service area and agreed customer profile.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Contact and response patterns",
+        "description": "Review contactability, response intervals and open conversations where reliable data is available.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Sales-team next steps",
+        "description": "Monitor accepted discussions, information requests and site-visit requests recorded by the team.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Channel and campaign costs",
+        "description": "Compare spend with enquiry quality and known outcomes, acknowledging gaps in attribution.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "scopeNote": "",
+    "photo": "/media/industries/real-estate.webp",
+    "path": "/industries/real-estate/",
+    "kind": "industry",
+    "audienceContext": "A homebuyer comparing a residential project needs a different journey from a business evaluating commercial space. We shape project information, campaigns and CRM handovers around that distinction. Large property groups can begin with a project, region or sales-team workflow, with ownership and reporting agreed in scope."
+  },
+  {
+    "slug": "manufacturing",
+    "title": "Manufacturing",
+    "eyebrow": "INDUSTRY / MANUFACTURING",
+    "headline": "Make your capabilities easier to find. Your enquiries easier to act on.",
+    "description": "Help buyers understand what you make, where your capabilities fit and how to start a useful conversation. Natton Digital connects industrial websites, B2B marketing and enquiry workflows for manufacturers, suppliers and growing production businesses.",
+    "metaTitle": "Manufacturing & B2B Marketing Services | Natton Digital",
+    "metaDescription": "Make your manufacturing capabilities easier to find with websites, SEO, B2B campaigns and structured RFQ follow-up from Natton Digital.",
+    "keywords": [
+      "manufacturing digital marketing",
+      "industrial marketing services",
+      "B2B marketing for manufacturers",
+      "manufacturing lead generation",
+      "industrial website development",
+      "SEO for manufacturers",
+      "RFQ management workflow",
+      "CRM for manufacturing sales",
+      "marketing for industrial enterprises",
+      "MNC manufacturing sales workflows",
+      "OEM website and RFQ management"
+    ],
+    "audience": [
+      "SME and MSME manufacturers, component suppliers and engineering businesses",
+      "Original equipment manufacturers (OEMs) and product-based industrial companies",
+      "B2B suppliers, distributors and exporters responding to commercial requirements",
+      "Large industrial groups and manufacturing units within multinational companies (MNCs), evaluating a defined marketing, RFQ or sales workflow"
+    ],
+    "needs": [
+      {
+        "title": "Strong capabilities, a weak online explanation",
+        "description": "Buyers need clear products, applications, capabilities and contact routes. A general company brochure may not answer the questions behind a specific sourcing requirement.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Enquiries lack the information to assess fit",
+        "description": "A useful RFQ route can capture the product or application, specifications, quantities, destination and timing that your sales team needs, with an appropriate way to submit documents.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Technical and commercial follow-up lose context",
+        "description": "Define ownership and handovers between business development, technical teams and commercial teams so the next action remains visible.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Marketing reports stop before business relevance",
+        "description": "Review relevant enquiries, accepted RFQs, follow-up and opportunity progress alongside visibility and campaign activity. Volume alone can hide requests your business cannot serve.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "example": {
+      "title": "Illustrative RFQ journey",
+      "description": "A procurement contact asks about a component. The example illustrates enquiry coordination; technical feasibility, pricing and delivery commitments remain with the authorised manufacturer team.",
+      "steps": [
+        "Requirement submitted",
+        "RFQ information captured",
+        "Technical or commercial owner assigned",
+        "Response and follow-up recorded"
+      ],
+      "note": "Illustrative example. No live customer data or business-system connection is used."
+    },
+    "deliverables": [
+      "An agreed buyer, capability and market plan",
+      "Industrial website or capability-page improvements",
+      "SEO and technical content priorities",
+      "Relevant B2B campaign assets and enquiry routes",
+      "A scoped RFQ/CRM workflow and review framework"
+    ],
+    "timing": "We phase the work around access, technical information, subject-expert review and integration requirements. Capability pages and enquiry handling come before dependent campaigns. SEO and B2B opportunity development require continuing review, and their pace varies by market, competition and the buyer's purchasing process.",
+    "faqs": [
+      {
+        "question": "Is this suitable for an MSME manufacturer or an industrial supplier?",
+        "answer": "Yes. A smaller manufacturer may begin with clear capability pages, search visibility and an organised enquiry process. An established supplier or enterprise team may need more detailed content, campaign segmentation and CRM coordination. The scope follows your market, capacity and sales process."
+      },
+      {
+        "question": "How is manufacturing marketing different from ordinary consumer marketing?",
+        "answer": "A business requirement may involve technical evaluators, procurement and commercial stakeholders. We therefore build information around specifications, applications, capabilities and the questions needed to assess a supplier. Channels and content are chosen for your buyers; we do not assume that a broad consumer-style campaign is the right starting point."
+      },
+      {
+        "question": "Will the website manage our inventory, production and ERP?",
+        "answer": "Those are separate operational requirements. This marketing scope can connect enquiry information, notifications and agreed updates where suitable access and integrations exist. Full ERP implementation, stock control, production planning or automated ordering needs dedicated discovery, responsibilities and validation before it is promised."
+      },
+      {
+        "question": "What technical information do we need to provide?",
+        "answer": "Typical inputs include product categories, specifications, applications, manufacturing capabilities, service regions, approved facility imagery and the questions needed for an RFQ. Your team reviews technical claims, certificates and downloadable documents. Confidential customer drawings or sensitive production information should not be published as marketing content."
+      },
+      {
+        "question": "Can you help with export enquiries or specific B2B markets?",
+        "answer": "We can assess a defined market, buyer profile and offer, then plan appropriate pages, content and campaigns. That assessment includes language, logistics and commercial information your team can support. Marketing activity cannot guarantee export orders or remove the need for your own commercial and technical evaluation."
+      },
+      {
+        "question": "How do you judge success and plan ongoing work?",
+        "answer": "We agree what makes an enquiry useful, which RFQs are accepted and which stages the team will record. Reviews connect website and campaign activity with that business context. Media budgets, implementation work, subscriptions and ongoing management are identified separately in the proposal, and the scope can expand when the evidence supports it."
+      }
+    ],
+    "definition": {
+      "title": "What is manufacturing digital marketing?",
+      "body": "Manufacturing digital marketing helps business buyers discover a supplier, understand its capabilities and decide whether to discuss a requirement. Useful websites, technical content, search visibility and selected B2B campaigns support that evaluation. Enquiry and CRM workflows help connect the first request with the people who can qualify it, prepare a response and follow it through. A request for quotation (RFQ) is a buyer’s request for a priced response to a defined requirement."
+    },
+    "services": [
+      {
+        "title": "Industrial websites & capability pages",
+        "description": "Organise products, applications, manufacturing capabilities and enquiry routes so potential buyers can evaluate fit. Publish specifications, facilities and certifications only when accurate and approved.",
+        "icon": "",
+        "linkLabel": "Website development"
+      },
+      {
+        "title": "SEO for products, capabilities & applications",
+        "description": "Build useful pages around what buyers are researching: the product, manufacturing process, application or sourcing requirement. Use clear technical language supplied and reviewed by your subject experts.",
+        "icon": "",
+        "linkLabel": "SEO services"
+      },
+      {
+        "title": "Focused B2B campaigns",
+        "description": "Choose search, LinkedIn or other relevant channels around the buyers and markets you can serve. Match campaigns to an appropriate capability page, enquiry route and follow-up owner.",
+        "icon": "",
+        "linkLabel": "Paid advertising"
+      },
+      {
+        "title": "Technical content & sales-support material",
+        "description": "Turn approved engineering knowledge into application explainers, capability profiles, case material and practical sales assets. Help both technical evaluators and commercial stakeholders understand the offer.",
+        "icon": "",
+        "linkLabel": "Content marketing"
+      },
+      {
+        "title": "RFQ capture & sales coordination",
+        "description": "Create a structured enquiry process with agreed fields, routing and CRM stages. Keep the request, relevant documents, owner and next follow-up connected, with technical requirements reviewed by your team.",
+        "icon": "",
+        "linkLabel": "CRM & AI automation"
+      },
+      {
+        "title": "Scoped business-system connections",
+        "description": "Assess notifications and information updates between the CRM, approved forms and existing business systems. ERP, stock control, production planning and dispatch automation require their own discovery and implementation scope.",
+        "icon": "",
+        "linkLabel": "Workflow automation"
+      }
+    ],
+    "process": [
+      {
+        "title": "Understand the capability and buyer",
+        "description": "Review the products, applications, target accounts, regions and minimum commercial or technical fit. Identify who evaluates the supplier and which questions the current website leaves unanswered.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Build a credible information foundation",
+        "description": "Prepare capability pages, product details, approved imagery and useful enquiry forms. Agree ownership, required RFQ fields, measurement and the material that can be shared publicly.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Create relevant market visibility",
+        "description": "Develop the agreed SEO, content and campaign work around real applications and buyer needs. Select channels according to the market rather than assuming every manufacturer needs the same platform.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Route enquiries to the right people",
+        "description": "Connect the incoming requirement to an owner and the appropriate technical or commercial review. Use reminders and status updates for agreed routine steps, with people responsible for quotations and commitments.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review fit, follow-up and market response",
+        "description": "Review enquiry relevance, RFQ acceptance and recorded opportunity movement with the team. Improve the message, pages and handovers, and expand the scope when a clear business need emerges.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Relevant business enquiries",
+        "description": "Review enquiries that fit your products, capabilities, market and commercial criteria.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Accepted RFQs",
+        "description": "Track requirements the team considers suitable for a technical or commercial response.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Response and follow-up visibility",
+        "description": "Monitor ownership, open actions and response patterns for the enquiries you choose to track.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Opportunity and channel learning",
+        "description": "Review recorded opportunity stages and the channels contributing to useful discussions, with attribution limits made clear.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "scopeNote": "",
+    "photo": "/media/industries/manufacturing.webp",
+    "path": "/industries/manufacturing/",
+    "kind": "industry",
+    "audienceContext": "Business-to-business procurement may involve technical specifications, supplier evaluation and several decision-makers. A manufacturer selling its own direct-to-consumer brand needs a different product and shopping journey. We connect the relevant website, content and commercial enquiry workflow; production control or a full ERP replacement is a separate requirement."
+  },
+  {
+    "slug": "retail-ecommerce",
+    "title": "Retail & Ecommerce",
+    "eyebrow": "FROM DISCOVERY TO THE NEXT ORDER",
+    "headline": "Make every step easier to shop.",
+    "description": "Bring store discovery, ecommerce marketing and customer follow-up into a clearer journey. Natton Digital helps retail businesses connect useful content, shopping experiences and the team behind each order.",
+    "definition": {
+      "title": "What is retail and ecommerce marketing?",
+      "body": "It is the work that helps the right people discover your products, understand what they are buying and take the next step. For a local store, that step may be a call, a message or a visit. For an online brand, it may be a product enquiry or a completed checkout. We build the plan around that distinction instead of treating every shop like the same online business."
+    },
+    "audience": [
+      "Independent retailers, retail SMEs and growing store networks",
+      "Regional, national and multinational retail groups coordinating multiple locations or brands",
+      "Business-to-consumer (B2C) ecommerce and direct-to-consumer (D2C) product brands",
+      "B2B wholesalers and distributors with an online catalogue or trade enquiry journey",
+      "Ecommerce and peer-to-peer (P2P) marketplaces evaluating buyer-and-seller support workflows"
+    ],
+    "needs": [
+      {
+        "title": "People see the products, but cannot find the next step.",
+        "description": "Product information, store details and purchase or enquiry options should help a shopper decide without chasing your team.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Campaigns and the shop experience feel disconnected.",
+        "description": "An attractive advertisement needs a relevant category page, product page or local enquiry journey to lead into.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Customer questions are scattered across channels.",
+        "description": "A message about sizing, availability or an order should reach an owner who can use the appropriate customer context.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "There is plenty of activity, but limited business visibility.",
+        "description": "Separate product discovery, meaningful enquiries, completed orders and repeat-purchase signals so the team can discuss the right next action.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "scopeNote": "Inventory, warehousing, shipping operations, marketplace management and accounting are separate systems or scopes. We assess practical connections; the marketing programme does not replace them by default.",
+    "timing": "A focused review is useful before a store launch, a new collection, a campaign push or a planned website improvement. Existing businesses can begin with the journey that currently breaks down. We agree stages after checking the catalogue, access, content, platform and team capacity; there is no fixed launch or revenue promise for every retailer.",
+    "metaTitle": "Retail & Ecommerce Marketing | Natton Digital",
+    "metaDescription": "Connect retail discovery, ecommerce websites, SEO, campaigns and customer follow-up. A practical marketing plan for stores and growing brands with Natton Digital.",
+    "keywords": {
+      "primary": "retail and ecommerce marketing",
+      "secondary": [
+        "ecommerce SEO services",
+        "digital marketing for retail businesses",
+        "Shopify website development",
+        "WooCommerce marketing",
+        "local SEO for retail stores",
+        "ecommerce customer support automation",
+        "retail CRM automation",
+        "B2B ecommerce enquiry workflows",
+        "D2C brand marketing",
+        "marketplace customer support automation"
+      ],
+      "intent": "Business owners comparing a practical marketing and customer-journey partner; informational explanation plus service enquiry. Keyword themes are qualitative, not volume-verified."
+    },
+    "services": [
+      {
+        "title": "Product-led websites & stores",
+        "description": "Develop or improve a Shopify, WooCommerce or scoped custom storefront around your catalogue, customer questions and buying process. Give categories, product details, store information and contact or checkout routes a clear structure.",
+        "icon": "shop",
+        "linkLabel": ""
+      },
+      {
+        "title": "Retail & ecommerce SEO",
+        "description": "Plan useful category and product content, internal links and technical improvements around how customers search. Assess appropriate product information and structured data. For eligible physical locations, improve accurate Google Business Profile information and local landing pages.",
+        "icon": "search",
+        "linkLabel": ""
+      },
+      {
+        "title": "Campaigns with a relevant destination",
+        "description": "Create search, shopping, social or remarketing campaigns where appropriate to the business and platform. Connect the offer, creative and landing experience; agree the advertising budget, product priorities and measurement before launch.",
+        "icon": "target",
+        "linkLabel": ""
+      },
+      {
+        "title": "Content that helps people choose",
+        "description": "Use product photography, short demonstrations, comparisons and practical buying guides to answer real questions. Keep product claims, prices, stock information and offers approved by your team rather than inventing urgency or unsupported benefits.",
+        "icon": "image",
+        "linkLabel": ""
+      },
+      {
+        "title": "Customer conversations & follow-up",
+        "description": "Route agreed WhatsApp, web chat, email and order-related requests to the right people. Where the commerce platform and permissions allow it, configure checkout follow-up or approved offers. Provide a clear path to a person for questions the automation cannot resolve.",
+        "icon": "chat",
+        "linkLabel": ""
+      },
+      {
+        "title": "A joined-up view of the journey",
+        "description": "Connect agreed website events, campaign data and available store or order information into useful reporting. Separate marketing work from your stock, fulfilment and accounting systems, and scope any required connections before implementation.",
+        "icon": "chart",
+        "linkLabel": ""
+      }
+    ],
+    "process": [
+      {
+        "title": "Understand how you sell",
+        "description": "Review your catalogue, margins, customer groups, locations, sales channels and existing website. Decide whether the immediate goal is store enquiries, online purchases, repeat business or a combination.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Make the buying journey clear",
+        "description": "Prioritise product and category content, navigation, store details, checkout or enquiry steps, and the information customers need before buying. Agree the photography and product data your team will supply.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Connect discovery to the right destination",
+        "description": "Build the relevant SEO, Google Business Profile, content and advertising work around those journeys. Choose channels for the audience and budget rather than launching every channel at once.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Connect the people after the click",
+        "description": "Define who handles product questions, order updates and support. Test the agreed permissions, messages and handovers before introducing customer-facing automation.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review, then improve",
+        "description": "Review measurable enquiries, purchases and follow-up alongside spend, product availability and fulfilment feedback. Use what the business can actually supply and support to decide the next improvement.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Useful discovery",
+        "description": "Relevant search visibility, product-page visits and engagement with important buying information.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Meaningful actions",
+        "description": "Completed purchases where tracked, product enquiries and eligible store-contact actions, reported separately.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Acquisition efficiency",
+        "description": "Campaign spend and cost per agreed action, considered alongside product margins and available attribution.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Customer follow-through",
+        "description": "Available checkout follow-up, repeat-purchase and support-response signals, with the limits of the underlying data made clear.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you help a physical shop that does not sell online?",
+        "answer": "Yes. The goal can be accurate store information, local discovery, product enquiries and a clear route to visit or contact the store. We assess Google Business Profile eligibility and your actual service area or locations. A full ecommerce checkout is only useful when the business is ready to take and fulfil online orders."
+      },
+      {
+        "question": "Do you work with Shopify, WooCommerce and custom websites?",
+        "answer": "The platform is selected or reviewed against your catalogue, checkout needs and existing systems. We can scope development, content and marketing around an agreed platform. Platform subscriptions, extensions, payment charges and custom integrations are identified separately in the proposal; every feature is not assumed to be included."
+      },
+      {
+        "question": "Will automated messages recover every abandoned cart?",
+        "answer": "No. Checkout follow-up depends on the platform, channel, customer details, permissions and the customer’s circumstances. Some incomplete purchases should not receive another message. We first check what is supported and appropriate, then configure the agreed experience. Recovery is an opportunity to measure, not a guaranteed order."
+      },
+      {
+        "question": "Can customers get product and order help on WhatsApp?",
+        "answer": "We can assess a WhatsApp conversation flow for approved questions, request routing and appropriate updates. Your team provides the source information and escalation route. Customer opt-in and current provider policies are considered before outbound messaging. Access to order or stock data needs a separately agreed, supported connection."
+      },
+      {
+        "question": "How will you know whether marketing is helping sales?",
+        "answer": "We agree the actions to measure before launching: for example purchases, product enquiries or contact actions. We review these alongside spend and available order information. Website analytics, ad platforms and offline records do not always tell the same story, so we explain attribution limits rather than treating every tracked action as a confirmed sale."
+      },
+      {
+        "question": "Do we have to use every marketing service?",
+        "answer": "No. A local store may first need an accurate presence and better enquiry handling; an established ecommerce brand may need product-page improvements and a focused acquisition campaign. We recommend a practical starting scope, specify the deliverables and review points, and stay involved as the business learns what needs attention."
+      }
+    ],
+    "example": {
+      "title": "From product discovery to a useful follow-through",
+      "description": "An online order and a store enquiry use different routes. This example is a proposed journey, not a live integration or a client result.",
+      "steps": [
+        "A shopper finds a relevant product",
+        "They buy or ask a product question",
+        "The order or request reaches the right system and owner",
+        "The team completes the agreed follow-up"
+      ],
+      "note": "An online order and a store enquiry use different routes. This example is a proposed journey, not a live integration or a client result."
+    },
+    "deliverables": [
+      "A store or ecommerce customer-journey plan",
+      "Product and storefront content priorities",
+      "Selected campaigns and platform-specific enquiry routes",
+      "Scoped order or checkout follow-up where supported",
+      "A review plan separating purchases from enquiries"
+    ],
+    "photo": "/media/industries/retail-ecommerce.webp",
+    "path": "/industries/retail-ecommerce/",
+    "kind": "industry",
+    "audienceContext": "A shopper’s checkout, a trade buyer’s quote request and a marketplace support case need different information and next steps. We connect the relevant storefront, marketing and customer workflow. Inventory, order systems, permissions and any AI-assisted tasks are reviewed against the actual platform and team responsibilities."
+  },
+  {
+    "slug": "professional-services",
+    "title": "Professional Services",
+    "eyebrow": "EXPERTISE PEOPLE CAN UNDERSTAND",
+    "headline": "Make your expertise easier to choose.",
+    "description": "Bring a clear service story, useful content and organised enquiry follow-up together. Natton Digital helps professional-services businesses explain their value and connect prospective clients with the right next conversation.",
+    "definition": {
+      "title": "What is professional-services marketing?",
+      "body": "It is the work of making your expertise, services and working approach clear to the people who need them. For consultants, agencies and other service firms, a useful website and thoughtful content can support an enquiry before a direct conversation begins. The strategy should fit the firm’s audience, decision process and any professional rules that apply."
+    },
+    "audience": [
+      "Owner-led professional-services SMEs, MSMEs and growing advisory firms",
+      "B2B consultancies, agencies, IT-services companies and specialist service-based businesses",
+      "B2C professional practices helping individuals understand an appropriate service",
+      "Large service organisations, multi-office firms and multinational business units evaluating a focused client workflow",
+      "Business-development and operations teams coordinating proposals, onboarding and client communication"
+    ],
+    "needs": [
+      {
+        "title": "The expertise is strong, but the offer is difficult to understand.",
+        "description": "Prospective clients need to know who you help, which problems you address and what an appropriate first engagement looks like.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "The website says a lot without answering the buyer’s questions.",
+        "description": "Clear service pages, relevant examples and an explanation of your process can help a visitor decide whether to enquire.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "New enquiries depend on one person remembering everything.",
+        "description": "Introduce a practical record of the request, its owner and the next step so an interested prospect receives a coherent response.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Marketing and delivery are disconnected.",
+        "description": "Use the questions, objections and learning from the team to improve the content and the handover into proposals or onboarding.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "scopeNote": "Marketing and operational coordination support the firm’s team. They do not replace professional judgement, a legal review, regulated advice, accounting work or approval of client commitments.",
+    "timing": "A review can help when a firm introduces a service, changes its positioning, enters a relevant market or finds that enquiries are poorly matched or inconsistently handled. We agree stages after reviewing the existing website, source material, approvals and business process. The plan follows the buying cycle; there is no universal lead target or fixed result date.",
+    "metaTitle": "Professional Services Marketing | Natton Digital",
+    "metaDescription": "Make expertise easier to understand with professional-services websites, SEO, content and organised enquiry follow-up. Build a practical plan with Natton Digital.",
+    "keywords": {
+      "primary": "professional services marketing",
+      "secondary": [
+        "digital marketing for professional services",
+        "consulting firm website development",
+        "B2B services SEO",
+        "marketing for consultants",
+        "professional services lead management",
+        "CRM for consulting businesses",
+        "client onboarding automation",
+        "marketing for B2B service companies",
+        "enterprise client onboarding workflows"
+      ],
+      "intent": "Owners and business-development teams evaluating a marketing and enquiry-coordination partner. Themes are qualitative, not search-volume claims."
+    },
+    "services": [
+      {
+        "title": "A website built around your expertise",
+        "description": "Organise service pages, audience information, team credentials and contact routes around the questions buyers ask. Explain the scope and working approach in plain language, using only substantiated claims and permitted evidence.",
+        "icon": "briefcase",
+        "linkLabel": ""
+      },
+      {
+        "title": "SEO for relevant service enquiries",
+        "description": "Research the topics, service terms and locations that fit your actual practice. Develop useful service and insight pages, internal links and technical improvements. Assess local-profile eligibility where the business meets customers in person.",
+        "icon": "search",
+        "linkLabel": ""
+      },
+      {
+        "title": "Thoughtful content & professional visibility",
+        "description": "Turn approved expertise into articles, explainers, case material and social content that answers buyer questions. Select channels such as LinkedIn where the audience is relevant and the proposed communication is permitted for the profession.",
+        "icon": "document",
+        "linkLabel": ""
+      },
+      {
+        "title": "Focused campaigns where appropriate",
+        "description": "Assess paid search or professional-audience campaigns against the offer, buying process, budget and applicable rules. Connect each campaign to a relevant page and enquiry route. Regulated professions require their own review before promotional activity is approved.",
+        "icon": "target",
+        "linkLabel": ""
+      },
+      {
+        "title": "Enquiries, appointments & CRM follow-up",
+        "description": "Define how an enquiry is captured, assigned and prepared for a consultation or discovery call. Configure agreed CRM records, reminders and handovers so the team has the context for a useful conversation.",
+        "icon": "customers",
+        "linkLabel": ""
+      },
+      {
+        "title": "Proposal & onboarding coordination",
+        "description": "Connect approved templates, task assignments and status updates around your existing process. AI can assist with a draft or a summary where suitable; the firm reviews scope, fees and commitments. Invoice-event notifications can be assessed without presenting the workflow as an accounting system.",
+        "icon": "workflow",
+        "linkLabel": ""
+      }
+    ],
+    "process": [
+      {
+        "title": "Understand the firm and its buyers",
+        "description": "Review the services, ideal client situations, decision makers, enquiry sources and delivery capacity. Identify the approvals and professional restrictions that influence public content and outreach.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Clarify the offer and its evidence",
+        "description": "Agree how to describe the service, scope and working approach. Prepare relevant credentials, approved examples and answers to recurring questions. Confidential or restricted client information stays out of public material.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Build the right discovery routes",
+        "description": "Improve the website and selected search or content channels around that offer. Consider campaigns only where the channel, budget and professional rules support the proposed activity.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Connect the enquiry to a useful conversation",
+        "description": "Agree the information to request, the person responsible and the response path. Test records, appointment requests and handovers before introducing automated follow-up.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review the quality of the journey",
+        "description": "Review relevant enquiries, qualified conversations and available proposal-stage information with the team. Improve content, qualification and ownership as patterns emerge; do not optimise only for a larger number of unqualified form fills.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Relevant visibility",
+        "description": "Search visibility and engagement with the services and topics the firm actually wants to be considered for.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Enquiry relevance",
+        "description": "Enquiries assessed against the agreed client situation, service need, geography and scope.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Conversation & proposal progress",
+        "description": "Available appointment, qualified conversation and proposal-stage signals, with sales-cycle context.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Response & handover quality",
+        "description": "Who owns each request, which follow-up is due and where prospective clients need clearer information.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which professional-services businesses is this relevant to?",
+        "answer": "It can be relevant to consultancies, agencies, advisory businesses and specialist service firms whose clients need to understand expertise before making an enquiry. We assess the audience and buying process first. Accountancy, legal and other regulated practices need a profession-specific content and promotion review rather than a generic campaign package."
+      },
+      {
+        "question": "Can you help us explain a complex service clearly?",
+        "answer": "Yes. We work with your subject experts to organise the service around the client’s situation, the questions they ask and the scope you can deliver. You approve the technical and professional substance. The aim is a useful explanation and a clear next conversation, with appropriate detail available for buyers who need it."
+      },
+      {
+        "question": "Will you use our clients, testimonials and case studies in marketing?",
+        "answer": "Only when the evidence is genuine, the business has permission and the intended use is appropriate for its profession. Some practices have restrictions on these formats. We can also use anonymised process explanations or clearly labelled illustrative examples where suitable, without inventing results, endorsements or client relationships."
+      },
+      {
+        "question": "Do we need paid advertising or can we start with the website and content?",
+        "answer": "The starting scope depends on your audience, existing visibility, offer and business priorities. A clearer website and useful content may be the first priority. Paid campaigns are considered separately for relevance, budget and applicable professional restrictions. No channel is mandatory simply because it is available."
+      },
+      {
+        "question": "Can AI automatically prepare proposals and quote our fees?",
+        "answer": "AI may support an approved draft or summary within a defined workflow. A responsible person should review the proposed work, fees, exclusions and commitments before anything is shared with a prospective client. We scope the sources, permissions and approval steps; we do not present autonomous quoting as a default capability."
+      },
+      {
+        "question": "How do you measure success for a long sales cycle?",
+        "answer": "We agree useful intermediate signals such as relevant enquiries, qualified conversations, response ownership and available proposal progress. Those are reviewed with the firm’s sales context and eventual outcomes where the data is available. Marketing attribution is explained with its limits, and no enquiry count is treated as a guaranteed client engagement."
+      }
+    ],
+    "example": {
+      "title": "From useful expertise to a relevant conversation",
+      "description": "The firm retains responsibility for advice, professional judgement, approvals and client commitments. This is an illustrative coordination flow, not a claim of a live deployment.",
+      "steps": [
+        "A buyer reads a relevant service page",
+        "They send an enquiry with useful context",
+        "The appropriate team member reviews and responds",
+        "An agreed proposal or onboarding step is recorded"
+      ],
+      "note": "The firm retains responsibility for advice, professional judgement, approvals and client commitments. This is an illustrative coordination flow, not a claim of a live deployment."
+    },
+    "deliverables": [
+      "A clear service, audience and positioning plan",
+      "Approved expert-led pages and content priorities",
+      "Appropriate promotion and enquiry routes",
+      "An enquiry review, appointment or onboarding workflow",
+      "A review plan around relevance and recorded next steps"
+    ],
+    "photo": "/media/industries/professional-services.webp",
+    "path": "/industries/professional-services/",
+    "kind": "industry",
+    "audienceContext": "An enterprise buyer reviewing a proposal and an individual booking a professional consultation need different proof, information and handovers. We connect the relevant service pages, content and client workflow. CRM, automation or an AI-assisted task is considered where it supports that process and the firm can review the output."
+  }
+]

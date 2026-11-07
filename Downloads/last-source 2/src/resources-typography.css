@@ -1,0 +1,13 @@
+/* Readability changes apply only to Resources pages, including their forms. */
+.site-main[data-resource-page=true]{font-size:16px;line-height:1.75}
+.site-main[data-resource-page=true] h1{font-size:clamp(42px,5.2vw,76px)!important;line-height:1.12!important}
+.site-main[data-resource-page=true] h2{font-size:clamp(30px,3.4vw,44px)!important;line-height:1.25!important}
+.site-main[data-resource-page=true] h3{font-size:clamp(21px,2vw,27px)!important;line-height:1.35!important}
+.site-main[data-resource-page=true] :is(p,li){font-size:16px!important;line-height:1.8!important}
+.site-main[data-resource-page=true] :is(label,legend){font-size:16px!important;line-height:1.6!important;font-weight:600}
+.site-main[data-resource-page=true] :is(input:not([type=checkbox]):not([type=radio]),select,textarea){font-size:16px!important;line-height:1.6!important}
+.site-main[data-resource-page=true] :is(.ng-hero p,.ng-tool-card p,.ng-workbench-heading p,.ng-lead p,.ng-related p,.ng-plan p,.ng-methodology ul,.ng-notice,.nj-card-copy p){font-size:16px!important;line-height:1.8!important}
+.site-main[data-resource-page=true] :is(.ng-primary,.ng-secondary,.ng-text,.ng-calculator-tabs button,.ng-hub-nav a,.ng-progress small,.ng-check,.ng-input-grid label small){font-size:14px!important;line-height:1.6!important}
+.site-main[data-resource-page=true] :is(.ng-eyebrow,.ng-category,.nj-kicker){font-size:12px!important}
+.site-main[data-resource-page=true] .ng-check input{margin-top:5px;min-width:18px;min-height:18px}
+@media(max-width:650px){.site-main[data-resource-page=true] h1{font-size:42px!important}.site-main[data-resource-page=true] :is(p,li,label,input,textarea,select){overflow-wrap:anywhere}.site-main[data-resource-page=true] .ng-progress{grid-template-columns:repeat(2,minmax(0,1fr))}}

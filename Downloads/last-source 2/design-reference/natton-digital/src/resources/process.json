@@ -1,0 +1,80 @@
+[
+  {
+    "id": "discover",
+    "title": "Understand your business",
+    "short": "Discover",
+    "description": "We start with a conversation about your business, your customers and what is slowing you down.",
+    "activities": [
+      "Listen to your goals and challenges",
+      "Review your website, marketing and everyday tools",
+      "Choose the problem to solve first"
+    ],
+    "deliverable": "A clear summary of your priorities.",
+    "input": "Your goals, current challenges and access to relevant information."
+  },
+  {
+    "id": "strategize",
+    "title": "Make a practical plan",
+    "short": "Plan",
+    "description": "Together, we decide what to work on, what success looks like and what fits your budget.",
+    "activities": [
+      "Agree the work and the tools needed",
+      "Set responsibilities and a realistic schedule",
+      "Confirm costs and how progress will be measured"
+    ],
+    "deliverable": "An agreed scope, schedule and cost breakdown.",
+    "input": "Feedback on the plan and approval before work begins."
+  },
+  {
+    "id": "build",
+    "title": "Build what you need",
+    "short": "Build",
+    "description": "We create or improve the website, campaigns and customer tools included in your plan.",
+    "activities": [
+      "Build the agreed pages and campaigns",
+      "Set up customer records and enquiry forms",
+      "Share work for your review"
+    ],
+    "deliverable": "Working pages, campaigns or tools ready for testing.",
+    "input": "Brand materials, business information and feedback on drafts."
+  },
+  {
+    "id": "automate",
+    "title": "Connect and test",
+    "short": "Connect",
+    "description": "We connect the agreed tools so information reaches the right people and follow-ups are easier to manage.",
+    "activities": [
+      "Connect forms, customer records and communication channels",
+      "Set up agreed reminders and handovers",
+      "Test real situations before launch"
+    ],
+    "deliverable": "Tested connections and a clear follow-up process.",
+    "input": "Approved account access and a team member to test the setup."
+  },
+  {
+    "id": "optimize",
+    "title": "Launch and improve",
+    "short": "Improve",
+    "description": "Once the work is live, we review the available results and agree what needs attention.",
+    "activities": [
+      "Launch after the agreed checks and approval",
+      "Review enquiries, customer actions or workflow results",
+      "Make improvements within the agreed scope"
+    ],
+    "deliverable": "A progress review and a prioritised list of improvements.",
+    "input": "Feedback from your team and access to agreed reporting."
+  },
+  {
+    "id": "scale",
+    "title": "Choose the next step",
+    "short": "Grow",
+    "description": "We use what we have learned to decide whether to expand, improve the current setup or keep it steady.",
+    "activities": [
+      "Review what is working and what needs support",
+      "Explain the setup and hand over useful documentation",
+      "Agree any ongoing support or additional work"
+    ],
+    "deliverable": "A handover and a clear plan for what comes next.",
+    "input": "Your priorities for the next stage."
+  }
+]

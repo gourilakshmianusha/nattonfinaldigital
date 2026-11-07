@@ -1,0 +1,154 @@
+/* Approved fine-rim treatment. Scoped for embedding alongside the host website. */
+.page-shell.premium-theme {
+  --rim: #b9866280;
+  --rim-inner: #c3a28345;
+  --rim-highlight: #fffaf0d9;
+  --rim-shadow: #583b2420;
+  --frame-line: #aa7a512e;
+  --card-surface: linear-gradient(135deg, #fcf5eace, #eee1cfc7);
+  --feature-surface: radial-gradient(ellipse at 8% 0%, #86543b 0%, transparent 70%), linear-gradient(145deg, #714732, #482e25 80%);
+}
+.page-shell.premium-theme.industry-theme {
+  --rim: #68876b75;
+  --rim-inner: #8fa17b42;
+  --rim-highlight: #fffff4e6;
+  --rim-shadow: #1a3d2b18;
+  --frame-line: #68876b35;
+  --card-surface: linear-gradient(135deg, #fffff5db, #e7ead9bf);
+  --feature-surface: radial-gradient(ellipse at 8% 0%, #42644a 0%, transparent 70%), linear-gradient(145deg, #284c38, #193e32 80%);
+}
+
+/* The bright inner line is deliberately hairline thin, with a short shadow. */
+.page-shell.premium-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card) {
+  border: 1px solid var(--rim);
+  border-radius: 17px;
+  background: var(--card-surface);
+  box-shadow: inset 0 0 0 1px var(--rim-highlight), inset 0 0 0 4px #ffffff0a,
+    inset 0 0 0 5px var(--rim-inner), 0 3px 5px var(--rim-shadow), 0 12px 22px #34251105;
+}
+.page-shell.premium-theme :is(.need-card, .capability-tile, .delivery-card, .goal-plan) {
+  backdrop-filter: blur(8px);
+}
+.page-shell.premium-theme :is(.need-0, .capability-tile-0) {
+  color: #fff2df;
+  border-color: #c47f4c;
+  background: var(--feature-surface);
+  box-shadow: inset 0 0 0 1px #ffedc9c2, inset 0 0 0 4px #ffffff03,
+    inset 0 0 0 5px #ce9c7073, 0 3px 6px #482e2533, 0 12px 25px #482e2512;
+}
+.page-shell.premium-theme.industry-theme .need-0 {
+  border-color: #83986a;
+  box-shadow: inset 0 0 0 1px #eff4d7be, inset 0 0 0 4px #ffffff03,
+    inset 0 0 0 5px #a3b58a66, 0 3px 6px #193e3230, 0 12px 25px #193e3210;
+}
+.page-shell.premium-theme :is(.need-0, .capability-tile-0) p { color: #f4e7d5; }
+.page-shell.premium-theme .capability-tile-0 .capability-icon {
+  color: #f9dfb7;
+  background: #fff5e610;
+  border-color: #f4d6aa6b;
+  box-shadow: inset 0 0 0 1px #fff4d912;
+}
+.page-shell.premium-theme .capability-tile-0:before { border-color: #efd0a1; opacity: .2; }
+.page-shell.premium-theme .capability-tile-0 .service-visual { color: var(--ink); }
+.page-shell.premium-theme .capability-tile-0 .service-visual p { color: var(--muted); }
+.page-shell.premium-theme .capability-tile-5 {
+  background: linear-gradient(135deg, #e7e4cfeb, #d5d4bcbf);
+}
+
+/* Selected sections get a quiet, continuous architectural outline. */
+.page-shell.premium-theme :is(.needs-section, .capabilities-section) > .container:before {
+  content: '';
+  position: absolute;
+  inset: -32px -28px;
+  z-index: -1;
+  pointer-events: none;
+  border: 1px solid var(--frame-line);
+  border-radius: 26px;
+  background: linear-gradient(135deg, #fffdf51a, #ffffff00 65%);
+  box-shadow: inset 0 0 0 1px #fffcf338;
+}
+
+/* A single fine frame around each interactive workspace, without extra chrome. */
+.page-shell.premium-theme :is(.service-explorer, .journey-demo, .agent-demo, .creative-demo, .compare-widget, .video-frame) {
+  border: 1px solid var(--rim);
+  border-radius: 17px;
+  box-shadow: inset 0 0 0 1px var(--rim-highlight), 0 3px 6px var(--rim-shadow), 0 14px 25px #34251106;
+}
+.page-shell.premium-theme :is(.service-visual, .handover-tile, .tool-tile, .product-hero-figure figcaption) {
+  border: 1px solid var(--rim-inner);
+  box-shadow: inset 0 0 0 1px var(--rim-highlight), 0 3px 7px var(--rim-shadow);
+}
+.page-shell.premium-theme .service-options {
+  background: linear-gradient(135deg, #f2f3e6, #e1e7d5);
+  padding: 18px;
+}
+.page-shell.premium-theme .service-options button {
+  border-radius: 11px;
+  border-color: var(--rim-inner);
+  background: #fffff63d;
+  box-shadow: inset 0 0 0 1px #fffff457;
+}
+.page-shell.premium-theme .service-options button[aria-selected=true] {
+  background: var(--feature-surface);
+  border-color: #7d9569;
+  color: #f8f5e8;
+  box-shadow: inset 0 0 0 1px #d9e3bd99, inset 0 0 0 4px #ffffff00,
+    inset 0 0 0 5px #a3b58a42, 0 3px 6px #193e3226;
+}
+.page-shell.premium-theme .journey-track button[aria-selected=true],
+.page-shell.premium-theme .goal-options button[aria-pressed=true] {
+  background: var(--feature-surface);
+  box-shadow: inset 0 0 0 1px #ead8b257, inset 0 0 0 4px #ffffff00, inset 0 0 0 5px #ead8b21a;
+}
+.page-shell.premium-theme .goal-options button { border-radius: 10px; }
+.page-shell.premium-theme .industry-photo:before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  border: 1px solid #68876b8a;
+  border-radius: inherit;
+  box-shadow: inset 0 0 0 1px #fffef4b8, inset 0 0 0 5px #ffffff0a, inset 0 0 0 6px #e8eddb66;
+}
+
+/* Refined outlines keep the existing travelling-dot sequence in charge. */
+.page-shell.premium-theme .flow-step {
+  border-color: #d7c5aa52;
+  box-shadow: inset 0 0 0 1px #ffffff07, inset 0 0 0 4px #ffffff00, inset 0 0 0 5px #ffffff05;
+}
+.page-shell.premium-theme .flow-step[aria-selected=true] {
+  border-color: #c08c59;
+  box-shadow: inset 0 0 0 1px #fffae5e8, inset 0 0 0 4px #ffffff00,
+    inset 0 0 0 5px #a97d4e66, 0 8px 16px #1b0e0a26;
+}
+.page-shell.premium-theme.industry-theme .flow-step[aria-selected=true] {
+  border-color: #8aa16d;
+  box-shadow: inset 0 0 0 1px #ffffe6eb, inset 0 0 0 4px #ffffff00,
+    inset 0 0 0 5px #7a936252, 0 8px 16px #061c1426;
+}
+.page-shell.premium-theme .animated-process .motion-process-panel {
+  border-color: #e6d8bd4a;
+  box-shadow: inset 0 0 0 1px #fff9e30d, inset 0 0 0 4px #ffffff00, inset 0 0 0 5px #fff9e308;
+  border-radius: 17px;
+}
+.page-shell.premium-theme.industry-theme .animated-process .motion-process-panel { border-color: #c5d2a145; }
+.page-shell.premium-theme .process-detail-art { box-shadow: inset 0 0 0 1px #fff9e308; }
+
+@media (hover: hover) {
+  .page-shell.premium-theme :is(.related-card, .directory-card):hover {
+    border-color: var(--accent);
+    box-shadow: inset 0 0 0 1px var(--rim-highlight), inset 0 0 0 5px var(--rim-inner), 0 6px 13px var(--rim-shadow);
+  }
+}
+@media (max-width: 900px) {
+  .page-shell.premium-theme :is(.needs-section, .capabilities-section) > .container:before { inset: -28px -20px; border-radius: 22px; }
+}
+@media (max-width: 650px) {
+  .page-shell.premium-theme :is(.needs-section, .capabilities-section) > .container:before { inset: -24px -10px; border-radius: 19px; }
+  .page-shell.premium-theme .service-options { padding: 12px; }
+  .page-shell.premium-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card) { border-radius: 15px; }
+}
+@media (prefers-contrast: more) {
+  .page-shell.premium-theme { --rim: var(--accent); --rim-inner: transparent; --frame-line: var(--accent); }
+}

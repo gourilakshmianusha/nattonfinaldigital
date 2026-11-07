@@ -1,0 +1,3 @@
+/* Document setup for the standalone review site. Omit when embedding. */
+html{scroll-behavior:smooth;scroll-padding-top:25px;background:#eee5d7}body{margin:0}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

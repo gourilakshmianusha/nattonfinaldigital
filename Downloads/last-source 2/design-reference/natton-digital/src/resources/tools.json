@@ -1,0 +1,1619 @@
+{
+  "tools": [
+    {
+      "id": "ai_readiness",
+      "title": "AI Readiness Assessment",
+      "description": "Understand your data, processes, skills, governance and practical AI opportunities.",
+      "category": "AI & Automation",
+      "fields": [
+        {
+          "key": "industry",
+          "label": "Industry",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "key": "staff",
+          "label": "Staff count",
+          "type": "number",
+          "default": 1,
+          "min": 1,
+          "max": 100000,
+          "step": 1
+        },
+        {
+          "key": "existingTools",
+          "label": "Existing business tools",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "key": "businessGoals",
+          "label": "Your business goals",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "key": "data_quality",
+          "label": "How complete and reliable is your business data?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 1,
+          "domain": "Data"
+        },
+        {
+          "key": "data_access",
+          "label": "Can authorised staff find and use the data they need?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 1,
+          "domain": "Data"
+        },
+        {
+          "key": "process_documented",
+          "label": "Are repeatable processes documented?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 2,
+          "domain": "Process"
+        },
+        {
+          "key": "automation_adoption",
+          "label": "Are automations measured and maintained?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 2,
+          "domain": "Process"
+        },
+        {
+          "key": "team_skills",
+          "label": "Can your team evaluate and use AI tools safely?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 3,
+          "domain": "Skills"
+        },
+        {
+          "key": "training",
+          "label": "Does the team have time and support for AI training?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 3,
+          "domain": "Skills"
+        },
+        {
+          "key": "privacy",
+          "label": "Do you have data privacy and access controls?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 4,
+          "domain": "Governance"
+        },
+        {
+          "key": "accountability",
+          "label": "Is someone accountable for reviewing AI outputs?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 4,
+          "domain": "Governance"
+        },
+        {
+          "key": "goals",
+          "label": "Are your use cases tied to measurable business goals?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 4,
+          "domain": "Use Cases"
+        },
+        {
+          "key": "measurement",
+          "label": "Can you measure the costs and outcomes of a pilot?",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "stage": 4,
+          "domain": "Use Cases"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "self_reported_estimate",
+      "hub": "free",
+      "featured": true
+    },
+    {
+      "id": "website_grader",
+      "title": "Website Grader",
+      "description": "Measure a public page with Google Lighthouse laboratory diagnostics.",
+      "category": "Website & SEO",
+      "fields": [
+        {
+          "key": "url",
+          "label": "Public website URL",
+          "type": "url",
+          "default": "https://example.com"
+        },
+        {
+          "key": "device",
+          "label": "Device",
+          "type": "select",
+          "options": [
+            "mobile",
+            "desktop"
+          ],
+          "default": "mobile"
+        },
+        {
+          "key": "language",
+          "label": "Report language",
+          "type": "select",
+          "options": [
+            "en",
+            "hi"
+          ],
+          "default": "en"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "api_observed",
+      "hub": "free",
+      "provider": "pagespeed",
+      "featured": true
+    },
+    {
+      "id": "seo_aeo_audit",
+      "title": "SEO + AEO Audit",
+      "description": "Automatically discover public website pages and review SEO and answer-oriented content structure.",
+      "category": "Website & SEO",
+      "fields": [
+        {
+          "key": "url",
+          "label": "Public website URL",
+          "type": "url",
+          "default": "https://example.com"
+        },
+        {
+          "key": "phrase",
+          "label": "Target phrase (optional)",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "key": "locale",
+          "label": "Market / locale (context only)",
+          "type": "text",
+          "default": "India"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "site_heuristic",
+      "hub": "free",
+      "featured": true
+    },
+    {
+      "id": "crm_score",
+      "title": "CRM Maturity Score",
+      "description": "Assess the practices behind a healthier sales pipeline.",
+      "category": "CRM & Sales",
+      "fields": [
+        {
+          "key": "crmProvider",
+          "label": "CRM provider",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "key": "leads",
+          "label": "Monthly leads",
+          "type": "number",
+          "default": 100,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "teamSize",
+          "label": "Sales team size",
+          "type": "number",
+          "default": 1,
+          "min": 1,
+          "max": 100000,
+          "step": 1
+        },
+        {
+          "key": "assignment",
+          "label": "Lead assignment",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "domain": "assignment"
+        },
+        {
+          "key": "followup",
+          "label": "Follow-up discipline",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "domain": "followup"
+        },
+        {
+          "key": "pipeline",
+          "label": "Pipeline stages and stage ageing",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "domain": "pipeline"
+        },
+        {
+          "key": "completeness",
+          "label": "Data completeness",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "domain": "completeness"
+        },
+        {
+          "key": "automation",
+          "label": "Automation rules",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "domain": "automation"
+        },
+        {
+          "key": "reporting",
+          "label": "Reporting and improvement",
+          "type": "select",
+          "options": [
+            "unanswered",
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "na"
+          ],
+          "default": "unanswered",
+          "domain": "reporting"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "self_reported_estimate",
+      "hub": "free"
+    },
+    {
+      "id": "roi_calculator",
+      "title": "Business ROI Calculator",
+      "description": "Compare contribution, costs and cash flow across three editable scenarios.",
+      "category": "Financial Planning",
+      "fields": [
+        {
+          "key": "leads",
+          "label": "Leads per month",
+          "type": "number",
+          "default": 100,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "conversion",
+          "label": "Current conversion (%)",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "targetConversion",
+          "label": "Scenario conversion (%)",
+          "type": "number",
+          "default": 6,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "saleValue",
+          "label": "Average sale value",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "margin",
+          "label": "Gross margin (%)",
+          "type": "number",
+          "default": 40,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "laborSavings",
+          "label": "Monthly labour savings",
+          "type": "number",
+          "default": 0,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "operatingCosts",
+          "label": "Monthly additional operating cost",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup cost",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "leadChange",
+          "label": "Scenario lead change (%)",
+          "type": "number",
+          "default": 0,
+          "min": -100,
+          "max": 1000,
+          "step": "any"
+        },
+        {
+          "key": "pessimisticChange",
+          "label": "Pessimistic change to scenario conversion (percentage points)",
+          "type": "number",
+          "default": -1,
+          "min": -100,
+          "max": 0,
+          "step": "any"
+        },
+        {
+          "key": "optimisticChange",
+          "label": "Optimistic change to scenario conversion (percentage points)",
+          "type": "number",
+          "default": 1,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "free"
+    },
+    {
+      "id": "whatsapp_roi",
+      "title": "WhatsApp Automation ROI",
+      "description": "Model messaging costs and contribution using your own conversion assumptions.",
+      "category": "Marketing Growth",
+      "fields": [
+        {
+          "key": "leads",
+          "label": "Leads per month",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "conversion",
+          "label": "Baseline conversion (%)",
+          "type": "number",
+          "default": 3,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "targetConversion",
+          "label": "Scenario conversion (%)",
+          "type": "number",
+          "default": 4,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "saleValue",
+          "label": "Average order value",
+          "type": "number",
+          "default": 2000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "margin",
+          "label": "Gross margin (%)",
+          "type": "number",
+          "default": 35,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "messages",
+          "label": "Messages per month",
+          "type": "number",
+          "default": 1500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "messageCost",
+          "label": "Provider cost per message",
+          "type": "number",
+          "default": 0.5,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "platformCost",
+          "label": "Monthly platform fee",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "oversightCost",
+          "label": "Monthly human oversight cost",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup cost",
+          "type": "number",
+          "default": 3000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "both"
+    },
+    {
+      "id": "ai_agent_cost",
+      "title": "AI Agent Cost Calculator",
+      "description": "Compare manual and hybrid task costs over one, three and five years.",
+      "category": "AI & Automation",
+      "fields": [
+        {
+          "key": "tasks",
+          "label": "Tasks per cycle",
+          "type": "number",
+          "default": 100,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "cycles",
+          "label": "Cycles per month",
+          "type": "number",
+          "default": 20,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "minutes",
+          "label": "Manual minutes per task",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 10080,
+          "step": "any"
+        },
+        {
+          "key": "hourlyCost",
+          "label": "Loaded labour cost / hour",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "success",
+          "label": "Automation success (%)",
+          "type": "number",
+          "default": 80,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "reviewMinutes",
+          "label": "Review minutes per automated task",
+          "type": "number",
+          "default": 1,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "modelCost",
+          "label": "Model usage cost per attempted task",
+          "type": "number",
+          "default": 0.5,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "softwareCost",
+          "label": "Monthly licences",
+          "type": "number",
+          "default": 2000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "infrastructureCost",
+          "label": "Monthly infrastructure",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "maintenanceCost",
+          "label": "Monthly maintenance",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup cost",
+          "type": "number",
+          "default": 15000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "free"
+    },
+    {
+      "id": "lead_value",
+      "title": "Lead Value Calculator",
+      "description": "Find contribution per lead and acquisition break-even without invented LTV multipliers.",
+      "category": "CRM & Sales",
+      "fields": [
+        {
+          "key": "leads",
+          "label": "Leads",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "conversion",
+          "label": "Conversion (%)",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "saleValue",
+          "label": "Average order value",
+          "type": "number",
+          "default": 2000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "margin",
+          "label": "Gross margin (%)",
+          "type": "number",
+          "default": 40,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "refund",
+          "label": "Refund rate (%)",
+          "type": "number",
+          "default": 0,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "acquisitionCost",
+          "label": "Acquisition spend",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "repeatOrders",
+          "label": "Expected additional orders per retained customer",
+          "type": "number",
+          "default": 0,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "retention",
+          "label": "Retention probability (%)",
+          "type": "number",
+          "default": 0,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "free"
+    },
+    {
+      "id": "marketing_budget",
+      "title": "Marketing Budget Calculator",
+      "description": "Allocate your budget and forecast only where you have historical channel data.",
+      "category": "Marketing Growth",
+      "fields": [
+        {
+          "key": "revenue",
+          "label": "Monthly revenue",
+          "type": "number",
+          "default": 100000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "budget",
+          "label": "Monthly marketing budget",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "budgetCap",
+          "label": "Maximum monthly spend",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "objective",
+          "label": "Business objective",
+          "type": "text",
+          "default": "Generate qualified enquiries"
+        },
+        {
+          "key": "desiredLeads",
+          "label": "Desired monthly leads",
+          "type": "number",
+          "default": 0,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "channels",
+          "label": "Channel allocation and historical data",
+          "type": "channels",
+          "default": [
+            {
+              "name": "SEO",
+              "weight": 25,
+              "cpl": null,
+              "conversion": null,
+              "contribution": null
+            },
+            {
+              "name": "Paid Search",
+              "weight": 25,
+              "cpl": null,
+              "conversion": null,
+              "contribution": null
+            },
+            {
+              "name": "Social Media",
+              "weight": 20,
+              "cpl": null,
+              "conversion": null,
+              "contribution": null
+            },
+            {
+              "name": "Email",
+              "weight": 10,
+              "cpl": null,
+              "conversion": null,
+              "contribution": null
+            },
+            {
+              "name": "CRM/Automation",
+              "weight": 10,
+              "cpl": null,
+              "conversion": null,
+              "contribution": null
+            },
+            {
+              "name": "Other",
+              "weight": 10,
+              "cpl": null,
+              "conversion": null,
+              "contribution": null
+            }
+          ],
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "free"
+    },
+    {
+      "id": "revenue_growth",
+      "title": "Revenue Growth",
+      "description": "Compare deal contribution at current and target close rates.",
+      "category": "Financial Planning",
+      "fields": [
+        {
+          "key": "leads",
+          "label": "Leads per month",
+          "type": "number",
+          "default": 100,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "conversion",
+          "label": "Current conversion (%)",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "targetConversion",
+          "label": "Scenario conversion (%)",
+          "type": "number",
+          "default": 6,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "saleValue",
+          "label": "Average sale value",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "margin",
+          "label": "Gross margin (%)",
+          "type": "number",
+          "default": 40,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup cost",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "acquisitionCost",
+          "label": "Additional monthly acquisition cost",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "roi"
+    },
+    {
+      "id": "marketing_roi",
+      "title": "Marketing ROI",
+      "description": "Separate return on ad spend from margin-based marketing return.",
+      "category": "Marketing Growth",
+      "fields": [
+        {
+          "key": "spend",
+          "label": "Campaign spend",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "leads",
+          "label": "Attributable leads",
+          "type": "number",
+          "default": 200,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "sales",
+          "label": "Attributed sales",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "saleValue",
+          "label": "Average sale value",
+          "type": "number",
+          "default": 2000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "margin",
+          "label": "Gross margin (%)",
+          "type": "number",
+          "default": 40,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "roi"
+    },
+    {
+      "id": "automation_savings",
+      "title": "Automation Savings",
+      "description": "Estimate recovered task hours after human review and operating costs.",
+      "category": "AI & Automation",
+      "fields": [
+        {
+          "key": "employees",
+          "label": "People involved",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 100000,
+          "step": 1
+        },
+        {
+          "key": "hoursPerWeek",
+          "label": "Relevant hours per person / week",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 168,
+          "step": "any"
+        },
+        {
+          "key": "hourlyCost",
+          "label": "Loaded labour cost / hour",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "automation",
+          "label": "Task coverage (%)",
+          "type": "number",
+          "default": 50,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "review",
+          "label": "Review effort (% of covered hours)",
+          "type": "number",
+          "default": 20,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "softwareCost",
+          "label": "Monthly software cost",
+          "type": "number",
+          "default": 2000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "maintenanceCost",
+          "label": "Monthly maintenance / errors cost",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup cost",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "repetitive",
+          "label": "Share of time in repetitive work (%)",
+          "type": "number",
+          "default": 70,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "roi"
+    },
+    {
+      "id": "ai_employee_savings",
+      "title": "AI Employee Savings",
+      "description": "Compare eligible task labour with a reviewed AI-assisted workflow.",
+      "category": "AI & Automation",
+      "fields": [
+        {
+          "key": "employees",
+          "label": "People involved",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 100000,
+          "step": 1
+        },
+        {
+          "key": "hoursPerWeek",
+          "label": "Relevant hours per person / week",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 168,
+          "step": "any"
+        },
+        {
+          "key": "hourlyCost",
+          "label": "Loaded labour cost / hour",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "automation",
+          "label": "Task coverage (%)",
+          "type": "number",
+          "default": 50,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "review",
+          "label": "Review effort (% of covered hours)",
+          "type": "number",
+          "default": 20,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "softwareCost",
+          "label": "Monthly software cost",
+          "type": "number",
+          "default": 2000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "maintenanceCost",
+          "label": "Monthly maintenance / errors cost",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup cost",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "roi"
+    },
+    {
+      "id": "ai_calling_roi",
+      "title": "AI Calling ROI",
+      "description": "Model calling outcomes and costs without claiming calls have occurred.",
+      "category": "CRM & Sales",
+      "fields": [
+        {
+          "key": "calls",
+          "label": "Calls per month",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "contact",
+          "label": "Contact rate (%)",
+          "type": "number",
+          "default": 40,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "booking",
+          "label": "Booking rate among contacts (%)",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "showup",
+          "label": "Appointment show-up (%)",
+          "type": "number",
+          "default": 70,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "close",
+          "label": "Sales close rate among attended appointments (%)",
+          "type": "number",
+          "default": 20,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "contribution",
+          "label": "Contribution per sale",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "manualCost",
+          "label": "Manual cost per call",
+          "type": "number",
+          "default": 20,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "telephonyCost",
+          "label": "Telephony cost per call",
+          "type": "number",
+          "default": 2,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "aiCost",
+          "label": "AI cost per call",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "oversightCost",
+          "label": "Monthly human oversight",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "roi"
+    },
+    {
+      "id": "sales_productivity",
+      "title": "Sales Rep Productivity",
+      "description": "Value recovered selling time using your activity and opportunity assumptions.",
+      "category": "CRM & Sales",
+      "fields": [
+        {
+          "key": "reps",
+          "label": "Sales representatives",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 100000,
+          "step": 1
+        },
+        {
+          "key": "adminHours",
+          "label": "Admin hours per representative / week",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 168,
+          "step": "any"
+        },
+        {
+          "key": "reduction",
+          "label": "Admin time reduction (%)",
+          "type": "number",
+          "default": 30,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "redeployed",
+          "label": "Recovered time spent selling (%)",
+          "type": "number",
+          "default": 50,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "hourlyCost",
+          "label": "Loaded labour cost / hour",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "activities",
+          "label": "Activities per selling hour",
+          "type": "number",
+          "default": 5,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "qualified",
+          "label": "Activities producing qualified opportunities (%)",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "close",
+          "label": "Opportunity conversion (%)",
+          "type": "number",
+          "default": 20,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "saleValue",
+          "label": "Average sale value",
+          "type": "number",
+          "default": 10000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "margin",
+          "label": "Gross margin (%)",
+          "type": "number",
+          "default": 40,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "softwareCost",
+          "label": "Monthly tools and operating costs",
+          "type": "number",
+          "default": 2000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "roi"
+    },
+    {
+      "id": "support_savings",
+      "title": "Customer Support Savings",
+      "description": "Model ticket containment, escalations and quality review costs.",
+      "category": "AI & Automation",
+      "fields": [
+        {
+          "key": "tickets",
+          "label": "Tickets per month",
+          "type": "number",
+          "default": 1000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "minutes",
+          "label": "Manual minutes per ticket",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "hourlyCost",
+          "label": "Loaded support cost / hour",
+          "type": "number",
+          "default": 500,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "coverage",
+          "label": "Automation coverage (%)",
+          "type": "number",
+          "default": 60,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "resolution",
+          "label": "Resolution rate of covered tickets (%)",
+          "type": "number",
+          "default": 70,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "escalation",
+          "label": "Escalation rate of resolved tickets (%)",
+          "type": "number",
+          "default": 10,
+          "min": 0,
+          "max": 100,
+          "step": "any"
+        },
+        {
+          "key": "reviewMinutes",
+          "label": "Review minutes per covered ticket",
+          "type": "number",
+          "default": 1,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "softwareCost",
+          "label": "Monthly platform and model costs",
+          "type": "number",
+          "default": 3000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        },
+        {
+          "key": "setupCost",
+          "label": "One-time setup",
+          "type": "number",
+          "default": 5000,
+          "min": 0,
+          "max": 1000000000,
+          "step": "any"
+        }
+      ],
+      "methodologyVersion": "1.0.0",
+      "kind": "financial_scenario",
+      "hub": "roi"
+    }
+  ],
+  "assessmentQuestions": [
+    {
+      "key": "data_quality",
+      "label": "How complete and reliable is your business data?",
+      "domain": "Data",
+      "stage": 1
+    },
+    {
+      "key": "data_access",
+      "label": "Can authorised staff find and use the data they need?",
+      "domain": "Data",
+      "stage": 1
+    },
+    {
+      "key": "process_documented",
+      "label": "Are repeatable processes documented?",
+      "domain": "Process",
+      "stage": 2
+    },
+    {
+      "key": "automation_adoption",
+      "label": "Are automations measured and maintained?",
+      "domain": "Process",
+      "stage": 2
+    },
+    {
+      "key": "team_skills",
+      "label": "Can your team evaluate and use AI tools safely?",
+      "domain": "Skills",
+      "stage": 3
+    },
+    {
+      "key": "training",
+      "label": "Does the team have time and support for AI training?",
+      "domain": "Skills",
+      "stage": 3
+    },
+    {
+      "key": "privacy",
+      "label": "Do you have data privacy and access controls?",
+      "domain": "Governance",
+      "stage": 4
+    },
+    {
+      "key": "accountability",
+      "label": "Is someone accountable for reviewing AI outputs?",
+      "domain": "Governance",
+      "stage": 4
+    },
+    {
+      "key": "goals",
+      "label": "Are your use cases tied to measurable business goals?",
+      "domain": "Use Cases",
+      "stage": 4
+    },
+    {
+      "key": "measurement",
+      "label": "Can you measure the costs and outcomes of a pilot?",
+      "domain": "Use Cases",
+      "stage": 4
+    }
+  ],
+  "answerLabels": {
+    "0": "0 — Not in place",
+    "1": "1 — Informal / occasional",
+    "2": "2 — Partially established",
+    "3": "3 — Consistent and documented",
+    "4": "4 — Measured and improved",
+    "unanswered": "Choose an answer",
+    "na": "Not applicable"
+  }
+}

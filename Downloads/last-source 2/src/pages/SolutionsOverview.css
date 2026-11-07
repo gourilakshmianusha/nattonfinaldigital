@@ -1,0 +1,11 @@
+.solutions-overview-hero img {
+  animation: solutions-overview-drift 24s ease-in-out infinite alternate;
+  transform-origin: 70% 50%;
+}
+@keyframes solutions-overview-drift {
+  from { transform: scale(1.02); }
+  to { transform: scale(1.1) translate3d(-1%, 0, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .solutions-overview-hero img { animation: none; }
+}

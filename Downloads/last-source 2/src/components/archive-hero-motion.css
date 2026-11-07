@@ -1,0 +1,27 @@
+/* Ambient effects adapted from the supplied ZIP: waves, orbital rings and contour routes. */
+.archive-ambient{position:absolute;inset:0;z-index:0;overflow:hidden;pointer-events:none;contain:paint;color:var(--detail-brand-text,#237786)}
+.archive-haze{position:absolute;width:40%;aspect-ratio:1;border-radius:50%;opacity:.18;background:radial-gradient(ellipse,currentColor,transparent 68%);animation:archive-haze 18s ease-in-out infinite alternate;transform:translateZ(0)}
+.archive-haze-one{right:-8%;top:-15%}.archive-haze-two{width:35%;left:25%;bottom:-40%;opacity:.1;animation-delay:-9s}
+.archive-wave-field{position:absolute;right:-12%;bottom:-18%;width:120%;height:105%;opacity:.23;overflow:visible}
+.archive-wave-field path{stroke:currentColor;stroke-width:.9;vector-effect:non-scaling-stroke}
+.archive-wave-a{animation:archive-wave-lift 17s ease-in-out infinite alternate;transform-origin:50% 60%}
+.archive-wave-b{animation:archive-wave-lift 23s ease-in-out -8s infinite alternate-reverse;opacity:.45;transform-origin:75% 70%}
+.archive-current{stroke:currentColor!important;stroke-width:2.5!important;stroke-dasharray:.06 .94;animation:archive-current 16s linear infinite;opacity:.8}
+.archive-orbit-field{position:absolute;width:min(72vw,850px);aspect-ratio:1;right:-10%;top:50%;transform:translateY(-50%);opacity:.23}
+.archive-orbit-field>svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.archive-orbit-rings{stroke:currentColor;stroke-width:1;transform-origin:350px 350px;animation:archive-orbit-turn 45s linear infinite}
+.archive-satellite{fill:currentColor;transform-origin:350px 350px;animation:archive-orbit-turn 24s linear infinite}.archive-satellite-two{animation-direction:reverse;animation-duration:35s}
+.archive-morph-form{position:absolute;inset:24%;border:1px solid currentColor;border-radius:50%;background:linear-gradient(125deg,color-mix(in srgb,currentColor 18%,transparent),transparent 70%);animation:archive-morph 18s ease-in-out infinite}
+.archive-route-field{position:absolute;right:-15%;top:0;width:100%;height:100%;opacity:.23}
+.archive-contours{stroke:currentColor;stroke-width:.7;transform-origin:650px 300px;animation:archive-contours 28s ease-in-out infinite alternate}
+.archive-route-field .archive-current{stroke-dasharray:.04 .96;animation-duration:13s}.archive-beacon{fill:currentColor;animation:archive-beacon 4s ease-in-out infinite;transform-origin:820px 215px}
+.archive-ambient[data-running=false] *{animation-play-state:paused!important}
+@keyframes archive-haze{to{transform:translate(-8%,12%) scale(1.12)}}
+@keyframes archive-wave-lift{to{transform:translate(30px,-22px) rotate(-3deg)}}
+@keyframes archive-current{to{stroke-dashoffset:-1}}
+@keyframes archive-orbit-turn{to{transform:rotate(360deg)}}
+@keyframes archive-morph{0%,100%{border-radius:50%;transform:rotate(0) scale(.91)}35%{border-radius:26% 58% 30% 62%;transform:rotate(65deg) scale(1.04)}70%{border-radius:22%;transform:rotate(135deg) scale(.94)}}
+@keyframes archive-contours{to{transform:translate(-60px,30px) rotate(8deg) scale(.94)}}
+@keyframes archive-beacon{0%,100%{transform:scale(.6);opacity:.4}50%{transform:scale(1);opacity:.9}}
+@media(max-width:650px){.archive-wave-field{width:190%;right:-40%;bottom:-10%;height:90%;opacity:.18}.archive-orbit-field{width:150%;right:-45%;opacity:.18}.archive-route-field{width:180%;right:-65%;opacity:.18}.archive-haze{width:90%}}
+@media(prefers-reduced-motion:reduce){.archive-ambient *{animation:none!important;transition:none!important}}

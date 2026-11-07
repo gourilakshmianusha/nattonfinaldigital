@@ -1,0 +1,99 @@
+{
+  "pages": [
+    "growth-os",
+    "healthcare"
+  ],
+  "hover": [
+    {
+      "page": "GrowthOS",
+      "background": "radial-gradient(at 15% 0%, rgba(162, 105, 64, 0.66), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(113, 71, 46, 0.96), rgba(72, 46, 37, 0.96))",
+      "color": "rgb(255, 245, 228)",
+      "hovered": true,
+      "paragraph": "rgb(245, 232, 212)",
+      "transform": "matrix(1.022, 0, 0, 1.022, 0, -6)"
+    },
+    {
+      "page": "Healthcare",
+      "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+      "color": "rgb(255, 245, 228)",
+      "hovered": true,
+      "paragraph": "rgb(245, 232, 212)",
+      "transform": "matrix(1.022, 0, 0, 1.022, 0, -6)"
+    }
+  ],
+  "persistentSelection": {
+    "growth": {
+      "background": "radial-gradient(at 15% 0%, rgba(162, 105, 64, 0.66), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(113, 71, 46, 0.96), rgba(72, 46, 37, 0.96))",
+      "color": "rgb(255, 245, 228)",
+      "hovered": false,
+      "selected": "true"
+    },
+    "healthcare": {
+      "background": "radial-gradient(at 15% 0%, rgba(99, 130, 88, 0.6), rgba(0, 0, 0, 0) 60%), linear-gradient(135deg, rgba(53, 91, 64, 0.96), rgba(25, 62, 50, 0.96))",
+      "color": "rgb(255, 245, 228)",
+      "hovered": false,
+      "selected": "true"
+    },
+    "previousHealthcareTabDeselected": true
+  },
+  "responsive": [
+    {
+      "page": "GrowthOS",
+      "device": "Phone 390px",
+      "glass": true,
+      "h1": 1,
+      "overflow": false,
+      "process": 5,
+      "width": 375
+    },
+    {
+      "page": "Healthcare",
+      "device": "Phone 390px",
+      "glass": true,
+      "h1": 1,
+      "overflow": false,
+      "process": 5,
+      "width": 375
+    },
+    {
+      "page": "GrowthOS",
+      "device": "Tablet 760px",
+      "glass": true,
+      "h1": 1,
+      "overflow": false,
+      "process": 5,
+      "width": 745
+    },
+    {
+      "page": "Healthcare",
+      "device": "Tablet 760px",
+      "glass": true,
+      "h1": 1,
+      "overflow": false,
+      "process": 5,
+      "width": 745
+    }
+  ],
+  "motion": {
+    "first": {
+      "orbit": "matrix(0.860629, 0.344968, -0.416076, 1.03803, 0, 0)",
+      "outerBlur": "none",
+      "playState": "running",
+      "wave": "matrix(1.07518, 0.0695252, -0.0695252, 1.07518, 36.998, -51.7836)"
+    },
+    "second": {
+      "orbit": "matrix(0.907411, 0.265883, -0.306064, 1.04454, 0, 0)",
+      "playState": "running",
+      "wave": "matrix(1.02198, -0.0471644, 0.0471644, 1.02198, -26.4233, 16.1678)"
+    },
+    "waveChanged": true,
+    "cardGraphicChanged": true,
+    "sourceMotionFilesUnchanged": true
+  },
+  "checks": {
+    "productionBuild": true,
+    "allTenStaticRoutes": true,
+    "manualProcessSelection": true
+  },
+  "limits": "Chromium desktop and CSS-sized phone/tablet frames; other engines and physical devices not tested."
+}

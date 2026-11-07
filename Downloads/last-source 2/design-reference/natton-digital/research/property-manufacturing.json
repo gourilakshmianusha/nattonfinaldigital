@@ -1,0 +1,130 @@
+{
+  "researchDate": "2026-11-03",
+  "pages": [
+    {
+      "slug": "real-estate",
+      "title": "Real Estate",
+      "eyebrow": "INDUSTRY / REAL ESTATE",
+      "headline": "Give every property enquiry a clearer next step.",
+      "description": "Connect property marketing, project information and enquiry follow-up around the way your sales team works. Natton Digital helps real estate businesses build a useful online presence, reach relevant buyers and keep conversations moving toward a genuine sales discussion.",
+      "metaTitle": "Real Estate Digital Marketing & CRM | Natton Digital",
+      "metaDescription": "Connect property websites, SEO, campaigns and CRM follow-up with Natton Digital. Marketing and enquiry workflows for developers, brokers and real estate teams.",
+      "keywords": ["real estate digital marketing", "real estate marketing services", "property marketing agency", "real estate lead generation", "real estate CRM automation", "property website development", "SEO for real estate", "marketing for property developers"],
+      "audience": ["Property developers and project sales teams", "Independent brokers and real estate agencies", "Residential and commercial property businesses", "Property-management and leasing teams"],
+      "introTitle": "What is real estate digital marketing?",
+      "intro": "It is the work of helping the right people discover a property business, understand its offer and make an informed enquiry. A project website, search visibility, useful property content and paid campaigns can create that first connection. CRM and communication workflows then help the team retain context and organise the follow-up. The right mix depends on the property type, location, availability, sales process and budget.",
+      "needs": [
+        {"title": "The project is difficult to evaluate online", "description": "Visitors need clear location details, current information, useful visuals and an easy way to ask a question before they can decide whether to speak to your team."},
+        {"title": "Enquiries arrive without useful context", "description": "Campaign forms and conversations should collect the information your team actually needs, such as the project of interest, location preference and suitable next step."},
+        {"title": "Follow-up is spread across people and inboxes", "description": "A shared customer record and defined ownership help the team see who has replied, what was discussed and what is still waiting."},
+        {"title": "Lead counts hide the quality of the work", "description": "Review relevant enquiries, contactability, accepted sales discussions and site-visit requests alongside campaign costs. A submitted form alone does not describe sales readiness."}
+      ],
+      "serviceBlocks": [
+        {"title": "Property websites & project pages", "description": "Build mobile-friendly pages with clear project information, location context, galleries, available downloads and enquiry routes. Client-approved facts and current availability guide the content.", "linkLabel": "Website development", "href": "/services/website-development"},
+        {"title": "Search visibility & local discovery", "description": "Develop useful location, property-type and service content around relevant search intent. Review local business visibility for eligible offices and business locations; individual sale or rental units are not automatically eligible for Google Business Profiles.", "linkLabel": "SEO services", "href": "/services/seo"},
+        {"title": "Campaigns with a clear enquiry route", "description": "Plan Google and social campaigns around a defined project, audience and landing page. Test the message and review enquiry relevance with the sales team rather than promising a fixed number of bookings.", "linkLabel": "Paid advertising", "href": "/services/paid-ads"},
+        {"title": "Property content & creative production", "description": "Turn approved photographs, walkthrough footage, project details and common buyer questions into useful social and website content. Visuals should accurately represent what is being offered.", "linkLabel": "Content marketing", "href": "/services/content-marketing"},
+        {"title": "CRM ownership & buyer follow-up", "description": "Connect agreed forms and communication channels to a CRM pipeline. Record relevant preferences, assign owners and organise follow-up, document requests and site-visit enquiries.", "linkLabel": "CRM & AI automation", "href": "/solutions/crm-ai-automation"},
+        {"title": "Conversation assistance & handover", "description": "Use agreed information for initial questions, collect missing details or route an appointment request. Rules or an AI assistant can support a defined task, with a sales owner taking over when needed.", "linkLabel": "Conversational AI", "href": "/solutions/conversational-ai"}
+      ],
+      "journey": [
+        {"title": "Understand the offer", "description": "Review the property business, project stage, location, buyer or tenant audience, existing marketing and the sales team's capacity. Agree the facts and material available for publication."},
+        {"title": "Build the enquiry foundation", "description": "Prepare the key pages, approved visual material, enquiry forms, contact routes and measurement plan. Establish how the team defines a useful enquiry and who receives it."},
+        {"title": "Reach relevant people", "description": "Launch the agreed search, content and campaign work. Match the message and landing page to the property or service being discussed."},
+        {"title": "Connect and follow up", "description": "Route enquiries to the right owner, retain conversation context and support appropriate next steps such as a call, information request or site-visit discussion."},
+        {"title": "Review with the sales team", "description": "Compare campaign and website information with enquiry quality and recorded outcomes. Refine targeting, content and handovers as availability and business priorities change."}
+      ],
+      "example": {"label": "Illustrative enquiry journey", "description": "A visitor asks about a residential project. The example shows how context and ownership can stay connected; it does not represent a live client campaign or an automatic sale.", "steps": ["Project enquiry received", "Interest and preferences recorded", "Sales owner assigned", "Call or site-visit follow-up organised"]},
+      "exampleWorkflow": ["Project enquiry", "Customer context", "Sales owner", "Agreed next step"],
+      "measurement": [
+        {"title": "Relevant enquiries", "description": "Track the enquiries that fit the project, service area and agreed customer profile."},
+        {"title": "Contact and response patterns", "description": "Review contactability, response intervals and open conversations where reliable data is available."},
+        {"title": "Sales-team next steps", "description": "Monitor accepted discussions, information requests and site-visit requests recorded by the team."},
+        {"title": "Channel and campaign costs", "description": "Compare spend with enquiry quality and known outcomes, acknowledging gaps in attribution."}
+      ],
+      "deliverables": ["An agreed audience, message and campaign plan", "Project or service pages and enquiry routes", "Relevant SEO and creative content", "A scoped CRM and follow-up workflow", "A reporting and review cadence"],
+      "timing": "We agree a phased rollout after reviewing project material, access, approvals and technical requirements. Pages, tracking and enquiry routing should be ready before campaigns depend on them. Search visibility and sales outcomes need ongoing review; there is no universal deadline for rankings or property sales.",
+      "faqs": [
+        {"question": "Do you work with developers, brokers and smaller property businesses?", "answer": "Yes. The starting scope depends on the business model and available resources. An independent agency may need a clear website and local enquiry process, while a developer may need multiple project pages, campaigns and sales-team routing. We agree the priority before choosing tools."},
+        {"question": "Can you guarantee property leads, site visits or sales?", "answer": "No. Marketing can improve the way people discover and evaluate an offer, but relevance and outcomes also depend on price, location, project facts, availability, competition and the sales process. We agree measurable activities and review enquiry quality and recorded sales-team outcomes without guaranteeing bookings."},
+        {"question": "Do we need a Google Business Profile for every property?", "answer": "Not necessarily. Google distinguishes an eligible business or sales office from individual rental or sale properties. We review the actual business locations and eligibility before proposing local-profile work, and use project pages where appropriate."},
+        {"question": "What should we provide before you start?", "answer": "Useful inputs include approved project or service details, current availability, location information, owned photographs or footage, brand assets, access to existing accounts and the sales team's follow-up process. Your authorised team must approve project claims and required disclosures before publication."},
+        {"question": "Can you connect our existing CRM and WhatsApp follow-up?", "answer": "We can assess the CRM, agreed messaging channels and available integrations. The scope may include enquiry capture, ownership, reminders and conversation context. Provider capabilities, data access, template requirements and usage costs are checked before promising a particular connection."},
+        {"question": "How do costs and ongoing support work?", "answer": "We separate the agreed implementation and management work from media spend, subscriptions and usage charges. After launch, reviews can cover enquiry quality, content accuracy, campaign performance and team handovers. The proposal defines responsibilities, access, review points and the support included."}
+      ],
+      "imageBrief": "Licensed editorial photograph of contemporary Indian urban housing or a commercial property exterior with believable architecture and daylight. No visible developer branding, no invented sold-out badges, and no suggestion that the pictured building is a Natton client. Secondary image may show a real estate team reviewing a floor plan.",
+      "sources": [
+        {"url": "https://nattondigital.com/", "ref": "turn82search0", "note": "Old public homepage returned by search. Retained broad MSME/SMB context, CRM pipeline and follow-up intent. Partner, certification, performance and compliance claims were not adopted."},
+        {"url": "https://support.google.com/business/answer/13763036?hl=en", "ref": "turn85search0", "note": "Google primary guidance: individual rental/for-sale properties ineligible; eligible sales/leasing offices considered separately."},
+        {"url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content", "ref": "turn85search3", "note": "People-first, useful and reliable search content rather than keyword-stuffed location pages."}
+      ]
+    },
+    {
+      "slug": "manufacturing",
+      "title": "Manufacturing",
+      "eyebrow": "INDUSTRY / MANUFACTURING",
+      "headline": "Make your capabilities easier to find. Your enquiries easier to act on.",
+      "description": "Help buyers understand what you make, where your capabilities fit and how to start a useful conversation. Natton Digital connects industrial websites, B2B marketing and enquiry workflows for manufacturers, suppliers and growing production businesses.",
+      "metaTitle": "Manufacturing & B2B Marketing Services | Natton Digital",
+      "metaDescription": "Make your manufacturing capabilities easier to find with websites, SEO, B2B campaigns and structured RFQ follow-up from Natton Digital.",
+      "keywords": ["manufacturing digital marketing", "industrial marketing services", "B2B marketing for manufacturers", "manufacturing lead generation", "industrial website development", "SEO for manufacturers", "RFQ management workflow", "CRM for manufacturing sales"],
+      "audience": ["MSME manufacturers and component suppliers", "Industrial equipment and engineering businesses", "B2B suppliers, distributors and exporters", "Focused sales or business-development teams within larger enterprises"],
+      "introTitle": "What is manufacturing digital marketing?",
+      "intro": "Manufacturing digital marketing helps business buyers discover a supplier, understand its capabilities and decide whether to discuss a requirement. Useful websites, technical content, search visibility and selected B2B campaigns support that evaluation. Enquiry and CRM workflows help connect the first request with the people who can qualify it, prepare a response and follow it through.",
+      "needs": [
+        {"title": "Strong capabilities, a weak online explanation", "description": "Buyers need clear products, applications, capabilities and contact routes. A general company brochure may not answer the questions behind a specific sourcing requirement."},
+        {"title": "Enquiries lack the information to assess fit", "description": "A useful RFQ route can capture the product or application, specifications, quantities, destination and timing that your sales team needs, with an appropriate way to submit documents."},
+        {"title": "Technical and commercial follow-up lose context", "description": "Define ownership and handovers between business development, technical teams and commercial teams so the next action remains visible."},
+        {"title": "Marketing reports stop before business relevance", "description": "Review relevant enquiries, accepted RFQs, follow-up and opportunity progress alongside visibility and campaign activity. Volume alone can hide requests your business cannot serve."}
+      ],
+      "serviceBlocks": [
+        {"title": "Industrial websites & capability pages", "description": "Organise products, applications, manufacturing capabilities and enquiry routes so potential buyers can evaluate fit. Publish specifications, facilities and certifications only when accurate and approved.", "linkLabel": "Website development", "href": "/services/website-development"},
+        {"title": "SEO for products, capabilities & applications", "description": "Build useful pages around what buyers are researching: the product, manufacturing process, application or sourcing requirement. Use clear technical language supplied and reviewed by your subject experts.", "linkLabel": "SEO services", "href": "/services/seo"},
+        {"title": "Focused B2B campaigns", "description": "Choose search, LinkedIn or other relevant channels around the buyers and markets you can serve. Match campaigns to an appropriate capability page, enquiry route and follow-up owner.", "linkLabel": "Paid advertising", "href": "/services/paid-ads"},
+        {"title": "Technical content & sales-support material", "description": "Turn approved engineering knowledge into application explainers, capability profiles, case material and practical sales assets. Help both technical evaluators and commercial stakeholders understand the offer.", "linkLabel": "Content marketing", "href": "/services/content-marketing"},
+        {"title": "RFQ capture & sales coordination", "description": "Create a structured enquiry process with agreed fields, routing and CRM stages. Keep the request, relevant documents, owner and next follow-up connected without pretending the website can automatically qualify every technical requirement.", "linkLabel": "CRM & AI automation", "href": "/solutions/crm-ai-automation"},
+        {"title": "Scoped business-system connections", "description": "Assess notifications and information updates between the CRM, approved forms and existing business systems. ERP, stock control, production planning and dispatch automation require their own discovery and implementation scope.", "linkLabel": "Workflow automation", "href": "/products/business-os"}
+      ],
+      "journey": [
+        {"title": "Understand the capability and buyer", "description": "Review the products, applications, target accounts, regions and minimum commercial or technical fit. Identify who evaluates the supplier and which questions the current website leaves unanswered."},
+        {"title": "Build a credible information foundation", "description": "Prepare capability pages, product details, approved imagery and useful enquiry forms. Agree ownership, required RFQ fields, measurement and the material that can be shared publicly."},
+        {"title": "Create relevant market visibility", "description": "Develop the agreed SEO, content and campaign work around real applications and buyer needs. Select channels according to the market rather than assuming every manufacturer needs the same platform."},
+        {"title": "Route enquiries to the right people", "description": "Connect the incoming requirement to an owner and the appropriate technical or commercial review. Use reminders and status updates for agreed routine steps, with people responsible for quotations and commitments."},
+        {"title": "Review fit, follow-up and market response", "description": "Review enquiry relevance, RFQ acceptance and recorded opportunity movement with the team. Improve the message, pages and handovers, and expand the scope when a clear business need emerges."}
+      ],
+      "example": {"label": "Illustrative RFQ journey", "description": "A procurement contact asks about a component. The example illustrates enquiry coordination; technical feasibility, pricing and delivery commitments remain with the authorised manufacturer team.", "steps": ["Requirement submitted", "RFQ information captured", "Technical or commercial owner assigned", "Response and follow-up recorded"]},
+      "exampleWorkflow": ["Buyer requirement", "RFQ context", "Team review", "Response & follow-up"],
+      "measurement": [
+        {"title": "Relevant business enquiries", "description": "Review enquiries that fit your products, capabilities, market and commercial criteria."},
+        {"title": "Accepted RFQs", "description": "Track requirements the team considers suitable for a technical or commercial response."},
+        {"title": "Response and follow-up visibility", "description": "Monitor ownership, open actions and response patterns for the enquiries you choose to track."},
+        {"title": "Opportunity and channel learning", "description": "Review recorded opportunity stages and the channels contributing to useful discussions, with attribution limits made clear."}
+      ],
+      "deliverables": ["An agreed buyer, capability and market plan", "Industrial website or capability-page improvements", "SEO and technical content priorities", "Relevant B2B campaign assets and enquiry routes", "A scoped RFQ/CRM workflow and review framework"],
+      "timing": "We phase the work around access, technical information, subject-expert review and integration requirements. Capability pages and enquiry handling come before dependent campaigns. SEO and B2B opportunity development require continuing review, and their pace varies by market, competition and the buyer's purchasing process.",
+      "faqs": [
+        {"question": "Is this suitable for an MSME manufacturer or an industrial supplier?", "answer": "Yes. A smaller manufacturer may begin with clear capability pages, search visibility and an organised enquiry process. An established supplier or enterprise team may need more detailed content, campaign segmentation and CRM coordination. The scope follows your market, capacity and sales process."},
+        {"question": "How is manufacturing marketing different from ordinary consumer marketing?", "answer": "A business requirement may involve technical evaluators, procurement and commercial stakeholders. We therefore build information around specifications, applications, capabilities and the questions needed to assess a supplier. Channels and content are chosen for your buyers; we do not assume that a broad consumer-style campaign is the right starting point."},
+        {"question": "Will the website manage our inventory, production and ERP?", "answer": "Those are separate operational requirements. This marketing scope can connect enquiry information, notifications and agreed updates where suitable access and integrations exist. Full ERP implementation, stock control, production planning or automated ordering needs dedicated discovery, responsibilities and validation before it is promised."},
+        {"question": "What technical information do we need to provide?", "answer": "Typical inputs include product categories, specifications, applications, manufacturing capabilities, service regions, approved facility imagery and the questions needed for an RFQ. Your team reviews technical claims, certificates and downloadable documents. Confidential customer drawings or sensitive production information should not be published as marketing content."},
+        {"question": "Can you help with export enquiries or specific B2B markets?", "answer": "We can assess a defined market, buyer profile and offer, then plan appropriate pages, content and campaigns. That assessment includes language, logistics and commercial information your team can support. Marketing activity cannot guarantee export orders or remove the need for your own commercial and technical evaluation."},
+        {"question": "How do you judge success and plan ongoing work?", "answer": "We agree what makes an enquiry useful, which RFQs are accepted and which stages the team will record. Reviews connect website and campaign activity with that business context. Media budgets, implementation work, subscriptions and ongoing management are identified separately in the proposal, and the scope can expand when the evidence supports it."}
+      ],
+      "imageBrief": "Licensed realistic photograph of a clean Indian engineering or manufacturing workshop, machinery and staff using appropriate site PPE. Natural industrial lighting, technically believable equipment, no invented labels or certification badges, no portrayal as a Natton client facility. Secondary image may show an engineer and procurement colleague reviewing a component drawing.",
+      "sources": [
+        {"url": "https://nattondigital.com/", "ref": "turn82search0", "note": "Public homepage supplied broad MSME/SMB, CRM and workflow context. A separate old manufacturing page could not be retrieved. Do not adopt its unverifiable scale, certification, partner or performance claims."},
+        {"url": "https://business.linkedin.com/advertise/resources/the-innovation-imperative-for-manufacturing-marketers", "ref": "turn85search24", "note": "Primary platform research used directionally for manufacturing buyer/stakeholder context; no percentages or survey claims copied into the webpage."},
+        {"url": "https://business.linkedin.com/advertise/resources/marketing-terms/b2b-marketing", "ref": "turn85search25", "note": "Primary definition supports B2B education, relationship and buying-group content emphasis; copy remains an original Natton implementation recommendation."},
+        {"url": "https://docs.n8n.io/", "ref": "turn85search36", "note": "Primary workflow documentation supports the concept of integrations, not a promise that an ERP or production system will be implemented in the marketing scope."},
+        {"url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content", "ref": "turn85search3", "note": "People-first information architecture and technical-expert review for useful industrial content."}
+      ]
+    }
+  ],
+  "researchNotes": {
+    "oldPages": "Public search returned the Natton homepage, but direct opens of /industries/real-estate and /industries/manufacturing were unavailable through the search tool. These paths are unverified guesses and should not be cited as read sources. Industry-specific old copy beyond the user's screenshot was not available.",
+    "retainedConcepts": ["India MSME and international SMB audience", "Real-estate enquiry context, sales ownership and site-visit follow-up", "CRM, communication and scoped workflow connections", "Long-term review and ongoing partnership"],
+    "filteredClaims": ["Unverified partner badges and certifications", "Unverified client names and results", "Guaranteed leads, rankings, site visits or property sales", "Automatic technical qualification, quotations or delivery commitments", "Inventory, production, dispatch or ERP implementation bundled into a marketing page"],
+    "keywordMethod": "Intent-based editorial keyword themes from service context and industry buyer tasks. No paid keyword-volume dataset was accessed; do not attach traffic, difficulty or volume numbers.",
+    "integrationNotes": "Service hrefs in the draft are proposed semantic routes, not verified existing URLs. Parent should map them to the final route inventory or use the appropriate known destination. FAQ answers and examples are draft Natton scope descriptions rather than existing contracted inclusions."
+  }
+}

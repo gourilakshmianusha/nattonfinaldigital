@@ -1,0 +1,1430 @@
+{
+  "desktopWidth": 1348,
+  "mobileFrameWidth": 390,
+  "tabletFrameWidth": 768,
+  "desktop": [
+    {
+      "path": "/products/growth-os/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "GrowthOS / YOUR GROWTH FOUNDATION Build your ",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 14
+    },
+    {
+      "path": "/products/business-os/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "BusinessOS / CONNECTED CUSTOMER OPERATIONS Ke",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 13
+    },
+    {
+      "path": "/products/agentic-os/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "AgenticOS / AI WORKFLOWS WITH CLEAR RESPONSIB",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 12
+    },
+    {
+      "path": "/products/ai-marketing-platform/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "AI Marketing Platforms / A MORE CONNECTED CRE",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 12
+    },
+    {
+      "path": "/industries/healthcare/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "HEALTHCARE MARKETING & PATIENT ENQUIRIES Heal",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 11
+    },
+    {
+      "path": "/industries/education-edtech/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "EDUCATION MARKETING & ADMISSIONS JOURNEYS Edu",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 11
+    },
+    {
+      "path": "/industries/real-estate/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "INDUSTRY / REAL ESTATE Give every property en",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 11
+    },
+    {
+      "path": "/industries/manufacturing/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "INDUSTRY / MANUFACTURING Make your capabiliti",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 11
+    },
+    {
+      "path": "/industries/retail-ecommerce/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "FROM DISCOVERY TO THE NEXT ORDER Make every s",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 11
+    },
+    {
+      "path": "/industries/professional-services/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "EXPERTISE PEOPLE CAN UNDERSTAND Make your exp",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 11
+    },
+    {
+      "path": "/services/seo-services/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "SEO Services That Help the Right Customers Fi",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/website-development/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Website Design and Development Services",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 12
+    },
+    {
+      "path": "/services/google-business-profile/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Google Business Profile Optimisation and Mana",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/ppc-google-ads/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Google Ads Management Services Focused on Rel",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/social-media-marketing/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Social Media Marketing Services for Consisten",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/meta-ads/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Meta Ads Management for Facebook and Instagra",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/content-marketing/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Content Marketing and SEO Writing Services fo",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/aeo-ai-search/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Answer Engine Optimisation and AI Search Visi",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/graphic-design-branding/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Graphic Design Services for a Consistent Busi",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/email-marketing/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Email Marketing and Automation Services for C",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/ecommerce-development/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "E-commerce Website Development for Product Di",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/analytics-cro/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "Website Analytics and Conversion Rate Optimis",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/services/ai-growth-marketing/",
+      "faqWidths": [
+        1240
+      ],
+      "gaps": [],
+      "h1": "AI Growth Marketing Services Built Around You",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 9
+    },
+    {
+      "path": "/products/ai-marketing-saas/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "CUSTOM AI MARKETING SOFTWAREGood ideas deserv",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 18
+    },
+    {
+      "path": "/products/crm-ai-automation/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "CRM & AI AUTOMATIONYour customers.Your conver",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 18
+    },
+    {
+      "path": "/products/conversational-ai/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "CONVERSATIONAL AI SOLUTIONSBetter conversatio",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 17
+    },
+    {
+      "path": "/products/whatsapp-automation/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "WHATSAPP AUTOMATION SERVICESA familiar conver",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 18
+    },
+    {
+      "path": "/products/ai-calling-agents/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "AI CALLING AGENT DEVELOPMENTGive routine call",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 17
+    },
+    {
+      "path": "/products/cloud-telephony/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "CLOUD TELEPHONY & IVR SOLUTIONSThe right call",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 17
+    },
+    {
+      "path": "/products/rcs-messaging/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "RCS BUSINESS MESSAGINGGive your messagea more",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 17
+    },
+    {
+      "path": "/products/ai-agents/",
+      "faqWidths": [
+        1236
+      ],
+      "gaps": [],
+      "h1": "AI AGENTS & WORKFLOW AUTOMATIONLess repetitiv",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 18
+    },
+    {
+      "path": "/",
+      "faqWidths": [
+        1260
+      ],
+      "gaps": [],
+      "h1": "NATTON DIGITAL",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 11
+    },
+    {
+      "path": "/services/",
+      "faqWidths": [],
+      "gaps": [],
+      "h1": "Services",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 2
+    },
+    {
+      "path": "/products/",
+      "faqWidths": [],
+      "gaps": [],
+      "h1": "One business.Connected ways forward.",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 2
+    },
+    {
+      "path": "/industries/",
+      "faqWidths": [],
+      "gaps": [],
+      "h1": "Your industry. A considered approach.",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 2
+    },
+    {
+      "path": "/products/platforms/",
+      "faqWidths": [],
+      "gaps": [],
+      "h1": "Products built aroundthe way your business wo",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 0
+    },
+    {
+      "path": "/page-collection/",
+      "faqWidths": [],
+      "gaps": [],
+      "h1": "Built around the way your business moves.",
+      "hiddenText": 0,
+      "overflow": false,
+      "sections": 3
+    }
+  ],
+  "responsive": [
+    {
+      "path": "/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 339
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/growth-os/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 697
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/business-os/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 697
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/agentic-os/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 697
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/ai-marketing-platform/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 697
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/industries/healthcare/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/industries/education-edtech/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/industries/real-estate/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/industries/manufacturing/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/industries/retail-ecommerce/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/industries/professional-services/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/seo-services/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/website-development/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/google-business-profile/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/ppc-google-ads/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/social-media-marketing/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/meta-ads/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/content-marketing/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/aeo-ai-search/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/graphic-design-branding/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/email-marketing/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/ecommerce-development/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/analytics-cro/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/ai-growth-marketing/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 689
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/ai-marketing-saas/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/crm-ai-automation/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 331
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/conversational-ai/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/whatsapp-automation/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/ai-calling-agents/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/cloud-telephony/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/rcs-messaging/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/ai-agents/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "1",
+              "width": 335
+            }
+          ],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [
+            {
+              "columns": "2",
+              "width": 681
+            }
+          ],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/services/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/industries/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/products/platforms/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    },
+    {
+      "path": "/page-collection/",
+      "frames": [
+        {
+          "name": "mobile",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 375,
+          "width": 375
+        },
+        {
+          "name": "tablet",
+          "clippedExamples": [],
+          "faq": [],
+          "scroll": 753,
+          "width": 753
+        }
+      ]
+    }
+  ],
+  "definition": "Flags visible two-column layout differences greater than 190px when one side exceeds 400px; headings inspected for hidden text; examples inspected for clipping. Visual checks also cover BusinessOS flow and FAQ states."
+}

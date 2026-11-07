@@ -1,0 +1,547 @@
+/* Shared brand palette for product and industry routes only. */
+.brand-detail-theme {
+  --detail-page: var(--color-light);
+  --detail-surface: #fff;
+  --detail-inset: #edf4f5;
+  --detail-ink: var(--color-dark);
+  --detail-muted: #536274;
+  --detail-border: #dce5e7;
+  --detail-brand-text: #237786;
+  color: var(--detail-ink);
+  background: var(--detail-page);
+}
+.brand-detail-theme[data-theme="dark"] {
+  --detail-page: var(--color-dark);
+  --detail-surface: #1b173b;
+  --detail-inset: #15112d;
+  --detail-ink: #f5f9fa;
+  --detail-muted: #b5c4d3;
+  --detail-border: #ffffff24;
+  --detail-brand-text: #75d6db;
+}
+
+.brand-detail-theme {
+  --color-violet-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-violet-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-violet-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-violet-300: var(--detail-brand-text);
+  --color-violet-400: var(--detail-brand-text);
+  --color-violet-500: var(--detail-brand-text);
+  --color-violet-600: var(--color-primary);
+  --color-violet-700: var(--color-primary);
+  --color-violet-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-violet-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-violet-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-purple-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-purple-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-purple-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-purple-300: var(--detail-brand-text);
+  --color-purple-400: var(--detail-brand-text);
+  --color-purple-500: var(--detail-brand-text);
+  --color-purple-600: var(--color-primary);
+  --color-purple-700: var(--color-primary);
+  --color-purple-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-purple-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-purple-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-indigo-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-indigo-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-indigo-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-indigo-300: var(--detail-brand-text);
+  --color-indigo-400: var(--detail-brand-text);
+  --color-indigo-500: var(--detail-brand-text);
+  --color-indigo-600: var(--color-primary);
+  --color-indigo-700: var(--color-primary);
+  --color-indigo-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-indigo-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-indigo-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-blue-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-blue-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-blue-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-blue-300: var(--detail-brand-text);
+  --color-blue-400: var(--detail-brand-text);
+  --color-blue-500: var(--detail-brand-text);
+  --color-blue-600: var(--color-primary);
+  --color-blue-700: var(--color-primary);
+  --color-blue-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-blue-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-blue-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-cyan-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-cyan-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-cyan-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-cyan-300: var(--detail-brand-text);
+  --color-cyan-400: var(--detail-brand-text);
+  --color-cyan-500: var(--detail-brand-text);
+  --color-cyan-600: var(--color-primary);
+  --color-cyan-700: var(--color-primary);
+  --color-cyan-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-cyan-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-cyan-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-teal-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-teal-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-teal-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-teal-300: var(--detail-brand-text);
+  --color-teal-400: var(--detail-brand-text);
+  --color-teal-500: var(--detail-brand-text);
+  --color-teal-600: var(--color-primary);
+  --color-teal-700: var(--color-primary);
+  --color-teal-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-teal-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-teal-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-pink-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-pink-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-pink-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-pink-300: var(--detail-brand-text);
+  --color-pink-400: var(--detail-brand-text);
+  --color-pink-500: var(--detail-brand-text);
+  --color-pink-600: var(--color-primary);
+  --color-pink-700: var(--color-primary);
+  --color-pink-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-pink-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-pink-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-fuchsia-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-fuchsia-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-fuchsia-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-fuchsia-300: var(--detail-brand-text);
+  --color-fuchsia-400: var(--detail-brand-text);
+  --color-fuchsia-500: var(--detail-brand-text);
+  --color-fuchsia-600: var(--color-primary);
+  --color-fuchsia-700: var(--color-primary);
+  --color-fuchsia-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-fuchsia-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-fuchsia-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-rose-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-rose-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-rose-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-rose-300: var(--detail-brand-text);
+  --color-rose-400: var(--detail-brand-text);
+  --color-rose-500: var(--detail-brand-text);
+  --color-rose-600: var(--color-primary);
+  --color-rose-700: var(--color-primary);
+  --color-rose-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-rose-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-rose-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-amber-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-amber-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-amber-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-amber-300: var(--detail-brand-text);
+  --color-amber-400: var(--detail-brand-text);
+  --color-amber-500: var(--detail-brand-text);
+  --color-amber-600: var(--color-primary);
+  --color-amber-700: var(--color-primary);
+  --color-amber-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-amber-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-amber-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-yellow-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-yellow-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-yellow-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-yellow-300: var(--detail-brand-text);
+  --color-yellow-400: var(--detail-brand-text);
+  --color-yellow-500: var(--detail-brand-text);
+  --color-yellow-600: var(--color-primary);
+  --color-yellow-700: var(--color-primary);
+  --color-yellow-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-yellow-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-yellow-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-orange-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-orange-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-orange-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-orange-300: var(--detail-brand-text);
+  --color-orange-400: var(--detail-brand-text);
+  --color-orange-500: var(--detail-brand-text);
+  --color-orange-600: var(--color-primary);
+  --color-orange-700: var(--color-primary);
+  --color-orange-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-orange-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-orange-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-emerald-50: color-mix(in srgb, var(--color-secondary) 8%, white);
+  --color-emerald-100: color-mix(in srgb, var(--color-secondary) 15%, white);
+  --color-emerald-200: color-mix(in srgb, var(--color-secondary) 28%, white);
+  --color-emerald-300: var(--detail-brand-text);
+  --color-emerald-400: var(--detail-brand-text);
+  --color-emerald-500: var(--detail-brand-text);
+  --color-emerald-600: var(--color-secondary);
+  --color-emerald-700: var(--color-secondary);
+  --color-emerald-800: color-mix(in srgb, var(--color-secondary) 35%, var(--color-dark));
+  --color-emerald-900: color-mix(in srgb, var(--color-secondary) 22%, var(--color-dark));
+  --color-emerald-950: color-mix(in srgb, var(--color-secondary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-green-50: color-mix(in srgb, var(--color-secondary) 8%, white);
+  --color-green-100: color-mix(in srgb, var(--color-secondary) 15%, white);
+  --color-green-200: color-mix(in srgb, var(--color-secondary) 28%, white);
+  --color-green-300: var(--detail-brand-text);
+  --color-green-400: var(--detail-brand-text);
+  --color-green-500: var(--detail-brand-text);
+  --color-green-600: var(--color-secondary);
+  --color-green-700: var(--color-secondary);
+  --color-green-800: color-mix(in srgb, var(--color-secondary) 35%, var(--color-dark));
+  --color-green-900: color-mix(in srgb, var(--color-secondary) 22%, var(--color-dark));
+  --color-green-950: color-mix(in srgb, var(--color-secondary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-lime-50: color-mix(in srgb, var(--color-secondary) 8%, white);
+  --color-lime-100: color-mix(in srgb, var(--color-secondary) 15%, white);
+  --color-lime-200: color-mix(in srgb, var(--color-secondary) 28%, white);
+  --color-lime-300: var(--detail-brand-text);
+  --color-lime-400: var(--detail-brand-text);
+  --color-lime-500: var(--detail-brand-text);
+  --color-lime-600: var(--color-secondary);
+  --color-lime-700: var(--color-secondary);
+  --color-lime-800: color-mix(in srgb, var(--color-secondary) 35%, var(--color-dark));
+  --color-lime-900: color-mix(in srgb, var(--color-secondary) 22%, var(--color-dark));
+  --color-lime-950: color-mix(in srgb, var(--color-secondary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme {
+  --color-sky-50: color-mix(in srgb, var(--color-accent) 8%, white);
+  --color-sky-100: color-mix(in srgb, var(--color-accent) 15%, white);
+  --color-sky-200: color-mix(in srgb, var(--color-accent) 28%, white);
+  --color-sky-300: var(--detail-brand-text);
+  --color-sky-400: var(--detail-brand-text);
+  --color-sky-500: var(--detail-brand-text);
+  --color-sky-600: var(--color-primary);
+  --color-sky-700: var(--color-primary);
+  --color-sky-800: color-mix(in srgb, var(--color-primary) 35%, var(--color-dark));
+  --color-sky-900: color-mix(in srgb, var(--color-primary) 22%, var(--color-dark));
+  --color-sky-950: color-mix(in srgb, var(--color-primary) 12%, var(--color-dark));
+}
+
+.brand-detail-theme .text-gray-500,
+.brand-detail-theme .text-gray-400,
+.brand-detail-theme .text-gray-600,
+.brand-detail-theme .text-gray-300,
+.brand-detail-theme .text-slate-500,
+.brand-detail-theme .text-slate-400,
+.brand-detail-theme .text-slate-300,
+.brand-detail-theme .text-slate-600,
+.brand-detail-theme .text-gray-700,
+.brand-detail-theme .text-zinc-500,
+.brand-detail-theme .text-slate-700 { color: var(--detail-muted); }
+
+.brand-detail-theme .text-\[\#00C2FF\],
+.brand-detail-theme .text-\[\#8b5cf6\],
+.brand-detail-theme .text-\[\#00c2ff\],
+.brand-detail-theme .text-\[\#D4AF37\],
+.brand-detail-theme .hover\:text-\[\#00C2FF\]:hover,
+.brand-detail-theme .text-\[\#8B5CF6\] { color: var(--detail-brand-text); }
+
+.brand-detail-theme .border-white\/10,
+.brand-detail-theme .border-white\/\[0\.04\],
+.brand-detail-theme .border-white\/5,
+.brand-detail-theme .border-white,
+.brand-detail-theme .border-slate-900,
+.brand-detail-theme .border-white\/15,
+.brand-detail-theme .border-slate-800,
+.brand-detail-theme .border-slate-700,
+.brand-detail-theme .border-slate-800\/60,
+.brand-detail-theme .border-slate-800\/80,
+.brand-detail-theme .border-slate-800\/40,
+.brand-detail-theme .border-slate-900\/40,
+.brand-detail-theme .border-slate-900\/50,
+.brand-detail-theme .hover\:border-slate-700:hover,
+.brand-detail-theme .hover\:border-white\/10:hover,
+.brand-detail-theme .border-white\/\[0\.03\],
+.brand-detail-theme .border-white\/20,
+.brand-detail-theme .border-white\/\[0\.06\] { border-color: var(--detail-border); }
+
+.brand-detail-theme .bg-white,
+.brand-detail-theme .bg-\[\#030616\],
+.brand-detail-theme .bg-white\/\[0\.03\],
+.brand-detail-theme .hover\:bg-white\/\[0\.08\]:hover,
+.brand-detail-theme .bg-white\/\[0\.02\],
+.brand-detail-theme .bg-\[\#070b21\]\/50,
+.brand-detail-theme .bg-\[\#030717\],
+.brand-detail-theme .bg-\[\#05081c\]\/60,
+.brand-detail-theme .bg-\[\#04081e\]\/90,
+.brand-detail-theme .hover\:bg-white\/\[0\.02\]:hover,
+.brand-detail-theme .bg-\[\#05081b\]\/60,
+.brand-detail-theme .bg-white\/\[0\.01\],
+.brand-detail-theme .bg-white\/10,
+.brand-detail-theme .bg-\[\#0b141a\],
+.brand-detail-theme .bg-white\/5,
+.brand-detail-theme .bg-\[\#0b0c10\],
+.brand-detail-theme .bg-\[\#202c33\],
+.brand-detail-theme .bg-\[\#111b21\],
+.brand-detail-theme .bg-\[\#04081c\]\/60,
+.brand-detail-theme .bg-\[\#04081c\]\/90,
+.brand-detail-theme .hover\:bg-white\/\[0\.01\]:hover,
+.brand-detail-theme .hover\:bg-white\/10:hover,
+.brand-detail-theme .bg-\[\#020514\],
+.brand-detail-theme .bg-\[\#050920\]\/80,
+.brand-detail-theme .bg-\[\#05081e\],
+.brand-detail-theme .bg-\[\#030717\]\/40,
+.brand-detail-theme .bg-\[\#030616\]\/60,
+.brand-detail-theme .bg-\[\#030717\]\/80,
+.brand-detail-theme .bg-\[\#0b1329\],
+.brand-detail-theme .bg-\[\#090d1c\],
+.brand-detail-theme .bg-\[\#040614\],
+.brand-detail-theme .bg-\[\#0b081e\],
+.brand-detail-theme .bg-\[\#0b0c16\],
+.brand-detail-theme .bg-\[\#121b22\],
+.brand-detail-theme .bg-\[\#03010E\],
+.brand-detail-theme .hover\:bg-white\/\[0\.03\]:hover,
+.brand-detail-theme .hover\:bg-white\/\[0\.05\]:hover,
+.brand-detail-theme .bg-\[\#04020F\],
+.brand-detail-theme .bg-\[\#0A071A\],
+.brand-detail-theme .bg-\[\#070514\]\/80,
+.brand-detail-theme .bg-\[\#0B141A\],
+.brand-detail-theme .bg-\[\#202C33\],
+.brand-detail-theme .bg-\[\#1F2C34\],
+.brand-detail-theme .bg-\[\#0B0721\],
+.brand-detail-theme .bg-\[\#0E1524\]\/60,
+.brand-detail-theme .bg-\[\#0E1524\]\/80,
+.brand-detail-theme .bg-\[\#0E1524\] { background-color: var(--detail-surface); }
+
+.brand-detail-theme .bg-black\/30,
+.brand-detail-theme .bg-slate-950\/40,
+.brand-detail-theme .bg-slate-950\/80,
+.brand-detail-theme .bg-black\/40,
+.brand-detail-theme .bg-slate-900,
+.brand-detail-theme .hover\:bg-slate-900\/40:hover,
+.brand-detail-theme .bg-gray-700,
+.brand-detail-theme .bg-slate-950\/60,
+.brand-detail-theme .bg-black,
+.brand-detail-theme .bg-black\/80,
+.brand-detail-theme .bg-black\/60,
+.brand-detail-theme .bg-gray-800,
+.brand-detail-theme .bg-slate-950\/90,
+.brand-detail-theme .bg-slate-950\/30,
+.brand-detail-theme .bg-black\/50,
+.brand-detail-theme .bg-slate-900\/40,
+.brand-detail-theme .hover\:bg-slate-900:hover,
+.brand-detail-theme .bg-slate-900\/60,
+.brand-detail-theme .bg-slate-950,
+.brand-detail-theme .bg-slate-800,
+.brand-detail-theme .bg-slate-950\/20,
+.brand-detail-theme .bg-slate-900\/30,
+.brand-detail-theme .bg-slate-800\/30,
+.brand-detail-theme .hover\:bg-slate-900\/10:hover,
+.brand-detail-theme .bg-slate-900\/10,
+.brand-detail-theme .bg-slate-950\/70,
+.brand-detail-theme .hover\:bg-slate-800:hover,
+.brand-detail-theme .bg-slate-900\/50,
+.brand-detail-theme .hover\:bg-slate-900\/20:hover,
+.brand-detail-theme .hover\:bg-slate-900\/30:hover,
+.brand-detail-theme .bg-slate-950\/85,
+.brand-detail-theme .bg-slate-700,
+.brand-detail-theme .hover\:bg-slate-950\/40:hover,
+.brand-detail-theme .bg-black\/20,
+.brand-detail-theme .bg-zinc-800,
+.brand-detail-theme .hover\:bg-zinc-700:hover,
+.brand-detail-theme .bg-black\/10,
+.brand-detail-theme .bg-slate-900\/80,
+.brand-detail-theme .bg-zinc-900,
+.brand-detail-theme .bg-zinc-700,
+.brand-detail-theme .bg-black\/25 { background-color: var(--detail-inset); }
+
+.brand-detail-theme .text-white,
+.brand-detail-theme .selection\:text-white::selection,
+.brand-detail-theme .hover\:text-white:hover,
+.brand-detail-theme .selection\:text-black::selection,
+.brand-detail-theme .text-black,
+.brand-detail-theme .text-slate-800,
+.brand-detail-theme .text-slate-900 { color: var(--detail-ink); }
+
+.brand-detail-theme .bg-\[\#005c4b\],
+.brand-detail-theme .bg-\[\#00a884\],
+.brand-detail-theme .bg-\[\#075E54\],
+.brand-detail-theme .bg-\[\#005C4B\],
+.brand-detail-theme .bg-\[\#00A884\],
+.brand-detail-theme .hover\:bg-\[\#008F72\]:hover,
+.brand-detail-theme .bg-\[\#00C2FF\] { background-color: var(--color-primary); }
+
+.brand-detail-theme .from-\[\#0c0f2b\],
+.brand-detail-theme .from-\[\#0b081e\],
+.brand-detail-theme .from-\[\#0D052E\],
+.brand-detail-theme .from-\[\#03010E\] { --tw-gradient-from: var(--detail-surface); }
+
+.brand-detail-theme .to-\[\#040616\],
+.brand-detail-theme .to-\[\#0D052E\] { --tw-gradient-to: var(--detail-surface); }
+
+.brand-detail-theme .border-\[\#8b5cf6\],
+.brand-detail-theme .border-\[\#D4AF37\],
+.brand-detail-theme .border-\[\#D4AF37\]\/50,
+.brand-detail-theme .hover\:border-\[\#00C2FF\]:hover,
+.brand-detail-theme .border-\[\#00C2FF\]\/30,
+.brand-detail-theme .border-\[\#00C2FF\],
+.brand-detail-theme .border-\[\#00C2FF\]\/20 { border-color: color-mix(in srgb, var(--color-primary) 35%, transparent); }
+
+.brand-detail-theme .from-slate-950,
+.brand-detail-theme .from-gray-800 { --tw-gradient-from: var(--detail-inset); }
+
+.brand-detail-theme .to-slate-950,
+.brand-detail-theme .to-gray-800,
+.brand-detail-theme .to-slate-900 { --tw-gradient-to: var(--detail-inset); }
+
+.brand-detail-theme .via-\[\#03010E\] { --tw-gradient-via: var(--detail-surface); }
+
+.brand-detail-theme .stroke-\[\#00C2FF\],
+.brand-detail-theme .stroke-\[\#8B5CF6\] { stroke: var(--color-primary); }
+
+.brand-detail-theme .fill-\[\#00C2FF\]\/10,
+.brand-detail-theme .fill-\[\#8B5CF6\]\/10 { fill: var(--color-primary); }
+
+.brand-detail-theme .bg-\[\#00C2FF\]\/10,
+.brand-detail-theme .bg-\[\#8B5CF6\]\/10 { background-color: color-mix(in srgb, var(--color-primary) 10%, transparent); }
+
+.brand-detail-theme .via-\[\#00C2FF\] { --tw-gradient-via: var(--color-accent); }
+
+.brand-detail-theme .bg-\[\#00C2FF\]\/5 { background-color: color-mix(in srgb, var(--color-primary) 5%, transparent); }
+
+.brand-detail-theme .to-\[\#00C2FF\] { --tw-gradient-to: var(--color-secondary); }
+
+.brand-detail-theme > div { background-color: var(--detail-page); color: var(--detail-ink); }
+.brand-detail-theme button.text-white[style*="background-color"] { color: #fff; }
+.brand-detail-theme svg [stroke="#3b82f6"], .brand-detail-theme svg [stroke="#8b5cf6"] { stroke: var(--color-primary); }
+.brand-detail-theme svg [fill="#3b82f6"], .brand-detail-theme svg [fill="#00f5ff"] { fill: var(--color-primary); }
+.brand-detail-theme svg [stop-color="#3b82f6"], .brand-detail-theme svg [stop-color="#8b5cf6"] { stop-color: var(--color-primary); }
+/* Solid and gradient calls to action retain readable foregrounds. */
+.brand-detail-theme :is(button, a).text-white:is([class*="bg-gradient-"], [class*="bg-primary"], [class*="bg-teal-"], [class*="bg-violet-"], [class*="bg-purple-"], [class*="bg-blue-"], [class*="bg-cyan-"], [class*="bg-emerald-"], [class*="bg-indigo-"]) { color: #fff; }
+.brand-detail-theme :is(button, a).text-black[class*="bg-gradient-"] { color: var(--color-dark); }
+.brand-detail-theme :is(input, textarea, select) { color: var(--detail-ink); }
+.brand-detail-theme [class*="bg-clip-text"].text-transparent { color: transparent; }
+
+/* Legacy dark-only neutral text must follow the actual detail-page surface. */
+.brand-detail-theme :is(.text-gray-100,.text-gray-200,.text-slate-100,.text-slate-200,.text-zinc-100,.text-zinc-200,.text-neutral-100,.text-neutral-200){color:var(--detail-ink)}
+.brand-detail-theme :is(.text-zinc-300,.text-zinc-400,.text-neutral-300,.text-neutral-400){color:var(--detail-muted)}
+
+.brand-detail-theme .text-\[\#00C2FF\]{color:var(--detail-brand-text)!important}
+.brand-detail-theme :is(h2,h3,h4){color:var(--detail-ink)}
+.brand-detail-theme :is(.text-emerald-300,.text-blue-300,.text-cyan-300){color:var(--detail-brand-text)}
+
+/* Remaining legacy dark panel utilities follow the theme surface. */
+.brand-detail-theme .bg-\[\#000c22\],
+.brand-detail-theme .bg-\[\#020514\],
+.brand-detail-theme .bg-\[\#03010E\],
+.brand-detail-theme .bg-\[\#030512\],
+.brand-detail-theme .bg-\[\#030616\],
+.brand-detail-theme .bg-\[\#030616\]\/60,
+.brand-detail-theme .bg-\[\#030717\],
+.brand-detail-theme .bg-\[\#030717\]\/40,
+.brand-detail-theme .bg-\[\#04020F\],
+.brand-detail-theme .bg-\[\#040614\],
+.brand-detail-theme .bg-\[\#04081c\]\/60,
+.brand-detail-theme .bg-\[\#04081c\]\/90,
+.brand-detail-theme .bg-\[\#04081e\]\/90,
+.brand-detail-theme .bg-\[\#050215\],
+.brand-detail-theme .bg-\[\#050314\],
+.brand-detail-theme .bg-\[\#05081b\]\/60,
+.brand-detail-theme .bg-\[\#05081c\]\/60,
+.brand-detail-theme .bg-\[\#05081e\],
+.brand-detail-theme .bg-\[\#050920\]\/80,
+.brand-detail-theme .bg-\[\#06031A\],
+.brand-detail-theme .bg-\[\#060b13\],
+.brand-detail-theme .bg-\[\#070415\],
+.brand-detail-theme .bg-\[\#070514\]\/80,
+.brand-detail-theme .bg-\[\#07051A\],
+.brand-detail-theme .bg-\[\#070b21\]\/50,
+.brand-detail-theme .bg-\[\#080b18\]\/70,
+.brand-detail-theme .bg-\[\#090616\],
+.brand-detail-theme .bg-\[\#09061c\]\/60,
+.brand-detail-theme .bg-\[\#090d1c\],
+.brand-detail-theme .bg-\[\#090e24\]\/85,
+.brand-detail-theme .bg-\[\#09101f\],
+.brand-detail-theme .bg-\[\#09203c\],
+.brand-detail-theme .bg-\[\#0A042A\],
+.brand-detail-theme .bg-\[\#0A071A\],
+.brand-detail-theme .bg-\[\#0B0721\],
+.brand-detail-theme .bg-\[\#0B0721\]\/50,
+.brand-detail-theme .bg-\[\#0B0721\]\/60,
+.brand-detail-theme .bg-\[\#0B0721\]\/80,
+.brand-detail-theme .bg-\[\#0B141A\],
+.brand-detail-theme .bg-\[\#0D0A26\],
+.brand-detail-theme .bg-\[\#0E0A2D\],
+.brand-detail-theme .bg-\[\#0E0B25\],
+.brand-detail-theme .bg-\[\#0E0B25\]\/80,
+.brand-detail-theme .bg-\[\#0E1524\],
+.brand-detail-theme .bg-\[\#0E1524\]\/60,
+.brand-detail-theme .bg-\[\#0E1524\]\/70,
+.brand-detail-theme .bg-\[\#0E1524\]\/80,
+.brand-detail-theme .bg-\[\#0a1424\],
+.brand-detail-theme .bg-\[\#0b0521\],
+.brand-detail-theme .bg-\[\#0b081e\],
+.brand-detail-theme .bg-\[\#0b0c10\],
+.brand-detail-theme .bg-\[\#0b0c16\],
+.brand-detail-theme .bg-\[\#0b1329\],
+.brand-detail-theme .bg-\[\#0b141a\],
+.brand-detail-theme .bg-\[\#0c0724\],
+.brand-detail-theme .bg-\[\#0c0827\],
+.brand-detail-theme .bg-\[\#0c0f24\],
+.brand-detail-theme .bg-\[\#0c141c\],
+.brand-detail-theme .bg-\[\#0d1d32\],
+.brand-detail-theme .bg-\[\#0e0729\],
+.brand-detail-theme .bg-\[\#0e0729\]\/80,
+.brand-detail-theme .bg-\[\#0e1a2c\],
+.brand-detail-theme .bg-\[\#0f1d31\],
+.brand-detail-theme .bg-\[\#10243c\],
+.brand-detail-theme .bg-\[\#110B33\],
+.brand-detail-theme .bg-\[\#110B33\]\/10,
+.brand-detail-theme .bg-\[\#110B33\]\/20,
+.brand-detail-theme .bg-\[\#110B33\]\/40,
+.brand-detail-theme .bg-\[\#110B33\]\/70,
+.brand-detail-theme .bg-\[\#110C29\],
+.brand-detail-theme .bg-\[\#111b21\],
+.brand-detail-theme .bg-\[\#120e29\],
+.brand-detail-theme .bg-\[\#121b22\],
+.brand-detail-theme .bg-\[\#12233b\],
+.brand-detail-theme .bg-\[\#140D40\],
+.brand-detail-theme .bg-\[\#140D40\]\/50,
+.brand-detail-theme .bg-\[\#142640\],
+.brand-detail-theme .bg-\[\#150B3F\],
+.brand-detail-theme .bg-\[\#162b48\],
+.brand-detail-theme .bg-\[\#171346\],
+.brand-detail-theme .bg-\[\#18133B\],
+.brand-detail-theme .bg-\[\#1F2C34\],
+.brand-detail-theme .bg-\[\#1b113a\],
+.brand-detail-theme .bg-\[\#1b1731\],
+.brand-detail-theme .bg-\[\#202C33\],
+.brand-detail-theme .bg-\[\#202c33\],
+.brand-detail-theme .bg-\[\#2A3942\]{background-color:var(--detail-inset)}
+
+.brand-detail-theme[data-theme="light"] :is(.text-emerald-400,.text-green-400,.text-lime-400,.text-orange-400,.text-pink-400,.text-\[\#47C7BF\],.text-\[\#99D57C\],.text-\[\#00E599\]){color:var(--detail-brand-text)}
+
+/* Selected tabs use translucent tints, so they need ink rather than CTA white. */
+.brand-detail-theme :is(button,a).text-white:not([class*="bg-gradient-"]):is(.bg-blue-400\/10,.bg-blue-500\/10,.bg-blue-500\/15,.bg-blue-500\/20,.bg-blue-500\/40,.bg-blue-500\/5,.bg-blue-900\/10,.bg-blue-950\/10,.bg-blue-950\/15,.bg-blue-950\/20,.bg-blue-950\/40,.bg-blue-950\/5,.bg-cyan-400\/10,.bg-cyan-400\/5,.bg-cyan-500\/10,.bg-cyan-500\/15,.bg-cyan-500\/5,.bg-cyan-900\/10,.bg-cyan-950\/10,.bg-cyan-950\/15,.bg-cyan-950\/20,.bg-cyan-950\/60,.bg-cyan-950\/80,.bg-emerald-400\/10,.bg-emerald-400\/20,.bg-emerald-500\/10,.bg-emerald-500\/15,.bg-emerald-500\/20,.bg-emerald-500\/5,.bg-emerald-950\/10,.bg-emerald-950\/15,.bg-emerald-950\/40,.bg-emerald-950\/80,.bg-indigo-500\/10,.bg-indigo-500\/5,.bg-indigo-900\/10,.bg-indigo-950\/10,.bg-indigo-950\/20,.bg-indigo-950\/80,.bg-purple-400\/10,.bg-purple-500\/10,.bg-purple-500\/15,.bg-purple-500\/20,.bg-purple-500\/5,.bg-purple-600\/10,.bg-purple-600\/20,.bg-purple-600\/30,.bg-purple-900\/10,.bg-purple-900\/15,.bg-purple-950\/10,.bg-purple-950\/15,.bg-purple-950\/20,.bg-purple-950\/40,.bg-purple-950\/5,.bg-purple-950\/80,.bg-teal-500\/10,.bg-teal-500\/5,.bg-teal-950\/20,.bg-violet-400\/10,.bg-violet-500\/10,.bg-violet-500\/20,.bg-violet-500\/5,.bg-violet-600\/10,.bg-violet-600\/5){color:var(--detail-ink)}
+
+.brand-detail-theme .text-gray-400\/80{color:var(--detail-muted)}
+.brand-detail-theme :is(.bg-\[\#075E54\],.bg-\[\#005C4B\],.bg-\[\#005c4b\],.bg-\[\#00A884\],.bg-\[\#00a884\]) :is(.text-gray-400,.text-gray-500,.text-emerald-300){color:#110b33}
+.brand-detail-theme .bg-dark\/45{background-color:var(--detail-inset)}
+.brand-detail-theme .recharts-legend-item-text{color:var(--detail-ink)!important}

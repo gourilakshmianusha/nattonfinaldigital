@@ -1,0 +1,3 @@
+// Existing public Supabase connection; these are public client identifiers, not server secrets.
+export const existingSupabaseUrl = 'https://urnpbpmjkalltlzkgkks.supabase.co';
+export const existingSupabasePublicKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVybnBicG1qa2FsbHRsemtna2tzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcxOTk5NjEsImV4cCI6MjEwMjc3NTk2MX0.qkAIuN0Nfa2e1jbFFj9pM1nGk4MkS8iQqBkOK0fyb0Q';

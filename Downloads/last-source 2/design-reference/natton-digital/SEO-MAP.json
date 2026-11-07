@@ -1,0 +1,422 @@
+[
+  {
+    "path": "/products/growth-os/",
+    "title": "GrowthOS | Digital Marketing for MSMEs & SMBs | Natton",
+    "description": "Connect your website, SEO, content and campaigns with GrowthOS. A tailored digital marketing plan for MSMEs and SMBs, with ongoing support from Natton.",
+    "keywordThemes": [
+      "digital marketing for MSMEs",
+      "digital marketing for small businesses",
+      "SMB marketing strategy",
+      "website and SEO services",
+      "business growth marketing",
+      "local business marketing",
+      "GrowthOS",
+      "B2B and B2C marketing strategy",
+      "D2C marketing foundations"
+    ],
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/growth-os/"
+  },
+  {
+    "path": "/products/business-os/",
+    "title": "BusinessOS | CRM & Workflow Automation | Natton Digital",
+    "description": "Connect CRM, customer conversations and follow-up with BusinessOS. HighLevel-led workflows for SMEs, mid-market businesses and scoped enterprise teams.",
+    "keywordThemes": [
+      "CRM and workflow automation",
+      "CRM for MSMEs",
+      "business automation for SMBs",
+      "HighLevel CRM implementation",
+      "customer communication workflows",
+      "operational workflow automation",
+      "BusinessOS",
+      "CRM workflows for B2B companies",
+      "enterprise departmental automation",
+      "customer workflows for product and service businesses"
+    ],
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/business-os/"
+  },
+  {
+    "path": "/products/agentic-os/",
+    "title": "AgenticOS | Custom AI Agents & Workflows | Natton Digital",
+    "description": "Scoped AI-agent workflows for SMEs, mid-market and enterprise teams. Connect approved tools, human review and evaluation with Natton’s AgenticOS.",
+    "keywordThemes": [
+      "custom AI agents for business",
+      "AI workflow orchestration",
+      "agentic automation",
+      "multi-agent workflows",
+      "human-in-the-loop AI",
+      "AI automation consultancy",
+      "AgenticOS",
+      "AI agents for SMEs and enterprise teams",
+      "B2B workflow automation",
+      "marketplace support workflows"
+    ],
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/agentic-os/"
+  },
+  {
+    "path": "/products/ai-marketing-platform/",
+    "title": "AI Marketing Platforms | SEO, AEO & Campaigns | Natton",
+    "description": "Connect AI-assisted content, SEO, AEO and GEO, campaign preparation, review responses and lead follow-up. Custom marketing tools and workflows from Natton.",
+    "keywordThemes": [
+      "AI marketing platforms",
+      "custom AI marketing software",
+      "AI marketing consultancy",
+      "AI content and creative workflows",
+      "SEO AEO GEO services",
+      "AI search visibility",
+      "AI campaign planning",
+      "AI review response workflow",
+      "lead prioritisation and follow-up",
+      "marketing workflow integration"
+    ],
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/ai-marketing-platform/"
+  },
+  {
+    "path": "/industries/healthcare/",
+    "title": "Healthcare Marketing & Patient Enquiries | Natton Digital",
+    "description": "Healthcare marketing for hospitals, practices and diagnostics. Connect website design, SEO, local visibility and administrative enquiry follow-up with Natton.",
+    "keywordThemes": {
+      "primary": "healthcare marketing services",
+      "secondary": [
+        "digital marketing for hospitals",
+        "healthcare website design",
+        "healthcare SEO",
+        "local SEO for healthcare providers",
+        "patient enquiry management",
+        "appointment enquiry automation",
+        "marketing for hospital groups",
+        "healthcare administrative workflow automation"
+      ],
+      "intentNote": "Editorial keyword themes, not measured search volumes or validated keyword-difficulty estimates. Use service and location terms only where the provider actually operates."
+    },
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/healthcare/"
+  },
+  {
+    "path": "/industries/education-edtech/",
+    "title": "Education & EdTech Marketing Services | Natton Digital",
+    "description": "Education marketing for institutions, coaching and EdTech. Connect course pages, SEO, campaigns and admissions follow-up around informed learner decisions.",
+    "keywordThemes": {
+      "primary": "education marketing services",
+      "secondary": [
+        "digital marketing for educational institutions",
+        "EdTech marketing services",
+        "education website design",
+        "education SEO",
+        "admissions enquiry management",
+        "student enquiry CRM",
+        "coaching institute marketing",
+        "B2B corporate training marketing",
+        "marketing for education groups"
+      ],
+      "intentNote": "Editorial keyword themes, not measured search volumes. Choose programme and location phrases only after confirming the actual offering and target market."
+    },
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/education-edtech/"
+  },
+  {
+    "path": "/industries/real-estate/",
+    "title": "Real Estate Digital Marketing & CRM | Natton Digital",
+    "description": "Connect property websites, SEO, campaigns and CRM follow-up with Natton Digital. Marketing and enquiry workflows for developers, brokers and real estate teams.",
+    "keywordThemes": [
+      "real estate digital marketing",
+      "real estate marketing services",
+      "property marketing agency",
+      "real estate lead generation",
+      "real estate CRM automation",
+      "property website development",
+      "SEO for real estate",
+      "marketing for property developers",
+      "B2B commercial property marketing",
+      "CRM workflows for property developers"
+    ],
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/real-estate/"
+  },
+  {
+    "path": "/industries/manufacturing/",
+    "title": "Manufacturing & B2B Marketing Services | Natton Digital",
+    "description": "Make your manufacturing capabilities easier to find with websites, SEO, B2B campaigns and structured RFQ follow-up from Natton Digital.",
+    "keywordThemes": [
+      "manufacturing digital marketing",
+      "industrial marketing services",
+      "B2B marketing for manufacturers",
+      "manufacturing lead generation",
+      "industrial website development",
+      "SEO for manufacturers",
+      "RFQ management workflow",
+      "CRM for manufacturing sales",
+      "marketing for industrial enterprises",
+      "MNC manufacturing sales workflows",
+      "OEM website and RFQ management"
+    ],
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/manufacturing/"
+  },
+  {
+    "path": "/industries/retail-ecommerce/",
+    "title": "Retail & Ecommerce Marketing | Natton Digital",
+    "description": "Connect retail discovery, ecommerce websites, SEO, campaigns and customer follow-up. A practical marketing plan for stores and growing brands with Natton Digital.",
+    "keywordThemes": {
+      "primary": "retail and ecommerce marketing",
+      "secondary": [
+        "ecommerce SEO services",
+        "digital marketing for retail businesses",
+        "Shopify website development",
+        "WooCommerce marketing",
+        "local SEO for retail stores",
+        "ecommerce customer support automation",
+        "retail CRM automation",
+        "B2B ecommerce enquiry workflows",
+        "D2C brand marketing",
+        "marketplace customer support automation"
+      ],
+      "intent": "Business owners comparing a practical marketing and customer-journey partner; informational explanation plus service enquiry. Keyword themes are qualitative, not volume-verified."
+    },
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/retail-ecommerce/"
+  },
+  {
+    "path": "/industries/professional-services/",
+    "title": "Professional Services Marketing | Natton Digital",
+    "description": "Make expertise easier to understand with professional-services websites, SEO, content and organised enquiry follow-up. Build a practical plan with Natton Digital.",
+    "keywordThemes": {
+      "primary": "professional services marketing",
+      "secondary": [
+        "digital marketing for professional services",
+        "consulting firm website development",
+        "B2B services SEO",
+        "marketing for consultants",
+        "professional services lead management",
+        "CRM for consulting businesses",
+        "client onboarding automation",
+        "marketing for B2B service companies",
+        "enterprise client onboarding workflows"
+      ],
+      "intent": "Owners and business-development teams evaluating a marketing and enquiry-coordination partner. Themes are qualitative, not search-volume claims."
+    },
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/industries/professional-services/"
+  },
+  {
+    "path": "/about/",
+    "title": "About Natton Digital | Natton Digital",
+    "description": "People, ideas and technology, working for your growth. Learn how Natton connects marketing, customer operations and AI automation.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/about/"
+  },
+  {
+    "path": "/contact/",
+    "title": "Contact Natton Digital | Natton Digital",
+    "description": "Share your business goals, review your enquiry and contact Natton Digital by email, phone or WhatsApp.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/contact/"
+  },
+  {
+    "path": "/book-demo/",
+    "title": "Book a Strategy Consultation | Natton Digital",
+    "description": "Tell Natton about your goals, current tools and preferred availability. Our team will help shape a practical next step.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/book-demo/"
+  },
+  {
+    "path": "/resources/",
+    "title": "Resources | Natton Digital",
+    "description": "Explore Natton’s growth tools, AI readiness assessment, calculators, practical prompts and business guides.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/resources/"
+  },
+  {
+    "path": "/free-tools/",
+    "title": "Free Growth Tools | Natton Digital",
+    "description": "Practical tools to review your website, assess CRM foundations and model marketing and automation scenarios.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/free-tools/"
+  },
+  {
+    "path": "/ai-readiness-assessment/",
+    "title": "AI Readiness Assessment | Natton Digital",
+    "description": "A six-stage, self-reported assessment of your business profile, technology, processes, people, governance and practical next steps.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/ai-readiness-assessment/"
+  },
+  {
+    "path": "/roi-calculator/",
+    "title": "ROI & Automation Calculators | Natton Digital",
+    "description": "Eight editable calculators for revenue, marketing, automation, WhatsApp, calling, sales productivity and support.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/roi-calculator/"
+  },
+  {
+    "path": "/blog/",
+    "title": "The Natton Journal | Natton Digital",
+    "description": "Practical perspectives on AI, marketing and building a more connected business.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/blog/"
+  },
+  {
+    "path": "/compare/",
+    "title": "Compare Natton Solutions | Natton Digital",
+    "description": "Compare GrowthOS, BusinessOS, AgenticOS and AI Marketing Platforms around your current business priority.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/compare/"
+  },
+  {
+    "path": "/our-process/",
+    "title": "Our Six-Step Process | Natton Digital",
+    "description": "Understand, plan, build, connect, launch and improve. Clear outputs and shared responsibilities at each step.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/our-process/"
+  },
+  {
+    "path": "/privacy-policy/",
+    "title": "Privacy Information | Natton Digital",
+    "description": "How the restored enquiry form, email and WhatsApp handoff, and browser-based planning tools handle the information you choose to provide.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/privacy-policy/"
+  },
+  {
+    "path": "/blog/ai-enquiry-workflow/",
+    "title": "Where should AI enter your enquiry workflow? | Natton Digital",
+    "description": "Use a sales enquiry to separate useful AI assistance from the actions a person should own.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/blog/ai-enquiry-workflow/"
+  },
+  {
+    "path": "/blog/seo-aeo-geo-first-steps/",
+    "title": "SEO, AEO and GEO: what should your business do first? | Natton Digital",
+    "description": "Start with the page, the customer’s question and the evidence behind your answer. Avoid treating AI visibility as a guaranteed placement.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/blog/seo-aeo-geo-first-steps/"
+  },
+  {
+    "path": "/blog/measure-automation-value/",
+    "title": "Measure automation with time recovered and work completed | Natton Digital",
+    "description": "A small worked example shows why task coverage, review effort and operating costs belong in the same calculation.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/blog/measure-automation-value/"
+  },
+  {
+    "path": "/blog/crm-follow-up-fields/",
+    "title": "Five fields that make a customer follow-up easier to own | Natton Digital",
+    "description": "A record becomes useful when it explains the request, the responsible person and the next action.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/blog/crm-follow-up-fields/"
+  },
+  {
+    "path": "/services/seo-services/",
+    "title": "SEO Services & Search Optimization | Natton Digital",
+    "description": "Technical SEO, keyword research, on-page improvements, helpful content and transparent organic search reporting for businesses.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/seo-services/"
+  },
+  {
+    "path": "/services/website-development/",
+    "title": "Website Design & Development Services | Natton Digital",
+    "description": "Build a responsive, SEO-ready business website with clear service pages, lead forms, accessible design and an organised launch plan.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/website-development/"
+  },
+  {
+    "path": "/services/google-business-profile/",
+    "title": "Google Business Profile Optimization (GMB) | Natton Digital",
+    "description": "Set up and improve an eligible Google Business Profile with accurate details, authentic photos, local visibility guidance and review management.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/google-business-profile/"
+  },
+  {
+    "path": "/services/ppc-google-ads/",
+    "title": "PPC & Google Ads Management | Natton Digital",
+    "description": "Google Ads strategy, PPC keyword research, campaign setup, landing page optimisation, conversion tracking and transparent reporting.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/ppc-google-ads/"
+  },
+  {
+    "path": "/services/social-media-marketing/",
+    "title": "Social Media Marketing Services | Natton Digital",
+    "description": "Social strategy, content calendars, post design, community guidance and performance reporting for growing brands.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/social-media-marketing/"
+  },
+  {
+    "path": "/services/meta-ads/",
+    "title": "Meta Ads & Facebook Instagram Advertising | Natton Digital",
+    "description": "Plan, create and optimise Meta Ads campaigns for awareness, leads and sales with effective creatives and conversion tracking.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/meta-ads/"
+  },
+  {
+    "path": "/services/content-marketing/",
+    "title": "Content Marketing & Blog Writing | Natton Digital",
+    "description": "Content planning, website copy, SEO blogs, briefs, editing, internal links and ongoing content performance analysis.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/content-marketing/"
+  },
+  {
+    "path": "/services/aeo-ai-search/",
+    "title": "AEO & AI Search Optimization Services | Natton Digital",
+    "description": "Improve answer-focused content, structured information and search foundations for AI-assisted discovery without ranking guarantees.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/aeo-ai-search/"
+  },
+  {
+    "path": "/services/graphic-design-branding/",
+    "title": "Graphic Design Services | Natton Digital",
+    "description": "Brand identity, social graphics, campaign creatives, website banners and reusable visual design systems.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/graphic-design-branding/"
+  },
+  {
+    "path": "/services/email-marketing/",
+    "title": "Email Marketing & Automation Services | Natton Digital",
+    "description": "Create consent-based email campaigns, welcome flows, segmented lists, responsive templates and measurable follow-ups.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/email-marketing/"
+  },
+  {
+    "path": "/services/ecommerce-development/",
+    "title": "E-commerce Website Development | Natton Digital",
+    "description": "Build responsive stores with product catalogues, secure checkout integrations, order workflows and SEO foundations.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/ecommerce-development/"
+  },
+  {
+    "path": "/services/analytics-cro/",
+    "title": "Analytics & CRO Services | Natton Digital",
+    "description": "GA4 setup, conversion tracking, funnel analysis, landing-page optimisation and practical reporting for better digital decisions.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/analytics-cro/"
+  },
+  {
+    "path": "/services/ai-growth-marketing/",
+    "title": "AI Growth Marketing | Natton Digital",
+    "description": "Bring research, creative work, search, advertising and lead measurement into a focused marketing engagement, with specialists responsible for the decisions.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/services/ai-growth-marketing/"
+  },
+  {
+    "path": "/products/ai-marketing-saas/",
+    "title": "AI Marketing Software & SaaS Development | Natton Digital",
+    "description": "Custom AI marketing software for content, SEO, campaigns, review replies and lead prioritisation. Natton plans, builds and supports your team’s workflow.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/ai-marketing-saas/"
+  },
+  {
+    "path": "/products/crm-ai-automation/",
+    "title": "CRM & Marketing Automation Solutions | Natton Digital",
+    "description": "Connect customer records, sales pipelines, bookings, email and WhatsApp with CRM automation. Natton plans, builds and supports a setup around your business.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/crm-ai-automation/"
+  },
+  {
+    "path": "/products/conversational-ai/",
+    "title": "Conversational AI & Chatbot Solutions | Natton Digital",
+    "description": "Connect WhatsApp, AI calling, cloud telephony and RCS around one customer journey. Natton designs channel workflows, CRM context and human handover.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/conversational-ai/"
+  },
+  {
+    "path": "/products/whatsapp-automation/",
+    "title": "WhatsApp Automation & Chatbot Services | Natton Digital",
+    "description": "Connect WhatsApp chatbots, campaigns, bookings, catalogues and support with your CRM. Natton designs, integrates and supports your customer journeys.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/whatsapp-automation/"
+  },
+  {
+    "path": "/products/ai-calling-agents/",
+    "title": "AI Calling Agent Development & Integration | Natton Digital",
+    "description": "Custom AI calling agents for routine enquiries, qualification and appointment workflows. Natton designs voice journeys, system connections and human handover.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/ai-calling-agents/"
+  },
+  {
+    "path": "/products/cloud-telephony/",
+    "title": "Cloud Telephony & IVR Solutions | Natton Digital",
+    "description": "Organise business calls with cloud telephony, IVR, call routing and CRM integration. Natton plans, configures and supports calling workflows around your team.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/cloud-telephony/"
+  },
+  {
+    "path": "/products/rcs-messaging/",
+    "title": "RCS Business Messaging Solutions | Natton Digital",
+    "description": "Create rich business messaging journeys with RCS cards, carousels and useful actions. Natton plans campaigns, integrations and fallback around supported audiences.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/rcs-messaging/"
+  },
+  {
+    "path": "/products/ai-agents/",
+    "title": "AI Agents & Workflow Automation Services | Natton Digital",
+    "description": "Connect apps and reduce repetitive work with custom AI agents and workflow automation. Natton maps, builds, tests and supports processes around your business.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/ai-agents/"
+  },
+  {
+    "path": "/products/platforms/",
+    "title": "Marketing & Automation Products | Natton Digital",
+    "description": "AI marketing, CRM, conversational AI, WhatsApp, voice agents, cloud telephony, RCS and agent workflow products.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/products/platforms/"
+  },
+  {
+    "path": "/page-collection/",
+    "title": "Page Collection | Natton Digital",
+    "description": "Review the product and industry pages.",
+    "canonical": "https://natton-products-industries.abhijitdivate63.chatgpt.site/page-collection/"
+  }
+]

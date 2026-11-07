@@ -1,0 +1,90 @@
+[
+  {
+    "id": "website-development",
+    "name": "Website Design & Development",
+    "url": "/services/website-development/",
+    "seo": "Website Design & Development Services | Natton Digital",
+    "meta": "Build a responsive, SEO-ready business website with clear service pages, lead forms, accessible design and an organised launch plan."
+  },
+  {
+    "id": "seo-services",
+    "name": "Search Engine Optimization (SEO)",
+    "url": "/services/seo-services/",
+    "seo": "SEO Services & Search Optimization | Natton Digital",
+    "meta": "Technical SEO, keyword research, on-page improvements, helpful content and transparent organic search reporting for businesses."
+  },
+  {
+    "id": "google-business-profile",
+    "name": "Google Business Profile (GMB/GBP)",
+    "url": "/services/google-business-profile/",
+    "seo": "Google Business Profile Optimization (GMB) | Natton Digital",
+    "meta": "Set up and improve an eligible Google Business Profile with accurate details, authentic photos, local visibility guidance and review management."
+  },
+  {
+    "id": "ppc-google-ads",
+    "name": "PPC & Google Ads Management",
+    "url": "/services/ppc-google-ads/",
+    "seo": "PPC & Google Ads Management | Natton Digital",
+    "meta": "Google Ads strategy, PPC keyword research, campaign setup, landing page optimisation, conversion tracking and transparent reporting."
+  },
+  {
+    "id": "social-media-marketing",
+    "name": "Social Media Marketing",
+    "url": "/services/social-media-marketing/",
+    "seo": "Social Media Marketing Services | Natton Digital",
+    "meta": "Social strategy, content calendars, post design, community guidance and performance reporting for growing brands."
+  },
+  {
+    "id": "meta-ads",
+    "name": "Meta Ads (Facebook & Instagram)",
+    "url": "/services/meta-ads/",
+    "seo": "Meta Ads & Facebook Instagram Advertising | Natton Digital",
+    "meta": "Plan, create and optimise Meta Ads campaigns for awareness, leads and sales with effective creatives and conversion tracking."
+  },
+  {
+    "id": "content-marketing-blogging",
+    "name": "Content Marketing & Blogging",
+    "url": "/services/content-marketing/",
+    "seo": "Content Marketing & Blog Writing | Natton Digital",
+    "meta": "Content planning, website copy, SEO blogs, briefs, editing, internal links and ongoing content performance analysis."
+  },
+  {
+    "id": "aeo-ai-search",
+    "name": "AEO & AI Search Optimization",
+    "url": "/services/aeo-ai-search/",
+    "seo": "AEO & AI Search Optimization Services | Natton Digital",
+    "meta": "Improve answer-focused content, structured information and search foundations for AI-assisted discovery without ranking guarantees."
+  },
+  {
+    "id": "graphic-design-branding",
+    "name": "Graphic Design",
+    "url": "/services/graphic-design-branding/",
+    "seo": "Graphic Design Services | Natton Digital",
+    "meta": "Brand identity, social graphics, campaign creatives, website banners and reusable visual design systems."
+  },
+  {
+    "id": "email-marketing",
+    "name": "Email Marketing & Automation",
+    "url": "/services/email-marketing/",
+    "seo": "Email Marketing & Automation Services | Natton Digital",
+    "meta": "Create consent-based email campaigns, welcome flows, segmented lists, responsive templates and measurable follow-ups."
+  },
+  {
+    "id": "ecommerce-development",
+    "name": "E-commerce Website Development",
+    "url": "/services/ecommerce-development/",
+    "seo": "E-commerce Website Development | Natton Digital",
+    "meta": "Build responsive stores with product catalogues, secure checkout integrations, order workflows and SEO foundations."
+  },
+  {
+    "id": "analytics-cro",
+    "name": "Analytics & Conversion Rate Optimization",
+    "url": "/services/analytics-cro/",
+    "seo": "Analytics & CRO Services | Natton Digital",
+    "meta": "GA4 setup, conversion tracking, funnel analysis, landing-page optimisation and practical reporting for better digital decisions."
+  },
+  {
+    "id": "ai-growth-marketing",
+    "name": "AI Growth Marketing"
+  }
+]

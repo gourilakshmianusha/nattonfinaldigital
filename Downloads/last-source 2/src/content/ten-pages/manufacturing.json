@@ -1,0 +1,200 @@
+{
+  "slug": "manufacturing",
+  "title": "Manufacturing",
+  "eyebrow": "INDUSTRY / MANUFACTURING",
+  "headline": "Make your capabilities easier to find. Your enquiries easier to act on.",
+  "description": "Help buyers understand what you make, where your capabilities fit and how to start a useful conversation. Natton Digital connects industrial websites, B2B marketing and enquiry workflows for manufacturers, suppliers and growing production businesses.",
+  "metaTitle": "Manufacturing & B2B Marketing Services | Natton Digital",
+  "metaDescription": "Make your manufacturing capabilities easier to find with websites, SEO, B2B campaigns and structured RFQ follow-up from Natton Digital.",
+  "keywords": [
+    "manufacturing digital marketing",
+    "industrial marketing services",
+    "B2B marketing for manufacturers",
+    "manufacturing lead generation",
+    "industrial website development",
+    "SEO for manufacturers",
+    "RFQ management workflow",
+    "CRM for manufacturing sales"
+  ],
+  "audience": [
+    "MSME manufacturers and component suppliers",
+    "Industrial equipment and engineering businesses",
+    "B2B suppliers, distributors and exporters",
+    "Focused sales or business-development teams within larger enterprises"
+  ],
+  "needs": [
+    {
+      "title": "Strong capabilities, a weak online explanation",
+      "description": "Buyers need clear products, applications, capabilities and contact routes. A general company brochure may not answer the questions behind a specific sourcing requirement.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Enquiries lack the information to assess fit",
+      "description": "A useful RFQ route can capture the product or application, specifications, quantities, destination and timing that your sales team needs, with an appropriate way to submit documents.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Technical and commercial follow-up lose context",
+      "description": "Define ownership and handovers between business development, technical teams and commercial teams so the next action remains visible.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Marketing reports stop before business relevance",
+      "description": "Review relevant enquiries, accepted RFQs, follow-up and opportunity progress alongside visibility and campaign activity. Volume alone can hide requests your business cannot serve.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "example": {
+    "title": "Illustrative RFQ journey",
+    "description": "A procurement contact asks about a component. The example illustrates enquiry coordination; technical feasibility, pricing and delivery commitments remain with the authorised manufacturer team.",
+    "steps": [
+      "Requirement submitted",
+      "RFQ information captured",
+      "Technical or commercial owner assigned",
+      "Response and follow-up recorded"
+    ],
+    "note": "Illustrative example. No live customer data or business-system connection is used."
+  },
+  "deliverables": [
+    "An agreed buyer, capability and market plan",
+    "Industrial website or capability-page improvements",
+    "SEO and technical content priorities",
+    "Relevant B2B campaign assets and enquiry routes",
+    "A scoped RFQ/CRM workflow and review framework"
+  ],
+  "timing": "We phase the work around access, technical information, subject-expert review and integration requirements. Capability pages and enquiry handling come before dependent campaigns. SEO and B2B opportunity development require continuing review, and their pace varies by market, competition and the buyer's purchasing process.",
+  "faqs": [
+    {
+      "question": "Is this suitable for an MSME manufacturer or an industrial supplier?",
+      "answer": "Yes. A smaller manufacturer may begin with clear capability pages, search visibility and an organised enquiry process. An established supplier or enterprise team may need more detailed content, campaign segmentation and CRM coordination. The scope follows your market, capacity and sales process."
+    },
+    {
+      "question": "How is manufacturing marketing different from ordinary consumer marketing?",
+      "answer": "A business requirement may involve technical evaluators, procurement and commercial stakeholders. We therefore build information around specifications, applications, capabilities and the questions needed to assess a supplier. Channels and content are chosen for your buyers; we do not assume that a broad consumer-style campaign is the right starting point."
+    },
+    {
+      "question": "Will the website manage our inventory, production and ERP?",
+      "answer": "Those are separate operational requirements. This marketing scope can connect enquiry information, notifications and agreed updates where suitable access and integrations exist. Full ERP implementation, stock control, production planning or automated ordering needs dedicated discovery, responsibilities and validation before it is promised."
+    },
+    {
+      "question": "What technical information do we need to provide?",
+      "answer": "Typical inputs include product categories, specifications, applications, manufacturing capabilities, service regions, approved facility imagery and the questions needed for an RFQ. Your team reviews technical claims, certificates and downloadable documents. Confidential customer drawings or sensitive production information should not be published as marketing content."
+    },
+    {
+      "question": "Can you help with export enquiries or specific B2B markets?",
+      "answer": "We can assess a defined market, buyer profile and offer, then plan appropriate pages, content and campaigns. That assessment includes language, logistics and commercial information your team can support. Marketing activity cannot guarantee export orders or remove the need for your own commercial and technical evaluation."
+    },
+    {
+      "question": "How do you judge success and plan ongoing work?",
+      "answer": "We agree what makes an enquiry useful, which RFQs are accepted and which stages the team will record. Reviews connect website and campaign activity with that business context. Media budgets, implementation work, subscriptions and ongoing management are identified separately in the proposal, and the scope can expand when the evidence supports it."
+    }
+  ],
+  "definition": {
+    "title": "What is manufacturing digital marketing?",
+    "body": "Manufacturing digital marketing helps business buyers discover a supplier, understand its capabilities and decide whether to discuss a requirement. Useful websites, technical content, search visibility and selected B2B campaigns support that evaluation. Enquiry and CRM workflows help connect the first request with the people who can qualify it, prepare a response and follow it through. A request for quotation (RFQ) is a buyer’s request for a priced response to a defined requirement."
+  },
+  "services": [
+    {
+      "title": "Industrial websites & capability pages",
+      "description": "Organise products, applications, manufacturing capabilities and enquiry routes so potential buyers can evaluate fit. Publish specifications, facilities and certifications only when accurate and approved.",
+      "icon": "",
+      "linkLabel": "Website development"
+    },
+    {
+      "title": "SEO for products, capabilities & applications",
+      "description": "Build useful pages around what buyers are researching: the product, manufacturing process, application or sourcing requirement. Use clear technical language supplied and reviewed by your subject experts.",
+      "icon": "",
+      "linkLabel": "SEO services"
+    },
+    {
+      "title": "Focused B2B campaigns",
+      "description": "Choose search, LinkedIn or other relevant channels around the buyers and markets you can serve. Match campaigns to an appropriate capability page, enquiry route and follow-up owner.",
+      "icon": "",
+      "linkLabel": "Paid advertising"
+    },
+    {
+      "title": "Technical content & sales-support material",
+      "description": "Turn approved engineering knowledge into application explainers, capability profiles, case material and practical sales assets. Help both technical evaluators and commercial stakeholders understand the offer.",
+      "icon": "",
+      "linkLabel": "Content marketing"
+    },
+    {
+      "title": "RFQ capture & sales coordination",
+      "description": "Create a structured enquiry process with agreed fields, routing and CRM stages. Keep the request, relevant documents, owner and next follow-up connected, with technical requirements reviewed by your team.",
+      "icon": "",
+      "linkLabel": "CRM & AI automation"
+    },
+    {
+      "title": "Scoped business-system connections",
+      "description": "Assess notifications and information updates between the CRM, approved forms and existing business systems. ERP, stock control, production planning and dispatch automation require their own discovery and implementation scope.",
+      "icon": "",
+      "linkLabel": "Workflow automation"
+    }
+  ],
+  "process": [
+    {
+      "title": "Understand the capability and buyer",
+      "description": "Review the products, applications, target accounts, regions and minimum commercial or technical fit. Identify who evaluates the supplier and which questions the current website leaves unanswered.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Build a credible information foundation",
+      "description": "Prepare capability pages, product details, approved imagery and useful enquiry forms. Agree ownership, required RFQ fields, measurement and the material that can be shared publicly.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Create relevant market visibility",
+      "description": "Develop the agreed SEO, content and campaign work around real applications and buyer needs. Select channels according to the market rather than assuming every manufacturer needs the same platform.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Route enquiries to the right people",
+      "description": "Connect the incoming requirement to an owner and the appropriate technical or commercial review. Use reminders and status updates for agreed routine steps, with people responsible for quotations and commitments.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Review fit, follow-up and market response",
+      "description": "Review enquiry relevance, RFQ acceptance and recorded opportunity movement with the team. Improve the message, pages and handovers, and expand the scope when a clear business need emerges.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Relevant business enquiries",
+      "description": "Review enquiries that fit your products, capabilities, market and commercial criteria.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Accepted RFQs",
+      "description": "Track requirements the team considers suitable for a technical or commercial response.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Response and follow-up visibility",
+      "description": "Monitor ownership, open actions and response patterns for the enquiries you choose to track.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Opportunity and channel learning",
+      "description": "Review recorded opportunity stages and the channels contributing to useful discussions, with attribution limits made clear.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "scopeNote": "",
+  "photo": "/media/ten-pages/manufacturing/industries/manufacturing.webp",
+  "path": "/industries/manufacturing/",
+  "kind": "industry"
+}

@@ -1,0 +1,25 @@
+.natton-solutions .delivery-selector { --delivery-accent: var(--ex-strong, #237786); --delivery-ink: var(--ex-ink, #152b40); --delivery-muted: var(--ex-muted, #526779); display: grid; grid-template-columns: 1fr 1fr; gap: clamp(24px, 5vw, 72px); align-items: start; }
+.natton-solutions .delivery-stage-list { display: grid; gap: 14px; }
+.natton-solutions .delivery-stage { display: flex; width: 100%; gap: 18px; padding: 23px; text-align: left; border: 1px solid color-mix(in srgb, var(--delivery-accent) 20%, transparent); border-radius: 17px; color: var(--delivery-ink); background: #ffffff50; cursor: pointer; transition: background .2s, border-color .2s; }
+.natton-solutions .delivery-stage.is-selected { border-color: var(--delivery-accent); background: color-mix(in srgb, var(--delivery-accent) 9%, white); }
+.natton-solutions .delivery-stage:focus-visible, .natton-solutions .delivery-detail:focus-visible { outline: 3px solid var(--delivery-accent); outline-offset: 4px; }
+.natton-solutions .delivery-checkbox { display: grid; place-items: center; flex: none; width: 25px; height: 25px; border: 1px solid var(--delivery-accent); border-radius: 6px; color: white; margin-top: 3px; }
+.natton-solutions .is-selected .delivery-checkbox { background: var(--delivery-accent); }
+.natton-solutions .delivery-stage strong { display: block; font-size: 22px; line-height: 1.3; }
+.natton-solutions .delivery-stage-description { display: block; margin-top: 10px; color: var(--delivery-muted); font-size: 13px; line-height: 1.8; }
+.natton-solutions .delivery-detail { border: 1px solid #ffffffa0; border-radius: 22px; padding: clamp(24px, 3vw, 36px); background: linear-gradient(135deg,#ffffffef,#ffffffa0); box-shadow: 0 15px 45px #102b4010; color: var(--delivery-ink); }
+.natton-solutions .delivery-label { display: block; color: var(--delivery-accent); font-size: 10px; font-weight: 700; letter-spacing: .13em; line-height: 1.7; }
+.natton-solutions .delivery-detail h3 { margin: 16px 0 12px; font-size: 28px; line-height: 1.2; }
+.natton-solutions .delivery-detail p { color: var(--delivery-muted); font-size: 14px; line-height: 1.8; }
+.natton-solutions .delivery-detail-list { list-style: none; padding: 0; margin: 24px 0; display: grid; gap: 16px; }
+.natton-solutions .delivery-detail-list li { display: flex; gap: 12px; font-size: 14px; line-height: 1.7; }
+.natton-solutions .delivery-detail-list svg { flex: none; color: var(--delivery-accent); margin-top: 3px; }
+.natton-solutions .delivery-measures { padding-top: 22px; margin-top: 24px; border-top: 1px solid #152b401a; }
+.natton-solutions .delivery-measures p { display: flex; align-items: center; gap: 10px; margin-top: 12px; font-size: 12px; }
+.natton-solutions .delivery-measures svg { flex: none; }
+.natton-solutions .delivery-measures small { display: block; margin-top: 16px; font-size: 11px; color: var(--delivery-muted); }
+.natton-solutions .delivery-contact { display: inline-flex; align-items: center; gap: 12px; margin-top: 26px; font-size: 13px; font-weight: 700; color: var(--delivery-accent); }
+@media (max-width: 800px) { .natton-solutions .delivery-selector { grid-template-columns: 1fr; } }
+
+.natton-solutions .delivery-stage{background:#fff;color:var(--delivery-ink)}
+.natton-solutions .delivery-stage-description{color:#526779}

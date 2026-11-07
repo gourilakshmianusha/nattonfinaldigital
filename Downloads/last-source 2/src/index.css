@@ -1,0 +1,483 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  /* Brand Colors - Matched Exactly to the Premium Logo Image Palette */
+  --color-primary: #2E9CAE; /* Logo Sky Teal-Blue */
+  --color-secondary: #99D57C; /* Logo Leaf Green */
+  --color-accent: #47C7BF; /* Logo Vibrant Turquoise Teal */
+  --color-dark: #110B33; /* Logo Deep Violet-Navy Text */
+  --color-light: #F5F9FA; /* Off-white with a soft teal hint */
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  font-feature-settings: 'liga';
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+.catalog-icon {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html,
+  body,
+  #root {
+    width: 100%;
+    min-height: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  html,
+  body {
+    overflow-x: clip;
+  }
+
+  #root,
+  #root > div,
+  .site-main,
+  .site-main > * {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .site-main {
+    padding-top: 6.5rem;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+  }
+
+  img,
+  video,
+  canvas,
+  svg {
+    max-width: 100%;
+  }
+
+  button,
+  input,
+  select,
+  textarea {
+    max-width: 100%;
+  }
+
+  button,
+  a {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .site-main {
+    padding-top: 8rem;
+  }
+
+  .site-header > div:first-child {
+    flex-wrap: wrap;
+    row-gap: 0.25rem;
+  }
+
+  .site-header > div:first-child > span {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .site-main button,
+  .site-main a,
+  header button {
+    max-width: 100%;
+    white-space: normal;
+  }
+}
+
+@media (max-width: 420px) {
+  .site-header .mobile-header-logo img {
+    width: 128px;
+    height: auto;
+  }
+
+  .site-header > div:last-of-type {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}
+
+.mobile-drawer-cta {
+  padding-bottom: max(0.25rem, env(safe-area-inset-bottom));
+}
+
+.mobile-drawer {
+  scrollbar-gutter: stable;
+}
+
+@media (max-width: 1279px) {
+  .mobile-drawer {
+    max-height: calc(100dvh - var(--mobile-header-height, 7rem));
+  }
+}
+
+@media (max-width: 420px) {
+  .mobile-drawer {
+    --mobile-header-height: 10.5rem;
+  }
+}
+
+@media (min-width: 421px) and (max-width: 1279px) {
+  .mobile-drawer {
+    --mobile-header-height: 7rem;
+  }
+}
+
+.service-theme-dark {
+  background-color: #110b33;
+  color: #ffffff;
+}
+
+.service-theme-dark [class~="bg-white"],
+.service-theme-dark [class~="bg-[#F5F9FA]"] {
+  background-color: #171346;
+}
+
+.service-theme-dark [class~="text-[#110B33]"] {
+  color: #ffffff;
+}
+
+.service-theme-dark [class~="text-[#5b647a]"] {
+  color: #c1c5d3;
+}
+
+.service-theme-dark [class~="text-[#176b72]"] {
+  color: #47c7bf;
+}
+
+.service-theme-dark [class~="border-[#dce8eb]"],
+.service-theme-dark [class~="border-[#d5e3e5]"] {
+  border-color: rgb(255 255 255 / 12%);
+}
+
+/* Pages with a light outer surface still contain legacy dark-theme text utilities. */
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h1.text-white,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h2.text-white,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h3.text-white,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h4.text-white,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] p.text-gray-300,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] p.text-gray-400,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] p.text-slate-400 {
+  color: #334155 !important;
+}
+
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h1.text-white,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h2.text-white,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h3.text-white,
+html:not(.dark) .site-main > [class*="bg-[#F5F9FA]"] h4.text-white {
+  color: #110b33 !important;
+}
+
+/* About uses a legacy dark visual system internally; mirror it for light mode. */
+html:not(.dark) .about-page section {
+  background-color: #f5f9fa;
+  background-image: none;
+  border-color: #dbe5e8;
+  color: #110b33;
+}
+
+html:not(.dark) .about-page [class*="bg-[#110B33]"],
+html:not(.dark) .about-page [class*="bg-dark/"],
+html:not(.dark) .about-page [class*="bg-indigo-950/"],
+html:not(.dark) .about-page [class*="bg-purple-950/"] {
+  background-color: #ffffff !important;
+  background-image: none !important;
+}
+
+html:not(.dark) .about-page [class*="bg-white/"],
+html:not(.dark) .about-page [class*="bg-black/"] {
+  background-color: #ffffff !important;
+}
+
+html:not(.dark) .about-page [class*="border-white/"] {
+  border-color: #dbe5e8 !important;
+}
+
+html:not(.dark) .about-page [class*="text-white"],
+html:not(.dark) .about-page [class*="text-gray-300"],
+html:not(.dark) .about-page [class*="text-gray-400"] {
+  color: #334155 !important;
+}
+
+html:not(.dark) .about-page button,
+html:not(.dark) .about-page a {
+  color: #ffffff;
+}
+
+html:not(.dark) .about-page input,
+html:not(.dark) .about-page select,
+html:not(.dark) .about-page textarea {
+  background-color: #ffffff !important;
+  border-color: #cbd5e1 !important;
+  color: #110b33 !important;
+}
+
+/* Glassmorphism utility classes */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.glass-panel-light {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(8, 17, 32, 0.05);
+}
+
+.glass-card {
+  background: rgba(11, 95, 255, 0.02);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(11, 95, 255, 0.08);
+}
+
+/* Neon Glow utilities */
+.glow-primary {
+  box-shadow: 0 0 25px rgba(11, 95, 255, 0.25);
+}
+
+.glow-secondary {
+  box-shadow: 0 0 25px rgba(0, 194, 255, 0.25);
+}
+
+.glow-accent {
+  box-shadow: 0 0 25px rgba(123, 97, 255, 0.25);
+}
+
+/* Custom Animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-10px) rotate(1deg);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 0.3;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.6;
+    transform: scale(1.05);
+  }
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 8s ease-in-out infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 25s linear infinite;
+}
+
+.service-marquee-window {
+  overflow: hidden;
+  mask-image: linear-gradient(to right, transparent, #000 4%, #000 96%, transparent);
+}
+
+.service-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 65s linear infinite;
+}
+
+.service-marquee:hover .service-marquee-track,
+.service-marquee:focus-within .service-marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .service-marquee-window {
+    overflow-x: auto;
+    mask-image: none;
+  }
+
+  .service-marquee-track {
+    animation: none !important;
+  }
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ==========================================================================
+   Logo Brand Color & Gradient Overrides for the Entire Website
+   ========================================================================== */
+
+/* Overriding hardcoded Tailwind cyan (#00C2FF) with official logo vibrant turquoise-teal (#47C7BF) */
+.text-\[\#00C2FF\] {
+  color: #237786 !important;
+}
+.bg-\[\#00C2FF\] {
+  background-color: #47C7BF !important;
+}
+.border-\[\#00C2FF\] {
+  border-color: #47C7BF !important;
+}
+.hover\:text-\[\#00C2FF\]:hover {
+  color: #47C7BF !important;
+}
+.hover\:bg-\[\#00C2FF\]:hover {
+  background-color: #47C7BF !important;
+}
+.hover\:border-\[\#00C2FF\]:hover {
+  border-color: #47C7BF !important;
+}
+.focus\:border-\[\#00C2FF\]:focus {
+  border-color: #47C7BF !important;
+}
+.bg-\[\#00C2FF\]\/10 {
+  background-color: rgba(71, 199, 191, 0.1) !important;
+}
+.bg-\[\#00C2FF\]\/20 {
+  background-color: rgba(71, 199, 191, 0.2) !important;
+}
+.bg-\[\#00C2FF\]\/5 {
+  background-color: rgba(71, 199, 191, 0.05) !important;
+}
+.border-l-4.border-\[\#00C2FF\] {
+  border-left-color: #47C7BF !important;
+}
+
+/* Overriding other blue/purple gradients with the official logo leaf-green -> turquoise -> sky-blue gradient */
+.bg-gradient-to-r.from-blue-600.to-purple-600,
+.bg-gradient-to-r.from-blue-600.via-violet-600.to-indigo-600,
+.bg-gradient-to-r.from-blue-500.via-purple-500.to-cyan-500,
+.bg-gradient-to-r.from-primary.via-\[\#00C2FF\].to-accent,
+.bg-gradient-to-r.from-purple-600.to-blue-600,
+.bg-gradient-to-r.from-purple-500\/10.via-blue-500\/5.to-transparent,
+.bg-gradient-to-r.from-purple-500\/10.to-transparent,
+.bg-gradient-to-r.from-purple-500\/15.through-cyan-500\/5.to-transparent,
+.bg-gradient-to-r.from-blue-500\/10.via-purple-500\/10.to-transparent,
+.bg-gradient-to-r.from-blue-600\/20.via-purple-600\/20.to-transparent,
+.bg-gradient-to-r.from-blue-500\/10.via-violet-500\/5.to-transparent,
+.bg-gradient-to-l.from-blue-500\/10.via-violet-500\/5.to-transparent,
+.bg-gradient-to-r.from-emerald-600.to-teal-500 {
+  background-image: linear-gradient(135deg, #99D57C 0%, #47C7BF 45%, #2E9CAE 100%) !important;
+}
+
+/* Overriding text gradient clips with the official logo gradient */
+.text-transparent.bg-gradient-to-r.from-primary.via-\[\#00C2FF\].to-accent,
+.text-transparent.bg-gradient-to-r.from-blue-400.via-purple-300.to-cyan-400,
+.text-transparent.bg-gradient-to-r.from-blue-400.via-indigo-300.to-purple-400,
+.text-transparent.bg-gradient-to-r.from-blue-400.via-violet-300.to-slate-400,
+.text-transparent.bg-gradient-to-r.from-purple-400.via-cyan-300.to-emerald-400,
+.text-transparent.bg-gradient-to-r.from-purple-400.to-emerald-400,
+.text-transparent.bg-gradient-to-r.from-purple-400.via-indigo-300.to-purple-400 {
+  background-image: linear-gradient(135deg, #99D57C 0%, #47C7BF 45%, #2E9CAE 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+}
+
+/* Global focus and selection styles matched to logo teal */
+::selection {
+  background-color: rgba(71, 199, 191, 0.3);
+  color: inherit;
+}
+
+/* Slow ambient movement keeps the About hero lively without moving its content. */
+.about-hero-image {
+  animation: about-background-drift 24s ease-in-out infinite alternate;
+  transform-origin: 70% 50%;
+}
+
+.about-hero-glow {
+  animation: about-glow-drift 14s ease-in-out infinite alternate;
+}
+
+.about-hero-glow-secondary {
+  animation-delay: -7s;
+  animation-duration: 18s;
+}
+
+@keyframes about-background-drift {
+  from { transform: scale(1.04) translate3d(-0.5%, 0, 0); }
+  to { transform: scale(1.13) translate3d(1%, -1%, 0); }
+}
+
+@keyframes about-glow-drift {
+  from { transform: translate3d(0, 0, 0); opacity: 0.45; }
+  to { transform: translate3d(-40px, 25px, 0); opacity: 0.85; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .about-hero-image,
+  .about-hero-glow {
+    animation: none !important;
+  }
+}

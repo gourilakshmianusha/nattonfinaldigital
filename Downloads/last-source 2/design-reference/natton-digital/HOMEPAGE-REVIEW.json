@@ -1,0 +1,61 @@
+{
+  "homepage": "Root route",
+  "bodySections": [
+    "Who we are",
+    "Why choose us: six original reasons",
+    "All service, product and solution options",
+    "Interactive working process",
+    "Stacked outcome marquees",
+    "Separate service and solution tool logos",
+    "Six industry perspectives",
+    "Our Clientele: eight supplied logos in a marquee",
+    "Three FAQs",
+    "Contact and shared footer"
+  ],
+  "heroSourceFilesPreserved": 7,
+  "heroImageAssetsPreserved": 194,
+  "browser": {
+    "viewportWidths": [
+      360,
+      753,
+      1009,
+      1425
+    ],
+    "horizontalOverflow": false,
+    "clippedMainContainers": false,
+    "offeringLinks": [
+      13,
+      8,
+      4,
+      3
+    ],
+    "toolsLinks": 0,
+    "brokenImages": 0,
+    "whyChooseUs": {
+      "cards": 6,
+      "concreteExamples": 6,
+      "decorativeDiagramSvg": 0
+    },
+    "pipeline": "Button moves Meera Shah from New enquiry to In conversation; column counts and live update verified",
+    "process": "Shape then ArrowRight selects Build & launch and shows Launch checklist workspace",
+    "menu": "Desktop outside click and mobile outside click verified; eight product links plus overview",
+    "marquees": "Both CSS timelines pause via control; compact saturated bands",
+    "tablets": "About image width corrected to its grid track",
+    "clientele": "Eight source logos retained with exact Our Clientele heading",
+    "hero": "Seven source files and 194 assets unchanged"
+  },
+  "performance": {
+    "newRuntimeDependency": false,
+    "newGeneratedScene": "960px WebP 86 KB / 1280px WebP 127 KB",
+    "newDemoUI": "Native React/HTML; no external CRM or model call",
+    "photographs": "Responsive WebP and lazy loading",
+    "newMotion": "CSS lead movement; visibility/pause/reduced-motion handling retained"
+  },
+  "references": [
+    "https://dribbble.com/shots/23235913-Time-to-Refokus-Mentoring",
+    "https://dribbble.com/search/marquee-animation-for-technical-websites",
+    "Attached four-second ribbon-motion reference"
+  ],
+  "sourceNotes": "The original hero was copied byte for byte. Unsupported compliance badges from the old footer are not introduced into the new shell. Client names and logos come from the supplied website source; no result metrics or testimonials were invented.",
+  "revision": "Manager-review homepage redesign, 4 November 2026"
+}

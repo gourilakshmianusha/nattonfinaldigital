@@ -1,0 +1,959 @@
+{
+  "complete": true,
+  "results": [
+    {
+      "route": "/404/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/about/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/ai-readiness-assessment/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/ai-enquiry-workflow/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/crm-follow-up-fields/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/measure-automation-value/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/seo-aeo-geo-first-steps/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/book-demo/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/compare/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/contact/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/free-tools/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/education-edtech/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/healthcare/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/manufacturing/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/professional-services/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/real-estate/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/retail-ecommerce/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/our-process/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/page-collection/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/agentic-os/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-agents/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-calling-agents/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-marketing-platform/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-marketing-saas/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/business-os/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/cloud-telephony/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/conversational-ai/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/crm-ai-automation/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/growth-os/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/platforms/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/rcs-messaging/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/whatsapp-automation/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/resources/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/roi-calculator/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/aeo-ai-search/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ai-growth-marketing/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/analytics-cro/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/content-marketing/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ecommerce-development/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/email-marketing/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/google-business-profile/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/graphic-design-branding/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/meta-ads/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ppc-google-ads/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/seo-services/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/social-media-marketing/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/website-development/",
+      "width": 1360,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/404/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/about/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/ai-readiness-assessment/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/ai-enquiry-workflow/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/crm-follow-up-fields/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/measure-automation-value/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/seo-aeo-geo-first-steps/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/book-demo/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/compare/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/contact/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/free-tools/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/education-edtech/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/healthcare/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/manufacturing/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/professional-services/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/real-estate/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/retail-ecommerce/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/our-process/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/page-collection/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/agentic-os/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-agents/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-calling-agents/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-marketing-platform/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-marketing-saas/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/business-os/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/cloud-telephony/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/conversational-ai/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/crm-ai-automation/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/growth-os/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/platforms/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/rcs-messaging/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/whatsapp-automation/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/resources/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/roi-calculator/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/aeo-ai-search/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ai-growth-marketing/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/analytics-cro/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/content-marketing/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ecommerce-development/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/email-marketing/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/google-business-profile/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/graphic-design-branding/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/meta-ads/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ppc-google-ads/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/seo-services/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/social-media-marketing/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/website-development/",
+      "width": 768,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/404/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/about/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/ai-readiness-assessment/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/ai-enquiry-workflow/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/crm-follow-up-fields/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/measure-automation-value/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/blog/seo-aeo-geo-first-steps/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/book-demo/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/compare/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/contact/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/free-tools/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/education-edtech/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/healthcare/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/manufacturing/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/professional-services/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/real-estate/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/industries/retail-ecommerce/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/our-process/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/page-collection/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/agentic-os/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-agents/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-calling-agents/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-marketing-platform/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/ai-marketing-saas/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/business-os/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/cloud-telephony/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/conversational-ai/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/crm-ai-automation/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/growth-os/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/platforms/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/rcs-messaging/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/products/whatsapp-automation/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/resources/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/roi-calculator/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/aeo-ai-search/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ai-growth-marketing/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/analytics-cro/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/content-marketing/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ecommerce-development/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/email-marketing/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/google-business-profile/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/graphic-design-branding/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/meta-ads/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/ppc-google-ads/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/seo-services/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/social-media-marketing/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "route": "/services/website-development/",
+      "width": 390,
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

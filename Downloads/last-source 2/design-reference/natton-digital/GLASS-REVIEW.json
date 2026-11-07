@@ -1,0 +1,78 @@
+{
+  "scope": [
+    "growth-os",
+    "healthcare"
+  ],
+  "desktop": [
+    {
+      "frames": [
+        "blur(14px) saturate(1.18)",
+        "blur(14px) saturate(1.18)"
+      ],
+      "glass": true,
+      "h1": 1,
+      "headerFooter": 0,
+      "overflow": false,
+      "path": "/products/growth-os/",
+      "width": 1363
+    },
+    {
+      "frames": [
+        "blur(14px) saturate(1.18)",
+        "blur(14px) saturate(1.18)"
+      ],
+      "glass": true,
+      "h1": 1,
+      "headerFooter": 0,
+      "overflow": false,
+      "path": "/industries/healthcare/",
+      "width": 1363
+    }
+  ],
+  "responsive": [
+    {
+      "page": "GrowthOS",
+      "device": "phone",
+      "cards": true,
+      "glass": true,
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "page": "Healthcare",
+      "device": "phone",
+      "cards": true,
+      "glass": true,
+      "overflow": false,
+      "width": 375
+    },
+    {
+      "page": "Healthcare",
+      "device": "tablet",
+      "glass": true,
+      "overflow": false,
+      "processStages": 5,
+      "width": 745
+    },
+    {
+      "page": "GrowthOS",
+      "device": "tablet",
+      "glass": true,
+      "overflow": false,
+      "processStages": 5,
+      "width": 745
+    }
+  ],
+  "checks": {
+    "healthcareServiceSelection": true,
+    "faqDisclosure": true,
+    "processAutoAdvance": true,
+    "processPause": true,
+    "growthGoalSelection": true,
+    "growthComparisonKeyboard": true,
+    "growthVideoPause": true,
+    "growthVideoSeconds": 63
+  },
+  "otherEightPages": "Glass class absent in production HTML",
+  "limits": "Reviewed in available Chromium, not physical devices or other engines."
+}

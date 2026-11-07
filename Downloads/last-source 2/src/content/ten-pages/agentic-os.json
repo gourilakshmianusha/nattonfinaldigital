@@ -1,0 +1,187 @@
+{
+  "slug": "agentic-os",
+  "title": "AgenticOS",
+  "eyebrow": "AI WORKFLOWS WITH CLEAR RESPONSIBILITY",
+  "headline": "Connect capable agents. Keep people in control.",
+  "h1": "AgenticOS: custom AI agents and workflow orchestration",
+  "description": "Design a defined business workflow in which AI agents can gather context, use approved tools and prepare the next action—with the permissions, review points and human handovers the work needs. AgenticOS connects advanced AI automation to a process your team can understand.",
+  "audience": "For businesses with a clear process, suitable access to their systems and a responsible team ready to evaluate AI-assisted work. This may be a growing SMB, a mid-market operation or an enterprise business unit. The starting point is a process the team understands and is ready to supervise.",
+  "process": [
+    {
+      "title": "Choose a bounded business task",
+      "description": "Identify a process with a clear objective, useful source information and a responsible owner. Compare an agent approach with simpler automation before selecting the architecture.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Define access and review points",
+      "description": "Agree the tools, data, permitted actions and approval requirements. Specify when the workflow should ask for information, stop or hand over.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Build the first working path",
+      "description": "Connect the necessary stages and tools around representative examples. Keep the output reviewable so the team can understand what the workflow did.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Evaluate and introduce carefully",
+      "description": "Test expected and difficult cases, inspect the outputs and review failure handling. Introduce an agreed pilot scope with suitable oversight.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Review before expanding",
+      "description": "Assess usefulness, quality, exceptions and operating costs. Expand access or tasks only when the next responsibility has a clear purpose and a suitable review process.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is AgenticOS?",
+      "answer": "AgenticOS is a customised implementation scope for AI-agent workflows. It may connect reasoning steps, approved tools and multiple responsibilities around a defined business task. The design includes evaluation, human ownership, appropriate review points and a practical handover when the workflow cannot continue."
+    },
+    {
+      "question": "How is an agent different from ordinary automation?",
+      "answer": "A rules-based workflow follows the steps and conditions configured for it. An agent can use a model to interpret information and select among permitted tools or actions. That flexibility introduces uncertainty, so it needs boundaries and evaluation. Some tasks are better served by simpler automation."
+    },
+    {
+      "question": "Do we need several agents?",
+      "answer": "Not necessarily. A single bounded assistant, a retrieval step or a conventional workflow may be enough. We use multiple agents when separating responsibilities makes the task easier to manage and evaluate. The business need determines the architecture; the number of agents is not a success measure."
+    },
+    {
+      "question": "Can the agents send messages or change our records automatically?",
+      "answer": "Those actions depend on the scope, tool permissions and review requirements you agree. Some actions may be limited to preparing a draft or proposal; others may proceed after explicit approval or within a defined operating rule. Sensitive or consequential actions need a suitable responsible owner and safeguards."
+    },
+    {
+      "question": "How do you check whether the workflow is useful?",
+      "answer": "We agree representative requests, expected behaviours and review criteria. Testing looks at output quality, tool selection, incomplete information, failure handling and escalation. Review continues after rollout because changes to prompts, models, data or connected systems can affect behaviour."
+    },
+    {
+      "question": "What affects implementation time and ongoing costs?",
+      "answer": "The task, data readiness, connected systems, approval process and test requirements determine the implementation scope. Ongoing costs may include model usage, software subscriptions, hosting and maintenance. The proposal should identify these dependencies and a phased delivery plan rather than promise a universal rollout time."
+    }
+  ],
+  "metaTitle": "AgenticOS | Custom AI Agents & Workflows | Natton Digital",
+  "metaDescription": "Build scoped AI-agent workflows with approved tools, human review and evaluation. AgenticOS connects advanced automation to a process your team can manage.",
+  "keywords": [
+    "custom AI agents for business",
+    "AI workflow orchestration",
+    "agentic automation",
+    "multi-agent workflows",
+    "human-in-the-loop AI",
+    "AI automation consultancy",
+    "AgenticOS"
+  ],
+  "kind": "product",
+  "path": "/products/agentic-os/",
+  "needs": [
+    {
+      "title": "The task needs interpretation before action",
+      "description": "Requests vary, and a fixed rule sequence may need support from a carefully bounded reasoning step.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "Useful context is spread across approved systems",
+      "description": "The workflow needs a controlled way to retrieve relevant information and use it for the task.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "A single assistant has become difficult to manage",
+      "description": "Distinct responsibilities may need to be separated into simpler agents or workflow stages.",
+      "icon": "",
+      "linkLabel": ""
+    },
+    {
+      "title": "The team needs oversight and a recovery path",
+      "description": "An agent workflow needs observable outcomes, approval points and a suitable response when it cannot continue.",
+      "icon": "",
+      "linkLabel": ""
+    }
+  ],
+  "services": [
+    {
+      "title": "A focused use case and a clear boundary",
+      "description": "Define the task, the information it may use and the actions it may propose or take. We identify the situations that should go to a person and the conditions under which the workflow should stop. A smaller useful scope is a stronger starting point than an unrestricted agent.",
+      "icon": "",
+      "linkLabel": "Discuss your AI use case"
+    },
+    {
+      "title": "Agents with distinct responsibilities",
+      "description": "Where the task benefits from it, separate research, retrieval, drafting, checking or routing into clear responsibilities. A coordinating workflow connects the stages. Multiple agents are an architectural option, not an assumption that a larger number of agents produces a better result.",
+      "icon": "",
+      "linkLabel": "AI agents and workflows"
+    },
+    {
+      "title": "Approved tools and scoped access",
+      "description": "Connect only the applications and data required for the agreed task. Tool permissions, input validation and account access are part of the design. Reading information, preparing a draft and changing an external system can require different levels of responsibility.",
+      "icon": "",
+      "linkLabel": "Explore workflow requirements"
+    },
+    {
+      "title": "Human review at meaningful decisions",
+      "description": "Introduce approval steps before selected actions, such as sending an external message or making a significant record change. Define who reviews the request, what context they see and how the workflow proceeds after approval or rejection.",
+      "icon": "",
+      "linkLabel": "Business workflow foundations"
+    },
+    {
+      "title": "Evaluation before and after rollout",
+      "description": "Test the workflow with representative requests, expected behaviours and difficult cases. Review output quality, tool use, escalation and failure patterns. As the workflow changes, the test examples help the team check whether useful behaviour has been retained.",
+      "icon": "",
+      "linkLabel": "Discuss evaluation and oversight"
+    },
+    {
+      "title": "Monitoring, recovery and ongoing refinement",
+      "description": "Define the execution records, alerts, ownership and recovery steps needed for the operating scope. Failed tool calls, missing information and unresolved requests need a practical destination. Model behaviour, connected applications and business needs can change, so review remains part of the work.",
+      "icon": "",
+      "linkLabel": "Talk to Natton"
+    }
+  ],
+  "metrics": [
+    {
+      "title": "Output quality on representative cases",
+      "description": "Whether outputs meet agreed criteria when reviewed against representative business cases."
+    },
+    {
+      "title": "Task completion and exception patterns",
+      "description": "Completed tasks, interruptions and recurring exceptions within the defined workflow."
+    },
+    {
+      "title": "Human review and escalation outcomes",
+      "description": "When people need to intervene, what they change and whether the handover is useful."
+    },
+    {
+      "title": "Operating cost and maintenance effort",
+      "description": "Usage costs and the practical effort needed to supervise and maintain the workflow."
+    }
+  ],
+  "heroImage": "/media/ten-pages/agentic-os/products/agentic-os-preview.svg",
+  "definition": {
+    "title": "What AgenticOS brings together",
+    "body": "An AI agent is useful when a task needs more than a fixed sequence: it may need to interpret a request, choose an allowed tool or combine information before continuing. That also creates more uncertainty. We begin with a focused use case, identify the boundaries and test representative cases before expanding the responsibility of the workflow."
+  },
+  "example": {
+    "title": "A reviewable agent-assisted response",
+    "description": "Illustrative workflow. This demonstration does not connect to a live AI model or business system.",
+    "steps": [
+      "Understand an incoming request",
+      "Retrieve permitted business context",
+      "Prepare a draft and proposed action",
+      "A responsible person reviews the next step"
+    ],
+    "note": "Illustrative workflow. This demonstration does not connect to a live AI model or business system."
+  },
+  "deliverables": [
+    "A defined use case and representative test cases",
+    "Approved data sources, tools and access boundaries",
+    "Human approval and escalation paths",
+    "A reviewed pilot and evaluation findings",
+    "Operating guidance, monitoring and maintenance responsibilities"
+  ],
+  "timing": "We start with one bounded task, then prepare approved context, permissions and test cases. A reviewed pilot comes before wider use. Expansion follows the quality of the outputs, exception handling and the team’s ability to supervise the workflow, rather than a fixed deployment promise.",
+  "scopeNote": "We can scope support for Indian MSMEs and SMBs, and teams serving agreed international markets. Geography, languages, systems, content and support responsibilities are confirmed in the proposal. Advertising spend, third-party subscriptions and usage charges are listed separately where relevant."
+}

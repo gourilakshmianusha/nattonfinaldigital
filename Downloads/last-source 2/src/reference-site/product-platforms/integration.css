@@ -1,0 +1,10 @@
+/* These pages share the existing application header, footer and contact route. */
+.natton-solutions { width: 100%; font-family: inherit; }
+.natton-solutions [id] { scroll-margin-top: 120px; }
+.natton-solutions .ex-hero > .container,
+.natton-solutions .crm-hero > .container { padding-top: 36px; }
+.natton-solutions .ex-hero, .natton-solutions .crm-hero { padding-top: 0; }
+.natton-solutions [hidden] { display: none !important; }
+@media (max-width: 760px) {
+  .natton-solutions [id] { scroll-margin-top: 144px; }
+}

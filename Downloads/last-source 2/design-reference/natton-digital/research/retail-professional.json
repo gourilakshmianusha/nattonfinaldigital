@@ -1,0 +1,396 @@
+{
+  "pages": [
+    {
+      "slug": "retail-ecommerce",
+      "title": "Retail & Ecommerce",
+      "eyebrow": "FROM DISCOVERY TO THE NEXT ORDER",
+      "headline": "Make every step easier to shop.",
+      "description": "Bring store discovery, ecommerce marketing and customer follow-up into a clearer journey. Natton Digital helps retail businesses connect useful content, shopping experiences and the team behind each order.",
+      "definition": {
+        "title": "What is retail and ecommerce marketing?",
+        "body": "It is the work that helps the right people discover your products, understand what they are buying and take the next step. For a local store, that step may be a call, a message or a visit. For an online brand, it may be a product enquiry or a completed checkout. We build the plan around that distinction instead of treating every shop like the same online business."
+      },
+      "audience": [
+        "Independent retailers and growing store networks",
+        "Direct-to-consumer and ecommerce brands",
+        "Specialist product businesses and distributors with an online catalogue",
+        "Established MSMEs and SMBs connecting physical and online sales"
+      ],
+      "needs": [
+        {
+          "title": "People see the products, but cannot find the next step.",
+          "body": "Product information, store details and purchase or enquiry options should help a shopper decide without chasing your team."
+        },
+        {
+          "title": "Campaigns and the shop experience feel disconnected.",
+          "body": "An attractive advertisement needs a relevant category page, product page or local enquiry journey to lead into."
+        },
+        {
+          "title": "Customer questions are scattered across channels.",
+          "body": "A message about sizing, availability or an order should reach an owner who can use the appropriate customer context."
+        },
+        {
+          "title": "There is plenty of activity, but limited business visibility.",
+          "body": "Separate product discovery, meaningful enquiries, completed orders and repeat-purchase signals so the team can discuss the right next action."
+        }
+      ],
+      "serviceBlocks": [
+        {
+          "title": "Product-led websites & stores",
+          "description": "Develop or improve a Shopify, WooCommerce or scoped custom storefront around your catalogue, customer questions and buying process. Give categories, product details, store information and contact or checkout routes a clear structure.",
+          "link": "/services/website-development",
+          "icon": "shop"
+        },
+        {
+          "title": "Retail & ecommerce SEO",
+          "description": "Plan useful category and product content, internal links and technical improvements around how customers search. Assess appropriate product information and structured data. For eligible physical locations, improve accurate Google Business Profile information and local landing pages.",
+          "link": "/services/seo",
+          "icon": "search"
+        },
+        {
+          "title": "Campaigns with a relevant destination",
+          "description": "Create search, shopping, social or remarketing campaigns where appropriate to the business and platform. Connect the offer, creative and landing experience; agree the advertising budget, product priorities and measurement before launch.",
+          "link": "/services/paid-ads",
+          "icon": "target"
+        },
+        {
+          "title": "Content that helps people choose",
+          "description": "Use product photography, short demonstrations, comparisons and practical buying guides to answer real questions. Keep product claims, prices, stock information and offers approved by your team rather than inventing urgency or unsupported benefits.",
+          "link": "/services/content-marketing",
+          "icon": "image"
+        },
+        {
+          "title": "Customer conversations & follow-up",
+          "description": "Route agreed WhatsApp, web chat, email and order-related requests to the right people. Where the commerce platform and permissions allow it, configure checkout follow-up or approved offers. Provide a clear path to a person for questions the automation cannot resolve.",
+          "link": "/solutions/conversational-ai",
+          "icon": "chat"
+        },
+        {
+          "title": "A joined-up view of the journey",
+          "description": "Connect agreed website events, campaign data and available store or order information into useful reporting. Separate marketing work from your stock, fulfilment and accounting systems, and scope any required connections before implementation.",
+          "link": "/solutions/crm-ai-automation",
+          "icon": "chart"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Understand how you sell",
+          "description": "Review your catalogue, margins, customer groups, locations, sales channels and existing website. Decide whether the immediate goal is store enquiries, online purchases, repeat business or a combination."
+        },
+        {
+          "title": "Make the buying journey clear",
+          "description": "Prioritise product and category content, navigation, store details, checkout or enquiry steps, and the information customers need before buying. Agree the photography and product data your team will supply."
+        },
+        {
+          "title": "Connect discovery to the right destination",
+          "description": "Build the relevant SEO, Google Business Profile, content and advertising work around those journeys. Choose channels for the audience and budget rather than launching every channel at once."
+        },
+        {
+          "title": "Connect the people after the click",
+          "description": "Define who handles product questions, order updates and support. Test the agreed permissions, messages and handovers before introducing customer-facing automation."
+        },
+        {
+          "title": "Review, then improve",
+          "description": "Review measurable enquiries, purchases and follow-up alongside spend, product availability and fulfilment feedback. Use what the business can actually supply and support to decide the next improvement."
+        }
+      ],
+      "exampleLabel": "ILLUSTRATIVE CUSTOMER JOURNEY",
+      "exampleWorkflow": [
+        "A shopper finds a relevant product",
+        "They buy or ask a product question",
+        "The order or request reaches the right system and owner",
+        "The team completes the agreed follow-up"
+      ],
+      "exampleNote": "An online order and a store enquiry use different routes. This example is a proposed journey, not a live integration or a client result.",
+      "measurement": [
+        {
+          "title": "Useful discovery",
+          "description": "Relevant search visibility, product-page visits and engagement with important buying information."
+        },
+        {
+          "title": "Meaningful actions",
+          "description": "Completed purchases where tracked, product enquiries and eligible store-contact actions, reported separately."
+        },
+        {
+          "title": "Acquisition efficiency",
+          "description": "Campaign spend and cost per agreed action, considered alongside product margins and available attribution."
+        },
+        {
+          "title": "Customer follow-through",
+          "description": "Available checkout follow-up, repeat-purchase and support-response signals, with the limits of the underlying data made clear."
+        }
+      ],
+      "scopeNote": "Inventory, warehousing, shipping operations, marketplace management and accounting are separate systems or scopes. We assess practical connections; the marketing programme does not replace them by default.",
+      "timing": {
+        "title": "When should a retailer start?",
+        "body": "A focused review is useful before a store launch, a new collection, a campaign push or a planned website improvement. Existing businesses can begin with the journey that currently breaks down. We agree stages after checking the catalogue, access, content, platform and team capacity; there is no fixed launch or revenue promise for every retailer."
+      },
+      "FAQs": [
+        {
+          "question": "Can you help a physical shop that does not sell online?",
+          "answer": "Yes. The goal can be accurate store information, local discovery, product enquiries and a clear route to visit or contact the store. We assess Google Business Profile eligibility and your actual service area or locations. A full ecommerce checkout is only useful when the business is ready to take and fulfil online orders."
+        },
+        {
+          "question": "Do you work with Shopify, WooCommerce and custom websites?",
+          "answer": "The platform is selected or reviewed against your catalogue, checkout needs and existing systems. We can scope development, content and marketing around an agreed platform. Platform subscriptions, extensions, payment charges and custom integrations are identified separately in the proposal; every feature is not assumed to be included."
+        },
+        {
+          "question": "Will automated messages recover every abandoned cart?",
+          "answer": "No. Checkout follow-up depends on the platform, channel, customer details, permissions and the customer’s circumstances. Some incomplete purchases should not receive another message. We first check what is supported and appropriate, then configure the agreed experience. Recovery is an opportunity to measure, not a guaranteed order."
+        },
+        {
+          "question": "Can customers get product and order help on WhatsApp?",
+          "answer": "We can assess a WhatsApp conversation flow for approved questions, request routing and appropriate updates. Your team provides the source information and escalation route. Customer opt-in and current provider policies are considered before outbound messaging. Access to order or stock data needs a separately agreed, supported connection."
+        },
+        {
+          "question": "How will you know whether marketing is helping sales?",
+          "answer": "We agree the actions to measure before launching: for example purchases, product enquiries or contact actions. We review these alongside spend and available order information. Website analytics, ad platforms and offline records do not always tell the same story, so we explain attribution limits rather than treating every tracked action as a confirmed sale."
+        },
+        {
+          "question": "Do we have to use every marketing service?",
+          "answer": "No. A local store may first need an accurate presence and better enquiry handling; an established ecommerce brand may need product-page improvements and a focused acquisition campaign. We recommend a practical starting scope, specify the deliverables and review points, and stay involved as the business learns what needs attention."
+        }
+      ],
+      "metaTitle": "Retail & Ecommerce Marketing | Natton Digital",
+      "metaDescription": "Connect retail discovery, ecommerce websites, SEO, campaigns and customer follow-up. A practical marketing plan for stores and growing brands with Natton Digital.",
+      "keywords": {
+        "primary": "retail and ecommerce marketing",
+        "secondary": [
+          "ecommerce SEO services",
+          "digital marketing for retail businesses",
+          "Shopify website development",
+          "WooCommerce marketing",
+          "local SEO for retail stores",
+          "ecommerce customer support automation",
+          "retail CRM automation"
+        ],
+        "intent": "Business owners comparing a practical marketing and customer-journey partner; informational explanation plus service enquiry. Keyword themes are qualitative, not volume-verified."
+      },
+      "imageBrief": "Realistic editorial photograph of an Indian independent retail team preparing a considered product display in a well-lit modern store, one person checking a tablet, natural believable work, no fabricated logos or claim that it depicts a Natton client. Include a separate original catalogue/checkout illustration if needed; do not use a generic robot."
+    },
+    {
+      "slug": "professional-services",
+      "title": "Professional Services",
+      "eyebrow": "EXPERTISE PEOPLE CAN UNDERSTAND",
+      "headline": "Make your expertise easier to choose.",
+      "description": "Bring a clear service story, useful content and organised enquiry follow-up together. Natton Digital helps professional-services businesses explain their value and connect prospective clients with the right next conversation.",
+      "definition": {
+        "title": "What is professional-services marketing?",
+        "body": "It is the work of making your expertise, services and working approach clear to the people who need them. For consultants, agencies and other service firms, a useful website and thoughtful content can support an enquiry before a direct conversation begins. The strategy should fit the firm’s audience, decision process and any professional rules that apply."
+      },
+      "audience": [
+        "Consultancies, advisory businesses and specialist service firms",
+        "Agencies and growing B2B service companies",
+        "Owner-led professional-services MSMEs and SMBs",
+        "Teams coordinating enquiries, proposals and client onboarding"
+      ],
+      "needs": [
+        {
+          "title": "The expertise is strong, but the offer is difficult to understand.",
+          "body": "Prospective clients need to know who you help, which problems you address and what an appropriate first engagement looks like."
+        },
+        {
+          "title": "The website says a lot without answering the buyer’s questions.",
+          "body": "Clear service pages, relevant examples and an explanation of your process can help a visitor decide whether to enquire."
+        },
+        {
+          "title": "New enquiries depend on one person remembering everything.",
+          "body": "Introduce a practical record of the request, its owner and the next step so an interested prospect receives a coherent response."
+        },
+        {
+          "title": "Marketing and delivery are disconnected.",
+          "body": "Use the questions, objections and learning from the team to improve the content and the handover into proposals or onboarding."
+        }
+      ],
+      "serviceBlocks": [
+        {
+          "title": "A website built around your expertise",
+          "description": "Organise service pages, audience information, team credentials and contact routes around the questions buyers ask. Explain the scope and working approach in plain language, using only substantiated claims and permitted evidence.",
+          "link": "/services/website-development",
+          "icon": "briefcase"
+        },
+        {
+          "title": "SEO for relevant service enquiries",
+          "description": "Research the topics, service terms and locations that fit your actual practice. Develop useful service and insight pages, internal links and technical improvements. Assess local-profile eligibility where the business meets customers in person.",
+          "link": "/services/seo",
+          "icon": "search"
+        },
+        {
+          "title": "Thoughtful content & professional visibility",
+          "description": "Turn approved expertise into articles, explainers, case material and social content that answers buyer questions. Select channels such as LinkedIn where the audience is relevant and the proposed communication is permitted for the profession.",
+          "link": "/services/content-marketing",
+          "icon": "document"
+        },
+        {
+          "title": "Focused campaigns where appropriate",
+          "description": "Assess paid search or professional-audience campaigns against the offer, buying process, budget and applicable rules. Connect each campaign to a relevant page and enquiry route. Regulated professions require their own review before promotional activity is approved.",
+          "link": "/services/paid-ads",
+          "icon": "target"
+        },
+        {
+          "title": "Enquiries, appointments & CRM follow-up",
+          "description": "Define how an enquiry is captured, assigned and prepared for a consultation or discovery call. Configure agreed CRM records, reminders and handovers so the team has the context for a useful conversation.",
+          "link": "/solutions/crm-ai-automation",
+          "icon": "customers"
+        },
+        {
+          "title": "Proposal & onboarding coordination",
+          "description": "Connect approved templates, task assignments and status updates around your existing process. AI can assist with a draft or a summary where suitable; the firm reviews scope, fees and commitments. Invoice-event notifications can be assessed without presenting the workflow as an accounting system.",
+          "link": "/products/business-os",
+          "icon": "workflow"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Understand the firm and its buyers",
+          "description": "Review the services, ideal client situations, decision makers, enquiry sources and delivery capacity. Identify the approvals and professional restrictions that influence public content and outreach."
+        },
+        {
+          "title": "Clarify the offer and its evidence",
+          "description": "Agree how to describe the service, scope and working approach. Prepare relevant credentials, approved examples and answers to recurring questions. Confidential or restricted client information stays out of public material."
+        },
+        {
+          "title": "Build the right discovery routes",
+          "description": "Improve the website and selected search or content channels around that offer. Consider campaigns only where the channel, budget and professional rules support the proposed activity."
+        },
+        {
+          "title": "Connect the enquiry to a useful conversation",
+          "description": "Agree the information to request, the person responsible and the response path. Test records, appointment requests and handovers before introducing automated follow-up."
+        },
+        {
+          "title": "Review the quality of the journey",
+          "description": "Review relevant enquiries, qualified conversations and available proposal-stage information with the team. Improve content, qualification and ownership as patterns emerge; do not optimise only for a larger number of unqualified form fills."
+        }
+      ],
+      "exampleLabel": "ILLUSTRATIVE ENQUIRY JOURNEY",
+      "exampleWorkflow": [
+        "A buyer reads a relevant service page",
+        "They send an enquiry with useful context",
+        "The appropriate team member reviews and responds",
+        "An agreed proposal or onboarding step is recorded"
+      ],
+      "exampleNote": "The firm retains responsibility for advice, professional judgement, approvals and client commitments. This is an illustrative coordination flow, not a claim of a live deployment.",
+      "measurement": [
+        {
+          "title": "Relevant visibility",
+          "description": "Search visibility and engagement with the services and topics the firm actually wants to be considered for."
+        },
+        {
+          "title": "Enquiry relevance",
+          "description": "Enquiries assessed against the agreed client situation, service need, geography and scope."
+        },
+        {
+          "title": "Conversation & proposal progress",
+          "description": "Available appointment, qualified conversation and proposal-stage signals, with sales-cycle context."
+        },
+        {
+          "title": "Response & handover quality",
+          "description": "Who owns each request, which follow-up is due and where prospective clients need clearer information."
+        }
+      ],
+      "scopeNote": "Marketing and operational coordination support the firm’s team. They do not replace professional judgement, a legal review, regulated advice, accounting work or approval of client commitments.",
+      "timing": {
+        "title": "When is this useful?",
+        "body": "A review can help when a firm introduces a service, changes its positioning, enters a relevant market or finds that enquiries are poorly matched or inconsistently handled. We agree stages after reviewing the existing website, source material, approvals and business process. The plan follows the buying cycle; there is no universal lead target or fixed result date."
+      },
+      "FAQs": [
+        {
+          "question": "Which professional-services businesses is this relevant to?",
+          "answer": "It can be relevant to consultancies, agencies, advisory businesses and specialist service firms whose clients need to understand expertise before making an enquiry. We assess the audience and buying process first. Accountancy, legal and other regulated practices need a profession-specific content and promotion review rather than a generic campaign package."
+        },
+        {
+          "question": "Can you help us explain a complex service clearly?",
+          "answer": "Yes. We work with your subject experts to organise the service around the client’s situation, the questions they ask and the scope you can deliver. You approve the technical and professional substance. The aim is a useful explanation and a clear next conversation, with appropriate detail available for buyers who need it."
+        },
+        {
+          "question": "Will you use our clients, testimonials and case studies in marketing?",
+          "answer": "Only when the evidence is genuine, the business has permission and the intended use is appropriate for its profession. Some practices have restrictions on these formats. We can also use anonymised process explanations or clearly labelled illustrative examples where suitable, without inventing results, endorsements or client relationships."
+        },
+        {
+          "question": "Do we need paid advertising or can we start with the website and content?",
+          "answer": "The starting scope depends on your audience, existing visibility, offer and business priorities. A clearer website and useful content may be the first priority. Paid campaigns are considered separately for relevance, budget and applicable professional restrictions. No channel is mandatory simply because it is available."
+        },
+        {
+          "question": "Can AI automatically prepare proposals and quote our fees?",
+          "answer": "AI may support an approved draft or summary within a defined workflow. A responsible person should review the proposed work, fees, exclusions and commitments before anything is shared with a prospective client. We scope the sources, permissions and approval steps; we do not present autonomous quoting as a default capability."
+        },
+        {
+          "question": "How do you measure success for a long sales cycle?",
+          "answer": "We agree useful intermediate signals such as relevant enquiries, qualified conversations, response ownership and available proposal progress. Those are reviewed with the firm’s sales context and eventual outcomes where the data is available. Marketing attribution is explained with its limits, and no enquiry count is treated as a guaranteed client engagement."
+        }
+      ],
+      "metaTitle": "Professional Services Marketing | Natton Digital",
+      "metaDescription": "Make expertise easier to understand with professional-services websites, SEO, content and organised enquiry follow-up. Build a practical plan with Natton Digital.",
+      "keywords": {
+        "primary": "professional services marketing",
+        "secondary": [
+          "digital marketing for professional services",
+          "consulting firm website development",
+          "B2B services SEO",
+          "marketing for consultants",
+          "professional services lead management",
+          "CRM for consulting businesses",
+          "client onboarding automation"
+        ],
+        "intent": "Owners and business-development teams evaluating a marketing and enquiry-coordination partner. Themes are qualitative, not search-volume claims."
+      },
+      "imageBrief": "Realistic editorial photograph of a diverse Indian professional-services team reviewing a proposal around a quiet contemporary meeting table, daylight, notebooks and laptop, authentic work gestures, no posed handshake, fabricated client logos or implication of a real Natton engagement."
+    }
+  ],
+  "researchNotes": {
+    "oldNattonContent": {
+      "home": "https://nattondigital.com/",
+      "status": "Public homepage retrieved by search but no readable lines; sitemap returned inaccessible. Search did not expose readable retail or professional-services industry pages. No full old-page audit is claimed.",
+      "retainedFromUserScreenshots": [
+        "Retail: checkout follow-up, customer support and approved offers retained in scoped terms.",
+        "Professional services: proposals, onboarding and invoice-event coordination retained with human approval and separation from accounting."
+      ],
+      "positioning": "User brief is authoritative for Natton capabilities. Public Natton Digital LinkedIn positioning also supports web, SEO, content and ongoing partnership, without using its unverified promotional result claims."
+    },
+    "sources": [
+      {
+        "url": "https://developers.google.com/search/docs/specialty/ecommerce",
+        "ref": "turn84search5",
+        "usedFor": "Distinct shopping-journey content, site discovery and structured product information; no visibility guarantee."
+      },
+      {
+        "url": "https://developers.google.com/search/docs/specialty/ecommerce/include-structured-data-relevant-to-ecommerce",
+        "ref": "turn91view2",
+        "usedFor": "Appropriate product/local-business/breadcrumb information on retailer websites. Do not apply Product markup to Natton consultancy page itself."
+      },
+      {
+        "url": "https://support.google.com/business/answer/13763036?hl=en",
+        "ref": "turn84search7",
+        "usedFor": "Business Profile eligibility; avoid implying every online-only or service firm qualifies."
+      },
+      {
+        "url": "https://help.shopify.com/en/manual/promoting-marketing/create-marketing/migrate-abandoned-checkout",
+        "ref": "turn91view1",
+        "usedFor": "Checkout recovery is channel-dependent, with recipient and platform limitations; never promise every cart is recoverable."
+      },
+      {
+        "url": "https://whatsappbusiness.com/policy/",
+        "ref": "turn91view0",
+        "usedFor": "Current WhatsApp messaging policy updated September 23 2026: opt-in and provider policies for business messaging; do not use older policy pricing claims."
+      },
+      {
+        "url": "https://business.linkedin.com/advertise/ads/sponsored-content/lead-gen-ads",
+        "ref": "turn91search0",
+        "usedFor": "LinkedIn supports professional lead forms and reporting; not a guarantee of high-quality leads for Natton clients."
+      },
+      {
+        "url": "https://www.icai.org/post/advisory-website-guidelines-of-the-institute",
+        "ref": "turn91search2",
+        "usedFor": "Professional rules can restrict promotional website formats. This 2020 advisory is evidence to require a current profession-specific review, not a complete current legal checklist."
+      }
+    ],
+    "implementationNotes": [
+      "Service and solution URLs are proposed internal links; align them with the final Natton route registry before shipping.",
+      "Use Service/WebPage/Breadcrumb schema for these Natton consultancy pages, not fake LocalBusiness premises or retailer Product offers.",
+      "Do not claim verified ranking, conversion, ROI, completed client work, real logos, or real team/client photos from illustrative material.",
+      "Retail scenarios should have Store enquiries and Online purchases modes to demonstrate distinct routes.",
+      "Professional services examples should retain human approval before quotes, advice or client commitments.",
+      "The user requested no new header/logo/footer and placeholder product heroes; this research does not require altering shared navigation."
+    ]
+  }
+}

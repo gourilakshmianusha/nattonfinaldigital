@@ -1,0 +1,16 @@
+/* Retain materials, outlines and hover treatments without a live blur pass. */
+:root .home-site .nh-header{background:#fff;backdrop-filter:none;-webkit-backdrop-filter:none}
+:root .home-site :is(.faq-editorial-list,.local-contents){backdrop-filter:none;-webkit-backdrop-filter:none}
+:root .home-site .page-shell :is(.need-card,.capability-tile,.delivery-card,.related-card,.goal-plan,.directory-card,.service-glass-card,.sx-story-card){backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+:root .home-site .natton-solutions :is(.pf-stack-card,.ex-glass,.ex-module,.glass-dark,.glass-light,.hub-node,.ex-fit-list>a,.crm-delivery-steps>li){backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+:root .home-site .natton-solutions :is(.ex-page-nav,.page-nav){backdrop-filter:none;background:var(--ex-paper,#fff);-webkit-backdrop-filter:none}
+/* Offscreen sections keep their exact layout; only decorative loops sleep. */
+:root .home-site :is(.page-shell,.home-body) .performance-sleep,
+:root .home-site :is(.page-shell,.home-body) .performance-sleep *,
+:root .home-site :is(.page-shell,.home-body) .performance-sleep::before,
+:root .home-site :is(.page-shell,.home-body) .performance-sleep::after,
+:root .home-site :is(.page-shell,.home-body) .performance-sleep *::before,
+:root .home-site :is(.page-shell,.home-body) .performance-sleep *::after,
+:root.performance-hidden .home-site *,
+:root.performance-hidden .home-site *::before,
+:root.performance-hidden .home-site *::after{animation-play-state:paused!important}

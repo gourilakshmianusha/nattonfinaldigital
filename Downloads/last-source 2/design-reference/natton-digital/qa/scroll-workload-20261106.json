@@ -1,0 +1,45 @@
+{
+  "homepage": {
+    "before": {
+      "runningAnimations": 9,
+      "runningOffscreen": 9,
+      "backdropBlurSurfaces": 3
+    },
+    "after": {
+      "runningAnimations": 1,
+      "runningInSleepingRegions": 0,
+      "runningOffscreen": 0,
+      "offscreenTargets": [],
+      "sleepingRegions": 11,
+      "backdropBlurSurfaces": 1
+    }
+  },
+  "businessOS": {
+    "before": {
+      "runningAnimations": 3,
+      "runningOffscreen": 3,
+      "backdropBlurSurfaces": 26
+    },
+    "after": {
+      "runningAnimations": 3,
+      "runningOffscreen": 3,
+      "backdropBlurSurfaces": 2
+    }
+  },
+  "aiAgents": {
+    "before": {
+      "runningAnimations": 9,
+      "runningOffscreen": 9,
+      "backdropBlurSurfaces": 21
+    },
+    "after": {
+      "runningAnimations": 1,
+      "runningInSleepingRegions": 0,
+      "runningOffscreen": 0,
+      "offscreenTargets": [],
+      "sleepingRegions": 17,
+      "backdropBlurSurfaces": 0
+    }
+  },
+  "note": "Graphics counts at the top of matching preview pages. These are workload observations, not a target-device FPS benchmark."
+}

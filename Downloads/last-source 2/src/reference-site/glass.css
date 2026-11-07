@@ -1,0 +1,214 @@
+/* Shared reference material layer across product and industry pages.
+   Background fields and all animation keyframes live unchanged in motion.css. */
+.page-shell.premium-theme.glass-theme {
+  --metal: #a9663c;
+  --metal-light: #e8ba8c;
+  --metal-dark: #7d4a2d;
+  --material-shadow: #7544212e;
+  --pane: linear-gradient(125deg, #fffaf418, #fffaf405 60%, #fffaf42b);
+  --glass-surface: linear-gradient(125deg, #fffaf3a6 0%, #fff9ee70 38%, #ead4b552 70%, #fff9edb0 100%);
+  --glass-dark: radial-gradient(ellipse at 15% 0%, #a26940a8, transparent 60%), linear-gradient(135deg, #71472ef5, #482e25f5);
+  --glass-ink: #482e25;
+  --glass-muted: #685347;
+  --glass-white: #fff5e4;
+  --glass-white-muted: #f5e8d4;
+}
+.page-shell.premium-theme.glass-theme.industry-theme {
+  --metal: #80915b;
+  --metal-light: #dbe2ac;
+  --metal-dark: #52663c;
+  --material-shadow: #3a522c2b;
+  --glass-surface: linear-gradient(125deg, #fffff3ba 0%, #f8fae777 38%, #cbd5ac4a 70%, #fffdefb8 100%);
+  --glass-dark: radial-gradient(ellipse at 15% 0%, #63825899, transparent 60%), linear-gradient(135deg, #355b40f5, #193e32f5);
+  --glass-ink: #193e32;
+  --glass-muted: #435e4d;
+}
+
+/* A hollow, polished rim: no full-section blur or opaque fill over the waves. */
+.page-shell.premium-theme.glass-theme :is(.needs-section, .capabilities-section) > .container:before {
+  inset: -34px -26px;
+  border: 1px solid var(--metal);
+  border-radius: 46px;
+  background: var(--pane);
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  box-shadow: 0 0 0 1px #fffaf5f2, 0 0 0 3px var(--metal-light),
+    0 0 0 4px var(--metal-dark), 0 0 0 6px #fff8e9d9,
+    0 0 0 7px color-mix(in srgb, var(--metal) 45%, transparent),
+    inset 0 0 0 1px #fffff6, inset 0 6px 10px #fffff480,
+    inset 0 -4px 8px #6e4e2817, 0 12px 16px var(--material-shadow), 0 28px 38px #482e250a;
+}
+
+/* Light passing through a thin panel, with a visible bevel around its edge. */
+.page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card) {
+  position: relative;
+  border: 1px solid var(--metal);
+  border-radius: 26px;
+  background: var(--glass-surface);
+  color: var(--glass-ink);
+  -webkit-backdrop-filter: blur(3px) saturate(115%);
+  backdrop-filter: blur(3px) saturate(115%);
+  box-shadow: 0 0 0 1px #fffaf1ed, 0 0 0 3px color-mix(in srgb, var(--metal-light) 75%, transparent),
+    0 0 0 4px #fffaf2d9, inset 0 0 0 1px #fffef5,
+    inset 0 0 0 5px #fff5db26, inset 0 0 0 6px color-mix(in srgb, var(--metal) 22%, transparent),
+    inset 0 10px 12px #fffff35c, inset 0 -5px 10px #5f421715,
+    0 10px 15px var(--material-shadow), 0 20px 28px #482e2508;
+  transition: transform .3s ease, background-color .2s ease, color .18s ease, box-shadow .3s ease;
+}
+.page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile) p { color: var(--glass-muted); }
+.page-shell.premium-theme.glass-theme :is(.need-0, .capability-tile-0) {
+  color: var(--glass-white);
+  background: var(--glass-dark);
+  border-color: var(--metal-dark);
+  box-shadow: 0 0 0 1px #fff5e1, 0 0 0 3px var(--metal), 0 0 0 4px #fff5e1cb,
+    inset 0 0 0 1px var(--metal-light), inset 0 0 0 5px #fff3d80a,
+    inset 0 0 0 6px color-mix(in srgb, var(--metal-light) 45%, transparent),
+    inset 0 10px 16px #fff2d320, inset 0 -10px 20px #1e120b26,
+    0 10px 15px var(--material-shadow), 0 22px 28px #482e2510;
+}
+.page-shell.premium-theme.glass-theme :is(.need-0, .capability-tile-0) p { color: var(--glass-white-muted); }
+.page-shell.premium-theme.glass-theme .capability-tile-0 .service-visual {
+  color: var(--ink);
+  background: #fbf5e7f2;
+}
+.page-shell.premium-theme.glass-theme .capability-tile-0 .service-visual p { color: var(--muted); }
+.page-shell.premium-theme.glass-theme .capability-icon {
+  color: var(--accent);
+  background: linear-gradient(135deg, #fffef2c9, #f8e9d859);
+  border: 1px solid color-mix(in srgb, var(--metal) 40%, transparent);
+  box-shadow: inset 0 1px 1px #fffff2, 0 3px 5px #482e2515;
+}
+.page-shell.premium-theme.glass-theme .capability-tile-0 .capability-icon {
+  color: var(--glass-white);
+  background: #fff5df12;
+  border-color: var(--metal-light);
+  box-shadow: inset 0 1px #fff3d63b;
+}
+.page-shell.premium-theme.glass-theme .card-motion {
+  height: 88px;
+  color: var(--accent);
+  background: linear-gradient(125deg, #fffff329, #fff3d609);
+  border-radius: 16px;
+  box-shadow: inset 0 1px #fffff266;
+}
+.page-shell.premium-theme.glass-theme .card-line { opacity: .4; }
+.page-shell.premium-theme.glass-theme .card-orbit { stroke-opacity: .65; }
+.page-shell.premium-theme.glass-theme .card-node rect,
+.page-shell.premium-theme.glass-theme .card-sheet rect { stroke-opacity: .55; }
+.page-shell.premium-theme.glass-theme .need-card-detail { opacity: .52; }
+.page-shell.premium-theme.glass-theme .need-0 .need-card-detail { opacity: .36; }
+.page-shell.premium-theme.glass-theme .need-card-detail i {
+  background: linear-gradient(135deg, #fffff21a, color-mix(in srgb, currentColor 26%, transparent));
+  box-shadow: inset 0 1px #fffff24d, 0 3px 5px #00000009;
+}
+
+/* Workspaces receive the same material edge; their previews stay readable. */
+.page-shell.premium-theme.glass-theme :is(.service-explorer, .journey-demo, .agent-demo, .creative-demo, .compare-widget, .video-frame) {
+  border: 1px solid var(--metal);
+  border-radius: 25px;
+  box-shadow: 0 0 0 1px #fffff0eb, 0 0 0 3px color-mix(in srgb, var(--metal-light) 70%, transparent),
+    0 0 0 4px #fff9e7cc, inset 0 2px 5px #fffff2ab, 0 12px 18px var(--material-shadow);
+}
+.page-shell.premium-theme.glass-theme :is(.service-explorer, .journey-demo, .agent-demo, .creative-demo, .compare-widget) {
+  background: var(--glass-surface);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
+.page-shell.premium-theme.glass-theme .service-options { background: #e4eace3d; gap: 14px; }
+.page-shell.premium-theme.glass-theme :is(.service-panel, .journey-panel, .journey-track, .demo-note) { background: transparent; }
+.page-shell.premium-theme.glass-theme :is(.service-visual, .handover-tile) {
+  background: #fffff2d9;
+  border: 1px solid var(--metal);
+  border-radius: 18px;
+  box-shadow: 0 0 0 1px #fffff0c9, inset 0 2px 3px #fffef2, 0 6px 10px var(--material-shadow);
+}
+.page-shell.premium-theme.glass-theme .metric-list {
+  padding-inline: 25px;
+  border: 1px solid var(--metal);
+  border-radius: 25px;
+  background: var(--glass-surface);
+  box-shadow: 0 0 0 1px #fffff2ed, 0 0 0 3px var(--rim-inner), inset 0 2px 5px #fffff2a1, 0 10px 18px var(--material-shadow);
+}
+.page-shell.premium-theme.glass-theme .metric-list article:last-child { border-bottom: 0; }
+
+/* Selection follows actual React/ARIA state, and survives pointer departure. */
+.page-shell.premium-theme.glass-theme :is(.service-options button, .goal-options button) {
+  border-radius: 16px;
+  border: 1px solid color-mix(in srgb, var(--metal) 60%, transparent);
+  background: var(--glass-surface);
+  color: var(--glass-ink);
+  box-shadow: inset 0 0 0 1px #fffdf0, inset 0 0 0 4px #fff8db19, 0 3px 5px var(--material-shadow);
+  transition: transform .22s ease, color .18s ease, box-shadow .22s ease;
+}
+.page-shell.premium-theme.glass-theme :is(.service-options button[aria-selected=true], .goal-options button[aria-pressed=true], .journey-track button[aria-selected=true]) {
+  color: var(--glass-white);
+  background: var(--glass-dark);
+  border-color: var(--metal-dark);
+  box-shadow: inset 0 0 0 1px var(--metal-light), inset 0 0 0 4px #fff8db0a,
+    inset 0 0 0 5px color-mix(in srgb, var(--metal-light) 45%, transparent),
+    inset 0 5px 10px #ffffec20, 0 4px 7px var(--material-shadow);
+}
+.page-shell.premium-theme.glass-theme :is(.service-options button[aria-selected=true], .goal-options button[aria-pressed=true]) { transform: translateX(3px); }
+.page-shell.premium-theme.glass-theme :is(.service-options button[aria-selected=true], .goal-options button[aria-pressed=true], .journey-track button[aria-selected=true]) .icon { color: var(--glass-white); }
+
+/* Preserve the existing dark process stage, its dot, and its loop timings. */
+.page-shell.premium-theme.glass-theme .animated-process .motion-process-panel {
+  background: linear-gradient(125deg, #fff5e80d, #fff5e803);
+  border-color: color-mix(in srgb, var(--metal-light) 55%, transparent);
+  box-shadow: 0 0 0 1px #ffffff14, inset 0 0 0 1px #fffff029, inset 0 0 0 5px #fffff00a;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+.page-shell.premium-theme.glass-theme .process-detail-art .card-motion { height: 100px; color: #f1d4ac; background: transparent; box-shadow: none; }
+
+@media (hover: hover) and (pointer: fine) {
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card):hover {
+    z-index: 4;
+    transform: translateY(-6px) scale(1.022);
+    background: var(--glass-dark);
+    color: var(--glass-white);
+    border-color: var(--metal-dark);
+    box-shadow: 0 0 0 1px #fff7e5, 0 0 0 3px var(--metal), 0 0 0 4px #fff5dedb,
+      inset 0 0 0 1px var(--metal-light), inset 0 0 0 5px #fff3d815,
+      inset 0 0 0 6px color-mix(in srgb, var(--metal-light) 55%, transparent),
+      inset 0 8px 12px #fff3d526, 0 18px 28px var(--material-shadow), 0 28px 40px #482e251c;
+  }
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card):hover :is(h3, strong, .tiny-label, .related-product-label, .related-link, .text-link, .goal-note, .team-input, li) { color: var(--glass-white); }
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card):hover p { color: var(--glass-white-muted); }
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan):hover :is(.need-icon, .capability-icon, .card-motion, .icon) { color: var(--glass-white); border-color: #fff3db5c; }
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile):hover .capability-icon { background: #fff5df12; box-shadow: inset 0 1px #fff3d63b; }
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile):hover :is(.card-node rect, .card-sheet rect, .card-center) { fill: var(--dark); }
+  .page-shell.premium-theme.glass-theme .capability-tile:hover .service-visual { color: var(--ink); background: #fbf5e7f2; }
+  .page-shell.premium-theme.glass-theme .capability-tile:hover .service-visual :is(strong, p, .icon) { color: var(--ink); }
+  .page-shell.premium-theme.glass-theme :is(.service-options button, .goal-options button):hover {
+    transform: translateX(3px) scale(1.012);
+    color: var(--glass-white);
+    background: var(--glass-dark);
+    box-shadow: inset 0 0 0 1px var(--metal-light), inset 0 0 0 5px #fff4da22, 0 5px 9px var(--material-shadow);
+  }
+}
+/* Focus on interactive cards gets the same visible lift without a mouse. */
+.page-shell.premium-theme.glass-theme :is(.related-card, .directory-card):focus-visible {
+  transform: translateY(-6px) scale(1.022);
+  background: var(--glass-dark);
+  color: var(--glass-white);
+}
+.page-shell.premium-theme.glass-theme :is(.related-card, .directory-card):focus-visible :is(.related-product-label, .related-link, h3, p, .tiny-label, .text-link) { color: inherit; }
+
+@media (max-width: 900px) {
+  .page-shell.premium-theme.glass-theme :is(.needs-section, .capabilities-section) > .container:before { inset: -28px -17px; border-radius: 36px; }
+}
+@media (max-width: 650px) {
+  .page-shell.premium-theme.glass-theme :is(.needs-section, .capabilities-section) > .container:before { inset: -25px -9px; border-radius: 29px; box-shadow: 0 0 0 1px #fffaf5ed, 0 0 0 2px var(--metal-light), 0 0 0 3px var(--metal), inset 0 2px 5px #fffff278, 0 12px 18px var(--material-shadow); }
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card) { border-radius: 23px; -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .page-shell.premium-theme.glass-theme .metric-list { padding-inline: 20px; }
+  .page-shell.premium-theme.glass-theme .card-motion { height: 80px; }
+  .page-shell.premium-theme.glass-theme .service-options { gap: 12px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .service-options button, .goal-options button) { transition: none; }
+  .page-shell.premium-theme.glass-theme :is(.need-card, .capability-tile, .delivery-card, .related-card, .goal-plan, .directory-card):hover { transform: none; }
+}
+@media (prefers-contrast: more) {
+  .page-shell.premium-theme.glass-theme { --glass-surface: var(--soft); --pane: transparent; --glass-dark: var(--dark); }
+}

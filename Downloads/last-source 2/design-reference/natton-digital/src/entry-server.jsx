@@ -1,0 +1,21 @@
+import HomePage,{HomeFrame} from './homepage/HomePage.jsx';
+import {configureHomeRenderer} from './homepage/homeRoutes.jsx';
+configureHomeRenderer(HomePage,HomeFrame);
+import {productPlatformPages,productPlatformDirectory,ProductPlatformPage,ProductPlatformDirectory,setServerProductPages} from './product-platforms/ProductPlatforms.jsx';
+import {configurePlatformRenderers} from './product-platforms/platformRoutes.jsx';
+const platformModules=import.meta.glob(['./product-platforms/pages/*.jsx','!./product-platforms/pages/hub.jsx'],{eager:true});
+setServerProductPages(Object.fromEntries(Object.entries(platformModules).map(([path,page])=>[path.replace('./product-platforms/','./'),page])));
+configurePlatformRenderers({Page:ProductPlatformPage,Directory:ProductPlatformDirectory});
+import ResourcePage from './resources/ResourcePages.jsx';
+import {resourcePages,configureResourceRenderer} from './resources/resourceRoutes.jsx';
+configureResourceRenderer(ResourcePage);
+import React from 'react';
+import {renderToString} from 'react-dom/server';
+import App,{configureCollectionRenderer} from './App.jsx';
+import CollectionPages from './CollectionPages.jsx';
+configureCollectionRenderer(CollectionPages);
+import {allPages,SITE_URL} from './data/index.js';
+import {servicePages} from './services/data.js';
+const renderedPages=[...allPages,...resourcePages,...servicePages,...productPlatformPages,productPlatformDirectory,{path:'/page-collection/',metaTitle:'Page Collection | Natton Digital',metaDescription:'Review the product and industry pages.',noindex:true}];
+export {renderedPages as allPages,SITE_URL};
+export function render(path){return renderToString(<App path={path}/>);}

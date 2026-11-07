@@ -1,0 +1,1093 @@
+[
+  {
+    "slug": "growth-os",
+    "title": "GrowthOS",
+    "eyebrow": "YOUR GROWTH FOUNDATION",
+    "headline": "Build your presence. Give growth a direction.",
+    "h1": "GrowthOS: digital marketing built around your business",
+    "description": "Connect your website, search visibility, content and campaigns around the customers you want to reach. GrowthOS gives startups, MSMEs and growing SMBs a practical marketing foundation, with a team that stays involved as the business develops.",
+    "audience": [
+      "Startups, owner-led businesses, MSMEs and growing small and medium-sized businesses (SMBs)",
+      "B2B service firms and B2C brands building a credible digital presence",
+      "Direct-to-consumer (D2C) businesses improving product discovery and customer enquiries",
+      "New brands, market launches and focused business units within larger organisations"
+    ],
+    "process": [
+      {
+        "title": "Understand the business",
+        "description": "Clarify your offer, audience, locations, current marketing and the action a useful customer should take. Agree an initial objective and the information needed to evaluate it.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Build the right foundation",
+        "description": "Prioritise website clarity, search basics, eligible business profiles and enquiry capture. We can improve existing assets where they remain useful instead of assuming everything needs replacement.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Create and connect",
+        "description": "Develop the agreed pages, content and channel activity with a consistent message. Prepare landing pages, forms or conversation entry points for the campaigns in scope.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Launch with a clear handover",
+        "description": "Check the customer journey, tracking and team responsibilities. Introduce the agreed campaigns and publishing activity when the business is ready to handle the response.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review and improve",
+        "description": "Review visibility, customer actions and enquiry quality at agreed intervals. Decide together what needs refinement, what should continue and which next investment has a useful role.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is GrowthOS?",
+        "answer": "GrowthOS is Natton Digital’s customised approach to connecting website development, SEO, content, selected marketing channels and enquiry capture. It is a consultancy and implementation bundle shaped around the business, rather than one fixed list of tools every client must buy."
+      },
+      {
+        "question": "Do we need a new website before starting?",
+        "answer": "Not necessarily. We first review the existing website and the customer journey. A focused improvement to content, structure, speed or enquiry capture may be more useful than a complete rebuild. The scope should explain what is being retained, changed or newly developed."
+      },
+      {
+        "question": "Do all businesses need SEO, social media and paid advertising together?",
+        "answer": "No. A local service business, an ecommerce store and a B2B company may need different starting priorities. We select the mix around customer behaviour, the offer, location, readiness and budget. Channels can be added or adjusted when they have a clear role."
+      },
+      {
+        "question": "Can you work with WordPress, Shopify or a custom website?",
+        "answer": "Those are options we can assess against the requirements. Content editing, catalogue management, integrations, design needs and ongoing maintenance affect the choice. The selected platform and responsibilities are agreed before implementation; advanced animations are considered alongside accessibility and mobile usability."
+      },
+      {
+        "question": "When should we expect results?",
+        "answer": "The sequence depends on the starting position and the channels in scope. Website or tracking improvements, advertising tests and organic search work have different review cycles. We agree delivery milestones and measurement points during planning. Rankings, sales and lead volumes cannot be guaranteed for a particular date."
+      },
+      {
+        "question": "What happens when our customer operations become more complex?",
+        "answer": "GrowthOS can establish the marketing and enquiry foundations. If the growing challenge becomes managing customer context, team ownership, conversations or routine operational follow-up, BusinessOS may be the next useful discussion. The move is based on a real need, not an automatic upgrade requirement."
+      }
+    ],
+    "metaTitle": "GrowthOS | Digital Marketing for MSMEs & SMBs | Natton",
+    "metaDescription": "Connect your website, SEO, content and campaigns with GrowthOS. A tailored digital marketing plan for MSMEs and SMBs, with ongoing support from Natton.",
+    "keywords": [
+      "digital marketing for MSMEs",
+      "digital marketing for small businesses",
+      "SMB marketing strategy",
+      "website and SEO services",
+      "business growth marketing",
+      "local business marketing",
+      "GrowthOS",
+      "B2B and B2C marketing strategy",
+      "D2C marketing foundations"
+    ],
+    "kind": "product",
+    "path": "/products/growth-os/",
+    "needs": [
+      {
+        "title": "People cannot clearly understand your offer",
+        "description": "Your website and profiles need to explain what you do, whom you help and how a customer can contact you.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Your marketing feels disconnected",
+        "description": "Content, search activity and advertising need a common message and a useful destination.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "You are unsure which channels deserve attention",
+        "description": "The starting mix should reflect customer behaviour, location, readiness and the available budget.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Enquiries arrive without a clear next step",
+        "description": "Forms, calls and messages need an agreed handover so marketing interest can become a useful conversation.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "services": [
+      {
+        "title": "Website Design & Development",
+        "description": "Develop or improve the pages customers need to evaluate your business and make an enquiry. WordPress, Shopify or a custom-coded website can be considered according to the content, ecommerce and editing requirements. Advanced visual storytelling is added where it supports the offer and the mobile experience.",
+        "icon": "",
+        "linkLabel": "Website development",
+        "packageIcon": "globe",
+        "packageTags": [
+          "WordPress / Shopify",
+          "Custom websites"
+        ]
+      },
+      {
+        "title": "SEO & Search Visibility",
+        "description": "Connect keyword research, page structure, technical SEO and helpful content around your actual services. The objective is to help relevant people discover and understand your business. Search visibility is reviewed over time, without promises of a particular ranking or a fixed number of leads.",
+        "icon": "",
+        "linkLabel": "SEO services",
+        "packageIcon": "search",
+        "packageTags": [
+          "Technical SEO",
+          "Helpful content"
+        ]
+      },
+      {
+        "title": "Local SEO & Google Business Profile",
+        "description": "For eligible businesses, review Google Business Profile information, service details, photos and the journey from local discovery to a call or enquiry. Location relevance should reflect where the business genuinely operates. An online-only business needs a different search and acquisition approach.",
+        "icon": "",
+        "linkLabel": "Local search strategy",
+        "packageIcon": "search",
+        "packageTags": [
+          "Eligible local profiles",
+          "Service information"
+        ]
+      },
+      {
+        "title": "Content & Social Media Marketing",
+        "description": "Plan website copy, articles and social media content around what your audience needs to understand. Creative ideas should support a recognisable offer, useful explanations and a practical publishing rhythm, with the channels and formats agreed together.",
+        "icon": "",
+        "linkLabel": "Content and social media",
+        "packageIcon": "content",
+        "packageTags": [
+          "Brand messaging",
+          "Social content"
+        ]
+      },
+      {
+        "title": "Paid Advertising & Landing Pages",
+        "description": "Where paid advertising fits the plan, connect the campaign message, targeting, landing page and enquiry action. Channel selection and campaign testing depend on the audience, offer and budget. Media spend is identified separately from the implementation and management scope.",
+        "icon": "",
+        "linkLabel": "Paid advertising",
+        "packageIcon": "megaphone",
+        "packageTags": [
+          "Campaign planning",
+          "Enquiry-focused pages"
+        ]
+      },
+      {
+        "title": "Analytics & Growth Review",
+        "description": "Agree which actions matter, such as relevant calls, form enquiries or purchases. Connect the available tracking and a practical handover to your team, then review the data alongside the quality of the enquiries. The next decision should be understandable, with limitations in attribution made clear.",
+        "icon": "",
+        "linkLabel": "Discuss your growth plan",
+        "packageIcon": "chart",
+        "packageTags": [
+          "Relevant conversions",
+          "Enquiry quality"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Relevant search visibility",
+        "description": "Queries and useful pages connected with the services and markets you actually serve."
+      },
+      {
+        "title": "Useful customer enquiries",
+        "description": "Calls, forms or purchases that match the actions agreed for the website or campaign."
+      },
+      {
+        "title": "Landing-page customer actions",
+        "description": "How visitors use the page and reach the next step, within the available tracking."
+      },
+      {
+        "title": "Enquiry quality and follow-up",
+        "description": "Whether enquiries suit the business and reach a responsible person for follow-up."
+      }
+    ],
+    "heroImage": "/media/products/growth-os-preview.svg",
+    "definition": {
+      "title": "What GrowthOS brings together",
+      "body": "A new website, more social posts or an advertising campaign can each have a role. The useful starting point is understanding your customers, your offer and the action you want them to take. We shape an agreed mix of digital marketing services around those priorities, then keep reviewing what the work is producing."
+    },
+    "example": {
+      "title": "A connected growth journey",
+      "description": "Illustrative journey. Channels and tracking depend on the agreed scope.",
+      "steps": [
+        "Customer discovers a useful page",
+        "The offer and next step become clear",
+        "A form, call or message reaches the team",
+        "The enquiry and campaign are reviewed"
+      ],
+      "note": "Illustrative journey. Channels and tracking depend on the agreed scope."
+    },
+    "deliverables": [
+      "An audience, offer and channel plan",
+      "Agreed website pages and customer enquiry routes",
+      "SEO priorities and approved content assets",
+      "Selected campaign creative and launch checks",
+      "A tracking, handover and review plan"
+    ],
+    "timing": "We begin with your audience, offer and existing presence. Agreed website, content and tracking foundations come before campaigns that depend on them. Launch and review points follow access, approvals, channel readiness and budget; organic search work needs continuing review.",
+    "scopeNote": "The scope can support a whole small business or a defined brand, department or business unit within a larger organisation. Markets, languages, system access and support responsibilities are confirmed in the proposal. Advertising spend, third-party subscriptions and usage charges are listed separately where relevant.",
+    "audienceContext": "Business-to-business (B2B) buyers may need capability pages and a considered sales conversation; business-to-consumer (B2C) audiences may need local discovery or a simpler enquiry route. GrowthOS starts with that marketing foundation. The channels, content and follow-up are selected around your offer and customers.",
+    "packageContents": {
+      "introduction": "A digital marketing foundation, with practical automation options when enquiries need a clearer next step. Explore the service mix and the solutions we can add to your plan.",
+      "coreLabel": "Marketing services",
+      "coreTitle": "The digital marketing foundation.",
+      "coreDescription": "Website, search, content, social media, campaigns and measurement—selected around your audience, goals and budget. Each card explains the work that can form your core plan.",
+      "solutionDescription": "Add a defined follow-up task when it supports the marketing plan. Start with a simple connection your team can manage, then assess broader operations or agent workflows as the need develops.",
+      "visualIndex": 0,
+      "costNote": "Advertising spend, messaging usage, third-party software and optional solution work are priced separately where relevant. The proposal confirms the selected channels and scope.",
+      "solutions": [
+        {
+          "title": "Lead Capture & Starter CRM",
+          "description": "Connect a website form or landing-page enquiry to a customer record, a named owner and a simple follow-up stage. HighLevel or a suitable existing CRM can be assessed for the task.",
+          "icon": "customers",
+          "examples": [
+            "Form to contact record",
+            "Assigned enquiry owner"
+          ]
+        },
+        {
+          "title": "WhatsApp Automation",
+          "description": "Add approved enquiry acknowledgements, useful next-step messages or follow-up reminders through the agreed WhatsApp setup. Templates, channel permissions and provider availability are checked during scoping.",
+          "icon": "chat",
+          "examples": [
+            "Enquiry acknowledgement",
+            "Follow-up reminders"
+          ]
+        },
+        {
+          "title": "Email & Appointment Follow-up",
+          "description": "Connect a relevant email sequence or booking request to the next action your team needs to take. The scope can include confirmations and reminders, using the email and calendar tools agreed for the business.",
+          "icon": "calendar",
+          "examples": [
+            "Email follow-up",
+            "Booking reminders"
+          ]
+        },
+        {
+          "title": "AI-assisted Enquiry Automation",
+          "description": "Use approved business information to help prepare a simple reply, summarise an enquiry or route a request for review. The task has a defined boundary and a clear handover to your team.",
+          "icon": "spark",
+          "examples": [
+            "Draft replies",
+            "Enquiry summaries"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": "business-os",
+    "title": "BusinessOS",
+    "eyebrow": "CONNECTED CUSTOMER OPERATIONS",
+    "headline": "Keep your business moving.",
+    "h1": "BusinessOS: CRM and workflow automation for growing teams",
+    "description": "Connect your CRM, customer conversations and everyday workflows so your team knows who owns what and what happens next. BusinessOS brings structure to customer-facing work through the tools, responsibilities and handovers your business needs.",
+    "audience": [
+      "Established SMEs, MSMEs and mid-market organisations coordinating customer-facing work",
+      "B2B product companies and service-based businesses managing sales enquiries and handovers",
+      "B2C and D2C teams connecting customer conversations, appointments and support",
+      "Large enterprises and multinational companies (MNCs) evaluating a defined department or business-unit workflow",
+      "Marketplace teams coordinating customer, seller or service-provider requests"
+    ],
+    "process": [
+      {
+        "title": "Map one real customer journey",
+        "description": "Understand how a request arrives, which information the team needs, where it is stored and where the current handover breaks down.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Agree the records and responsibilities",
+        "description": "Define the customer record, status stages, owners, response rules and outcomes that make the process understandable.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Connect the appropriate tools",
+        "description": "Configure the agreed CRM, channels and workflow connections. Access, customer permissions and third-party costs are considered before activation.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Test the ordinary and difficult cases",
+        "description": "Check missing information, duplicate requests, unavailable owners, failed actions and human handovers with representative examples.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Introduce, review and refine",
+        "description": "Help the team use the workflow, review outstanding work and adjust the information, rules or handovers that need attention.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is BusinessOS?",
+        "answer": "BusinessOS is Natton Digital’s approach to connecting CRM, business communications, customer support and operational workflows. We configure the agreed tools, responsibilities and handovers around how the team works. It is a scoped implementation and ongoing partnership, not a fixed software stack every business must adopt."
+      },
+      {
+        "question": "Why use HighLevel for CRM?",
+        "answer": "HighLevel can support contact records, conversations, pipelines, appointments and follow-up in the CRM scope we agree. The starting point is the business process and current systems. The selected setup should have a practical role, with responsibilities and data access reviewed before implementation."
+      },
+      {
+        "question": "Do we need all eleven tools shown on the page?",
+        "answer": "No. The tools are implementation options. Some overlap and are alternatives in a particular scope. We select the connections that fit the workflow, the systems already in use and the agreed budget. Implementation fees, subscriptions and usage charges are identified separately in the proposal."
+      },
+      {
+        "question": "Can we keep our existing CRM and business tools?",
+        "answer": "We can assess the existing systems and identify practical connections. Available system connections (APIs), data access, provider limits, account permissions and maintenance requirements affect the scope. We do not assume that every connection is native or already included in a platform subscription."
+      },
+      {
+        "question": "Does every workflow use an AI assistant?",
+        "answer": "No. A rule-based workflow or direct human response can be the better fit. AI may support a defined activity such as collecting information, answering agreed questions or assisting with calls, with suitable handover. Human ownership remains part of the operating design."
+      },
+      {
+        "question": "How does BusinessOS differ from GrowthOS and AgenticOS?",
+        "answer": "GrowthOS concentrates on marketing foundations, visibility and attracting relevant enquiries. BusinessOS organises customer context, communications and operational follow-up. AgenticOS addresses a more advanced, defined AI-agent workflow that needs tool access, oversight and evaluation. These are useful scopes to discuss, not compulsory upgrades."
+      }
+    ],
+    "metaTitle": "BusinessOS | CRM & Workflow Automation | Natton Digital",
+    "metaDescription": "Connect CRM, customer conversations and follow-up with BusinessOS. HighLevel-led workflows for SMEs, mid-market businesses and scoped enterprise teams.",
+    "keywords": [
+      "CRM and workflow automation",
+      "CRM for MSMEs",
+      "business automation for SMBs",
+      "HighLevel CRM implementation",
+      "customer communication workflows",
+      "operational workflow automation",
+      "BusinessOS",
+      "CRM workflows for B2B companies",
+      "enterprise departmental automation",
+      "customer workflows for product and service businesses"
+    ],
+    "kind": "product",
+    "path": "/products/business-os/",
+    "needs": [
+      {
+        "title": "Customer context lives in different places",
+        "description": "Contact details, conversation history and the current next step need a useful shared record.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Nobody is sure who owns the reply",
+        "description": "Enquiries and service requests need a defined person, queue or handover process.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Routine updates depend on manual chasing",
+        "description": "Reminders, assignments and relevant system updates can follow agreed rules.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "The team cannot easily see outstanding work",
+        "description": "Useful reporting should show waiting requests, follow-up and areas that need attention.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "services": [
+      {
+        "title": "CRM & Customer Workspace",
+        "description": "Bring contact records, conversations, opportunities and the next customer action into a practical workspace. HighLevel can support the CRM scope we agree, including pipelines, forms, calendars and follow-up. Existing systems can remain where they still have a useful role.",
+        "icon": "",
+        "linkLabel": "CRM and AI automation",
+        "packageIcon": "customers",
+        "packageTags": [
+          "Contact records",
+          "Sales pipeline"
+        ]
+      },
+      {
+        "title": "Omnichannel Conversations",
+        "description": "Connect the agreed messaging channels with useful context and a clear owner for the response. WhatsApp Business Platform, web chat, SMS and other channels depend on provider capabilities, customer permissions and the implementation scope. Rich Communication Services (RCS) messaging availability is assessed for the relevant provider and market.",
+        "icon": "",
+        "linkLabel": "Conversational AI",
+        "packageIcon": "chat",
+        "packageTags": [
+          "Shared context",
+          "Clear response owners"
+        ]
+      },
+      {
+        "title": "Calling & Appointments",
+        "description": "Connect business calls, routing, appointment requests and team handovers. Cloud telephony or an AI-assisted calling flow may support a defined task, with a suitable route to a person. Calendar access and booking rules need to reflect how the business actually schedules work.",
+        "icon": "",
+        "linkLabel": "Discuss calling workflows",
+        "packageIcon": "calendar",
+        "packageTags": [
+          "Call routing",
+          "Calendar rules"
+        ]
+      },
+      {
+        "title": "Support & Knowledge",
+        "description": "Give service requests a home, a priority and a responsible owner. An agreed knowledge base can support consistent answers, while unresolved questions reach the appropriate team. Customer feedback and customer satisfaction (CSAT) surveys can be included where the process and available data make them useful.",
+        "icon": "",
+        "linkLabel": "Customer support workflows",
+        "packageIcon": "content",
+        "packageTags": [
+          "Service requests",
+          "Approved answers"
+        ]
+      },
+      {
+        "title": "Workflow Automation",
+        "description": "Connect routine actions such as assignments, reminders, approved record updates and payment-event notifications. n8n, Zapier and native platform workflows are possible implementation options. Each connection is scoped against access, provider limits and the action it needs to perform.",
+        "icon": "",
+        "linkLabel": "Workflow automation",
+        "packageIcon": "route",
+        "packageTags": [
+          "Assignments",
+          "Record updates"
+        ]
+      },
+      {
+        "title": "Reporting & Team Visibility",
+        "description": "Review open requests, response patterns, follow-up and available customer feedback. Reports should help the team decide what needs attention. Metric definitions and data coverage are agreed so a dashboard does not suggest visibility the connected systems cannot provide.",
+        "icon": "",
+        "linkLabel": "Discuss your reporting needs",
+        "packageIcon": "chart",
+        "packageTags": [
+          "Open requests",
+          "Outstanding follow-up"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Customer response patterns",
+        "description": "Response intervals and unanswered requests, using the records the connected channels provide."
+      },
+      {
+        "title": "Open requests by status or owner",
+        "description": "Which requests are open, where they sit and who is responsible for the next action."
+      },
+      {
+        "title": "Outstanding follow-up",
+        "description": "Reminders and next actions that are pending or have been completed by the team."
+      },
+      {
+        "title": "Customer feedback where available",
+        "description": "Customer satisfaction feedback where the workflow and data collection support it."
+      }
+    ],
+    "heroImage": "/media/products/business-os-preview.svg",
+    "definition": {
+      "title": "What BusinessOS brings together",
+      "body": "Growth creates more conversations, more requests and more handovers. The useful response is a process the team can follow: shared customer context, clear ownership and a visible next action. BusinessOS connects that work around the systems and people already involved, with HighLevel as the default starting point for CRM and further tools selected for the agreed scope."
+    },
+    "example": {
+      "title": "One request. A useful next step.",
+      "description": "Illustrative workflow. Human-led and AI-assisted paths are selected according to the task.",
+      "steps": [
+        "Receive the customer request",
+        "Connect the available context",
+        "Assign a person or agreed response flow",
+        "Record the next action and review"
+      ],
+      "note": "Illustrative workflow. Human-led and AI-assisted paths are selected according to the task."
+    },
+    "deliverables": [
+      "A customer-record structure and agreed CRM stages",
+      "Conversation routing and named request owners",
+      "Scoped reminders, calendar rules and handovers",
+      "Tested connections and exception-handling notes",
+      "Team guidance and agreed operational reports"
+    ],
+    "timing": "We first map the current customer process and responsibilities. CRM structure, routing and selected connections are configured in stages, then checked with representative cases before the team starts using them. Timing depends on data quality, account access, provider limits and the handovers in scope.",
+    "scopeNote": "The scope can support a whole small business or a defined brand, department or business unit within a larger organisation. Markets, languages, system access and support responsibilities are confirmed in the proposal. Advertising spend, third-party subscriptions and usage charges are listed separately where relevant.",
+    "audienceContext": "A shared inbox for an SMB and a multi-team enterprise workflow need different levels of access, integration and reporting. We agree the process, system fit and decision owners before implementation. A focused deployment can be considered within a larger organisation without treating BusinessOS as a replacement for its entire business stack.",
+    "packageContents": {
+      "introduction": "The customer workspace, communication tools and workflow services behind a more connected workday. Explore the core setup and the additional solutions for your operating needs.",
+      "coreLabel": "Operations & setup",
+      "coreTitle": "The connected customer-work foundation.",
+      "coreDescription": "Bring customer records, conversations, appointments, support and everyday handovers into a scope your team can follow. Tools and channels are selected around the process.",
+      "solutionDescription": "Expand a defined customer workflow when your team needs more than the core setup. Each extension is checked against existing systems, access, reporting needs and human ownership.",
+      "visualIndex": 4,
+      "costNote": "HighLevel and other software subscriptions, communication usage and custom integration work depend on the selected scope. The tool marquee shows implementation options, rather than a mandatory bundle.",
+      "solutions": [
+        {
+          "title": "AI Conversation & Calling Workflows",
+          "description": "Add a defined AI-assisted chat or voice task, such as answering an approved service question or collecting booking context. Escalation and handover remain part of the workflow.",
+          "icon": "spark",
+          "examples": [
+            "Approved service answers",
+            "Human handover"
+          ]
+        },
+        {
+          "title": "Advanced App & Data Connections",
+          "description": "Assess additional connections between the CRM and the business applications your team uses. Available APIs, data mapping, permissions and failure handling determine what can be implemented.",
+          "icon": "layers",
+          "examples": [
+            "Scoped app connections",
+            "Exception handling"
+          ]
+        },
+        {
+          "title": "Payment-event & Invoice Follow-up",
+          "description": "Connect supported payment or invoice events to approved customer records, notifications and follow-up tasks. Financial approvals and the source accounting system keep their agreed responsibilities.",
+          "icon": "route",
+          "examples": [
+            "Payment-status updates",
+            "Invoice reminders"
+          ]
+        },
+        {
+          "title": "Customer Re-engagement Automation",
+          "description": "Build a relevant email or WhatsApp follow-up around customer stages, service milestones or an agreed campaign. Audience permissions, message content and response ownership are confirmed first.",
+          "icon": "megaphone",
+          "examples": [
+            "Customer-stage triggers",
+            "Relevant follow-up"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": "agentic-os",
+    "title": "AgenticOS",
+    "eyebrow": "AI WORKFLOWS WITH CLEAR RESPONSIBILITY",
+    "headline": "Connect capable agents. Keep people in control.",
+    "h1": "AgenticOS: custom AI agents and workflow orchestration",
+    "description": "Design a defined business workflow in which AI agents can gather context, use approved tools and prepare the next action—with the permissions, review points and human handovers the work needs. AgenticOS connects advanced AI automation to a process your team can understand.",
+    "audience": [
+      "SMEs and mid-market teams with a documented task, suitable data and a responsible workflow owner",
+      "B2B product and service companies connecting approved business tools",
+      "Large businesses, enterprise departments and MNC business units evaluating supervised AI-agent workflows",
+      "B2C, D2C and marketplace operations reviewing repeatable support or enquiry-routing tasks"
+    ],
+    "process": [
+      {
+        "title": "Choose a bounded business task",
+        "description": "Identify a process with a clear objective, useful source information and a responsible owner. Compare an agent approach with simpler automation before selecting the architecture.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Define access and review points",
+        "description": "Agree the tools, data, permitted actions and approval requirements. Specify when the workflow should ask for information, stop or hand over.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Build the first working path",
+        "description": "Connect the necessary stages and tools around representative examples. Keep the output reviewable so the team can understand what the workflow did.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Evaluate and introduce carefully",
+        "description": "Test expected and difficult cases, inspect the outputs and review failure handling. Introduce an agreed pilot scope with suitable oversight.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review before expanding",
+        "description": "Assess usefulness, quality, exceptions and operating costs. Expand access or tasks only when the next responsibility has a clear purpose and a suitable review process.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is AgenticOS?",
+        "answer": "AgenticOS is a customised implementation scope for AI-agent workflows. It may connect reasoning steps, approved tools and multiple responsibilities around a defined business task. The design includes evaluation, human ownership, appropriate review points and a practical handover when the workflow cannot continue."
+      },
+      {
+        "question": "How is an agent different from ordinary automation?",
+        "answer": "A rules-based workflow follows the steps and conditions configured for it. An agent can use a model to interpret information and select among permitted tools or actions. That flexibility introduces uncertainty, so it needs boundaries and evaluation. Some tasks are better served by simpler automation."
+      },
+      {
+        "question": "Do we need several agents?",
+        "answer": "Not necessarily. A single bounded assistant, a retrieval step or a conventional workflow may be enough. We use multiple agents when separating responsibilities makes the task easier to manage and evaluate. The business need determines the architecture; the number of agents is not a success measure."
+      },
+      {
+        "question": "Can the agents send messages or change our records automatically?",
+        "answer": "Those actions depend on the scope, tool permissions and review requirements you agree. Some actions may be limited to preparing a draft or proposal; others may proceed after explicit approval or within a defined operating rule. Sensitive or consequential actions need a suitable responsible owner and safeguards."
+      },
+      {
+        "question": "How do you check whether the workflow is useful?",
+        "answer": "We agree representative requests, expected behaviours and review criteria. Testing looks at output quality, tool selection, incomplete information, failure handling and escalation. Review continues after rollout because changes to prompts, models, data or connected systems can affect behaviour."
+      },
+      {
+        "question": "What affects implementation time and ongoing costs?",
+        "answer": "The task, data readiness, connected systems, approval process and test requirements determine the implementation scope. Ongoing costs may include model usage, software subscriptions, hosting and maintenance. The proposal should identify these dependencies and a phased delivery plan rather than promise a universal rollout time."
+      }
+    ],
+    "metaTitle": "AgenticOS | Custom AI Agents & Workflows | Natton Digital",
+    "metaDescription": "Scoped AI-agent workflows for SMEs, mid-market and enterprise teams. Connect approved tools, human review and evaluation with Natton’s AgenticOS.",
+    "keywords": [
+      "custom AI agents for business",
+      "AI workflow orchestration",
+      "agentic automation",
+      "multi-agent workflows",
+      "human-in-the-loop AI",
+      "AI automation consultancy",
+      "AgenticOS",
+      "AI agents for SMEs and enterprise teams",
+      "B2B workflow automation",
+      "marketplace support workflows"
+    ],
+    "kind": "product",
+    "path": "/products/agentic-os/",
+    "needs": [
+      {
+        "title": "The task needs interpretation before action",
+        "description": "Requests vary, and a fixed rule sequence may need support from a carefully bounded reasoning step.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Useful context is spread across approved systems",
+        "description": "The workflow needs a controlled way to retrieve relevant information and use it for the task.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "A single assistant has become difficult to manage",
+        "description": "Distinct responsibilities may need to be separated into simpler agents or workflow stages.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "The team needs oversight and a recovery path",
+        "description": "An agent workflow needs observable outcomes, approval points and a suitable response when it cannot continue.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "services": [
+      {
+        "title": "AI Use-case & Workflow Design",
+        "description": "Define the task, the information it may use and the actions it may propose or take. We identify the situations that should go to a person and the conditions under which the workflow should stop. A smaller useful scope is a stronger starting point than an unrestricted agent.",
+        "icon": "",
+        "linkLabel": "Discuss your AI use case",
+        "packageIcon": "target",
+        "packageTags": [
+          "Task definition",
+          "Clear boundaries"
+        ]
+      },
+      {
+        "title": "Specialist AI Agents",
+        "description": "Where the task benefits from it, separate research, retrieval, drafting, checking or routing into clear responsibilities. A coordinating workflow connects the stages. Multiple agents are an architectural option, not an assumption that a larger number of agents produces a better result.",
+        "icon": "",
+        "linkLabel": "AI agents and workflows",
+        "packageIcon": "spark",
+        "packageTags": [
+          "Distinct responsibilities",
+          "Coordinated tasks"
+        ]
+      },
+      {
+        "title": "Approved Tools & Integrations",
+        "description": "Connect only the applications and data required for the agreed task. Tool permissions, input validation and account access are part of the design. Reading information, preparing a draft and changing an external system can require different levels of responsibility.",
+        "icon": "",
+        "linkLabel": "Explore workflow requirements",
+        "packageIcon": "layers",
+        "packageTags": [
+          "Scoped permissions",
+          "Input validation"
+        ]
+      },
+      {
+        "title": "Human Approval & Escalation",
+        "description": "Introduce approval steps before selected actions, such as sending an external message or making a significant record change. Define who reviews the request, what context they see and how the workflow proceeds after approval or rejection.",
+        "icon": "",
+        "linkLabel": "Business workflow foundations",
+        "packageIcon": "people",
+        "packageTags": [
+          "Review checkpoints",
+          "Human handover"
+        ]
+      },
+      {
+        "title": "Testing & Evaluation",
+        "description": "Test the workflow with representative requests, expected behaviours and difficult cases. Review output quality, tool use, escalation and failure patterns. As the workflow changes, the test examples help the team check whether useful behaviour has been retained.",
+        "icon": "",
+        "linkLabel": "Discuss evaluation and oversight",
+        "packageIcon": "chart",
+        "packageTags": [
+          "Representative cases",
+          "Output review"
+        ]
+      },
+      {
+        "title": "Monitoring & Refinement",
+        "description": "Define the execution records, alerts, ownership and recovery steps needed for the operating scope. Failed tool calls, missing information and unresolved requests need a practical destination. Model behaviour, connected applications and business needs can change, so review remains part of the work.",
+        "icon": "",
+        "linkLabel": "Talk to Natton",
+        "packageIcon": "route",
+        "packageTags": [
+          "Failure handling",
+          "Ongoing review"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Output quality on representative cases",
+        "description": "Whether outputs meet agreed criteria when reviewed against representative business cases."
+      },
+      {
+        "title": "Task completion and exception patterns",
+        "description": "Completed tasks, interruptions and recurring exceptions within the defined workflow."
+      },
+      {
+        "title": "Human review and escalation outcomes",
+        "description": "When people need to intervene, what they change and whether the handover is useful."
+      },
+      {
+        "title": "Operating cost and maintenance effort",
+        "description": "Usage costs and the practical effort needed to supervise and maintain the workflow."
+      }
+    ],
+    "heroImage": "/media/products/agentic-os-preview.svg",
+    "definition": {
+      "title": "What AgenticOS brings together",
+      "body": "An AI agent is useful when a task needs more than a fixed sequence: it may need to interpret a request, choose an allowed tool or combine information before continuing. That also creates more uncertainty. We begin with a focused use case, identify the boundaries and test representative cases before expanding the responsibility of the workflow."
+    },
+    "example": {
+      "title": "A reviewable agent-assisted response",
+      "description": "Illustrative workflow. This demonstration does not connect to a live AI model or business system.",
+      "steps": [
+        "Understand an incoming request",
+        "Retrieve permitted business context",
+        "Prepare a draft and proposed action",
+        "A responsible person reviews the next step"
+      ],
+      "note": "Illustrative workflow. This demonstration does not connect to a live AI model or business system."
+    },
+    "deliverables": [
+      "A defined use case and representative test cases",
+      "Approved data sources, tools and access boundaries",
+      "Human approval and escalation paths",
+      "A reviewed pilot and evaluation findings",
+      "Operating guidance, monitoring and maintenance responsibilities"
+    ],
+    "timing": "We start with one bounded task, then prepare approved context, permissions and test cases. A reviewed pilot comes before wider use. Expansion follows the quality of the outputs, exception handling and the team’s ability to supervise the workflow, rather than a fixed deployment promise.",
+    "scopeNote": "The scope can support a whole small business or a defined brand, department or business unit within a larger organisation. Markets, languages, system access and support responsibilities are confirmed in the proposal. Advertising spend, third-party subscriptions and usage charges are listed separately where relevant.",
+    "audienceContext": "Company size alone does not determine whether AI agents are useful. A clear task, suitable system access and measurable review criteria matter more. For a peer-to-peer (P2P) marketplace, for example, an agent could help prepare a support response or route a request; dispute outcomes and consequential decisions would remain with authorised people.",
+    "packageContents": {
+      "introduction": "AI-agent development, integration and evaluation services for a defined business task. Explore the core build and the channels or knowledge connections that can extend it.",
+      "coreLabel": "Agent build services",
+      "coreTitle": "The supervised AI-workflow foundation.",
+      "coreDescription": "Start with the use case, then define agent responsibilities, approved tools, review points and operating checks. The scope follows a useful task your team can evaluate.",
+      "solutionDescription": "Add the interfaces and information sources the agreed task needs. A channel connection or knowledge source is assessed separately rather than assumed to work with every system.",
+      "visualIndex": 5,
+      "costNote": "Model/API usage, hosting, provider subscriptions and additional integrations are scoped separately. Tool access, evaluation and approval responsibilities are recorded for the implementation.",
+      "solutions": [
+        {
+          "title": "CRM & Service-desk Connections",
+          "description": "Connect the approved agent task with customer context or support requests from an agreed system. Read access, draft preparation and record changes receive separate permissions and review rules.",
+          "icon": "customers",
+          "examples": [
+            "Customer context",
+            "Support-request routing"
+          ]
+        },
+        {
+          "title": "WhatsApp & Web Chat Interfaces",
+          "description": "Provide a customer-facing entry point for an agreed agent task through supported messaging or web chat. The conversation uses approved information and retains a practical path to a person.",
+          "icon": "chat",
+          "examples": [
+            "Service questions",
+            "Contextual handover"
+          ]
+        },
+        {
+          "title": "Voice-agent Workflows",
+          "description": "Assess an AI-assisted voice task for a defined enquiry, routing or appointment process. Supported telephony, language needs, recording arrangements and escalation are reviewed before implementation.",
+          "icon": "phone",
+          "examples": [
+            "Call context",
+            "Appointment enquiries"
+          ]
+        },
+        {
+          "title": "Knowledge-base & Document Retrieval",
+          "description": "Add an agreed collection of business documents or approved answers to support retrieval and draft preparation. Source quality, access boundaries and review responsibility are part of the setup.",
+          "icon": "content",
+          "examples": [
+            "Approved knowledge",
+            "Source-aware drafts"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": "ai-marketing-platform",
+    "title": "AI Marketing Platforms",
+    "eyebrow": "CONTENT, SEARCH, CAMPAIGNS & CUSTOMER RESPONSE",
+    "headline": "Connect the marketing work. Keep the next step clear.",
+    "h1": "AI Marketing Platforms: content, SEO, AEO, GEO and campaign workflows",
+    "description": "Bring content creation, search visibility, campaign preparation, customer feedback and lead follow-up into a workflow built around your business. Natton helps plan, configure and connect the right AI marketing tools, with your team responsible for the strategy and the final decisions.",
+    "audience": [
+      "MSMEs and SMBs connecting their website, content, campaigns and incoming enquiries",
+      "Agencies and in-house marketing teams coordinating several tools, brands or reviewers",
+      "B2B companies turning product information into useful content and relevant sales enquiries",
+      "Retail and D2C brands connecting product campaigns, customer feedback and follow-up",
+      "Enterprise and multinational teams improving a defined marketing workflow or business unit"
+    ],
+    "process": [
+      {
+        "title": "Understand the marketing goal",
+        "description": "Review the audience, offer, current website and channels. Identify the customer action that matters and the work slowing your team down.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Choose the workflow and inputs",
+        "description": "Select the capabilities, approved business material, tools and data access. Agree the review owner, the handovers and the measures to compare.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Configure and test representative work",
+        "description": "Prepare a real brief, selected content, a campaign handover and sample customer responses. Check the output and exception routes with your team before wider use.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Launch the agreed connections",
+        "description": "Introduce the selected tools and integrations, confirm publishing permissions and tracking, and hand over the operating guidance to the people using the setup.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Review and improve",
+        "description": "Compare content quality, available search and campaign signals, response handling and enquiry follow-up. Refine the workflow using observed results rather than content volume alone.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does Natton mean by AI marketing?",
+        "answer": "AI supports selected marketing tasks such as research, content preparation, campaign organisation, feedback handling and enquiry prioritisation. Natton connects the tools with your business context and marketing team. The strategy, selected capabilities and operating responsibilities are agreed together."
+      },
+      {
+        "question": "How is this different from AI Growth Marketing?",
+        "answer": "AI Growth Marketing is a managed marketing service: Natton helps plan and run the agreed marketing work. AI Marketing Platforms focuses on the tools, workspace and connections used to do that work. A proposal can combine them while identifying who creates content, manages campaigns and operates the software."
+      },
+      {
+        "question": "Does this include SEO, AEO, GEO and Google AI Overviews?",
+        "answer": "Search and answer-content workflows can be selected within this scope. SEO supports website discovery and visibility; AEO and GEO describe work aimed at answer engines and generative search experiences. We review useful content, technical access, clear business information and relevant measurement. No agency can guarantee that Google AI Overviews or another AI system will cite or recommend a business."
+      },
+      {
+        "question": "Can you create a website or connect our existing one?",
+        "answer": "We can scope website or landing-page development, content improvements and selected connections with your CMS, forms and analytics. These are identified in the proposal. An AI-assisted draft alone is not a complete website implementation."
+      },
+      {
+        "question": "Will the system automatically publish content or run advertising?",
+        "answer": "Publishing and ad-platform access are assessed for each workflow. The proposal defines approval rules, account permissions, budgets and the person responsible for release. Creative preparation does not by itself include media buying or ongoing campaign management."
+      },
+      {
+        "question": "Is lead prioritisation the same as predictive lead scoring?",
+        "answer": "No. Rule-based prioritisation uses criteria your team can explain, such as a stated requirement or service fit. Predictive scoring uses historical data and a model that needs evaluation. We start with the method the available data can support and describe it accurately."
+      },
+      {
+        "question": "Is this a ready-made SaaS subscription?",
+        "answer": "Natton offers customised consultancy and implementation bundles. We may configure existing applications, connect selected tools or develop a custom interface. Software subscriptions, model usage, implementation and support are listed separately where relevant."
+      },
+      {
+        "question": "Can we begin with one capability?",
+        "answer": "Yes. Start with the work that has a clear purpose, useful inputs and an owner. You can add content formats, channels and system connections when the next requirement justifies them."
+      }
+    ],
+    "metaTitle": "AI Marketing Platforms | SEO, AEO & Campaigns | Natton",
+    "metaDescription": "Connect AI-assisted content, SEO, AEO and GEO, campaign preparation, review responses and lead follow-up. Custom marketing tools and workflows from Natton.",
+    "keywords": [
+      "AI marketing platforms",
+      "custom AI marketing software",
+      "AI marketing consultancy",
+      "AI content and creative workflows",
+      "SEO AEO GEO services",
+      "AI search visibility",
+      "AI campaign planning",
+      "AI review response workflow",
+      "lead prioritisation and follow-up",
+      "marketing workflow integration"
+    ],
+    "kind": "product",
+    "path": "/products/ai-marketing-platform/",
+    "needs": [
+      {
+        "title": "Content is produced without a connected plan",
+        "description": "Bring the audience, offer, approved facts and campaign formats into one brief before preparing drafts.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Customers struggle to find clear answers",
+        "description": "Review the pages, technical foundations and service or product information behind search and AI-assisted discovery.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Campaigns and customer feedback stay apart",
+        "description": "Give the team a shared view of campaign assets, customer questions and review responses that need attention.",
+        "icon": "",
+        "linkLabel": ""
+      },
+      {
+        "title": "Relevant enquiries wait for the next action",
+        "description": "Use agreed qualification signals and named owners to make the next response or handover visible.",
+        "icon": "",
+        "linkLabel": ""
+      }
+    ],
+    "services": [
+      {
+        "title": "AI Content & Creative Production",
+        "description": "Use audience research, product information and brand guidance to prepare website copy, articles, emails, social content, images and video variations. Keep the brief and source material attached so editors can check accuracy, tone and suitability. The output is a useful asset for a defined channel.",
+        "icon": "",
+        "linkLabel": "Content marketing",
+        "packageIcon": "content",
+        "packageTags": [
+          "Brand-led drafts",
+          "Copy, image and video formats"
+        ]
+      },
+      {
+        "title": "SEO, AEO & GEO Workflows",
+        "description": "Connect keyword and customer-question research with useful pages, clear answers, technical SEO and accurate business information. AEO means Answer Engine Optimisation; GEO means Generative Engine Optimisation. Both describe work aimed at visibility in AI answer and search experiences. We assess relevant improvements and monitor available signals, including Google AI Overviews where relevant, without promising selection by an AI system.",
+        "icon": "",
+        "linkLabel": "SEO and AI-search visibility",
+        "packageIcon": "search",
+        "packageTags": [
+          "Search and answer content",
+          "Technical and source checks"
+        ]
+      },
+      {
+        "title": "Campaign Planning & Ad Preparation",
+        "description": "Connect the offer, audience, landing page, creative variations and intended customer action. Prepare briefs and assets for selected channels such as Google or Meta, then review the message and measurement setup before release. Ad-account connections, publishing and ongoing campaign management are specified in the proposal.",
+        "icon": "",
+        "linkLabel": "AI growth marketing",
+        "packageIcon": "target",
+        "packageTags": [
+          "Audience and offer",
+          "Assets, destination and tracking"
+        ]
+      },
+      {
+        "title": "Reputation & Review Responses",
+        "description": "Organise feedback from agreed review sources, identify the topic that needs attention and prepare a relevant response. Your team checks the business facts and decides whether to reply or create a service follow-up. Review monitoring and publication require the selected platform access.",
+        "icon": "",
+        "linkLabel": "Customer feedback workflow",
+        "packageIcon": "people",
+        "packageTags": [
+          "Response drafts",
+          "Service follow-up when needed"
+        ]
+      },
+      {
+        "title": "Lead Prioritisation & Follow-up",
+        "description": "Use information such as the stated requirement, service fit, source and agreed engagement signals to help the team prioritise enquiries. Keep the reason, owner and next action visible in the chosen CRM or workspace. Rule-based qualification is a practical starting point; predictive scoring is assessed separately when suitable historical data and a validated model are available.",
+        "icon": "",
+        "linkLabel": "CRM and enquiry handovers",
+        "packageIcon": "route",
+        "packageTags": [
+          "Explainable qualification rules",
+          "Named owner and next action"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Content quality and production effort",
+        "description": "Check how well assets meet the brief, the revisions needed and the time spent preparing and approving them."
+      },
+      {
+        "title": "Search and AI-answer visibility",
+        "description": "Review indexing, relevant search queries, traffic and available AI-search appearance signals for the selected pages. Recorded checks are observations, not a universal AI-ranking score."
+      },
+      {
+        "title": "Campaign and customer response",
+        "description": "Review tracked visits, enquiries and conversion actions alongside the customer questions and feedback the campaign produces."
+      },
+      {
+        "title": "Lead relevance and follow-up",
+        "description": "Check why an enquiry was prioritised, whether it reached an owner and how the next response or action progressed."
+      }
+    ],
+    "heroImage": "/media/products/ai-marketing-platform-preview.svg",
+    "definition": {
+      "title": "What AI Marketing Platforms bring together",
+      "body": "AI marketing uses AI to support the work behind reaching, informing and responding to customers. For Natton, that means connecting useful tools with marketing strategy, business knowledge and an accountable team. We can start with content production, search visibility, campaign preparation, review responses or lead prioritisation, then connect the pieces that serve your goal. This is a customised implementation, with existing software or a purpose-built workspace selected around the agreed work."
+    },
+    "example": {
+      "title": "One campaign. Several connected marketing tasks.",
+      "description": "Follow an illustrative Northline headphone campaign from the audience brief to customer questions and an owned follow-up.",
+      "steps": [
+        "Research the audience and agree the offer",
+        "Prepare content and answer customer questions",
+        "Review the campaign and customer feedback",
+        "Prioritise the enquiry and assign follow-up"
+      ],
+      "note": "Illustrative workflow with example records. Channels, publishing, review monitoring and CRM connections depend on the agreed implementation."
+    },
+    "deliverables": [
+      "Marketing goal, audience brief and current-workflow map",
+      "Selected AI marketing tools or a scoped custom workspace",
+      "Content templates, approved brand references and review responsibilities",
+      "Search and answer-content recommendations for the selected pages",
+      "Agreed campaign, feedback and lead-handover connections",
+      "Measurement baseline, team guidance and an ongoing review plan"
+    ],
+    "timing": "We begin with your marketing goal, current tools and the customer journey. We agree the first workflow, prepare representative examples and check the handovers with your team. Delivery depends on the selected features, content, data access and integrations. The review continues after launch so the setup can improve with actual use.",
+    "scopeNote": "Capabilities are selected for your proposal rather than bundled into every engagement. Advertising spend, software licences, model usage, hosting and ongoing support are identified separately where relevant. Predictive analytics or personalisation require a separately assessed data and implementation scope.",
+    "audienceContext": "A small business can start with one useful workflow. A larger team can scope a brand, region or department. The proposal identifies the selected capabilities, the people operating them and the systems they connect to.",
+    "packageContents": {
+      "introduction": "Five marketing capabilities, connected around your objective. The proposal identifies what is included, what your team operates and which connections are useful.",
+      "coreLabel": "Marketing capabilities",
+      "coreTitle": "An AI marketing workspace built around the work.",
+      "coreDescription": "Select the relevant content, search, campaign, reputation and lead workflows. Shared brand context and clear review responsibilities connect them.",
+      "solutionDescription": "Add the system connections needed to move approved work into your existing website, channels and customer records.",
+      "visualIndex": 3,
+      "costNote": "The selected features, data sources, permissions and operating responsibilities are confirmed in your proposal. Software usage, advertising spend and ongoing management are separate where relevant.",
+      "solutions": [
+        {
+          "title": "Website & Landing-page Connections",
+          "description": "Connect the agreed CMS, product pages, enquiry forms or landing pages with content handover and analytics. Website development and publishing access are scoped explicitly.",
+          "icon": "search",
+          "examples": [
+            "CMS and page handover",
+            "Forms and analytics"
+          ]
+        },
+        {
+          "title": "Publishing & Campaign Connections",
+          "description": "Assess approved publishing, scheduling and advertising-platform connections for the channels the team actually uses. Keep account access, budgets and release responsibilities clear.",
+          "icon": "calendar",
+          "examples": [
+            "Selected social channels",
+            "Ad-account handover"
+          ]
+        },
+        {
+          "title": "Review-source & Service Handovers",
+          "description": "Connect agreed review sources with response preparation and service follow-up where platform access supports it. Escalate unresolved issues to a named person.",
+          "icon": "people",
+          "examples": [
+            "Review-source access",
+            "Customer-service follow-up"
+          ]
+        },
+        {
+          "title": "CRM, Email & Enquiry Handovers",
+          "description": "Connect relevant customer context, qualification rules and next-action tasks with the selected CRM or email platform. Record the reason for a handover and who should respond.",
+          "icon": "route",
+          "examples": [
+            "Qualification and ownership",
+            "Follow-up task records"
+          ]
+        }
+      ]
+    }
+  }
+]
