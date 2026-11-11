@@ -11,6 +11,7 @@ import {generateReport} from './reports.mjs';
 import {methodology as seoMethodology} from './seo/evidence.mjs';
 import {installSearchConsole,searchConsoleToken} from './seo/search-console.mjs';
 import {auditCsv} from './seo/export.mjs';
+import {enqueueAuditJob} from './audit-jobs.mjs';
 import {providerConfigured,runProvider,secretReference} from '../admin/providers.mjs';
 const wrap=fn=>(req,res,next)=>Promise.resolve(fn(req,res,next)).catch(next);
 const hash=value=>createHash('sha256').update(value).digest('hex');
@@ -24,6 +25,24 @@ export function availability(tool){if(!tool.enabled)return{state:'paused',messag
 async function catalog(){const result=await client().rpc('nd_growth_catalog');dbError(result.error);return(result.data||[]).map(row=>({...row,hub:toolById[row.id]?.hub,kind:toolById[row.id]?.kind,featured:!!toolById[row.id]?.featured,availability:availability(row)}));}
 function sendPdf(res,bytes,id){const buffer=Buffer.isBuffer(bytes)?bytes:Buffer.from(bytes,'base64');if(buffer.subarray(0,5).toString()!=='%PDF-')throw new ApiError(503,'A valid PDF is not available.');res.set({'Content-Type':'application/pdf','Content-Disposition':`attachment; filename="Natton-Digital-${id}.pdf"`,'Cache-Control':'private, no-store','X-Content-Type-Options':'nosniff'}).send(buffer);}
 async function reportFor(result){let pdf=null;try{pdf=await generateReport(result,result.reportBrand);}catch{result.warnings.push('PDF generation failed. The saved result is available; an administrator can retry the report.');}return pdf;}
+async function executeGrowthRun({id,inputs,visitorHash,requestId,configSnapshot,gscToken}) {
+ const tool=toolById[id],configured=configSnapshot.config;
+  try{
+   if(!configured.currencies?.includes(inputs.currency))throw new ApiError(400,'Choose a currency supported by this tool.');
+   let result;
+   if(id==='website_grader'||id==='seo_aeo_audit'){const observed=id==='website_grader'?await websiteGrader(inputs):await seoAudit(inputs,undefined,{gscToken:gscToken,timeBudgetMs:35000});result={toolId:id,method:tool.kind,inputs,currency:inputs.currency,period:'point-in-time observation',assumptions:['Only the returned provider data or fetched public pages were observed.'],...observed};}
+   else result=calculateTool(id,inputs,configured);
+   result={...result,toolTitle:configSnapshot.toolTitle||tool.title,reportBrand:configured.reportBrand||'Natton Digital',requestId:requestId,methodologyVersion:id==='seo_aeo_audit'?result.auditVersion:configSnapshot.methodologyVersion,generatedAt:new Date().toISOString()};
+   const pdf=await reportFor(result);await ingest('complete',{id:requestId,visitor_hash:visitorHash,result,report_id:requestId,pdf_base64:pdf?.toString('base64')||null});
+   return {result,submissionId:requestId,report:{id:requestId,status:pdf?'ready':'failed'}};
+  }catch(error){try{await ingest('fail',{id:requestId,visitor_hash:visitorHash,error_code:error.code||'tool_execution_failed'});}catch{}throw error;}
+}
+export async function executeBackgroundAudit(job) {
+ const data=await owned(job.requestId,job.visitorHash);
+ // Netlify may retry delivery. Completed and failed jobs must not execute twice.
+ if(data.submission.status!=='processing')return;
+ return executeGrowthRun({...job,configSnapshot:data.submission.config_snapshot});
+}
 export function installGrowthApi(app){
  for(const base of ['/api/tools','/api/reports'])app.use(base,(_req,res,next)=>{res.set('Cache-Control','no-store');res.set('X-Content-Type-Options','nosniff');next();},express.json({limit:'80kb'}),(req,res,next)=>{try{protectMutation(req);next();}catch(e){next(e);}});
  installSearchConsole(app,wrap);
@@ -37,17 +56,17 @@ export function installGrowthApi(app){
   const body=bodySchema(runSchema,req.body);if(body.website)throw new ApiError(400,'Submission not accepted.');const inputs=bodySchema(inputSchema(id),body.inputs),visitorHash=visitor(req,res);
   const ipHash=createHmac('sha256',key()).update(String(req.ip||'unknown')).digest('hex');const ua=String(req.headers['user-agent']||'');const device=/ipad|tablet/i.test(ua)?'tablet':/mobile|android|iphone/i.test(ua)?'mobile':ua?'desktop':'unknown';
   const reserved=await ingest('reserve',{id:body.requestId,tool_id:id,visitor_hash:visitorHash,ip_hash:ipHash,inputs,device});
-  if(reserved.already_exists){if(reserved.status==='processing')throw new ApiError(409,'This request is still processing. Wait before retrying.','request_processing');const previous=await owned(body.requestId,visitorHash);if(previous.submission.status==='failed')throw new ApiError(409,'That request previously failed. Retry with a new request ID.','previous_request_failed');return res.json({result:previous.submission.result,submissionId:body.requestId,report:previous.report?{id:previous.report.id,status:previous.report.status}:null});}
-  const configured=reserved.config_snapshot.config;
-  try{
-   if(!configured.currencies?.includes(inputs.currency))throw new ApiError(400,'Choose a currency supported by this tool.');
-   let result;
-   if(id==='website_grader'||id==='seo_aeo_audit'){rateLimit('growth-audit-host:'+new URL(inputs.url).hostname,5,60000);const observed=id==='website_grader'?await websiteGrader(inputs):await seoAudit(inputs,undefined,{gscToken:searchConsoleToken(req)});result={toolId:id,method:tool.kind,inputs,currency:inputs.currency,period:'point-in-time observation',assumptions:['Only the returned provider data or fetched public pages were observed.'],...observed};}
-   else result=calculateTool(id,inputs,configured);
-   result={...result,toolTitle:reserved.config_snapshot.toolTitle||tool.title,reportBrand:configured.reportBrand||'Natton Digital',requestId:body.requestId,methodologyVersion:id==='seo_aeo_audit'?result.auditVersion:reserved.config_snapshot.methodologyVersion,generatedAt:new Date().toISOString()};
-   const pdf=await reportFor(result);await ingest('complete',{id:body.requestId,visitor_hash:visitorHash,result,report_id:body.requestId,pdf_base64:pdf?.toString('base64')||null});
-   res.status(201).json({result,submissionId:body.requestId,report:{id:body.requestId,status:pdf?'ready':'failed'}});
-  }catch(error){try{await ingest('fail',{id:body.requestId,visitor_hash:visitorHash,error_code:error.code||'tool_execution_failed'});}catch{}throw error;}
+  if(reserved.already_exists){if(reserved.status==='processing')return res.status(202).json({status:'processing',submissionId:body.requestId});const previous=await owned(body.requestId,visitorHash);if(previous.submission.status==='failed')throw new ApiError(409,'That request previously failed. Retry with a new request ID.','previous_request_failed');return res.json({result:previous.submission.result,submissionId:body.requestId,report:previous.report?{id:previous.report.id,status:previous.report.status}:null});}
+  if(id==='website_grader'||id==='seo_aeo_audit')rateLimit('growth-audit-host:'+new URL(inputs.url).hostname,5,60000);
+  const job={id,inputs,visitorHash,requestId:body.requestId,configSnapshot:reserved.config_snapshot,gscToken:searchConsoleToken(req)};
+  if(process.env.NETLIFY==='true' && (id==='seo_aeo_audit'||id==='website_grader')) {
+   try {await enqueueAuditJob(job);} catch(error) {
+    try{await ingest('fail',{id:body.requestId,visitor_hash:visitorHash,error_code:error.code||'audit_queue_unavailable'});}catch{}
+    throw error;
+   }
+   return res.status(202).json({status:'processing',submissionId:body.requestId});
+  }
+  res.status(201).json(await executeGrowthRun(job));
  });
  app.post('/api/tools/:id/run',run);app.post('/api/tools/:id',run);
  app.get('/api/tools/results/:id',wrap(async(req,res)=>{const data=await owned(req.params.id,visitor(req,res));res.json({result:data.submission.result,status:data.submission.status,report:data.report?{id:data.report.id,status:data.report.status}:null});}));

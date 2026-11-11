@@ -96,3 +96,36 @@ test('detailed SEO CSV is available only to the owning visitor',async()=>{
  const csv=await call('/api/reports/'+id+'/audit.csv',{cookie});assert.equal(csv.status,200);assert.match(csv.headers.get('content-type'),/text\/csv/);assert.match(await csv.text(),/https:\/\/example.com\/blocked/);
  assert.equal((await call('/api/reports/'+id+'/audit.csv')).status,404);
 });
+
+
+test('Netlify audits enqueue quickly, preserve one submission on retry, and worker failures are saved',async()=>{
+ const {readAuditJob}=await import('../../server/growth/audit-jobs.mjs');
+ const {handler}=await import('../../netlify/functions/audit-background.mjs');
+ const oldNetlify=process.env.NETLIFY,oldUrl=process.env.URL,originalFetch=globalThis.fetch;
+ const queued=[];
+ try {
+  process.env.NETLIFY='true';process.env.URL='https://jobs.example.invalid';
+  globalThis.fetch=(url,options)=>{
+   if(String(url)==='https://jobs.example.invalid/.netlify/functions/audit-background'){queued.push(options);return Promise.resolve(new Response(null,{status:202}));}
+   return originalFetch(url,options);
+  };
+  const catalog=await call('/api/tools'),cookie=cookieFrom(catalog),id=randomUUID();
+  const body={requestId:id,inputs:{currency:'INR',url:'http://127.0.0.1',phrase:'',locale:'India'}};
+  const response=await call('/api/tools/seo_aeo_audit/run',{method:'POST',cookie,body});
+  assert.equal(response.status,202);assert.equal((await response.json()).submissionId,id);assert.equal(queued.length,1);
+  assert.equal(submissions.get(id).status,'processing');
+  const again=await call('/api/tools/seo_aeo_audit/run',{method:'POST',cookie,body});assert.equal(again.status,202);assert.equal(queued.length,1);
+  const job=readAuditJob(queued[0].body,queued[0].headers['X-ND-Audit-Signature']);assert.equal(job.requestId,id);
+  const status=await call('/api/tools/results/'+id,{cookie});assert.equal((await status.json()).status,'processing');
+  assert.equal((await call('/api/tools/results/'+id)).status,404);
+  const event={httpMethod:'POST',body:queued[0].body,headers:queued[0].headers};
+  await assert.rejects(handler(event),{code:'unsafe_url'});assert.equal(submissions.get(id).status,'failed');
+  // Delivery retries leave a terminal job alone.
+  assert.equal((await handler(event)).statusCode,200);
+  assert.equal((await handler({...event,headers:{}})).statusCode,403);
+ } finally {
+  globalThis.fetch=originalFetch;
+  if(oldNetlify===undefined)delete process.env.NETLIFY;else process.env.NETLIFY=oldNetlify;
+  if(oldUrl===undefined)delete process.env.URL;else process.env.URL=oldUrl;
+ }
+});

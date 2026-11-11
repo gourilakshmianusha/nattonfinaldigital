@@ -46,6 +46,11 @@ export function robotsAllows(text,target,agent='nattongrowthaudit'){
 export const inspectHtml=pageEvidence;
 export async function seoAudit(inputs,fetcher=fetchPublic,options={}){
  const started=Date.now(),deadline=started+(options.timeBudgetMs||35000),observedAt=new Date().toISOString();
+ let measurements;
+ const measure = () => measurements ||= Promise.all([
+  Promise.resolve().then(() => (options.measureLighthouse || ((url) => fetcher === fetchPublic ? measureSeoLighthouse(url) : Promise.resolve({status:'unavailable',value:null,reason:'Live provider not invoked by fixture fetcher.'})))(inputs.url)).catch(e => ({status:'failed',value:null,reason:e.message,source:methodology.sources.psi})),
+  Promise.resolve().then(() => (options.measureVisibility || measureSearchVisibility)(inputs.url,options.gscToken)).catch(e => ({searchConsole:{status:'failed',reason:e.message},ai:{status:'not_measured',reason:'No AI citation monitoring is connected.'}}))
+ ]);
  const pages=[],urlRecords=[],resources=[],robotsCache=new Map(),sitemapSeen=new Set(),sitemapQueue=[],queue=[inputs.url],seen=new Set([inputs.url]),discovered=new Set([inputs.url]);
  const pageLimit=inputs.crawlLimit||100;let origin=null,truncated=false;
  const remaining=()=>Math.max(1,Math.min(6000,deadline-Date.now()));
@@ -66,6 +71,9 @@ export async function seoAudit(inputs,fetcher=fetchPublic,options={}){
   if(queue.length&&pages.length<pageLimit&&(!pages.length||!sitemapQueue.length)){const requested=queue.shift();if(seen.has('visited:'+requested))continue;seen.add('visited:'+requested);
    try{
     let response=await fetcher(requested,{beforeRequest:origin?sameSite:robotsFor,timeout:remaining()});
+    // Start independent provider checks after the URL passed public-network safety checks.
+    // They run alongside crawling rather than adding up to 47 seconds afterward.
+    if(!measurements) measure();
     if(!origin){origin=new URL(response.url).origin;sitemapQueue.push(new URL('/sitemap.xml',origin).href);for(const [site,promise]of robotsCache){const r=await promise;for(const line of String(r.text).split(/\r?\n/))if(/^\s*sitemap:/i.test(line))sitemapQueue.push(line.replace(/^\s*sitemap:\s*/i,''));}}
     if(!/text\/html|application\/xhtml\+xml/i.test(String(response.headers['content-type']||''))){urlRecords.push({url:requested,finalUrl:response.url,httpStatus:response.status,status:'skipped',reason:'non_html',redirectChain:response.redirectChain||[]});continue;}
     const rawHash=createHash('sha256').update(response.text).digest('hex');
@@ -90,8 +98,10 @@ export async function seoAudit(inputs,fetcher=fetchPublic,options={}){
  const coverage={mode:'automatic_same_site',complete:!incomplete&&pages.length>0,scope:'Submitted URL and discovered same-origin public HTML pages; not unlinked or authenticated pages.',inspected:pages.length,discovered:discovered.size,skipped:urlRecords.filter(r=>r.status==='skipped').length,failed:urlRecords.filter(r=>r.status==='failed').length,blocked:urlRecords.filter(r=>r.status==='blocked').length,remaining:pending.length,remainingUrls:pending,skippedPages:urlRecords.filter(r=>r.status!=='inspected'),urlRecords,resources,pageLimit,timeBudgetSeconds:(deadline-started)/1000,discoveryTruncated:truncated};
  const aggregate=key=>{const valid=pages.length>0&&pages.every(p=>p.scores[key].value!==null)&&urlRecords.some(r=>r.url===inputs.url&&r.status==='inspected');return{value:valid?Math.round(pages.reduce((sum,p)=>sum+p.scores[key].value,0)/pages.length*100)/100:null,status:valid?'calculated':'unavailable',reason:valid?null:'Unable to calculate: submitted page or inspected-page evidence is insufficient. See URL records and page checks.',scope:'Inspected HTML pages only',version:AUDIT_VERSION};};
  const technical=aggregate('technical'),aeo=aggregate('aeo');
- let lighthouse;try{lighthouse=await (options.measureLighthouse||((url)=>fetcher===fetchPublic?measureSeoLighthouse(url):Promise.resolve({status:'unavailable',value:null,reason:'Live provider not invoked by fixture fetcher.'})))(inputs.url);}catch(e){lighthouse={status:'failed',value:null,reason:e.message,source:methodology.sources.psi};}
- const visibility=await (options.measureVisibility||measureSearchVisibility)(inputs.url,options.gscToken);
+ const [lighthouse,visibility]=measurements ? await measurements : [
+  {status:'unavailable',value:null,reason:'No public page was fetched; provider checks were not started.',source:methodology.sources.psi},
+  {searchConsole:{status:'not_measured',reason:'No public page was fetched.'},ai:{status:'not_measured',reason:'No AI citation monitoring is connected.'}}
+ ];
  const scores={technical,aeo,lighthouse};
  return{auditVersion:AUDIT_VERSION,requestedUrl:inputs.url,finalUrl:pages[0]?.url||null,observedAt,methodologyUrl:'/api/tools/seo-aeo/methodology',scores,metrics:[{label:'Technical SEO score (inspected pages)',...technical,unit:'score'},{label:'Custom AEO Readiness Score',...aeo,unit:'score'},{label:'Google Lighthouse SEO (submitted URL)',value:lighthouse.value??null,status:lighthouse.status,reason:lighthouse.reason||null,unit:'score',source:methodology.sources.psi},{label:'Pages inspected',value:pages.length,unit:'number',status:'measured'},{label:'Pages discovered',value:discovered.size,unit:'number',status:'measured'}],coverage,pages,findings:pages.flatMap(p=>p.findings),robots:resources.filter(r=>r.kind==='robots'),sitemaps:resources.filter(r=>r.kind==='sitemap'),sitemap:(()=>{const s=resources.find(r=>r.kind==='sitemap');return{url:s?.url||new URL('/sitemap.xml',inputs.url).href,status:s?.httpStatus??null,xmlObserved:s?.status==='failed'?null:s?.xmlObserved??false,unavailable:s?.status==='failed',reason:s?.reason};})(),visibility,methodology:[methodology.formula,methodology.aeoDisclaimer,methodology.reproducibility,'Technical SEO and Custom AEO scores are calculated; Lighthouse is a separate Google measurement for the submitted URL. '+methodology.validationScope],warnings:[...(!coverage.complete?['Partial audit: inspect URL records, rendering failures and crawl limits.']:[]),...resources.filter(r=>r.kind==='sitemap'&&r.status==='failed').map(r=>'The optional sitemap could not be fully inspected: '+r.url),...(!pages.length?['Unable to calculate: no readable pages inspected.']:[]),'AI engine mentions and citations were not measured. No rankings are inferred.'],recommendations:[...new Set(pages.flatMap(p=>p.findings.map(f=>f.recommendation)))].slice(0,20),dataSources:pages.map(p=>p.url)};
 }

@@ -28,3 +28,27 @@ test('published breadcrumb requirements distinguish a valid profile from a missi
  const invalid=structuredData(load(markup([{...items[0],name:''},items[1]])),url);assert.ok(invalid.errors.some(e=>e.property==='itemListElement.name'));assert.ok(invalid.items.every(i=>i.richResultEligibility.status==='not_measured'));
 });
 test('unrecognized vocabulary is reported as unevaluated, never silently validated',()=>{const data=structuredData(load('<script type="application/ld+json">{"@context":"https://schema.org","@type":"ImaginaryRanking","fictionalRanking":100}</script>'),url);assert.equal(data.completeVocabularyEvaluation,false);assert.equal(data.types.length,0);assert.equal(data.items[0].validity,'not_evaluated');assert.ok(data.warnings.length);});
+
+
+test('provider checks run during the crawl, not sequentially afterward',async()=>{
+ let lighthouseStarted=false,visibilityStarted=false,overlapped=false,finishLighthouse;
+ const fetcher=async(request,options={})=>{
+  if(request.endsWith('/sitemap.xml')) {
+   overlapped=lighthouseStarted&&visibilityStarted;
+   finishLighthouse?.({value:91,status:'measured'});
+  }
+  return fixture()(request,options);
+ };
+ const result=await seoAudit({url},fetcher,{
+  measureLighthouse:()=>{lighthouseStarted=true;return new Promise(resolve=>{finishLighthouse=resolve;});},
+  measureVisibility:async()=>{visibilityStarted=true;return{searchConsole:{status:'not_measured'},ai:{status:'not_measured'}};}
+ });
+ assert.equal(overlapped,true);
+ assert.equal(result.scores.lighthouse.value,91);
+});
+test('unsafe URL rejection does not start independent external providers',async()=>{
+ let started=false;
+ const blocked=async()=>{throw Object.assign(new Error('Private address'),{code:'unsafe_url'});};
+ await assert.rejects(seoAudit({url:'http://127.0.0.1'},blocked,{measureLighthouse:async()=>{started=true;}}),{code:'unsafe_url'});
+ assert.equal(started,false);
+});

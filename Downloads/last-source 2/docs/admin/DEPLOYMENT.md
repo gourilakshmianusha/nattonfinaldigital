@@ -21,12 +21,12 @@ Set secrets for the production runtime/functions, not only the build. Keep the s
 ## Netlify
 
 1. Deploy the **whole repository** through Netlify's Git integration or the Netlify CLI, including `netlify.toml` and `netlify/functions/api.mjs`. Dragging only `dist` into a static upload does not deploy functions.
-2. Use Node 22.18+; the included config selects Node 22. Build command: `npm run build`. Publish directory: `dist`.
+2. Use Node 22.18+; the included config selects Node 22. Build command: `npm run check:growth && npm run build` (configured in `netlify.toml`). Publish directory: `dist`.
 3. Add the environment values above in the site's environment settings, with Functions/runtime scope. Set `ADMIN_ORIGIN` to the actual production domain or Netlify site origin you will use.
 4. Deploy/redeploy. `netlify.toml` routes `/api/*` to the Express function before the frontend fallback. It includes runtime source files, PDF fonts and sitemap files.
 5. Run the checks below on the deployed domain. Keep usage within your existing plan; this setup does not enable billing or buy services.
 
-Netlify's synchronous function execution limit still applies to long website crawls and PageSpeed calls. Slow external sites can time out; use a persistent Node host for workloads exceeding that limit. In-memory API throttles are per function instance, while submitted records are stored in Supabase.
+SEO/AEO audits and Website Grader use the signed `netlify/functions/audit-background.mjs` worker. The request returns 202 immediately, and the page polls the existing visitor-owned saved result until completion. Deploy both functions (`api` and `audit-background`) together. The worker uses Netlify's runtime `URL` and the existing `ND_GROWTH_INGEST_KEY`; no new database schema or secret is needed. Background Functions must be available on the site's plan. In-memory API throttles are per function instance, while submitted records are stored in Supabase.
 
 ## Hostinger hPanel / another Node server
 
@@ -65,9 +65,15 @@ Netlify reference: [Functions environment variables](https://docs.netlify.com/bu
 
 ## Import the missing live-tool settings
 
-Run `node scripts/admin/prepare-netlify-env.mjs https://stellular-choux-3e713c.netlify.app` locally. It creates the ignored, mode-600 `.env.netlify-import` file from existing private settings. It does not print keys or create/change any database credentials.
+Run `node scripts/admin/prepare-netlify-env.mjs https://stunning-kheer-df3fdb.netlify.app` locally. It creates the ignored, mode-600 `.env.netlify-import` file from existing private settings. It does not print keys or create/change any database credentials.
 
-In Netlify → Project configuration → Environment variables → Import from a .env file, import that private file. Apply to Production and Functions/runtime (or all scopes where per-scope selection is unavailable), then redeploy. Never upload this file as a public site asset or commit it. Existing stale URL/anon-key overrides should be removed; the imported publishable key takes precedence.
+In Netlify → Project configuration → Environment variables → Import from a .env file, import that private file. Apply to Production with both Builds and Functions scopes (or all scopes where per-scope selection is unavailable), then redeploy. The build check needs Builds scope, and actual tool execution needs Functions scope. Never upload this file as a public site asset or commit it. Existing stale URL/anon-key overrides should be removed; the imported publishable key takes precedence.
+
+## Prevent recurring configuration failures
+
+Netlify now blocks a build when either required growth key is absent from its injected environment. `npm start` also checks configuration before starting the Node application on hPanel. These checks never print secret values. They check presence, not validity, quota or Functions scope.
+
+After every host/domain change or deployment run `npm run check:growth -- https://your-actual-domain.example`. This checks the deployed runtime and database, so build-only settings cannot pass the live check. Then submit a calculator, download its PDF, and run Website Grader to verify storage authorization and the Google provider. A missing or revoked key, provider quota or hosting outage still requires fixing the underlying service; no code can guarantee permanent external availability.
 
 On this site's most recent live check, `/api/tools/health` showed a reachable database but `storage: needs_configuration` and `pagespeed: false`. These explain the shared submission error and unavailable Website Grader. After import/redeploy it should show `storage: configured` and `pagespeed: true`. That confirms presence; submit a real run to verify the credentials and provider quota.
 
